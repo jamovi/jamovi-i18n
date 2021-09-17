@@ -1,0 +1,1 @@
+# jamovi-i18n
