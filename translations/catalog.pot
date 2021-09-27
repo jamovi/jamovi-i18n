@@ -150,6 +150,10 @@ msgstr ""
 msgid "Available"
 msgstr ""
 
+#: jamovi/client/main/ribbon/appmenu.js:92
+msgid "Black & white"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
 msgstr ""
