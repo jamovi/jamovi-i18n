@@ -10,24 +10,28 @@ const { GettextExtractor, JsExtractors } = require('gettext-extractor');
 const utils = require('./utils');
 
 const ARGS = [
-    { name: 'build', type: Boolean },
-    { name: 'update', type: Boolean },
+    { name: 'build', type: String },
+    { name: 'update', type: String },
     { name: 'create', type: String },
     { name: 'dest', type: String },
     { name: 'source', type: String },
-    { name: 'home', type: String }
+    { name: 'code', type: String }
 ];
 
 const args = CLA(ARGS);
 
 let usage = 'Usage:\n';
-    usage += '    j18n --build  [--dest path] [--home path]\n';
-    usage += '\n    j18n --update  --source glob  [--home path]\n';
-    usage += '\n    j18n --create lang  [--home path]';
+    usage += '    j18n  --build  path/to/translations  [--dest path]\n';
+    usage += '\n    j18n  --update path/to/translations  --source glob\n';
+    usage += '\n    j18n  --create path/to/translations  --code lang';
 
 let sourceDir = '.';
-if (args.home)
-    sourceDir = args.home;
+if (args.build)
+    sourceDir = args.build;
+else if (args.update)
+    sourceDir = args.update;
+else if (args.create)
+    sourceDir = args.create;
 
 if (args.build) {
     let buildDir = '.';
@@ -74,6 +78,11 @@ if (args.build) {
         console.log('\nNo translation files found.');
 }
 else if (args.update) {
+
+    if ( ! args.source) {
+        console.log(usage);
+        return;
+    }
 
     if (utils.exists(sourceDir) === false)
         fs.mkdirSync(sourceDir);
@@ -202,12 +211,17 @@ else if (args.update) {
     }
 }
 else if (args.create) {
+    if ( ! args.code) {
+        console.log(usage);
+        return;
+    }
+
     if (utils.exists(path.join(sourceDir, `catalog.pot`)) === false) {
         console.log(`\nThe catalog.pot file needed to create a new translation file does not exist.\n\n To create a new catalog.pot use:\n\n   j18n --update --source glob  [--home path]\n`);
         return;
     }
 
-    let code = args.create.toLowerCase();
+    let code = args.code.toLowerCase();
     if (utils.exists(path.join(sourceDir, `${code}.po`))) {
         console.log(`\nTranslation file ${code}.po already exists.`);
         return;
