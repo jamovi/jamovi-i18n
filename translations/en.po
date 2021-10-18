@@ -1673,3 +1673,40 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
 msgstr ""
+
+#: jamovi/client/resultsview/element.js:132
+msgid "Add Note"
+msgstr ""
+
+#: jamovi/client/resultsview/group.js:212
+msgid "Duplicate"
+msgstr ""
+
+#: jamovi/client/resultsview/main.js:113
+msgid "Analysis"
+msgstr ""
+
+#: jamovi/client/resultsview/main.js:108
+msgid "Note"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:73
+#: jamovi/client/resultsview/group.js:73
+msgid "Group"
+msgstr ""
+
+#: jamovi/client/resultsview/html.js:53
+msgid "Html"
+msgstr ""
+
+#: jamovi/client/resultsview/image.js:54
+msgid "Image"
+msgstr ""
+
+#: jamovi/client/resultsview/syntax.js:43
+msgid "Syntax"
+msgstr ""
+
+#: jamovi/client/resultsview/table.js:184
+msgid "Table"
+msgstr ""
