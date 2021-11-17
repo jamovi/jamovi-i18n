@@ -3,6 +3,7 @@
 
 const CLA = require('command-line-args');
 const path = require('path');
+const glob = require('glob');
 const fs = require('fs-extra');
 const po2json = require('po2json');
 const gettextParser = require("gettext-parser");
@@ -15,6 +16,7 @@ const ARGS = [
     { name: 'create', type: String },
     { name: 'dest', type: String },
     { name: 'source', type: String },
+    { name: 'pysource', type: String },
     { name: 'code', type: String }
 ];
 
@@ -22,7 +24,7 @@ const args = CLA(ARGS);
 
 let usage = 'Usage:\n';
     usage += '    j18n  --build  path/to/translations  [--dest path]\n';
-    usage += '\n    j18n  --update path/to/translations  --source glob\n';
+    usage += '\n    j18n  --update path/to/translations  --source glob  --pysource pyglob\n';
     usage += '\n    j18n  --create path/to/translations  --code lang';
 
 let sourceDir = '.';
@@ -84,12 +86,17 @@ else if (args.update) {
         return;
     }
 
+    if ( ! args.pysource) {
+        console.log(usage);
+        return;
+    }
+
     if (utils.exists(sourceDir) === false)
         fs.mkdirSync(sourceDir);
 
     let sourcefiles = fs.readdirSync(sourceDir);
 
-    let glob = args.source;
+    let globPattern = args.source;
 
     console.log('\nExtracting strings from js files...');
     let extractor = new GettextExtractor();
@@ -118,7 +125,23 @@ else if (args.update) {
                 }
             })
         ])
-        .parseFilesGlob(glob);
+        .parseFilesGlob(globPattern);
+
+    console.log('Extracting strings from py files...');
+    let re = /[^a-zA-Z._]\_\('([^'\\]*(\\.[^'\\]*)*)'|[^a-zA-Z._]\_\("([^"\\]*(\\.[^"\\]*)*)"/g;
+    let pyGlobPattern = args.pysource; //"jamovi/server/jamovi/+(common|server)/**/*.py"
+    console.log(pyGlobPattern)
+    for (let pyFileName of glob.sync(pyGlobPattern)) {
+        let content = fs.readFileSync(pyFileName, 'UTF-8');
+        for (let match of content.matchAll(re)) {
+            let key = match.slice(1).join('');
+            extractor.addMessage({
+                text: key,
+                references: [pyFileName],
+                comments: []
+            });
+        }
+    }
 
     extractor.printStats();
 
@@ -217,7 +240,7 @@ else if (args.create) {
     }
 
     if (utils.exists(path.join(sourceDir, `catalog.pot`)) === false) {
-        console.log(`\nThe catalog.pot file needed to create a new translation file does not exist.\n\n To create a new catalog.pot use:\n\n   j18n --update --source glob  [--home path]\n`);
+        console.log(`\nThe catalog.pot file needed to create a new translation file does not exist.\n\n To create a new catalog.pot use:\n\n   j18n --update --source glob --pysoure pyglob [--home path]\n`);
         return;
     }
 
