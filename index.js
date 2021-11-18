@@ -259,3 +259,6 @@ else if (args.create) {
 
     console.log(`wrote ${code}.po`);
 }
+else {
+    console.log(usage);
+}
