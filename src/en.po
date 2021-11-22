@@ -1710,3 +1710,211 @@ msgstr ""
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "Accent"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "Blues"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign non-numeric value to column '{}'"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign to computed column '{}'"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign to filter column '{}'"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign to recoded column '{}'"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign to these columns."
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/messages.py
+msgid "Circular reference detected"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:98
+msgid "Color palette"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Could not delete rows"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Could not insert columns"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Could not insert rows"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Could not modify columns"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Could not modify transform"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Could not perform operation"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "Dark2"
+msgstr ""
+
+#: jamovi/client/resultsview/annotation.js:148
+msgid "Enter your URL here"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Error"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "Greens"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "Greys"
+msgstr ""
+
+#: jamovi/client/resultsview/annotation.js:138
+msgid "Help"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Idle session"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:118
+msgid "Install"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:133
+msgid "Installed version is incompatible"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:130
+msgid "Requires a newer version of jamovi"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "Set1"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:136
+msgid "Show"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/messages.py
+msgid "The formula is mis-specified"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "The library is disabled"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session is limited to {} columns"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session is limited to {} rows"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session will end any moment now"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session will end in around {} minutes"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session will end in around 1 minute"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to access analysis"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to access library"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to browse {}"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to import {}"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to open {}"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to perform import"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to perform request"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to save"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unable to save {}"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:124
+msgid "Unavailable"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Unrecognised file format"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Value is too large for column '{}' of type integer"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "You cannot delete rows while filtered rows are hidden"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "You cannot insert rows while filtered rows are hidden"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "You cannot modify columns that affect filters when filtered rows are hidden"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instance.py
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
+msgstr ""
