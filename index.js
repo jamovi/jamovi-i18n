@@ -134,7 +134,18 @@ else if (args.update) {
     for (let pyFileName of glob.sync(pyGlobPattern)) {
         let content = fs.readFileSync(pyFileName, 'UTF-8');
         for (let match of content.matchAll(re)) {
-            let key = match.slice(1).join('');
+            let pieces = match.slice(1);
+
+            // when matching strings containing \\n, this regex has a
+            // duplicate final piece (not sure why)
+            // if the final piece begins with '\\n' it should be discarded
+            let last = pieces.slice(-1)[0];
+            if (last && last.startsWith('\\n'))
+                pieces.splice(-1);
+
+            // unescape newlines
+            let key = pieces.join('').replace(/\\n/g, '\n');
+
             extractor.addMessage({
                 text: key,
                 references: [pyFileName],
