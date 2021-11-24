@@ -6,6 +6,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid ""
+"'{}' is not an argument for {}()\n"
+"(If you're wanting to test equality, use two equal signs '==')"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
 msgstr ""
@@ -29,6 +35,10 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/omv.py
+msgid "A newer version of jamovi is required"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
@@ -166,6 +176,10 @@ msgstr ""
 msgid "Available"
 msgstr ""
 
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Bad function definition"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Black & white"
 msgstr ""
@@ -253,6 +267,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:98
 msgid "Color palette"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+#: jamovi/server/jamovi/server/compute/transmogrifier.py
+msgid "Column '{}' does not exist in the dataset"
 msgstr ""
 
 #: jamovi/client/main/tableview.js:1163
@@ -571,6 +590,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:23
 #: jamovi/client/main/ribbon/variablestab.js:17
 #: jamovi/client/main/ribbon/variablestab.js:23
+#: jamovi/client/main/tableview.js:1173
 #: jamovi/client/main/tableview.js:1283
 msgid "Edit"
 msgstr ""
@@ -596,6 +616,11 @@ msgstr ""
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
+msgstr ""
+
+#: jamovi/client/main/backstage.js:275
+#: jamovi/client/main/backstage.js:312
+msgid "Enter file name here"
 msgstr ""
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
@@ -632,6 +657,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
+#: jamovi/client/main/backstage.js:321
 #: jamovi/client/main/resultspanel.js:592
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:215
@@ -640,6 +666,10 @@ msgstr ""
 
 #: jamovi/client/main/resultspanel.js:713
 msgid "Export image"
+msgstr ""
+
+#: jamovi/client/main/resultspanel.js:740
+msgid "Export results"
 msgstr ""
 
 #: jamovi/client/main/instance.js:389
@@ -654,8 +684,24 @@ msgstr ""
 msgid "File"
 msgstr ""
 
+#: jamovi/server/jamovi/server/formatio/exceptions.py
+msgid "File format is not supported"
+msgstr ""
+
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/exceptions.py
+msgid "File is corrupt"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/omv.py
+msgid "File is corrupt (manifest is corrupt or missing)"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/omv.py
+msgid "File is corrupt (manifest is corrupt)"
 msgstr ""
 
 #: jamovi/client/main/instance.js:425
@@ -668,6 +714,10 @@ msgstr ""
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instancemodel.py
+msgid "Filter {}"
 msgstr ""
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
@@ -700,6 +750,14 @@ msgstr ""
 msgid "Filters a variable using the filter expression."
 msgstr ""
 
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Filters may not reference columns using 'V' or column functions"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Filters may not reference output variables"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
 msgstr ""
@@ -707,6 +765,31 @@ msgstr ""
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
 msgid "Formula"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Formula contains illegal node"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/parser.py
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+#: jamovi/server/jamovi/server/compute/nodes.py
+msgid "Function {}() does not exist"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Function {}() requires atleast {} argument{}"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Function {}() requires between {} and {} arguments"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Function {}() takes {} argument{}"
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:180
@@ -810,6 +893,7 @@ msgid "Image"
 msgstr ""
 
 #: jamovi/client/main/backstage.js:1277
+#: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Import"
 msgstr ""
@@ -1117,6 +1201,7 @@ msgid "Not equal to"
 msgstr ""
 
 #: jamovi/client/resultsview/main.js:108
+#: jamovi/client/resultsview/table.js:624
 msgid "Note"
 msgstr ""
 
@@ -1219,6 +1304,10 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "qualitative"
 msgstr ""
 
 #: jamovi/client/main/backstage.js:980
@@ -1447,6 +1536,7 @@ msgid "SAS xpt {ext}"
 msgstr ""
 
 #: jamovi/client/main/backstage.js:1295
+#: jamovi/client/main/backstage.js:319
 #: jamovi/client/main/main.js:636
 #: jamovi/client/main/menu.js:160
 msgid "Save"
@@ -1487,6 +1577,10 @@ msgid "Selected"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
+msgid "sequential"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Set1"
 msgstr ""
 
@@ -1506,7 +1600,7 @@ msgstr ""
 msgid "Show filter columns"
 msgstr ""
 
-#: jamovi/client/main/editors/transformeditor.js:631
+#: jamovi/client/main/editors/transformeditor.js:634
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
 msgid "Show formula editor"
@@ -1667,10 +1761,12 @@ msgid "This PC"
 msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
+#: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
 msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
+#: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
 msgstr ""
 
@@ -1698,6 +1794,10 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instancemodel.py
+msgid "Transform {}"
 msgstr ""
 
 #: jamovi/client/main/tableview.js:271
