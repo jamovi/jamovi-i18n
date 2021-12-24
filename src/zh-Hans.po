@@ -1,11 +1,11 @@
 msgid ""
 msgstr ""
-"Project-Id-Version: jamovi zh-hans\n"
+"Project-Id-Version: jamovi zh_Hans\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: ShunWang，shuonwang@gmail.com\n"
-"Language-Team: ShunWang, shuowang@gmail.com\n"
-"Language: zh_CN\n"
+"PO-Revision-Date: 2021-12-24 20:40 UTC+8\n"
+"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"Language-Team: Shun Wang <shuonwang@gmail.com>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -252,7 +252,8 @@ msgstr "确认卸载"
 msgid "Connection failed"
 msgstr "连接失败"
 
-#: jamovi/client/main/main.js:127 jamovi/client/main/main.js:134
+#: jamovi/client/main/main.js:127
+#: jamovi/client/main/main.js:134
 msgid "Connection lost"
 msgstr "连接丢失"
 
@@ -299,7 +300,8 @@ msgstr "已复制"
 #: jamovi/client/main/contextmenu/contextmenus.js:14
 #: jamovi/client/main/contextmenu/contextmenus.js:36
 #: jamovi/client/main/contextmenu/contextmenus.js:89
-#: jamovi/client/main/menu.js:153 jamovi/client/main/resultspanel.js:409
+#: jamovi/client/main/menu.js:153
+#: jamovi/client/main/resultspanel.js:409
 #: jamovi/client/main/resultspanel.js:569
 #: jamovi/client/main/ribbon/annotationtab.js:110
 #: jamovi/client/main/ribbon/datatab.js:19
@@ -316,7 +318,8 @@ msgstr "无法分配数据"
 msgid "Create New Transform..."
 msgstr "创建新的转换..."
 
-#: jamovi/client/main/backstage.js:1029 jamovi/client/main/backstage.js:1052
+#: jamovi/client/main/backstage.js:1029
+#: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/backstage.js:976
 msgid "CSV (Comma delimited) {ext}"
 msgstr "CSV（逗号分隔）{ext}"
@@ -328,7 +331,8 @@ msgstr "CSV（逗号分隔）{ext}"
 msgid "Cut"
 msgstr "剪切"
 
-#: jamovi/client/main/dataset.js:1313 jamovi/client/main/ribbon/datatab.js:11
+#: jamovi/client/main/dataset.js:1313
+#: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
 msgstr "数据"
 
@@ -336,7 +340,8 @@ msgstr "数据"
 msgid "Data files"
 msgstr "数据文件"
 
-#: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
+#: jamovi/client/main/backstage.js:1195
+#: jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "数据库"
@@ -426,7 +431,10 @@ msgid "Desktop"
 msgstr "桌面"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<strong>CONTAINS(needle, haystack)</strong>."
 msgstr "确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选的——可以简单地使用 <strong>CONTAINS(needle, haystack)</strong>。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
@@ -445,7 +453,8 @@ msgstr "不启用"
 msgid "Don't Save"
 msgstr "不保存"
 
-#: jamovi/client/main/backstage.js:1120 jamovi/client/main/backstage.js:1222
+#: jamovi/client/main/backstage.js:1120
+#: jamovi/client/main/backstage.js:1222
 #: jamovi/client/main/backstage.js:1240
 msgid "Download"
 msgstr "下载"
@@ -535,7 +544,8 @@ msgstr "等于"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
-#: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
+#: jamovi/client/main/backstage.js:1231
+#: jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/resultspanel.js:570
 msgid "Export"
 msgstr "导出"
@@ -574,7 +584,7 @@ msgstr "筛选"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr "筛选器{i}"
+msgstr "筛选器 {i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -593,7 +603,8 @@ msgstr "已筛选"
 #: jamovi/client/main/contextmenu/contextmenus.js:40
 #: jamovi/client/main/ribbon/datatab.js:56
 #: jamovi/client/main/ribbon/variablestab.js:46
-#: jamovi/client/main/tableview.js:83 jamovi/client/main/variablesview.js:61
+#: jamovi/client/main/tableview.js:83
+#: jamovi/client/main/variablesview.js:61
 msgid "Filters"
 msgstr "筛选器"
 
@@ -757,7 +768,8 @@ msgstr "交互"
 msgid "Inverts the value."
 msgstr "反转值。"
 
-#: jamovi/client/main/tableview.js:496 jamovi/client/main/tableview.js:535
+#: jamovi/client/main/tableview.js:496
+#: jamovi/client/main/tableview.js:535
 #: jamovi/client/main/tableview.js:590
 msgid "Issue with formula"
 msgstr "公式的问题"
@@ -766,7 +778,8 @@ msgstr "公式的问题"
 msgid "Italic"
 msgstr "斜体"
 
-#: jamovi/client/main/backstage.js:1005 jamovi/client/main/backstage.js:1016
+#: jamovi/client/main/backstage.js:1005
+#: jamovi/client/main/backstage.js:1016
 msgid "jamovi file {ext}"
 msgstr "jamovi 文件 {ext}"
 
@@ -786,7 +799,8 @@ msgstr "jamovi 库"
 msgid "jamovi modules"
 msgstr "jamovi 模块"
 
-#: jamovi/client/main/backstage.js:1028 jamovi/client/main/backstage.js:1051
+#: jamovi/client/main/backstage.js:1028
+#: jamovi/client/main/backstage.js:1051
 msgid "jamovi template {ext}"
 msgstr "jamovi 模板 {ext}"
 
@@ -800,13 +814,14 @@ msgstr "JASP 文件 {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr "Justify"
+msgstr "分散对齐"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:237
 msgid "Keyword: {v}"
 msgstr "关键字：{v}"
 
-#: jamovi/client/main/backstage.js:1030 jamovi/client/main/backstage.js:1053
+#: jamovi/client/main/backstage.js:1030
+#: jamovi/client/main/backstage.js:1053
 #: jamovi/client/main/resultspanel.js:726
 msgid "LaTeX bundle {ext}"
 msgstr "LaTeX 包 {ext}"
@@ -912,7 +927,8 @@ msgstr "更多信息 ..."
 msgid "Name"
 msgstr "名称"
 
-#: jamovi/client/main/backstage.js:1176 jamovi/client/main/backstage.js:1253
+#: jamovi/client/main/backstage.js:1176
+#: jamovi/client/main/backstage.js:1253
 msgid "New"
 msgstr "新建"
 
@@ -955,7 +971,8 @@ msgstr "没有与您查询匹配的变量。"
 msgid "Nominal"
 msgstr "名义"
 
-#: jamovi/client/main/dataset.js:1328 jamovi/client/main/dataset.js:1330
+#: jamovi/client/main/dataset.js:1328
+#: jamovi/client/main/dataset.js:1330
 #: jamovi/client/main/vareditor/recodedvarwidget.js:255
 #: jamovi/client/main/vareditor/recodedvarwidget.js:305
 #: jamovi/client/main/vareditor/recodedvarwidget.js:32
@@ -989,15 +1006,16 @@ msgid ""
 "                    source."
 msgstr ""
 "此数据集中的一项或多项分析已被禁用\n"
-"                    因为它们允许执行任意代码。你\n"
-"                    只有在您信任此数据集的情况下才应启用它们\n"
-"                    来源。"
+"                    因为它们允许执行任意代码。\n"
+"                    只有在您信任此数据集来源的情况下才应启用\n"
+"                    它们。"
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
 msgstr "在线数据集"
 
-#: jamovi/client/main/backstage.js:1181 jamovi/client/main/backstage.js:1258
+#: jamovi/client/main/backstage.js:1181
+#: jamovi/client/main/backstage.js:1258
 msgid "Open"
 msgstr "打开"
 
@@ -1005,7 +1023,8 @@ msgstr "打开"
 msgid "Open Document (LibreOffice) {ext}"
 msgstr "打开文档 (LibreOffice) {ext}"
 
-#: jamovi/client/main/backstage.js:1704 jamovi/client/main/instance.js:218
+#: jamovi/client/main/backstage.js:1704
+#: jamovi/client/main/instance.js:218
 #: jamovi/client/main/main.js:654
 msgid "Opening"
 msgstr "正在打开"
@@ -1050,7 +1069,8 @@ msgstr "段落"
 msgid "Paste"
 msgstr "粘贴"
 
-#: jamovi/client/main/backstage.js:1026 jamovi/client/main/backstage.js:1049
+#: jamovi/client/main/backstage.js:1026
+#: jamovi/client/main/backstage.js:1049
 #: jamovi/client/main/resultspanel.js:693
 #: jamovi/client/main/resultspanel.js:720
 msgid "PDF Document {ext}"
@@ -1076,8 +1096,10 @@ msgstr "上一个变量"
 msgid "R data files {ext}"
 msgstr "R 数据文件 {ext}"
 
-#: jamovi/client/main/backstage.js:1031 jamovi/client/main/backstage.js:1032
-#: jamovi/client/main/backstage.js:1054 jamovi/client/main/backstage.js:1055
+#: jamovi/client/main/backstage.js:1031
+#: jamovi/client/main/backstage.js:1032
+#: jamovi/client/main/backstage.js:1054
+#: jamovi/client/main/backstage.js:1055
 msgid "R object {ext}"
 msgstr "R 对象 {ext}"
 
@@ -1085,7 +1107,8 @@ msgstr "R 对象 {ext}"
 msgid "Ranks each value"
 msgstr "对每个值排列"
 
-#: jamovi/client/main/tableview.js:1212 jamovi/client/main/tableview.js:80
+#: jamovi/client/main/tableview.js:1212
+#: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
 msgstr "就绪"
@@ -1108,13 +1131,15 @@ msgstr "重做编辑"
 msgid "Reference"
 msgstr "参考"
 
-#: jamovi/client/main/references.js:20 jamovi/client/main/resultspanel.js:404
+#: jamovi/client/main/references.js:20
+#: jamovi/client/main/resultspanel.js:404
 #: jamovi/client/main/resultspanel.js:406
 #: jamovi/client/main/ribbon/appmenu.js:75
 msgid "References"
 msgstr "参考"
 
-#: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:551
+#: jamovi/client/main/menu.js:169
+#: jamovi/client/main/resultspanel.js:551
 #: jamovi/client/main/resultspanel.js:571
 msgid "Remove"
 msgstr "移除"
@@ -1127,7 +1152,8 @@ msgstr "移除筛选器"
 msgid "Restart and Install"
 msgstr "重新启动并安装"
 
-#: jamovi/client/main/analyses.js:337 jamovi/client/main/ribbon/appmenu.js:58
+#: jamovi/client/main/analyses.js:337
+#: jamovi/client/main/ribbon/appmenu.js:58
 msgid "Results"
 msgstr "结果"
 
@@ -1146,7 +1172,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "返回变量的 Box Cox 变换。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr "根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的框内，则返回 0，大于 1.5 的绝对值在须之外。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
@@ -1271,7 +1298,8 @@ msgstr "行筛选器"
 msgid "Rows"
 msgstr "行"
 
-#: jamovi/client/main/backstage.js:1035 jamovi/client/main/backstage.js:1058
+#: jamovi/client/main/backstage.js:1035
+#: jamovi/client/main/backstage.js:1058
 msgid "SAS 7bdat {ext}"
 msgstr "SAS 7bdat {ext}"
 
@@ -1279,16 +1307,19 @@ msgstr "SAS 7bdat {ext}"
 msgid "SAS files {ext}"
 msgstr "SAS 文件 {ext}"
 
-#: jamovi/client/main/backstage.js:1036 jamovi/client/main/backstage.js:1059
+#: jamovi/client/main/backstage.js:1036
+#: jamovi/client/main/backstage.js:1059
 msgid "SAS xpt {ext}"
 msgstr "SAS xpt {ext}"
 
-#: jamovi/client/main/backstage.js:1295 jamovi/client/main/main.js:634
+#: jamovi/client/main/backstage.js:1295
+#: jamovi/client/main/main.js:634
 #: jamovi/client/main/menu.js:160
 msgid "Save"
 msgstr "保存"
 
-#: jamovi/client/main/backstage.js:1209 jamovi/client/main/backstage.js:1310
+#: jamovi/client/main/backstage.js:1209
+#: jamovi/client/main/backstage.js:1310
 msgid "Save As"
 msgstr "另存为"
 
@@ -1361,18 +1392,22 @@ msgid "Source variable"
 msgstr "源变量"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr "根据分隔符将文本拆分为多个部分。 <i>piece</i> 按索引指定所需的片段。"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
 msgstr "SPSS 文件 {ext}"
 
-#: jamovi/client/main/backstage.js:1033 jamovi/client/main/backstage.js:1056
+#: jamovi/client/main/backstage.js:1033
+#: jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
 msgstr "SPSS sav {ext}"
 
-#: jamovi/client/main/backstage.js:1037 jamovi/client/main/backstage.js:1060
+#: jamovi/client/main/backstage.js:1037
+#: jamovi/client/main/backstage.js:1060
 msgid "Stata {ext}"
 msgstr "Stata {ext}"
 
@@ -1467,8 +1502,10 @@ msgstr "此设备"
 msgid "This is a data variable."
 msgstr "这是一个数据变量。"
 
-#: jamovi/client/main/backstage.js:1136 jamovi/client/main/backstage.js:1271
-#: jamovi/client/main/backstage.js:1290 jamovi/client/main/backstage.js:1318
+#: jamovi/client/main/backstage.js:1136
+#: jamovi/client/main/backstage.js:1271
+#: jamovi/client/main/backstage.js:1290
+#: jamovi/client/main/backstage.js:1318
 #: jamovi/client/main/backstage.js:1326
 msgid "This PC"
 msgstr "此电脑"
@@ -1522,8 +1559,10 @@ msgstr "无法连接到服务器"
 msgid "Unable to install module"
 msgstr "无法安装模块"
 
-#: jamovi/client/main/backstage.js:1743 jamovi/client/main/instance.js:192
-#: jamovi/client/main/instance.js:230 jamovi/client/main/main.js:702
+#: jamovi/client/main/backstage.js:1743
+#: jamovi/client/main/instance.js:192
+#: jamovi/client/main/instance.js:230
+#: jamovi/client/main/main.js:702
 msgid "Unable to open"
 msgstr "无法打开"
 
@@ -1613,7 +1652,8 @@ msgstr "版本 {v}"
 msgid "Visible"
 msgstr "可见的"
 
-#: jamovi/client/main/backstage.js:1027 jamovi/client/main/backstage.js:1050
+#: jamovi/client/main/backstage.js:1027
+#: jamovi/client/main/backstage.js:1050
 #: jamovi/client/main/resultspanel.js:721
 msgid "Web Page {ext}"
 msgstr "网页 {ext}"
@@ -1654,7 +1694,8 @@ msgstr "分析"
 msgid "Note"
 msgstr "注释"
 
-#: jamovi/client/resultsview/array.js:73 jamovi/client/resultsview/group.js:73
+#: jamovi/client/resultsview/array.js:73
+#: jamovi/client/resultsview/group.js:73
 msgid "Group"
 msgstr "组"
 
