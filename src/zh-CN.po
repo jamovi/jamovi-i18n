@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2021-11-24 12:44+0800\n"
-"PO-Revision-Date: 2021-12-28 12:28+0800\n"
+"PO-Revision-Date: 2022-01-12 11:06+0800\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Shun Wang <shuonwang@gmail.com>\n"
 "Language: zh-CN\n"
@@ -113,7 +113,7 @@ msgstr "全部"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "All {n} way"
+msgstr "所有 {n} 因素"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
@@ -844,7 +844,7 @@ msgstr "Hi"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "Hidden"
-msgstr "已隐藏"
+msgstr "隐藏的"
 
 #: jamovi/client/main/store/pagemodules.js:139
 #: jamovi/client/main/variableeditor.js:175
@@ -1971,7 +1971,7 @@ msgstr "版本 {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "Visible"
-msgstr "可见"
+msgstr "可见的"
 
 #: jamovi/client/main/backstage.js:1027 jamovi/client/main/backstage.js:1050
 #: jamovi/client/main/resultspanel.js:743
