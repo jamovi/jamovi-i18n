@@ -1257,7 +1257,7 @@ msgstr "编号列表"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "定序"
+msgstr "有序"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
