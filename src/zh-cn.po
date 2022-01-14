@@ -1097,7 +1097,7 @@ msgstr "数学"
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr "测量类型"
+msgstr "变量类型"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Minimal"
@@ -1149,7 +1149,7 @@ msgstr "新建"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "新建计算的变量"
+msgstr "计算生成新的变量"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
@@ -1157,7 +1157,7 @@ msgstr "新建数据变量"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr "新建转换的变量"
+msgstr "转换生成新的变量"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
