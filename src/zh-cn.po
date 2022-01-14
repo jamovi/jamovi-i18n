@@ -1184,7 +1184,7 @@ msgstr "没有与您查询匹配的变量。"
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "名义"
+msgstr "无序"
 
 #: jamovi/client/main/dataset.js:1328 jamovi/client/main/dataset.js:1330
 #: jamovi/client/main/vareditor/recodedvarwidget.js:255
