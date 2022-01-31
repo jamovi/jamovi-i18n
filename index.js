@@ -74,11 +74,13 @@ if (args.build) {
     }
 
     if (codes.length > 0) {
-        fs.writeFileSync(path.join(buildDir, 'manifest.json'), JSON.stringify(codes, null, 4));
+        let manifest = { current: '', available: codes }
+        fs.writeFileSync(path.join(buildDir, 'manifest.json'), JSON.stringify(manifest, null, 4));
         console.log('wrote: manifest.json');
     }
-    else
+    else {
         console.log('\nNo translation files found.');
+    }
 }
 else if (args.update) {
 
