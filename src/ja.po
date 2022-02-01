@@ -59,7 +59,7 @@ msgstr "アクセスが拒否されました。適切なアクセス権限を持
 msgid "active"
 msgstr "オン"
 
-#: jamovi/client/main/ribbon/datatab.js:33
+#: jamovi/client/main/ribbon/datatab.js:33 
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
@@ -80,7 +80,7 @@ msgstr "フィルタを追加"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr "レベルを追加"
+msgstr "水準を追加"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -140,9 +140,9 @@ msgstr "かつ"
 #: jamovi/client/main/contextmenu/contextmenus.js:60
 #: jamovi/client/main/contextmenu/contextmenus.js:64
 #: jamovi/client/main/contextmenu/contextmenus.js:68
-#: jamovi/client/main/ribbon/datatab.js:36
+#: jamovi/client/main/ribbon/datatab.js:36 
 #: jamovi/client/main/ribbon/datatab.js:40
-#: jamovi/client/main/ribbon/datatab.js:44
+#: jamovi/client/main/ribbon/datatab.js:44 
 #: jamovi/client/main/ribbon/datatab.js:60
 #: jamovi/client/main/ribbon/variablestab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:34
@@ -355,7 +355,7 @@ msgstr "文字（数字）を数値に変換します。"
 msgid "Converts the value to text."
 msgstr "数値を文字（数字）に変換します。"
 
-#: jamovi/client/main/resultspanel.js:681
+#: jamovi/client/main/resultspanel.js:681 
 #: jamovi/client/main/resultspanel.js:783
 msgid "Copied"
 msgstr "コピーしました"
@@ -363,14 +363,14 @@ msgstr "コピーしました"
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
 #: jamovi/client/main/contextmenu/contextmenus.js:36
-#: jamovi/client/main/contextmenu/contextmenus.js:89
-#: jamovi/client/main/menu.js:153 jamovi/client/main/resultspanel.js:427
+#: jamovi/client/main/contextmenu/contextmenus.js:89 
+#: jamovi/client/main/menu.js:153 jamovi/client/main/resultspanel.js:427 
 #: jamovi/client/main/resultspanel.js:591
 #: jamovi/client/main/ribbon/annotationtab.js:110
 #: jamovi/client/main/ribbon/datatab.js:19
 #: jamovi/client/main/utils/clipboardprompt.js:19
 #: jamovi/client/main/utils/clipboardprompt.js:21
-#: jamovi/client/resultsview/element.js:134
+#: jamovi/client/resultsview/element.js:134 
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
@@ -455,7 +455,7 @@ msgstr[1] "{n}個のデータ変数"
 msgid "Decimal"
 msgstr "小数"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:62 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "decimal places"
 msgstr "小数位"
@@ -468,7 +468,7 @@ msgstr "初期値"
 msgid "Default missings"
 msgstr "欠損値の初期値"
 
-#: jamovi/client/main/ribbon/datatab.js:51
+#: jamovi/client/main/ribbon/datatab.js:51 
 #: jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:41
 msgid "Delete"
@@ -517,7 +517,7 @@ msgstr "削除"
 msgid "Description"
 msgstr "説明"
 
-#: jamovi/client/main/utils/pathtools.js:11
+#: jamovi/client/main/utils/pathtools.js:11 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Desktop"
 msgstr "デスクトップ"
@@ -536,7 +536,7 @@ msgstr ""
 msgid "Developer mode"
 msgstr "開発者モード"
 
-#: jamovi/client/main/utils/pathtools.js:7
+#: jamovi/client/main/utils/pathtools.js:7 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Documents"
 msgstr "書類"
@@ -554,7 +554,7 @@ msgstr "保存しない"
 msgid "Download"
 msgstr "ダウンロード"
 
-#: jamovi/client/main/utils/pathtools.js:9
+#: jamovi/client/main/utils/pathtools.js:9 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
 msgstr "ダウンロード"
@@ -591,7 +591,7 @@ msgstr "複製"
 msgid "Duplicate transform"
 msgstr "変換を複製"
 
-#: jamovi/client/main/main.js:175
+#: jamovi/client/main/main.js:175 
 #: jamovi/client/main/ribbon/annotationtab.js:114
 #: jamovi/client/main/ribbon/annotationtab.js:13
 #: jamovi/client/main/ribbon/datatab.js:23
@@ -662,7 +662,7 @@ msgstr "Excel形式 {ext}"
 
 #: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
-#: jamovi/client/resultsview/element.js:134
+#: jamovi/client/resultsview/element.js:134 
 #: jamovi/client/resultsview/group.js:215
 msgid "Export"
 msgstr "書き出し"
@@ -743,7 +743,7 @@ msgstr "フィルタ適用"
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
 #: jamovi/client/main/ribbon/datatab.js:56
-#: jamovi/client/main/ribbon/variablestab.js:46
+#: jamovi/client/main/ribbon/variablestab.js:46 
 #: jamovi/client/main/tableview.js:83 jamovi/client/main/variablesview.js:61
 msgid "Filters"
 msgstr "フィルタ"
@@ -820,7 +820,7 @@ msgstr "グレー"
 msgid "Group"
 msgstr "グループ"
 
-#: jamovi/client/main/ribbon/appmenu.js:92
+#: jamovi/client/main/ribbon/appmenu.js:92 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Hadley"
 msgstr "ggplot風"
@@ -842,7 +842,7 @@ msgid "Hidden"
 msgstr "非表示"
 
 #: jamovi/client/main/store/pagemodules.js:139
-#: jamovi/client/main/variableeditor.js:175
+#: jamovi/client/main/variableeditor.js:175 
 #: jamovi/client/main/variableeditor.js:49
 msgid "Hide"
 msgstr "隠す"
@@ -859,7 +859,7 @@ msgstr "設定を隠す"
 msgid "Highlight Color"
 msgstr "強調色"
 
-#: jamovi/client/main/utils/pathtools.js:13
+#: jamovi/client/main/utils/pathtools.js:13 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Home"
 msgstr "ホーム"
@@ -868,7 +868,7 @@ msgstr "ホーム"
 msgid "Html"
 msgstr "HTML"
 
-#: jamovi/client/main/ribbon/appmenu.js:92
+#: jamovi/client/main/ribbon/appmenu.js:92 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "I ♥ SPSS"
 msgstr "SPSS風"
@@ -932,9 +932,9 @@ msgstr "右へシフト"
 #: jamovi/client/main/contextmenu/contextmenus.js:63
 #: jamovi/client/main/contextmenu/contextmenus.js:67
 #: jamovi/client/main/ribbon/annotationtab.js:151
-#: jamovi/client/main/ribbon/datatab.js:35
+#: jamovi/client/main/ribbon/datatab.js:35 
 #: jamovi/client/main/ribbon/datatab.js:39
-#: jamovi/client/main/ribbon/datatab.js:43
+#: jamovi/client/main/ribbon/datatab.js:43 
 #: jamovi/client/main/ribbon/datatab.js:59
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:33
@@ -1280,7 +1280,7 @@ msgid "Paste"
 msgstr "貼り付け"
 
 #: jamovi/client/main/backstage.js:1026 jamovi/client/main/backstage.js:1049
-#: jamovi/client/main/resultspanel.js:715
+#: jamovi/client/main/resultspanel.js:715 
 #: jamovi/client/main/resultspanel.js:742
 msgid "PDF Document {ext}"
 msgstr "PDF書類 {ext}"
@@ -1342,7 +1342,7 @@ msgid "Reference"
 msgstr "文献"
 
 #: jamovi/client/main/references.js:20 jamovi/client/main/resultspanel.js:421
-#: jamovi/client/main/resultspanel.js:423
+#: jamovi/client/main/resultspanel.js:423 
 #: jamovi/client/main/ribbon/appmenu.js:75
 msgid "References"
 msgstr "文献"
@@ -1366,7 +1366,7 @@ msgid "Restart and Install"
 msgstr "再起動してインストール"
 
 #: jamovi/client/main/analyses.js:336 jamovi/client/main/ribbon/appmenu.js:58
-#: jamovi/server/jamovi/server/analyses.py
+#: jamovi/server/jamovi/server/analyses.py 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Results"
 msgstr "結果"
@@ -1603,7 +1603,7 @@ msgstr "このデモでは外部モジュールは利用できません。"
 msgid "Sideload"
 msgstr "外部モジュール"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:62 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "significant figures"
 msgstr "有効桁数"
@@ -1683,7 +1683,7 @@ msgstr "文字"
 msgid "Text Color"
 msgstr "文字色"
 
-#: jamovi/client/main/resultspanel.js:682
+#: jamovi/client/main/resultspanel.js:682 
 #: jamovi/client/main/resultspanel.js:784
 msgid "The content has been copied to the clipboard"
 msgstr "内容をクリップボードにコピーしました"
@@ -1734,7 +1734,7 @@ msgstr "選択した変換にエラーがあります。修正してください
 msgid "The value in the provided values at index."
 msgstr "指定された「位置（index）」にある値を返します。"
 
-#: jamovi/client/main/backstage.js:1196
+#: jamovi/client/main/backstage.js:1196 
 #: jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
 msgstr "このデバイス"
@@ -2014,54 +2014,54 @@ msgstr "ズーム"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "‘{}’にエラーがあります"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:62 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "{n} dp"
-msgstr ""
+msgstr "第{n}位"
 
-#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:62 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "{n} sf"
-msgstr ""
+msgstr "{n}桁"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "閉じる"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "フィルタ列を非表示"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
-msgstr ""
+msgstr "オプションを非表示"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr ""
+msgstr "水準をピン留め"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
-msgstr ""
+msgstr "更新"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "メインメニューに表示"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "このデータセットは使用できません"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "言語を変更するにはjamoviの再起動が必要です"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
-msgstr ""
+msgstr "要再起動"
