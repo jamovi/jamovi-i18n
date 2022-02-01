@@ -1918,3 +1918,152 @@ msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
 msgstr ""
+
+#: jamovi/server/jamovi/server/column.py
+msgid "'{}' is in error"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid ""
+"'{}' is not an argument for {}()\n"
+"(If you're wanting to test equality, use two equal signs '==')"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} dp"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} sf"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/omv.py
+msgid "A newer version of jamovi is required"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Bad function definition"
+msgstr ""
+
+#: jamovi/client/main/infobox.js:270
+msgid "Close"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+#: jamovi/server/jamovi/server/compute/transmogrifier.py
+msgid "Column '{}' does not exist in the dataset"
+msgstr ""
+
+#: jamovi/client/main/backstage.js:275
+#: jamovi/client/main/backstage.js:312
+msgid "Enter file name here"
+msgstr ""
+
+#: jamovi/client/main/resultspanel.js:740
+msgid "Export results"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/exceptions.py
+msgid "File format is not supported"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/exceptions.py
+msgid "File is corrupt"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/omv.py
+msgid "File is corrupt (manifest is corrupt or missing)"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/omv.py
+msgid "File is corrupt (manifest is corrupt)"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instancemodel.py
+msgid "Filter {}"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Filters may not reference columns using 'V' or column functions"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Filters may not reference output variables"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Formula contains illegal node"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/parser.py
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two "
+"equals signs '==')"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+#: jamovi/server/jamovi/server/compute/nodes.py
+msgid "Function {}() does not exist"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Function {}() requires atleast {} argument{}"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Function {}() requires between {} and {} arguments"
+msgstr ""
+
+#: jamovi/server/jamovi/server/compute/checker.py
+msgid "Function {}() takes {} argument{}"
+msgstr ""
+
+#: jamovi/client/main/vareditor/filterwidget.js:71
+msgid "Hide filter columns"
+msgstr ""
+
+#: jamovi/client/analysisui/main.js:223
+msgid "Hide options"
+msgstr ""
+
+#: jamovi/client/main/vareditor/datavarlevelwidget.js:19
+msgid "Pin level"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "qualitative"
+msgstr ""
+
+#: jamovi/client/main/infobox.js:273
+msgid "Refresh"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:99
+msgid "sequential"
+msgstr ""
+
+#: jamovi/client/main/ribbon/ribbonmenu.js:208
+msgid "Show in main menu"
+msgstr ""
+
+#: jamovi/server/jamovi/server/server.py
+msgid "This data set is no longer available"
+msgstr ""
+
+#: jamovi/server/jamovi/server/instancemodel.py
+msgid "Transform {}"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:255
+msgid "A change of language requires jamovi to be restarted"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:154
+msgid "Language"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:254
+msgid "Restart required"
+msgstr ""

@@ -7,7 +7,7 @@ msgstr ""
 "Language-Team: \n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
@@ -54,8 +54,12 @@ msgid "Accent"
 msgstr "Accent"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "Acceso denegado. Es posible que no tenga los permisos adecuados para acceder a este recurso."
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
+msgstr ""
+"Acceso denegado. Es posible que no tenga los permisos adecuados para "
+"acceder a este recurso."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -527,8 +531,14 @@ msgid "Desktop"
 msgstr "Escritorio"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
-msgstr "Determina si alguno de los elementos aparece en in1, in2, in3, .... Tenga en cuenta que la mayoría de estos argumentos son opcionales; es posible simplemente usar <strong> CONTAINS(aguja, pajar) </strong>."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<strong>CONTAINS(needle, haystack)</strong>."
+msgstr ""
+"Determina si alguno de los elementos aparece en in1, in2, in3, .... Tenga "
+"en cuenta que la mayoría de estos argumentos son opcionales; es posible "
+"simplemente usar <strong> CONTAINS(aguja, pajar) </strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -558,8 +568,12 @@ msgid "Downloads"
 msgstr "Descargas"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
-msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "Extrae una muestra de n de la variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE(‘training’, 20, ‘test’)"
+msgid ""
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE('training', 20, 'test')"
+msgstr ""
+"Extrae una muestra de n de la variable. i.e. SAMPLE(var, 20), i.e. "
+"SAMPLE(1, 20), i.e. SAMPLE(‘training’, 20, ‘test’)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -768,8 +782,12 @@ msgid "Formula contains illegal node"
 msgstr "La fórmula contiene un nodo ilegal"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "La fórmula está mal especificada (si desea probar la igualdad, use dos signos iguales '==')"
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two "
+"equals signs '==')"
+msgstr ""
+"La fórmula está mal especificada (si desea probar la igualdad, use dos "
+"signos iguales '==')"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1377,8 +1395,14 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "Devuelve una transformación de Box Cox de la variable."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "Devuelve si la variable es un valor atípico según el RIQ: si el valor está dentro del cuadro de un gráfico de cajas se devuelve 0, los valores absolutos mayores que 1.5 están fuera de las antenas."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the "
+"value is within the box of a Boxplot 0 is returned, absolute values larger "
+"than 1.5 are outside the whiskers."
+msgstr ""
+"Devuelve si la variable es un valor atípico según el RIQ: si el valor está "
+"dentro del cuadro de un gráfico de cajas se devuelve 0, los valores "
+"absolutos mayores que 1.5 están fuera de las antenas."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1604,8 +1628,12 @@ msgid "Source variable"
 msgstr "Variable origen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "Divide el texto en partes basándose en un separador. <i> parte </i> especifica la parte deseada por índice."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
+msgstr ""
+"Divide el texto en partes basándose en un separador. <i> parte </i> "
+"especifica la parte deseada por índice."
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1674,8 +1702,12 @@ msgid "The content has been copied to the clipboard"
 msgstr "El contenido se ha copiado al portapapeles"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "El contenido se ha preparado y se puede copiar con el botón de abajo o presionando <em> {k} + C </em> en su teclado"
+msgid ""
+"The content has been prepared, and can be copied with the button below, or "
+"by pressing <em>{k}+C</em> on your keyboard"
+msgstr ""
+"El contenido se ha preparado y se puede copiar con el botón de abajo o "
+"presionando <em> {k} + C </em> en su teclado"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -1960,8 +1992,12 @@ msgid "when"
 msgstr "cuando"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "Cuando la variable contiene un valor perdido, use el valor, de lo contrario el otro."
+msgid ""
+"When the variable contains a missing value, use the value, otherwise the "
+"else."
+msgstr ""
+"Cuando la variable contiene un valor perdido, use el valor, de lo contrario "
+"el otro."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -1977,11 +2013,17 @@ msgstr "No puede insertar filas mientras las filas filtradas están ocultas"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "No puede modificar las columnas que afectan a los filtros cuando las filas filtradas están ocultas"
+msgstr ""
+"No puede modificar las columnas que afectan a los filtros cuando las filas "
+"filtradas están ocultas"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
-msgstr "No puede modificar las transformaciones que afectan a los filtros cuando las filas filtradas están ocultas"
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
+msgstr ""
+"No puede modificar las transformaciones que afectan a los filtros cuando "
+"las filas filtradas están ocultas"
 
 #: jamovi/client/main/main.js:135
 msgid "Your connection has been lost. Please refresh the page to continue."
@@ -1990,3 +2032,57 @@ msgstr "La conexión se ha perdido. Actualice la página para continuar."
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
 msgstr "Zoom"
+
+#: jamovi/server/jamovi/server/column.py
+msgid "'{}' is in error"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} dp"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} sf"
+msgstr ""
+
+#: jamovi/client/main/infobox.js:270
+msgid "Close"
+msgstr ""
+
+#: jamovi/client/main/vareditor/filterwidget.js:71
+msgid "Hide filter columns"
+msgstr ""
+
+#: jamovi/client/analysisui/main.js:223
+msgid "Hide options"
+msgstr ""
+
+#: jamovi/client/main/vareditor/datavarlevelwidget.js:19
+msgid "Pin level"
+msgstr ""
+
+#: jamovi/client/main/infobox.js:273
+msgid "Refresh"
+msgstr ""
+
+#: jamovi/client/main/ribbon/ribbonmenu.js:208
+msgid "Show in main menu"
+msgstr ""
+
+#: jamovi/server/jamovi/server/server.py
+msgid "This data set is no longer available"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:255
+msgid "A change of language requires jamovi to be restarted"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:154
+msgid "Language"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:254
+msgid "Restart required"
+msgstr ""

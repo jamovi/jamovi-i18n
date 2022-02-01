@@ -7,7 +7,7 @@ msgstr ""
 "Language-Team: Shun Wang <shuonwang@gmail.com>\n"
 "Language: zh-cn\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Poedit 3.0.1\n"
@@ -534,8 +534,8 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选"
-"的——可以简单地使用 <strong>CONTAINS(needle, haystack)</strong>。"
+"确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选的——可以简单地使用 "
+"<strong>CONTAINS(needle, haystack)</strong>。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -569,8 +569,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"从变量中抽取 n 个样本。例 SAMPLE(var, 20)，例 SAMPLE(1, 20)，例 "
-"SAMPLE('training', 20, 'test')"
+"从变量中抽取 n 个样本。例 SAMPLE(var, 20)，例 SAMPLE(1, 20)，例 SAMPLE('training', 20, "
+"'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -780,8 +780,8 @@ msgstr "公式包含非法节点(node)"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
+"Formula is mis-specified (If you're wanting to test equality, use two "
+"equals signs '==')"
 msgstr "公式指定错误（如果您想要判断是否相等，请使用双等符号 '=='）"
 
 #: jamovi/server/jamovi/server/compute/checker.py
@@ -1394,9 +1394,7 @@ msgid ""
 "Returns a whether the variable is an outlier according to the IQR: If the "
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
-msgstr ""
-"根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的箱内，则返回 0，绝对值大于 "
-"1.5 的在箱须之外。"
+msgstr "根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的箱内，则返回 0，绝对值大于 1.5 的在箱须之外。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1697,8 +1695,7 @@ msgstr "内容已复制到剪贴板"
 msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
-"内容已准备好，可以使用下面的按钮进行复制，也可以按键盘上的 <em>{k}+C</em>"
+msgstr "内容已准备好，可以使用下面的按钮进行复制，也可以按键盘上的 <em>{k}+C</em>"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -2001,8 +1998,7 @@ msgid "You cannot insert rows while filtered rows are hidden"
 msgstr "当筛选的行被隐藏时，您不能插入行"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify columns that affect filters when filtered rows are hidden"
+msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr "当筛选的行被隐藏时，您不能修改影响筛选器的列"
 
 #: jamovi/server/jamovi/server/instance.py
@@ -2018,3 +2014,57 @@ msgstr "您的连接已丢失。请刷新页面以继续。"
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
 msgstr "缩放"
+
+#: jamovi/server/jamovi/server/column.py
+msgid "'{}' is in error"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} dp"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} sf"
+msgstr ""
+
+#: jamovi/client/main/infobox.js:270
+msgid "Close"
+msgstr ""
+
+#: jamovi/client/main/vareditor/filterwidget.js:71
+msgid "Hide filter columns"
+msgstr ""
+
+#: jamovi/client/analysisui/main.js:223
+msgid "Hide options"
+msgstr ""
+
+#: jamovi/client/main/vareditor/datavarlevelwidget.js:19
+msgid "Pin level"
+msgstr ""
+
+#: jamovi/client/main/infobox.js:273
+msgid "Refresh"
+msgstr ""
+
+#: jamovi/client/main/ribbon/ribbonmenu.js:208
+msgid "Show in main menu"
+msgstr ""
+
+#: jamovi/server/jamovi/server/server.py
+msgid "This data set is no longer available"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:255
+msgid "A change of language requires jamovi to be restarted"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:154
+msgid "Language"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:254
+msgid "Restart required"
+msgstr ""
