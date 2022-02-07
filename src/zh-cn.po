@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2021-11-24 12:44+0800\n"
-"PO-Revision-Date: 2022-01-12 11:06+0800\n"
+"PO-Revision-Date: 2022-02-07 22:06+0800\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Shun Wang <shuonwang@gmail.com>\n"
 "Language: zh-cn\n"
@@ -894,7 +894,7 @@ msgstr "if"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "如果表达式结果为 true，则使用该值，否则使用 else。"
+msgstr "如果表达式结果为 true，则使用此value，否则使用 else。"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1048,7 +1048,7 @@ msgstr "左对齐"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr "少于"
+msgstr "小于"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
@@ -1149,7 +1149,7 @@ msgstr "新建"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "新建计算的变量"
+msgstr "计算生成新的变量"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
@@ -1157,7 +1157,7 @@ msgstr "新建数据变量"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr "新建转换的变量"
+msgstr "转换生成新的变量"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
@@ -1948,7 +1948,7 @@ msgstr "对于整数类型的列 '{}'，值太大"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr "变量后缀"
+msgstr "变量名后缀"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
@@ -1983,7 +1983,7 @@ msgstr "当"
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
-msgstr "当变量包含缺失值时，使用该值，否则使用 else。"
+msgstr "当变量包含缺失值时，使用此value，否则使用 else。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2017,54 +2017,54 @@ msgstr "缩放"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "'{}' 有错误"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "{n} dp"
-msgstr ""
+msgstr "{n} 位小数"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} 有效数字"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "关闭"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "隐藏筛选器行"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
-msgstr ""
+msgstr "隐藏选项"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr ""
+msgstr "固定水平"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
-msgstr ""
+msgstr "刷新"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "在主菜单中显示"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "此数据集已不再可用"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "更改语言需要重新启动 jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
-msgstr ""
+msgstr "语言"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
-msgstr ""
+msgstr "需要重新启动"
