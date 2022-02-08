@@ -1,8 +1,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
-"POT-Creation-Date: 2021-11-24 12:44+0800\n"
-"PO-Revision-Date: 2022-02-07 22:06+0800\n"
+"POT-Creation-Date: 2022-02-02 12:44+0800\n"
+"PO-Revision-Date: 2022-02-08 14:23+0800\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Shun Wang <shuonwang@gmail.com>\n"
 "Language: zh-cn\n"
@@ -2035,7 +2035,7 @@ msgstr "关闭"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr "隐藏筛选器行"
+msgstr "隐藏筛选器列"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
