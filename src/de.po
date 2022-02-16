@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-11 16:01+0000\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -146,7 +146,8 @@ msgstr "Ein auf {hostname} verfügbarer Online-Datensatz"
 
 #: jamovi/client/main/main.js:129
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr "Ein unerwarteter Fehler ist aufgetreten. jamovi muss nun geschlossen werden."
+msgstr ""
+"Ein unerwarteter Fehler ist aufgetreten. jamovi muss nun geschlossen werden."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
@@ -267,7 +268,8 @@ msgstr "Spalte '{}' kann kein nicht-numerischer Wert zugewiesen werden"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr "Spalte '{columnName}' kann kein nicht-numerischer Wert zugewiesen werden"
+msgstr ""
+"Spalte '{columnName}' kann kein nicht-numerischer Wert zugewiesen werden"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
@@ -639,8 +641,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Zieht eine Stichprobe von im Umfang n aus der Variablen. d.h. SAMPLE(var, "
-"20), d.h. SAMPLE(1, 20), d.h. SAMPLE('training', 20, 'test')"
+"Zieht eine Stichprobe von im Umfang n aus der Variablen. d.h. SAMPLE(var, 20)"
+", d.h. SAMPLE(1, 20), d.h. SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -851,7 +853,8 @@ msgstr "Filtert eine Variable mit Hilfe des Filterausdrucks."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filter dürfen nicht auf Spalten mit 'V'- oder Spaltenfunktionen verweisen"
+msgstr ""
+"Filter dürfen nicht auf Spalten mit 'V'- oder Spaltenfunktionen verweisen"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1131,7 +1134,8 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr "jamovi ist jetzt in Deutsch verfügbar (Vielen Dank an Sebastian Jentschke)!"
+msgstr ""
+"jamovi ist jetzt in Deutsch verfügbar (Vielen Dank an Sebastian Jentschke)!"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
@@ -2141,8 +2145,8 @@ msgstr "Zugriff auf die Bibliothek nicht möglich"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
-"Kann nicht auf das Internet zugreifen (wahrscheinlich wegen eines "
-"Internet-Zugangs, der ein Einloggen erfordert)"
+"Kann nicht auf das Internet zugreifen (wahrscheinlich wegen eines Internet-"
+"Zugangs, der ein Einloggen erfordert)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2329,11 +2333,13 @@ msgstr "Warum ist dieser zusätzliche Schritt notwendig?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr "Sie können keine Zeilen löschen, während gefilterte Zeilen ausgeblendet sind"
+msgstr ""
+"Sie können keine Zeilen löschen, während gefilterte Zeilen ausgeblendet sind"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr "Sie können keine Zeilen einfügen, während gefilterte Zeilen ausgeblendet sind"
+msgstr ""
+"Sie können keine Zeilen einfügen, während gefilterte Zeilen ausgeblendet sind"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
