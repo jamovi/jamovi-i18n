@@ -1,11 +1,16 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-02-18 10:54+0000\n"
+"Last-Translator: Matej U <mateju@src.gnome.org>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi_gui/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3;\n"
+"X-Generator: Weblate 4.11-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -23,7 +28,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:261
 msgid "(current)"
-msgstr ""
+msgstr "(trenutno)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -78,28 +83,28 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
-msgstr ""
+msgstr "Dodaj"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "Dodaj nov ugnezden filter"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "Dodaj manjkajočo vrednost"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
-msgstr ""
+msgstr "Dodaj nov filter"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr ""
+msgstr "Dodaj novo raven"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "Dodaj opombo"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
@@ -107,11 +112,11 @@ msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "Dodaj spremenljivko"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
-msgstr ""
+msgstr "Dodano"
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
@@ -197,11 +202,11 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "Neustrezna definicija funkcije"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
-msgstr ""
+msgstr "Črnobelo"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
@@ -209,11 +214,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
-msgstr ""
+msgstr "Krepko"
 
 #: jamovi/client/main/backstage.js:339
 msgid "Browse"
-msgstr ""
+msgstr "Prebrskaj"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
@@ -221,7 +226,7 @@ msgstr ""
 
 #: jamovi/client/main/main.js:637
 msgid "Cancel"
-msgstr ""
+msgstr "Prekliči"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -625,7 +630,7 @@ msgstr ""
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
 msgid "Edit..."
-msgstr ""
+msgstr "Uredi ..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
@@ -634,11 +639,11 @@ msgstr ""
 
 #: jamovi/client/main/main.js:366
 msgid "Enable"
-msgstr ""
+msgstr "Omogoči"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
-msgstr ""
+msgstr "Vpis opisa"
 
 #: jamovi/client/main/backstage.js:275
 #: jamovi/client/main/backstage.js:312
@@ -647,7 +652,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
 msgid "Enter label..."
-msgstr ""
+msgstr "Vpis oznake ..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
 msgid "Enter level value"
@@ -655,11 +660,11 @@ msgstr ""
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
-msgstr ""
+msgstr "Vpis imena"
 
 #: jamovi/client/resultsview/annotation.js:148
 msgid "Enter your URL here"
-msgstr ""
+msgstr "Vpis naslova URL"
 
 #: jamovi/client/main/resultspanel.js:718
 msgid "EPS Image {ext}"
