@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-16 23:47+0000\n"
+"PO-Revision-Date: 2022-02-18 23:17+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/jamovi_gui/"
 "de/>\n"
@@ -1360,7 +1360,7 @@ msgstr "Farbschema"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "Plots"
+msgstr "Diagramme"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
