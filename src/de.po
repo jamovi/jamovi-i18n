@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-21 11:21+0000\n"
+"PO-Revision-Date: 2022-02-21 23:07+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/jamovi_gui/"
 "de/>\n"
@@ -13,14 +13,14 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' ist fehlerhaft"
+msgstr "„{}“ ist fehlerhaft"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"'{}' ist kein Argument für {}()\n"
+"„{}“ ist kein Argument für {}()\n"
 "(Wenn Sie auf Gleichheit testen möchten, verwenden Sie zwei "
 "Gleichheitszeichen '==')"
 
@@ -131,7 +131,7 @@ msgstr "Alle"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "Alle {n}-Weg-Interaktionen"
+msgstr "Alle {n}-fach"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
@@ -1121,7 +1121,7 @@ msgstr "Faktor-Wert"
 #: jamovi/client/main/vareditor/datavarwidget.js:48
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
 msgid "Levels"
-msgstr "Faktorstufen"
+msgstr "Stufe"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
