@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-18 23:17+0000\n"
+"PO-Revision-Date: 2022-02-21 11:21+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/jamovi_gui/"
 "de/>\n"
@@ -333,7 +333,7 @@ msgstr "Berechnete Variable"
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "Berechnete Variable"
-msgstr[1] "Berechnete Variablen"
+msgstr[1] "Berechnete Variablen ({n})"
 
 #: jamovi/client/main/instance.js:421
 msgid "Confirm overwite"
