@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-11 16:01+0000\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/nb_NO/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -638,8 +638,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Trekker et utvalg av n fra variabelen. f.eks. SAMPLE(var, 20), f.eks. SAMPLE(1, "
-"20), f.eks. SAMPLE('trening', 20, 'test')"
+"Trekker et utvalg av n fra variabelen. f.eks. SAMPLE(var, 20), f.eks. SAMPLE("
+"1, 20), f.eks. SAMPLE('trening', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -2143,8 +2143,8 @@ msgstr "Får ikke tilgang til biblioteket"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
-"Får ikke tilgang til internett (sannsynligvis på grunn av at "
-"internett-tilgang krever innlogging)"
+"Får ikke tilgang til internett (sannsynligvis på grunn av at internett-"
+"tilgang krever innlogging)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
