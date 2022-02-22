@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-21 23:07+0000\n"
+"PO-Revision-Date: 2022-02-22 13:12+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/jamovi_gui/"
 "de/>\n"
@@ -264,7 +264,7 @@ msgstr "Zellen bearbeitet "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "Zentrieren"
+msgstr "Zentriert"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -1079,7 +1079,7 @@ msgstr "JASP-Dateien {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr "Ausrichten"
+msgstr "Blocksatz"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:237
 msgid "Keyword: {v}"
@@ -1097,7 +1097,7 @@ msgstr "LaTeX-Dateien {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
-msgstr "Linksbündig ausrichten"
+msgstr "Linksbündig"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
@@ -1352,7 +1352,7 @@ msgstr "PDF-Dokument {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr "Pin-Ebene"
+msgstr "Variablenstufe fixieren"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1401,7 +1401,7 @@ msgstr "{m} wirklich deinstallieren?"
 
 #: jamovi/client/main/backstage.js:1999
 msgid "Recent"
-msgstr "Aktuell"
+msgstr "Letzte Dateien"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 #: jamovi/client/main/ribbon/datatab.js:25
@@ -1577,7 +1577,7 @@ msgstr "Änderungen rückgängig machen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr "Rechtsbündig ausgerichtet"
+msgstr "Rechtsbündig"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
@@ -1599,7 +1599,7 @@ msgstr "Zeilen"
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
 msgid "SAS 7bdat {ext}"
-msgstr "SAS Datendatei (7bdat) {ext}"
+msgstr "SAS-Datendatei {ext}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "SAS files {ext}"
@@ -1608,7 +1608,7 @@ msgstr "SAS-Dateien {ext}"
 #: jamovi/client/main/backstage.js:1036
 #: jamovi/client/main/backstage.js:1059
 msgid "SAS xpt {ext}"
-msgstr "SAS-Export-Format {ext}"
+msgstr "SAS-Exportdatei {ext}"
 
 #: jamovi/client/main/backstage.js:1295
 #: jamovi/client/main/backstage.js:319
@@ -1669,7 +1669,7 @@ msgstr "Konfiguration..."
 
 #: jamovi/client/main/store/pagemodules.js:136
 msgid "Show"
-msgstr "Zeigen"
+msgstr "Zeige"
 
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
@@ -1697,7 +1697,7 @@ msgstr "Manuelles Hinzufügen"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr "Gesamtlänge einer Zahl"
+msgstr "Signifikante Stellen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
@@ -1737,7 +1737,7 @@ msgstr "Statistisch"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
-msgstr "Schlag"
+msgstr "Durchstreichen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
@@ -1892,7 +1892,7 @@ msgstr "{} transformieren"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "{Name} transformieren"
+msgstr "{name} transformieren"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
