@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-02-24 11:44+0000\n"
+"PO-Revision-Date: 2022-02-27 19:57+0000\n"
 "Last-Translator: Matej U <mateju@src.gnome.org>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi_gui/sl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.11-dev\n"
+"X-Generator: Weblate 4.11.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -42,9 +42,8 @@ msgstr "Razširitev {m} je uspešno odstranjena"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "{n} dp"
-msgstr "{n} dp"
+msgstr "{n} dm"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -53,9 +52,8 @@ msgstr "{n} ni pozitivno celo število"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "{n} sf"
-msgstr "{n} sf"
+msgstr "{n} sš"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -71,7 +69,7 @@ msgstr "Zahtevana je novejša različica programa jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr ""
+msgstr "Accent"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
@@ -358,23 +356,24 @@ msgstr "Povezava je prekinjena"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "Numerična / Številska"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Priročna bližnjica za ABS(IQR( spremenljivka ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "Priročna bližnjica za ABS(Z( spremenljivka ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
 msgstr ""
+"Priročna bližnjica za MAX(ABSIQR( spremenljivka 1, spremenljivka 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Priročna bližnjica za MAX(ABSZ( spremenljivka 1, spremenljivka 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Converts a number to an integer."
@@ -382,11 +381,11 @@ msgstr "Pretvori število v celoštevilsko vrednost."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "Pretvori besedilo v število (če je le mogoče)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Converts the value to text."
-msgstr ""
+msgstr "Pretvori vrednosti v besedilo."
 
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
@@ -413,35 +412,35 @@ msgstr "Kopirahj"
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "Podatkov ni mogoče dodeliti"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "Vrstic ni mogoče izbrisati"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "Stolpcev ni mogoče vstavi"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "Vrstic ni mogoče vstavi"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "Stolpcev ni mogoče spremeniti"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr "Ni mogoče prilagoditi preoblikovanja"
+msgstr "Ni mogoče spremeniti pretvorbe"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "Opravila ni mogoče izvesti"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr "Ustvari novo preoblikovanje ..."
+msgstr "Ustvari novo pretvorbo ..."
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
@@ -458,7 +457,7 @@ msgstr "Izreži"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr ""
+msgstr "Temna 2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
@@ -486,8 +485,10 @@ msgstr "Podatkovna vrsta"
 #: jamovi/client/main/vareditor/editorwidget.js:238
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Podatkovna spremenljivka ({n})"
+msgstr[1] "Podatkovni spremenljivki ({n})"
+msgstr[2] "Podatkovne spremenljivke ({n})"
+msgstr[3] "Podatkovne spremenljivke ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -539,7 +540,7 @@ msgstr[3] "Ali želite izbrisati {n} vrstic?"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr "Izbriši preoblikovanje"
+msgstr "Izbriši pretvorbo"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -568,6 +569,9 @@ msgstr "Namizje"
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"Ugotavlja, ali se kateri od predmetov v in1, in2, in3, Večina argumentov ni "
+"obveznih - mogoče je preprosto uporabiti<strong>CONTAINS(igla, v kopici "
+"sena)</strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -603,15 +607,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "Izriše vzorce distribucije Beta"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "Izriše vzorce distribucije Gama"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Izriše vzorce normalne (Gaussove) distribucije"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
@@ -623,7 +627,7 @@ msgstr "Podvoji"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr "Podvoji preoblikovanje"
+msgstr "Podvoji pretvorbo"
 
 #: jamovi/client/main/main.js:176
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -638,7 +642,7 @@ msgstr "Uredi"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr "Uredi preoblikovanje"
+msgstr "Uredi pretvorbo"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -649,7 +653,7 @@ msgstr "Uredi ..."
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
 msgid "else use"
-msgstr ""
+msgstr "sicer uporabi"
 
 #: jamovi/client/main/main.js:366
 msgid "Enable"
@@ -727,7 +731,7 @@ msgstr "Datoteka"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr ""
+msgstr "Zapis datoteke ni podprt"
 
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
@@ -735,15 +739,15 @@ msgstr "Datoteka je uvožena"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
-msgstr ""
+msgstr "Datoteka je okvarjena"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "Datoteka je okvarjena (manifest je poškodovan ali manjka)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "Datoteka je okvarjena (manifest je poškodovan)"
 
 #: jamovi/client/main/instance.js:428
 msgid "File save failed."
@@ -789,7 +793,7 @@ msgstr "Filtri"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "Filtrira spremenljivko z uporabo izraza filtriranja."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
@@ -810,11 +814,12 @@ msgstr "Formula"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "Formula vključuje neveljavno vozlišče"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr ""
+"Enačba je zapisana napačno! (Če preverjate enakost, uporabite znak »==«)"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -923,7 +928,7 @@ msgstr "I ♥ SPSS"
 #: jamovi/client/main/vareditor/datavarwidget.js:277
 #: jamovi/client/main/vareditor/measurelist.js:61
 msgid "ID"
-msgstr "ID"
+msgstr "Oznaka ID"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Idle session"
@@ -936,6 +941,8 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
+"Če je vrednost izraz PRAV, uporabi vrednost, v nasprotnem nadalje sledi "
+"zapisu."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -945,7 +952,7 @@ msgstr "Slika"
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
 msgid "Import"
-msgstr "Uvozi"
+msgstr "Uvažanjue"
 
 #: jamovi/client/main/instance.js:134
 msgid "Import successful"
@@ -966,11 +973,11 @@ msgstr "nedejavno"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr "zamik -1"
+msgstr "Zamik -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr "zamik +1"
+msgstr "Zamik +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1017,7 +1024,7 @@ msgstr "Nameščena različica ni skladna"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
-msgstr ""
+msgstr "Celo število"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1019
 msgid "Interaction"
@@ -1029,13 +1036,13 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "Inverts the value."
-msgstr ""
+msgstr "Pretvori v inverzno vrednost."
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
 #: jamovi/client/main/tableview.js:591
 msgid "Issue with formula"
-msgstr ""
+msgstr "Napaka v formuli"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
@@ -1044,32 +1051,32 @@ msgstr "Ležeče"
 #: jamovi/client/main/backstage.js:1005
 #: jamovi/client/main/backstage.js:1016
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "Datoteka jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "Datoteke jamovi {ext}"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
-msgstr ""
+msgstr "Program jamovi je posodobljen"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
-msgstr ""
+msgstr "Knjižnica jamovi"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
-msgstr ""
+msgstr "Moduli jamovi"
 
 #: jamovi/client/main/backstage.js:1028
 #: jamovi/client/main/backstage.js:1051
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "Predloga jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:975
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "Predloge jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "JASP files {ext}"
@@ -1077,7 +1084,7 @@ msgstr "Datoteke JASP {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr ""
+msgstr "Poravnaj"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:237
 msgid "Keyword: {v}"
@@ -1091,7 +1098,7 @@ msgstr "Jezik"
 #: jamovi/client/main/backstage.js:1053
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "paket LaTeX {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
@@ -1131,32 +1138,32 @@ msgstr "Nalaganje"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Logical"
-msgstr ""
+msgstr "Logične"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
-msgstr ""
+msgstr "Glavni učinek"
 
 #: jamovi/client/main/ribbon/analysetab.js:79
 msgid "Manage installed"
-msgstr ""
+msgstr "Upravljanje nameščenih"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr "Matematika"
+msgstr "Matematčne"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr ""
+msgstr "Vrsta lestvice"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr ""
+msgstr "Minimal"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "Misc"
-msgstr ""
+msgstr "Druge"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1168,11 +1175,11 @@ msgstr "Manjkajoče vrednosti"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
-msgstr ""
+msgstr "Modul je nameščen"
 
 #: jamovi/client/main/store/pagesideload.js:44
 msgid "Module installed successfully"
-msgstr ""
+msgstr "Modul je uspešno nameščen"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
@@ -1180,7 +1187,7 @@ msgstr "Modul je odstranjen"
 
 #: jamovi/client/main/store/pagemodules.js:193
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "Modul je uspešno nameščen"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
@@ -1209,7 +1216,7 @@ msgstr "Nova podatkovna spremenljivka"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr "Nova preoblikovana spremenljivka"
+msgstr "Nova pretvorjena spremenljivka"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
@@ -1230,13 +1237,13 @@ msgstr ""
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "S poizvedbo ni skladna nobena spremenljivka."
 
 #: jamovi/client/main/editors/transformeditor.js:226
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "Nominalna / Imenska"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1260,7 +1267,7 @@ msgstr "Opomba"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
-msgstr "Zapis števila"
+msgstr "Zapis števil"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Offsets the values up or down."
@@ -1281,7 +1288,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
-msgstr ""
+msgstr "Spletni podatkovni set"
 
 #: jamovi/client/main/backstage.js:1181
 #: jamovi/client/main/backstage.js:1258
@@ -1290,7 +1297,7 @@ msgstr "Odpri"
 
 #: jamovi/client/main/backstage.js:977
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "Odprti Dokument (LibreOffice) {ext}"
 
 #: jamovi/client/main/backstage.js:1704
 #: jamovi/client/main/instance.js:236
@@ -1310,7 +1317,7 @@ msgstr "Vrstilni seznam"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr ""
+msgstr "Ordinalna / Urejenostna"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
@@ -1319,12 +1326,14 @@ msgstr "Odvod"
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Odvodna spremenljivka ({n})"
+msgstr[1] "Odvodni spremenljivki ({n})"
+msgstr[2] "Odvodne spremenljivke ({n})"
+msgstr[3] "Odvodne spremenljivke ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "zapis p-vrednosti"
+msgstr "Zapis p-vrednosti"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
@@ -1342,7 +1351,7 @@ msgstr "Prilepi"
 #: jamovi/client/main/resultspanel.js:715
 #: jamovi/client/main/resultspanel.js:742
 msgid "PDF Document {ext}"
-msgstr ""
+msgstr "Dokument PDF {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
@@ -1366,22 +1375,22 @@ msgstr "Predhodna spremenljivka"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr ""
+msgstr "Kvalitativno"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
-msgstr ""
+msgstr "Podatkov e datoteke R {ext}"
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1032
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:1055
 msgid "R object {ext}"
-msgstr ""
+msgstr "Predmet R {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
-msgstr ""
+msgstr "Rangira vsako vrednosti"
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
@@ -1391,7 +1400,7 @@ msgstr "Pripravljeno"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "Ali res želite odstraniti namestitev {m}?"
 
 #: jamovi/client/main/backstage.js:1999
 msgid "Recent"
@@ -1401,11 +1410,11 @@ msgstr "Nedavno"
 #: jamovi/client/main/ribbon/datatab.js:25
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
-msgstr ""
+msgstr "Ponovi urejanje"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Reference"
-msgstr "Sklic"
+msgstr "Sklicne"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -1450,7 +1459,7 @@ msgstr "Rezultati"
 
 #: jamovi/client/main/vareditor/editorwidget.js:101
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "Pri analizi ohrani neuporabljene ravni"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 #: jamovi/client/main/ribbon/appmenu.js:135
@@ -1459,7 +1468,7 @@ msgstr "Poskusi znova"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "Vrne Box-Cox normalizirano pretvorjene spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
@@ -1467,104 +1476,104 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "Vrne absolutno vrednost števila."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Vrne desetiški logaritem števila."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Vrne potenco osnove ℯ števila."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Vrne največjo vrednost nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Vrne največjo vrednost spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Vrne povprečno vrednost nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Vrne mediano vrednost spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Vrne najpogostejšo vrednost spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Vrne naravni logaritem števila."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Vrne normalizirane vrednosti nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Vrne število primerov spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Vrne število vrstic podatkov spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Vrne skupno povprečno vrednost spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Vrne skupini seštevek vrednosti spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Vrne številke vrstic."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Vrne najmanjšo vrednost nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Vrne najmanjšo vrednost spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Vrne kvadratni koren števila."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Vrne standardni odklon nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Vrne standardni odklon spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Vrne standardno napako povprečne vrednosti spremenljivke."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Vrne seštevek nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Vrne varianco nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "Vrne varianco spremenljivke."
 
 #: jamovi/client/main/variableeditor.js:50
 msgid "Revert changes"
-msgstr ""
+msgstr "Povrni spremembe"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -1572,7 +1581,7 @@ msgstr "Poravnaj desno"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr ""
+msgstr "Zaokroži vsako vrednost"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1590,16 +1599,16 @@ msgstr "Vrstice"
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "Datoteke SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "Datoteke SAS {ext}"
 
 #: jamovi/client/main/backstage.js:1036
 #: jamovi/client/main/backstage.js:1059
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "Datoteke SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1295
 #: jamovi/client/main/backstage.js:319
@@ -1631,7 +1640,7 @@ msgstr "Shranjevanje"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr ""
+msgstr "Iskanje spremenljivk"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
@@ -1644,11 +1653,11 @@ msgstr "Izbrano"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr ""
+msgstr "Zaporedno"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr ""
+msgstr "Set 1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
@@ -1671,11 +1680,11 @@ msgstr "Pokaži filtrirne stolpce"
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
 msgid "Show formula editor"
-msgstr ""
+msgstr "Pokaži urejevalnik enačb"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "Pokaži v glavmen meniju"
 
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable in this demo."
@@ -1688,45 +1697,47 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr ""
+msgstr "Signifikantne števke"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
-msgstr ""
+msgstr "Simulacijske"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
-msgstr ""
+msgstr "Izvorna spremenljivka"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr ""
+"Po razdelljevalniku razdeli besedilo na dele <i>kos</i> določa želen del "
+"indeksa."
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "Datoteke SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "Datoteke SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Datoteke Stata {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr ""
+msgstr "Statistične"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
-msgstr ""
+msgstr "Prečrtano"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
@@ -1734,15 +1745,15 @@ msgstr "Slogi"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Sub Script"
-msgstr ""
+msgstr "Podpisano"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
 msgid "Super Script"
-msgstr ""
+msgstr "Nadpisano"
 
 #: jamovi/client/main/resultspanel.js:717
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "Slika SVG {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
@@ -1750,7 +1761,7 @@ msgstr "Skladnja"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "Syntax mode"
-msgstr ""
+msgstr "Skladenjski način"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1759,16 +1770,16 @@ msgstr "Razpredelnica"
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid "Text"
-msgstr "Besedilo"
+msgstr "Besedilne"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Text Color"
-msgstr ""
+msgstr "Barva besedila"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "Vsebina je kopirana v odložišče"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
@@ -1780,11 +1791,11 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "Datoteka »{filename}« že obstaja. Ali jo želite prepisati?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "Enačba je zapisana napačno!"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "The index of value in the provided values."
@@ -1800,15 +1811,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "Vrednost ravni ne sme biti prazno polje."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "Knjižnica je onemogočena"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "Izbrana pretvorba povzroča napako in jo je treba popraviti."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
@@ -1825,7 +1836,7 @@ msgstr "Ta naprava"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "This is a data variable."
-msgstr ""
+msgstr "To je podatkovna spremenljivka."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -1838,58 +1849,58 @@ msgstr "Ta naprava"
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Seja je omejena na {} stolpcev"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Seja je omejena na {} vrstic"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Seja bo vsak čas končana"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Seja se bo končala v {} minutah"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Seja se bo končala v {} minuti"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Pretvorba povzroča napako in jo je treba popraviti."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "V odložišču je preveč podatkov, uporabite možnost uvoza"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr "Preoblikuj"
+msgstr "Pretvori"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr ""
+msgstr "Pretvorba {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Pretvorba: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr ""
+msgstr "Pretvorba: Brez"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr ""
+msgstr "Pretvori ..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
-msgstr ""
+msgstr "Pretvorjeno"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
@@ -1898,8 +1909,10 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Pretvorjena spremenljivka ({n})"
+msgstr[1] "Pretvorjeni spremenljivki ({n})"
+msgstr[2] "Pretvorjene spremenljivke ({n})"
+msgstr[3] "Pretvorjene spremenljivke ({n})"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -1907,7 +1920,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access library"
-msgstr ""
+msgstr "Dostop do knjižnice ni mogoč"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -1925,7 +1938,7 @@ msgstr ""
 #: jamovi/client/main/store/pagesideload.js:54
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to install module"
-msgstr ""
+msgstr "Modula ni mogoče namestiti"
 
 #: jamovi/client/main/backstage.js:1743
 #: jamovi/client/main/instance.js:207
@@ -1942,15 +1955,15 @@ msgstr ""
 
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
-msgstr ""
+msgstr "Vsebine ni mogoče prilepiti"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform import"
-msgstr ""
+msgstr "Ni mogoče izvesti uvoza"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
-msgstr ""
+msgstr "Zahteve ni mogoče izvesti"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -1962,7 +1975,7 @@ msgstr "Ni mogoče shraniti {}"
 
 #: jamovi/client/main/store/pagemodules.js:224
 msgid "Unable to uninstall module"
-msgstr ""
+msgstr "Modula ni mogoče odstraniti"
 
 #: jamovi/client/main/store/pagemodules.js:124
 msgid "Unavailable"
@@ -1976,7 +1989,7 @@ msgstr "Podčrtaj"
 #: jamovi/client/main/ribbon/datatab.js:24
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Undo Edit"
-msgstr ""
+msgstr "Razveljavi urejanje"
 
 #: jamovi/client/main/instance.js:249
 #: jamovi/client/main/instance.js:256
@@ -1986,7 +1999,7 @@ msgstr "Nepričakovana napaka"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Neprepoznan zapis datoteke"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
@@ -1995,19 +2008,19 @@ msgstr "Posodobi"
 
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Update did not complete"
-msgstr ""
+msgstr "Posodobitev ni uspešno končana"
 
 #: jamovi/client/main/ribbon/appmenu.js:134
 msgid "Update is being downloaded"
-msgstr ""
+msgstr "Poteka prejemanje posodobitve"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Update is ready"
-msgstr ""
+msgstr "Posodobitev je pripravljena"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 msgid "Update not found"
-msgstr ""
+msgstr "Posodobitve ni mogoče najti"
 
 #: jamovi/client/main/ribbon/appmenu.js:127
 msgid "Updates"
@@ -2015,7 +2028,7 @@ msgstr "Posodobitve"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
-msgstr ""
+msgstr "Poteka pošiljanje …"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
@@ -2023,11 +2036,11 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr ""
+msgstr "V uporabi pri"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr ""
+msgstr "z uporabo pretvorbe"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
@@ -2035,11 +2048,11 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr ""
+msgstr "Pripona spremenljivke"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Spremenljivka: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2061,7 +2074,7 @@ msgstr "Vidno"
 #: jamovi/client/main/backstage.js:1050
 #: jamovi/client/main/resultspanel.js:743
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Spletna stran {ext}"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2070,6 +2083,8 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "When the variable contains a missing value, use the value, otherwise the else."
 msgstr ""
+"Če spremenljivka vsebuje manjkajočo vrednost, uporabi vrednost, sicer "
+"nadalje sledi zapisu."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2077,23 +2092,27 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Vrstic ni mogoče izbrisati, dokler so filtrirane skrite"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Vrstic ni mogoče vstaviti, dokler so filtrirane skrite"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
+"Stolpcev, ki vplivajo na filtre, ni mogoče spreminjati, ko so filtrirane "
+"vrstice skrite"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr ""
+"Ni mogoče spreminjati pretvorb, ki vplivajo na filtriranje, če so filtrirane "
+"vrstice skrite."
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "Povezava je izgubljena. Pred nadaljevanjem je treba stran osvežiti."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
