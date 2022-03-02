@@ -1339,7 +1339,7 @@ msgstr "やり直し"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Reference"
-msgstr "文献"
+msgstr "参照関数"
 
 #: jamovi/client/main/references.js:20 jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423 
