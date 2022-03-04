@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-03 20:56+0000\n"
-"Last-Translator: Matej U <mateju@src.gnome.org>\n"
+"PO-Revision-Date: 2022-03-06 06:55+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/sl/>\n"
 "Language: sl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || n"
 "%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.11.1-dev\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -801,7 +801,7 @@ msgstr "Filtrira spremenljivko z uporabo izraza filtriranja."
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
 "S filtri se ni mogoče sklicevati na stolpce z uporabo funkcij »V« ali "
-"stolpcev."
+"stolpcev"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -968,7 +968,7 @@ msgstr "Uvoženo kot"
 
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
-msgstr "Poteka uvažanje ..."
+msgstr "Poteka uvažanje..."
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1796,7 +1796,7 @@ msgstr "Vsebina je kopirana v odložišče"
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
 "Vsebina je pripravljena in jo je mogoče kopirati s pritiskom na spodnji "
-"gumb, ali s pritiskom <em>{k}+C</em> na tipkovnici."
+"gumb, ali s pritiskom <em>{k}+C</em> na tipkovnici"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -1808,7 +1808,7 @@ msgstr "Datoteka »{filename}« že obstaja. Ali jo želite prepisati?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr "Enačba je zapisana napačno!"
+msgstr "Enačba je zapisana napačno"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "The index of value in the provided values."
@@ -2041,7 +2041,7 @@ msgstr "Posodobitve"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
-msgstr "Poteka pošiljanje …"
+msgstr "Poteka pošiljanje…"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
@@ -2121,7 +2121,7 @@ msgstr ""
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr ""
 "Ni mogoče spreminjati pretvorb, ki vplivajo na filtriranje, če so filtrirane "
-"vrstice skrite."
+"vrstice skrite"
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
