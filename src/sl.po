@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-06 06:55+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2022-03-06 22:57+0000\n"
+"Last-Translator: Matej U <mateju@src.gnome.org>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/sl/>\n"
 "Language: sl\n"
@@ -1171,11 +1171,11 @@ msgstr "Druge"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
-msgstr "Manjkajoče vrednosti 3"
+msgstr "Manjkajoče vrednosti"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Manjkajoče vrednosti 2"
+msgstr "Manjkajoče Vrednosti"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
