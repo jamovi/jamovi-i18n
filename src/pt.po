@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: \n"
-"Last-Translator: \n"
-"Language-Team: \n"
+"PO-Revision-Date: 2022-03-07 22:43+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.12-dev\n"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -768,7 +769,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr "Os filtros não podem fazer referência a variáveis ​​de saída"
+msgstr "Os filtros não podem fazer referência a variáveis de saída"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1569,7 +1570,7 @@ msgstr "A guardar"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr "Variáveis ​​de pesquisa"
+msgstr "Variáveis de pesquisa"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
@@ -1636,7 +1637,7 @@ msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
 msgstr ""
-"Divide o texto em partes com base num separador.< i> peça </i> especifica a "
+"Divide o texto em partes com base num separador. <i>peça</i> especifica a "
 "parte desejada pelo índice."
 
 #: jamovi/client/main/backstage.js:979
