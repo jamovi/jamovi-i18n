@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-06 22:57+0000\n"
+"PO-Revision-Date: 2022-03-09 16:58+0000\n"
 "Last-Translator: Matej U <mateju@src.gnome.org>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/sl/>\n"
@@ -198,7 +198,7 @@ msgstr "Samodejno"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
-msgstr "samodejno namesti posodobitve"
+msgstr "Samodejno namesti posodobitve"
 
 #: jamovi/client/main/store.js:36
 msgid "Available"
@@ -609,15 +609,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
-msgstr "Izriše vzorce distribucije Beta."
+msgstr "Izriše vzorce porazdelitve Beta."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Draws samples from a Gamma distribution."
-msgstr "Izriše vzorce distribucije Gama."
+msgstr "Izriše vzorce porazdelitve Gama."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr "Izriše vzorce normalne (Gaussove) distribucije."
+msgstr "Izriše vzorce normalne (Gaussove) porazdelitve."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
@@ -801,7 +801,7 @@ msgstr "Filtrira spremenljivko z uporabo izraza filtriranja."
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
 "S filtri se ni mogoče sklicevati na stolpce z uporabo funkcij »V« ali "
-"stolpcev"
+"stolpcev."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -968,7 +968,7 @@ msgstr "Uvoženo kot"
 
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
-msgstr "Poteka uvažanje..."
+msgstr "Poteka uvažanje ..."
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1175,7 +1175,7 @@ msgstr "Manjkajoče vrednosti"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Manjkajoče Vrednosti"
+msgstr "Manjkajoče vrednosti"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1796,7 +1796,7 @@ msgstr "Vsebina je kopirana v odložišče"
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
 "Vsebina je pripravljena in jo je mogoče kopirati s pritiskom na spodnji "
-"gumb, ali s pritiskom <em>{k}+C</em> na tipkovnici"
+"gumb, ali s pritiskom <em>{k}+C</em> na tipkovnici."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -1808,7 +1808,7 @@ msgstr "Datoteka »{filename}« že obstaja. Ali jo želite prepisati?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr "Enačba je zapisana napačno"
+msgstr "Enačba je zapisana napačno!"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "The index of value in the provided values."
@@ -2041,7 +2041,7 @@ msgstr "Posodobitve"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
-msgstr "Poteka pošiljanje…"
+msgstr "Poteka pošiljanje …"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
@@ -2121,7 +2121,7 @@ msgstr ""
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr ""
 "Ni mogoče spreminjati pretvorb, ki vplivajo na filtriranje, če so filtrirane "
-"vrstice skrite"
+"vrstice skrite."
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
