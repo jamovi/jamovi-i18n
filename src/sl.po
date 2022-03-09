@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Matej U <mateju@src.gnome.org>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/sl/>\n"
 "Language: sl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -394,7 +394,8 @@ msgstr "Priročna bližnjica za ABS(Z( spremenljivka ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "Priročna bližnjica za MAX(ABSIQR( spremenljivka 1, spremenljivka 2, … ))"
+msgstr ""
+"Priročna bližnjica za MAX(ABSIQR( spremenljivka 1, spremenljivka 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
@@ -883,7 +884,8 @@ msgstr "Formula vključuje neveljavno vozlišče"
 msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
-msgstr "Enačba je zapisana napačno! (Če preverjate enakost, uporabite znak »==«)"
+msgstr ""
+"Enačba je zapisana napačno! (Če preverjate enakost, uporabite znak »==«)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1883,7 +1885,8 @@ msgstr "Posebno uvažanje"
 msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
-msgstr "Po ločilniku razdeli besedilo na dele, <i>del</i> določa želen del indeksa."
+msgstr ""
+"Po ločilniku razdeli besedilo na dele, <i>del</i> določa želen del indeksa."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
