@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-11 09:59+0000\n"
-"Last-Translator: Ivan Buljan <buljan.ivan3@gmail.com>\n"
+"PO-Revision-Date: 2022-03-14 12:43+0000\n"
+"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -375,20 +375,20 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "Pretvara broj u cijeli broj."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "Pretvara tekst u broj (ako je moguće)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Converts the value to text."
-msgstr ""
+msgstr "Pretvara vrijednost u tekst."
 
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
 msgid "Copied"
-msgstr ""
+msgstr "Kopirano"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
