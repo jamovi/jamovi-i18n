@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-03-14 12:43+0000\n"
-"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
+"Last-Translator: Ivan Buljan <buljan.ivan3@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -405,16 +405,16 @@ msgstr "Kopirano"
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
-msgstr ""
+msgstr "Kopiraj"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "Nije moguće dodati podatke"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "Nije moguće izbrisati redove"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
