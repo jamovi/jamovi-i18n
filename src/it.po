@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-14 16:45+0000\n"
+"PO-Revision-Date: 2022-03-14 23:37+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -1330,7 +1330,7 @@ msgstr[1] "Più variabili di uscita ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "formato valore p"
+msgstr "Formato valore p"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
