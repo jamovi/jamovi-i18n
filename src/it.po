@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-14 23:37+0000\n"
+"PO-Revision-Date: 2022-03-15 00:27+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -1049,7 +1049,7 @@ msgstr "file jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
-msgstr "files jamovi {ext}"
+msgstr "Files jamovi {ext}"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1070,7 +1070,7 @@ msgstr "modello jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:975
 msgid "jamovi templates {ext}"
-msgstr "modelli jamovi {ext}"
+msgstr "Modelli jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "JASP files {ext}"
