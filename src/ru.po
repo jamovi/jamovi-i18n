@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-15 08:01+0000\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -842,7 +842,8 @@ msgstr "Фильтрует переменную, используя выраже
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Фильтры не могут ссылаться на столбцы, используя 'V' или функции столбцов"
+msgstr ""
+"Фильтры не могут ссылаться на столбцы, используя 'V' или функции столбцов"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -991,7 +992,8 @@ msgstr "если"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "Если выражение разрешается как true, используйте значение, иначе другое."
+msgstr ""
+"Если выражение разрешается как true, используйте значение, иначе другое."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1115,9 +1117,9 @@ msgid ""
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
 msgstr ""
-"jamovi теперь доступен на { insert translation language }! (Большое спасибо "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
+"jamovi теперь доступен на { insert translation language }! (Большое спасибо {"
+" insert your name here (or put a more generic \"the jamovi translation team\""
+", if you don't want credit) })"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
@@ -1125,8 +1127,8 @@ msgid ""
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 msgstr ""
-"jamovi теперь доступен на { insert translation language}! (Большое спасибо "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"jamovi теперь доступен на { insert translation language}! (Большое спасибо @{"
+" insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
@@ -1374,7 +1376,8 @@ msgid ""
 "                    source."
 msgstr ""
 "Один или несколько анализов в этом наборе данных отключены.\n"
-"                    потому что они позволяют выполнять произвольный код. Вам\n"
+"                    потому что они позволяют выполнять произвольный код. "
+"Вам\n"
 "                    следует включать их только в том случае, если вы "
 "доверяете источнику этого набора данных."
 
@@ -2102,7 +2105,8 @@ msgstr "Не удается получить доступ к библиотек�
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr "Невозможно получить доступ к Интернету (вероятно, из-за портала авторизации)"
+msgstr ""
+"Невозможно получить доступ к Интернету (вероятно, из-за портала авторизации)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
