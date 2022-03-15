@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-15 00:27+0000\n"
+"PO-Revision-Date: 2022-03-15 10:30+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -1470,9 +1470,9 @@ msgstr "Restituisce una trasformazione di Box Cox della variabile."
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
-"In base all'IQR: restituisce il valore della variabile se è anomalo, se è "
-"contenuto nella scatola del Boxplot restituisce 0; i valori assoluti "
-"maggiori di 1.5 sono al di fuori dei baffi."
+"In base allo Scarto Interquartile (IQR): restituisce il valore della "
+"variabile se è anomalo, se è contenuto nella scatola del Boxplot restituisce "
+"0; i valori assoluti maggiori di 1.5 sono al di fuori dei baffi."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
