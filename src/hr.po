@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Marija Franka Žuljević <marija.franka@gmail.com>\n"
+"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -853,7 +853,8 @@ msgstr "Filtrira varijeblu koristeći izraz filtra."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtari se možda ne odnose na stupce koji koriste 'V' ili stupčane funkcije"
+msgstr ""
+"Filtari se možda ne odnose na stupce koji koriste 'V' ili stupčane funkcije"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
