@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-14 16:45+0000\n"
+"PO-Revision-Date: 2022-03-16 13:49+0000\n"
 "Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -422,23 +422,23 @@ msgstr "Nije moguće umetnuti stupce"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "Nije moguće umetnuti redove"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "Nije moguće izmijeniti stupce"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "Nije moguće izmjeniti pretvorbu"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "Nije moguće izvesti operaciju"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "Stvori novu pretvorbu..."
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
@@ -451,88 +451,96 @@ msgstr ""
 #: jamovi/client/main/ribbon/annotationtab.js:109
 #: jamovi/client/main/ribbon/datatab.js:18
 msgid "Cut"
-msgstr ""
+msgstr "Izreži"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "Dark2"
-msgstr ""
+msgstr "Tamno2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr ""
+msgstr "Podatci"
 
 #: jamovi/client/main/backstage.js:970
 msgid "Data files"
-msgstr ""
+msgstr "Dokument s podatcima"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
-msgstr ""
+msgstr "Knjižnica podataka"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
-msgstr ""
+msgstr "Tip podataka"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:108
 #: jamovi/client/main/contextmenu/contextmenus.js:58
 #: jamovi/client/main/ribbon/datatab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:28
 #: jamovi/client/main/vareditor/editorwidget.js:238
+#, fuzzy
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Informacijska varijabla"
+msgstr[1] "Informacijske varijable ({n})"
+msgstr[2] "Informacijskih varijabli ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr ""
+msgstr "Decimala"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "decimal places"
-msgstr ""
+msgstr "Decimalne znamenke"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
+#, fuzzy
 msgid "Default"
-msgstr ""
+msgstr "Zadano"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr ""
+msgstr "Zadani nedostatci"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:41
 msgid "Delete"
-msgstr ""
+msgstr "Izbriši"
 
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Izbriši strupac '{columnName}'?"
+msgstr[1] "Izbriši {n} stupca?"
+msgstr[2] "Izbriši {n} stupaca?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
+#, fuzzy
 msgid "Delete Filter"
-msgstr ""
+msgstr "Izbriši filter"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr ""
+msgstr "Izbriši red"
 
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Izbriši red {index}?"
+msgstr[1] "Izbriši {n} reda?"
+msgstr[2] "Izbriši {n} redova?"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "Ukloni promjenu"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
