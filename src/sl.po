@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-14 09:59+0000\n"
+"PO-Revision-Date: 2022-03-19 08:58+0000\n"
 "Last-Translator: Matej U <mateju@src.gnome.org>\n"
 "Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/sl/>\n"
@@ -497,7 +497,7 @@ msgstr "Decimalno število"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
-msgstr "decimalna mesta"
+msgstr "Decimalna mesta"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -1175,7 +1175,7 @@ msgstr "Manjkajoče vrednosti"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Manjkajoče Vrednosti"
+msgstr "Manjkajoče vrednosti"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
