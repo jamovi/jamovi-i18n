@@ -67,7 +67,11 @@ if (args.build) {
         let translation = po2json.parseFileSync(poPath, { format: 'jed1.x' });
 
         let code = translation.locale_data.messages[""].lang;
-        codes.push(code);
+        if (code === 'en')
+            codes.unshift('en')
+        else
+            codes.push(code);
+            
         let buildFile = code + '.json';
         fs.writeFileSync(path.join(buildDir, buildFile), JSON.stringify(translation, null, 4));
         console.log(`wrote: ${buildFile}`);
