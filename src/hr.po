@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-16 13:49+0000\n"
-"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
+"PO-Revision-Date: 2022-03-21 06:50+0000\n"
+"Last-Translator: Damian Dropmann <damiandropmann@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -34,7 +34,7 @@ msgstr "(trenutno)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr "{TipVarijable} varijable se ne mogu mijenjati."
+msgstr "{columnType} varijable se ne mogu mijenjati."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
