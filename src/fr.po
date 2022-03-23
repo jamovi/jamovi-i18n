@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-23 15:15+0000\n"
+"PO-Revision-Date: 2022-03-23 15:53+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
@@ -130,7 +130,7 @@ msgstr "Tous"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "All {n} way"
+msgstr "Tous les {n} chemins"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
@@ -175,7 +175,7 @@ msgstr "Ajouter"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "Ajouter combien de lignes?"
+msgstr "Ajouter combien de lignes ?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -378,7 +378,7 @@ msgstr "Convertir un nombre en un entier."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Converts text to a number (if possible)."
-msgstr "Convertir un texte en nombre (si applicable)"
+msgstr "Convertir un texte en nombre (si applicable)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Converts the value to text."
@@ -443,7 +443,7 @@ msgstr "Créer une nouvelle variable transformée..."
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/backstage.js:976
 msgid "CSV (Comma delimited) {ext}"
-msgstr "CSV (Comma delimited) {ext}"
+msgstr "CSV (séparé par des virgules) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -511,8 +511,8 @@ msgstr "Effacer"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "Effacer la colonne '{columnName}'?"
-msgstr[1] "Effacer {n} colonnes?"
+msgstr[0] "Effacer la colonne '{columnName}' ?"
+msgstr[1] "Effacer {n} colonnes ?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
@@ -526,8 +526,8 @@ msgstr "Effacer la ligne"
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] "Effacer la ligne {index}?"
-msgstr[1] "Effacer {n} lignes?"
+msgstr[0] "Effacer la ligne {index} ?"
+msgstr[1] "Effacer {n} lignes ?"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
@@ -606,7 +606,7 @@ msgstr "Tire un échantillon d'une distribution Gamma."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr "Tire un échantillon d'une distribution normale (gaussienne)"
+msgstr "Tire un échantillon d'une distribution normale (gaussienne)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
@@ -677,7 +677,7 @@ msgstr "Saisir votre URL ici"
 
 #: jamovi/client/main/resultspanel.js:718
 msgid "EPS Image {ext}"
-msgstr "EPS Image {ext}"
+msgstr "Image EPS {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
@@ -885,7 +885,6 @@ msgid "Hide"
 msgstr "Cacher"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
-#, fuzzy
 msgid "Hide filter columns"
 msgstr "Masquer les colonnes du filtre"
 
@@ -894,7 +893,6 @@ msgid "Hide library"
 msgstr "Cacher la bibliothèque"
 
 #: jamovi/client/analysisui/main.js:223
-#, fuzzy
 msgid "Hide options"
 msgstr "Cacher les options"
 
@@ -993,7 +991,7 @@ msgstr "Insérer"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
-msgstr "Insérer combien de lignes?"
+msgstr "Insérer combien de lignes ?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1086,7 +1084,6 @@ msgid "Keyword: {v}"
 msgstr "Mot important : {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
-#, fuzzy
 msgid "Language"
 msgstr "Langue"
 
@@ -1400,7 +1397,7 @@ msgstr "Prêt"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Really uninstall {m}?"
-msgstr "Voulez-vous vraiment désinstaller {m}?"
+msgstr "Voulez-vous vraiment désinstaller {m} ?"
 
 #: jamovi/client/main/backstage.js:1999
 msgid "Recent"
@@ -1424,7 +1421,6 @@ msgid "References"
 msgstr "Références"
 
 #: jamovi/client/main/infobox.js:273
-#, fuzzy
 msgid "Refresh"
 msgstr "Rafraîchir"
 
@@ -1448,7 +1444,6 @@ msgid "Restart and Install"
 msgstr "Redémarrer et installer"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
-#, fuzzy
 msgid "Restart required"
 msgstr "Redémarrage nécessaire"
 
@@ -1475,8 +1470,8 @@ msgstr "Renvoie une transformée de Box Cox de la variable."
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
-"Renvoie si la variable est une valeur aberrante selon l'écart interquartile: "
-"si la valeur est dans la boite de la boite à moustaches, 0 est renvoyé. Les "
+"Renvoie si la variable est une valeur aberrante selon l'écart interquartile :"
+" si la valeur est dans la boite de la boite à moustaches, 0 est renvoyé. Les "
 "valeurs absolues plus éloignées de 1.5 sont à l'extérieur des moustaches."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
@@ -1637,7 +1632,7 @@ msgstr "Sauvegarder sous"
 
 #: jamovi/client/main/main.js:639
 msgid "Save changes to '{title}'?"
-msgstr "Sauvegarder les changements vers '{title}'?"
+msgstr "Sauvegarder les changements vers '{title}' ?"
 
 #: jamovi/client/main/instance.js:438
 msgid "Save failed"
@@ -1706,7 +1701,7 @@ msgstr ""
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
-msgstr "Sideload"
+msgstr "Téléchargement Sideload"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -1722,15 +1717,14 @@ msgid "Source variable"
 msgstr "Variable source"
 
 #: jamovi/client/main/backstage.js:1277
-#, fuzzy
 msgid "Special Import"
 msgstr "Importation spéciale"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr ""
-"Sépare le texte en morceaux basés sur un séparateur.  <i>piece</i> précise "
-"le morceau désiré par index."
+"Sépare le texte en morceaux basés sur un séparateur. <i>piece</i> précise le "
+"morceau désiré par index."
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1756,7 +1750,7 @@ msgstr "Statistique"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
-msgstr ""
+msgstr "Barrer"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
@@ -1813,7 +1807,7 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr "The fichier '{filename}' existe déjà. Ecraser ce fichier?"
+msgstr "Le fichier '{filename}' existe déjà. Ecraser ce fichier ?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
@@ -1852,7 +1846,7 @@ msgstr "La valeur dans les valeurs fournies de l'index."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Cette série de données n'est plus disponible"
 
 #: jamovi/client/main/backstage.js:1196
 #: jamovi/client/main/utils/pathtools.js:15
@@ -1913,11 +1907,11 @@ msgstr "Transformer {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "Transformer: {name}"
+msgstr "Transformer : {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "Transformer: Aucun"
+msgstr "Transformer : Aucun"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
@@ -2075,7 +2069,7 @@ msgstr "Suffixe de la variable"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
-msgstr "Variable: {v}"
+msgstr "Variable : {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2111,7 +2105,7 @@ msgstr ""
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr "Pourquoi cette étape additionnelle est-elle nécessaire?"
+msgstr "Pourquoi cette étape additionnelle est-elle nécessaire ?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
