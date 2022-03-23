@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: gbonaspetti <gbonaspetti@hotmail.com>\n"
+"Last-Translator: R <romaric.hainez@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -266,7 +266,8 @@ msgstr "Impossible d'assigner une valeur non-numérique à la colonne '{}'"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr "Impossible d'assigner une valeur non-numérique à la colonne '{columnName}'"
+msgstr ""
+"Impossible d'assigner une valeur non-numérique à la colonne '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
@@ -1574,9 +1575,9 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"Renvoie si la variable est une valeur aberrante selon l'écart interquartile "
-": si la valeur est dans la boite de la boite à moustaches, 0 est renvoyé. "
-"Les valeurs absolues plus éloignées de 1.5 sont à l'extérieur des moustaches."
+"Renvoie si la variable est une valeur aberrante selon l'écart interquartile :"
+" si la valeur est dans la boite de la boite à moustaches, 0 est renvoyé. Les "
+"valeurs absolues plus éloignées de 1.5 sont à l'extérieur des moustaches."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1931,7 +1932,8 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr "La valeur courante de la variable-cible de la transformation est appliquée."
+msgstr ""
+"La valeur courante de la variable-cible de la transformation est appliquée."
 
 #: jamovi/client/main/strings.ts:6
 msgid ""
@@ -2288,11 +2290,13 @@ msgstr "Pourquoi cette étape additionnelle est-elle nécessaire ?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr "Impossible d'effacer des lignes alors que des lignes filtrées sont cachées"
+msgstr ""
+"Impossible d'effacer des lignes alors que des lignes filtrées sont cachées"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr "Impossible d'insérer des lignes alors que des lignes filtrées sont cachées"
+msgstr ""
+"Impossible d'insérer des lignes alors que des lignes filtrées sont cachées"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
