@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-23 15:14+0000\n"
+"PO-Revision-Date: 2022-03-23 15:15+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
@@ -1448,8 +1448,9 @@ msgid "Restart and Install"
 msgstr "Redémarrer et installer"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
+#, fuzzy
 msgid "Restart required"
-msgstr ""
+msgstr "Redémarrage nécessaire"
 
 #: jamovi/client/main/analyses.js:336
 #: jamovi/client/main/ribbon/appmenu.js:59
@@ -1589,11 +1590,11 @@ msgstr "Arrondir chaque valeur"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Arrondir chaque valeur à l'entier supérieur"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Arrondir chaque valeur à l'entier inférieur"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1696,7 +1697,7 @@ msgstr "Montrer l'éditeur d'équation"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "Afficher dans le menu principal"
 
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable in this demo."
@@ -1721,8 +1722,9 @@ msgid "Source variable"
 msgstr "Variable source"
 
 #: jamovi/client/main/backstage.js:1277
+#, fuzzy
 msgid "Special Import"
-msgstr ""
+msgstr "Importation spéciale"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
