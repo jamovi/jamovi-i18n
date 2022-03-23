@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-23 14:58+0000\n"
+"PO-Revision-Date: 2022-03-23 15:14+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
@@ -13,14 +13,14 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "'{}' est une erreur"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"« {} » n’est pas un argument en faveur de {}()\n"
+"« {} » n’est pas un argument pour {}()\n"
 "(Si vous voulez tester l’égalité, utilisez deux signes égaux '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -42,7 +42,7 @@ msgstr "{m} a été désinstallé avec succès"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} dp"
-msgstr ""
+msgstr "{n} chiffres après la virgule"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -52,7 +52,7 @@ msgstr "{n} n’est pas un entier positif"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} chiffres significatifs"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -60,7 +60,7 @@ msgstr "{r} n’est pas un entier"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Un changement de langage nécessite que jamovi soit redémarré"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -291,7 +291,7 @@ msgstr "Presse-papiers"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Fermer"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -885,16 +885,18 @@ msgid "Hide"
 msgstr "Cacher"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
+#, fuzzy
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Masquer les colonnes du filtre"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
 msgstr "Cacher la bibliothèque"
 
 #: jamovi/client/analysisui/main.js:223
+#, fuzzy
 msgid "Hide options"
-msgstr ""
+msgstr "Cacher les options"
 
 #: jamovi/client/main/ribbon/appmenu.js:39
 msgid "Hide settings"
@@ -1084,8 +1086,9 @@ msgid "Keyword: {v}"
 msgstr "Mot important : {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
+#, fuzzy
 msgid "Language"
-msgstr ""
+msgstr "Langue"
 
 #: jamovi/client/main/backstage.js:1030
 #: jamovi/client/main/backstage.js:1053
@@ -1352,7 +1355,7 @@ msgstr "Document PDF {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr ""
+msgstr "Epingler une modalité"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1421,8 +1424,9 @@ msgid "References"
 msgstr "Références"
 
 #: jamovi/client/main/infobox.js:273
+#, fuzzy
 msgid "Refresh"
-msgstr ""
+msgstr "Rafraîchir"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
