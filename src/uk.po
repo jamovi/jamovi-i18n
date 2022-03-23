@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Artem <artem@molotov.work>\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
 "Language: uk\n"
@@ -1006,7 +1006,8 @@ msgstr "якщо"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "Якщо вираження разрешается як true, використайте значення, інакше другое."
+msgstr ""
+"Якщо вираження разрешается як true, використайте значення, інакше другое."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1397,7 +1398,8 @@ msgid ""
 "                    source."
 msgstr ""
 "Один або кілька аналізів у цімнабір даних отключены.\n"
-"                    тому що вони дозволяють виконувати произвольный код. Вам\n"
+"                    тому що вони дозволяють виконувати произвольный код. "
+"Вам\n"
 "                    наслідує включати їхній тільки у томунагода, якщо ви "
 "довіряєте джерелу цього набору даних."
 
