@@ -56,6 +56,8 @@ if (args.build) {
     console.log(`Searching ${sourceDir}...`);
 
     let codes = [ ];
+    let codesInDev = [ ];
+
     for (let file of sourcefiles) {
 
         if (file.endsWith('.po') === false)
@@ -64,21 +66,34 @@ if (args.build) {
         let poPath = path.join(sourceDir, file);
         console.log(`found ${file}`);
 
-        let translation = po2json.parseFileSync(poPath, { format: 'jed1.x' });
+        let content = fs.readFileSync(poPath, { encoding: 'utf-8' });
+
+        if (content.includes('X-Status: hidden'))
+            continue;
+
+        let inDev = true;
+        if (content.includes('X-Status: production'))
+            inDev = false;
+
+        let translation = po2json.parse(content, { format: 'jed1.x' });
 
         let code = translation.locale_data.messages[""].lang;
         if (code === 'en')
             codes.unshift('en')
+        else if (inDev)
+            codesInDev.push(code);
         else
             codes.push(code);
-            
+
         let buildFile = code + '.json';
         fs.writeFileSync(path.join(buildDir, buildFile), JSON.stringify(translation, null, 4));
         console.log(`wrote: ${buildFile}`);
     }
 
     if (codes.length > 0) {
-        let manifest = { current: '', available: codes }
+        if (codesInDev.length > 0)
+            codes = codes.concat(['---']).concat(codesInDev);
+        let manifest = { current: '', available: codes };
         fs.writeFileSync(path.join(buildDir, 'manifest.json'), JSON.stringify(manifest, null, 4));
         console.log('wrote: manifest.json');
     }
