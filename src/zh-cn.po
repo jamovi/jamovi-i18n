@@ -2,7 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2022-03-07 22:43+0000\n"
+"PO-Revision-Date: 2022-03-24 14:58+0000\n"
+"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
@@ -820,11 +821,11 @@ msgstr "绿色"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Greys"
-msgstr "灰色"
+msgstr "灰阶"
 
 #: jamovi/client/resultsview/array.js:73 jamovi/client/resultsview/group.js:73
 msgid "Group"
-msgstr "组"
+msgstr "分组"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 #: jamovi/client/main/ribbon/appmenu.js:99
