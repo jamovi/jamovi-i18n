@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Sami Çoksan <sami.coksan@erzurum.edu.tr>\n"
+"Last-Translator: Serdar Balcı <drserdarbalci@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -79,7 +79,8 @@ msgstr "Aksan"
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
+msgstr ""
+"Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
