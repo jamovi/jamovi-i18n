@@ -1322,7 +1322,7 @@ msgstr "формат p-значения"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
-msgstr "Параграф"
+msgstr "Абзац"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
