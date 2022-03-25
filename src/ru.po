@@ -634,7 +634,7 @@ msgstr "Дублировать преобразование"
 #: jamovi/client/main/ribbon/variablestab.js:23
 #: jamovi/client/main/tableview.js:1173 jamovi/client/main/tableview.js:1283
 msgid "Edit"
-msgstr "Изменить"
+msgstr "Редактор"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
