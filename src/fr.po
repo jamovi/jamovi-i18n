@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-23 15:53+0000\n"
+"PO-Revision-Date: 2022-03-26 08:10+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/jamovi/jamovi-"
-"i18n/fr/>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -1236,7 +1236,7 @@ msgstr "Nominal"
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr "Aucun"
+msgstr "Aucune"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
