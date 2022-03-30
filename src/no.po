@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-29 17:11+0000\n"
+"PO-Revision-Date: 2022-03-30 12:11+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/nb_NO/>\n"
@@ -404,7 +404,7 @@ msgstr "Kopiert"
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
-msgstr "Kopi"
+msgstr "Kopier"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -629,7 +629,7 @@ msgstr "Dupliser transformasjon"
 #: jamovi/client/main/tableview.js:1173
 #: jamovi/client/main/tableview.js:1283
 msgid "Edit"
-msgstr "Redigere"
+msgstr "Rediger"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
