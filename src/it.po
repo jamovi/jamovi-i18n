@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-15 10:30+0000\n"
+"PO-Revision-Date: 2022-03-31 17:11+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -1249,7 +1249,7 @@ msgstr "Nominale"
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr "Nessuno"
+msgstr "Nessuna"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
