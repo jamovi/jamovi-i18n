@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-05 20:11+0000\n"
+"PO-Revision-Date: 2022-04-06 09:11+0000\n"
 "Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -821,7 +821,7 @@ msgstr ""
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "Funkcija {}() ne postoji"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
@@ -849,16 +849,16 @@ msgstr "Veće nego ili jednako"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr ""
+msgstr "Zelene"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr ""
+msgstr "Sive"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
 msgid "Group"
-msgstr ""
+msgstr "Grupa"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
