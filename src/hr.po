@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-06 09:11+0000\n"
-"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
+"PO-Revision-Date: 2022-04-11 09:11+0000\n"
+"Last-Translator: Nensi Ćaćić <nensi.cacic2@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -564,7 +564,7 @@ msgstr "Opis"
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
 msgid "Desktop"
-msgstr ""
+msgstr "Radna površina"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
@@ -591,12 +591,12 @@ msgstr "Nemoj spremiti"
 #: jamovi/client/main/backstage.js:1222
 #: jamovi/client/main/backstage.js:1240
 msgid "Download"
-msgstr ""
+msgstr "Preuzimanje"
 
 #: jamovi/client/main/utils/pathtools.js:9
 #: jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
-msgstr ""
+msgstr "Preuzimanja"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
@@ -616,11 +616,12 @@ msgstr "Izvlači uzorke iz normalne (Gaussove) distribucije."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Izvlači uzorke iz normalne raspodjele."
 
 #: jamovi/client/resultsview/group.js:215
+#, fuzzy
 msgid "Duplicate"
-msgstr ""
+msgstr "Udvostruči"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
@@ -645,7 +646,7 @@ msgstr ""
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
 msgid "Edit..."
-msgstr ""
+msgstr "Uredi..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
@@ -663,15 +664,16 @@ msgstr "Upišite opis"
 #: jamovi/client/main/backstage.js:275
 #: jamovi/client/main/backstage.js:312
 msgid "Enter file name here"
-msgstr ""
+msgstr "Unesite naziv datoteke ovdje"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
 msgid "Enter label..."
 msgstr "Upišite oznaku..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
+#, fuzzy
 msgid "Enter level value"
-msgstr ""
+msgstr "Unesite vrijednost razine"
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
