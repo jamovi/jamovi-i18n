@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-11 11:11+0000\n"
-"Last-Translator: Nensi Ćaćić <nensi.cacic2@gmail.com>\n"
+"PO-Revision-Date: 2022-04-11 12:11+0000\n"
+"Last-Translator: Marija Franka Žuljević <marija.franka@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -445,7 +445,7 @@ msgstr "Stvori novu pretvorbu..."
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/backstage.js:976
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (Comma delimited) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -495,12 +495,10 @@ msgstr "Decimala"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "decimal places"
-msgstr "Decimalne znamenke"
+msgstr "decimalna mjesta"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
-#, fuzzy
 msgid "Default"
 msgstr "Zadano"
 
@@ -523,7 +521,6 @@ msgstr[2] "Izbriši {n} stupaca?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
-#, fuzzy
 msgid "Delete Filter"
 msgstr "Izbriši filter"
 
@@ -601,6 +598,8 @@ msgstr "Preuzimanja"
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"Vadi uzorak n iz varijable. Npr. SAMPLE(var, 20), tj. SAMPLE(1, 20), tj. "
+"SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -650,8 +649,9 @@ msgstr "Uredi..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
+#, fuzzy
 msgid "else use"
-msgstr ""
+msgstr "u suprotnome koristiti"
 
 #: jamovi/client/main/main.js:366
 msgid "Enable"
@@ -688,7 +688,6 @@ msgid "EPS Image {ext}"
 msgstr "EPS Slika {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
-#, fuzzy
 msgid "Equal to"
 msgstr "Jednako"
 
@@ -2012,11 +2011,11 @@ msgstr "Nije moguće deinstalirati modul"
 
 #: jamovi/client/main/store/pagemodules.js:124
 msgid "Unavailable"
-msgstr ""
+msgstr "Nedostupno"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Underline"
-msgstr ""
+msgstr "Podcrtaj"
 
 #: jamovi/client/main/ribbon/annotationtab.js:115
 #: jamovi/client/main/ribbon/datatab.js:24
@@ -2028,48 +2027,49 @@ msgstr ""
 #: jamovi/client/main/instance.js:256
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Unexpected error"
-msgstr ""
+msgstr "Neočekivana pogreška"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Neprepoznati oblik dokumenta"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
 msgid "Update"
-msgstr ""
+msgstr "Ažuriranje"
 
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Update did not complete"
-msgstr ""
+msgstr "Ažuriranje nije dovršeno"
 
 #: jamovi/client/main/ribbon/appmenu.js:134
 msgid "Update is being downloaded"
-msgstr ""
+msgstr "Sadržaj za ažuriranje se preuzima"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Update is ready"
-msgstr ""
+msgstr "Ažuriranje nije spremno"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 msgid "Update not found"
-msgstr ""
+msgstr "Ažuriranje nije pronađeno"
 
 #: jamovi/client/main/ribbon/appmenu.js:127
 msgid "Updates"
-msgstr ""
+msgstr "Ažuriranja"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
-msgstr ""
+msgstr "Prijenos datoteka"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
-msgstr ""
+msgstr "korištenje"
 
 #: jamovi/client/main/editors/transformeditor.js:260
+#, fuzzy
 msgid "used by"
-msgstr ""
+msgstr "korišteno od strane"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
@@ -2081,11 +2081,11 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr ""
+msgstr "Sufiks varijable"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Varijabla: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2093,41 +2093,44 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:220
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr ""
+msgstr "Varijable"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
-msgstr ""
+msgstr "Verzija {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
-msgstr ""
+msgstr "Vidljivo"
 
 #: jamovi/client/main/backstage.js:1027
 #: jamovi/client/main/backstage.js:1050
 #: jamovi/client/main/resultspanel.js:743
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Web stranica {ext}"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
-msgstr ""
+msgstr "kada"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
+#, fuzzy
 msgid "When the variable contains a missing value, use the value, otherwise the else."
 msgstr ""
+"Kada varijabla sadrži vrijednost koja nedostaje, koristite vrijednost, inače "
+"koristite ostale."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "Zašto je potreban ovaj dodatni korak?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Ne možete brisati redove dok su skriveni filtrirani redovi"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Ne možete umetati redove dok su skriveni filtrirani redovi"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
@@ -2140,7 +2143,9 @@ msgstr ""
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr ""
+"Vaša internetska veza se prekinula. Molimo Vas osvježite stranicu za "
+"nastavak."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr ""
+msgstr "Uvećavanje"
