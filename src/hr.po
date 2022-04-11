@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-11 12:11+0000\n"
+"PO-Revision-Date: 2022-04-11 13:11+0000\n"
 "Last-Translator: Marija Franka Žuljević <marija.franka@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -540,12 +540,11 @@ msgid "Delete transform"
 msgstr "Ukloni promjenu"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
-#, fuzzy
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
 msgstr[0] "Izbriši varijablu"
 msgstr[1] "Izbriši varijable"
-msgstr[2] "Izbriši varijabli"
+msgstr[2] "Izbriši varijable"
 
 #: jamovi/client/main/tableview.js:77
 msgid "Deleted"
@@ -618,7 +617,6 @@ msgid "Draws samples from a uniform distribution."
 msgstr "Izvlači uzorke iz normalne raspodjele."
 
 #: jamovi/client/resultsview/group.js:215
-#, fuzzy
 msgid "Duplicate"
 msgstr "Udvostruči"
 
