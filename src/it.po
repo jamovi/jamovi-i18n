@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-31 17:11+0000\n"
+"PO-Revision-Date: 2022-04-12 16:10+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' è in errore"
+msgstr "'{}' è un errore"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
