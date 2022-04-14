@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-14 07:52+0000\n"
+"PO-Revision-Date: 2022-04-14 11:12+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' conté error/es"
+msgstr "'{}' conté un error"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
