@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-17 19:11+0000\n"
+"PO-Revision-Date: 2022-04-17 20:11+0000\n"
 "Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -771,9 +771,8 @@ msgid "Filter is active"
 msgstr "Filter je aktivan"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
-#, fuzzy
 msgid "Filter is inactive"
-msgstr "Filter nije aktiviran"
+msgstr "Filter je neaktivan"
 
 #: jamovi/client/main/tableview.js:78
 msgid "Filtered"
