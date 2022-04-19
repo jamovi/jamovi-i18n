@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-23 15:57+0000\n"
+"PO-Revision-Date: 2022-04-19 16:11+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' помилково"
+msgstr "\"{}\" є помилкою"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
