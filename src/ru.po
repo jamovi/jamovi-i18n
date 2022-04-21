@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-08 03:07+0000\n"
+"PO-Revision-Date: 2022-04-21 13:11+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
@@ -1003,7 +1003,7 @@ msgstr "Установить"
 
 #: jamovi/client/main/store.js:35 jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
-msgstr "Установлен"
+msgstr "Установлено"
 
 #: jamovi/client/main/ribbon/analysetab.js:80
 msgid "Installed Modules"
