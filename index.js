@@ -262,7 +262,7 @@ else if (args.update) {
             console.log(`Messages added: ${addedMsgs}`);
         // merged
 
-        let output = gettextParser.po.compile(po);
+        let output = gettextParser.po.compile(po, { foldLength: 77, sort: (a, b) => a.msgid.localeCompare(b.msgid) });
         fs.writeFileSync(path.join(sourceDir, file), output);
     }
 }
@@ -287,7 +287,7 @@ else if (args.create) {
 
     pot.headers.language = code;
 
-    let output = gettextParser.po.compile(pot);
+    let output = gettextParser.po.compile(pot, { foldLength: 77, sort: (a, b) => a.msgid.localeCompare(b.msgid) });
     fs.writeFileSync(path.join(sourceDir, `${code}.po`), output);
 
     console.log(`wrote ${code}.po`);
