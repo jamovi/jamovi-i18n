@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-03-26 08:10+0000\n"
 "Last-Translator: R <romaric.hainez@gmail.com>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/fr/>\n"
+"Language-Team: French "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
 "X-Generator: Weblate 4.12-dev\n"
@@ -240,8 +240,7 @@ msgstr "Impossible d'assigner une valeur non-numérique à la colonne '{}'"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
-"Impossible d'assigner une valeur non-numérique à la colonne '{columnName}'"
+msgstr "Impossible d'assigner une valeur non-numérique à la colonne '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
@@ -525,6 +524,10 @@ msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
 msgstr[0] "Effacer la ligne {index} ?"
 msgstr[1] "Effacer {n} lignes ?"
+
+#: jamovi/client/main/contextmenu/contextmenus.js:28
+msgid "Delete Rows"
+msgstr ""
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
@@ -955,6 +958,10 @@ msgstr "Importé en tant que"
 msgid "Importing"
 msgstr "Importation"
 
+#: jamovi/client/main/ribbon/appmenu.js:201
+msgid "In development"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "inactive"
@@ -1042,6 +1049,20 @@ msgstr "fichier jamovi {ext}"
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
 msgstr "fichiers jamovi {ext}"
+
+#: jamovi/client/main/misc/announcements.js:3
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
+msgstr ""
+
+#: jamovi/client/main/misc/announcements.js:2
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1451,10 +1472,9 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"Renvoie si la variable est une valeur aberrante selon l'écart "
-"interquartile : si la valeur est dans la boite de la boite à moustaches, 0 "
-"est renvoyé. Les valeurs absolues plus éloignées de 1.5 sont à l'extérieur "
-"des moustaches."
+"Renvoie si la variable est une valeur aberrante selon l'écart interquartile "
+": si la valeur est dans la boite de la boite à moustaches, 0 est renvoyé. "
+"Les valeurs absolues plus éloignées de 1.5 sont à l'extérieur des moustaches."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1623,6 +1643,10 @@ msgstr "Sauvegardé sous '{filename}'"
 msgid "Saving"
 msgstr "Sauvegarde"
 
+#: jamovi/client/main/notification.js:77
+msgid "Scheduled maintenance"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Rechercher dans les variables"
@@ -1672,9 +1696,8 @@ msgid "Show in main menu"
 msgstr "Afficher dans le menu principal"
 
 #: jamovi/client/main/store.js:65
-msgid "Side loading modules is not avaliable in this demo."
+msgid "Side loading modules is not avaliable on this plan."
 msgstr ""
-"Le side loading n'est pas disponible dans cette version de démonstration."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1753,6 +1776,10 @@ msgstr "Syntaxe"
 msgid "Syntax mode"
 msgstr "Mode syntaxe"
 
+#: jamovi/client/main/ribbon/appmenu.js:209
+msgid "System default"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "Tableau"
@@ -1781,8 +1808,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
-"La valeur courante de la variable-cible de la transformation est appliquée."
+msgstr "La valeur courante de la variable-cible de la transformation est appliquée."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -1797,10 +1823,8 @@ msgid "The index of value in the provided values."
 msgstr "L'index des valeurs dans les valeurs fournies."
 
 #: jamovi/client/main/store.js:64
-msgid "The jamovi library is not avaliable in this demo."
+msgid "The jamovi library is not avaliable on this plan."
 msgstr ""
-"La bibliothèque de jamovi n'est pas disponible dans cette version de "
-"démonstration."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1816,8 +1840,7 @@ msgstr "La bibliothèque est désactivée"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr ""
-"La transformation sélectionnée comporte une erreur et devrait être modifiée."
+msgstr "La transformation sélectionnée comporte une erreur et devrait être modifiée."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
@@ -2016,6 +2039,12 @@ msgstr "Mise à jour non trouvée"
 msgid "Updates"
 msgstr "Mises à jour"
 
+#: jamovi/client/main/instance.js:199
+#: jamovi/client/main/instance.js:238
+#: jamovi/client/main/instance.js:241
+msgid "Upload failed"
+msgstr ""
+
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
 msgstr "Upload en cours"
@@ -2083,17 +2112,14 @@ msgstr "Pourquoi cette étape additionnelle est-elle nécessaire ?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
-"Impossible d'effacer des lignes alors que des lignes filtrées sont cachées"
+msgstr "Impossible d'effacer des lignes alors que des lignes filtrées sont cachées"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
-"Impossible d'insérer des lignes alors que des lignes filtrées sont cachées"
+msgstr "Impossible d'insérer des lignes alors que des lignes filtrées sont cachées"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify columns that affect filters when filtered rows are hidden"
+msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
 "Impossible de modifier des colonnes qui affectent les filtres alors que des "
 "lignes filtrées sont cachées"

@@ -2,14 +2,14 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-04-21 13:11+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
-"Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ru/>\n"
+"Language-Team: Russian "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.12-dev\n"
 "X-Status: production\n"
 
@@ -530,6 +530,10 @@ msgstr[0] "Удалить строку {index}?"
 msgstr[1] "Удалить {n} строк?"
 msgstr[2] "Удалить {n} строк?"
 
+#: jamovi/client/main/contextmenu/contextmenus.js:28
+msgid "Delete Rows"
+msgstr ""
+
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
 msgstr "Удалить преобразование"
@@ -599,8 +603,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Создает выборку n из переменной. т.е. SAMPLE(var, 20), т.е. SAMPLE(1, 20), т."
-"е. SAMPLE('обучение', 20, 'тест')"
+"Создает выборку n из переменной. т.е. SAMPLE(var, 20), т.е. SAMPLE(1, 20), "
+"т.е. SAMPLE('обучение', 20, 'тест')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -789,8 +793,7 @@ msgstr "Фильтрует переменную, используя выраже
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
-"Фильтры не могут ссылаться на столбцы, используя 'V' или функции столбцов"
+msgstr "Фильтры не могут ссылаться на столбцы, используя 'V' или функции столбцов"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -935,8 +938,7 @@ msgstr "если"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr ""
-"Если выражение разрешается как true, используйте значение, иначе другое."
+msgstr "Если выражение разрешается как true, используйте значение, иначе другое."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -957,6 +959,10 @@ msgstr "Импортировано как"
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
 msgstr "Импортирование"
+
+#: jamovi/client/main/ribbon/appmenu.js:201
+msgid "In development"
+msgstr ""
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1045,6 +1051,20 @@ msgstr "Файл Jamovi {ext}"
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
 msgstr "Файлы Jamovi {ext}"
+
+#: jamovi/client/main/misc/announcements.js:3
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
+msgstr ""
+
+#: jamovi/client/main/misc/announcements.js:2
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1269,8 +1289,7 @@ msgid ""
 "                    source."
 msgstr ""
 "Один или несколько анализов в этом наборе данных отключены.\n"
-"                    потому что они позволяют выполнять произвольный код. "
-"Вам\n"
+"                    потому что они позволяют выполнять произвольный код. Вам\n"
 "                    следует включать их только в том случае, если вы "
 "доверяете источнику этого набора данных."
 
@@ -1625,6 +1644,10 @@ msgstr "Сохранено в '{filename}'"
 msgid "Saving"
 msgstr "Сохранение"
 
+#: jamovi/client/main/notification.js:77
+msgid "Scheduled maintenance"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Переменные поиска"
@@ -1674,8 +1697,8 @@ msgid "Show in main menu"
 msgstr "Показать в главном меню"
 
 #: jamovi/client/main/store.js:65
-msgid "Side loading modules is not avaliable in this demo."
-msgstr "Модули сторонней загрузки недоступны в этой демонстрации."
+msgid "Side loading modules is not avaliable on this plan."
+msgstr ""
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1754,6 +1777,10 @@ msgstr "Синтаксис"
 msgid "Syntax mode"
 msgstr "Синтаксический режим"
 
+#: jamovi/client/main/ribbon/appmenu.js:209
+msgid "System default"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "Таблица"
@@ -1797,8 +1824,8 @@ msgid "The index of value in the provided values."
 msgstr "Индекс значения в предоставленных границах."
 
 #: jamovi/client/main/store.js:64
-msgid "The jamovi library is not avaliable in this demo."
-msgstr "Библиотека jamovi недоступна в этой демонстрации."
+msgid "The jamovi library is not avaliable on this plan."
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2014,6 +2041,12 @@ msgstr "Обновление не найдено"
 msgid "Updates"
 msgstr "Обновления"
 
+#: jamovi/client/main/instance.js:199
+#: jamovi/client/main/instance.js:238
+#: jamovi/client/main/instance.js:241
+msgid "Upload failed"
+msgstr ""
+
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
 msgstr "Загружается"
@@ -2088,8 +2121,7 @@ msgid "You cannot insert rows while filtered rows are hidden"
 msgstr "Вы не можете вставлять строки, пока отфильтрованные строки скрыты"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify columns that affect filters when filtered rows are hidden"
+msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
 "Вы не можете изменять столбцы, влияющие на фильтры, когда отфильтрованные "
 "строки скрыты"

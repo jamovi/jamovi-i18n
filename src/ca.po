@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-04-22 10:13+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ca/>\n"
+"Language-Team: Catalan "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.12.1-dev\n"
@@ -72,7 +72,9 @@ msgid "Accent"
 msgstr "Accentuar"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
 msgstr ""
 "Accés denegat. És possible que no tinga els permisos adients per a accedir a "
 "aquest recurs."
@@ -529,6 +531,10 @@ msgid_plural "Delete {n} rows?"
 msgstr[0] "Eliminar la fila {index}?"
 msgstr[1] "Eliminar {n} files?"
 
+#: jamovi/client/main/contextmenu/contextmenus.js:28
+msgid "Delete Rows"
+msgstr ""
+
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
 msgstr "Eliminar transformació"
@@ -556,7 +562,10 @@ msgid "Desktop"
 msgstr "Escriptori"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
 "Determina si cap dels elements apareix en in1, in2, in3, .... Compte que la "
 "major part d'aquests arguments son opcionals; es possible simplement "
@@ -591,10 +600,12 @@ msgid "Downloads"
 msgstr "Descarregues"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
-msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgid ""
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Pren una mostra de n de la variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20)"
-", i.e. SAMPLE(‘training’, 20, ‘test’)"
+"Pren una mostra de n de la variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE(‘training’, 20, ‘test’)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -788,8 +799,7 @@ msgstr "Filtra una variable fent ús de la expressió de filtre."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
-"Els filtres no poden ser columnes que utilitzin 'V' o funcions de columna"
+msgstr "Els filtres no poden ser columnes que utilitzin 'V' o funcions de columna"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -809,7 +819,9 @@ msgid "Formula contains illegal node"
 msgstr "La formula conté un node il·legal"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two equals "
+"signs '==')"
 msgstr ""
 "La formula està mal especificada (si es vol comprovar igualtat, cal "
 "utilitzar dos signes d'igual '==')"
@@ -958,6 +970,10 @@ msgstr "Importat com"
 msgid "Importing"
 msgstr "Important"
 
+#: jamovi/client/main/ribbon/appmenu.js:201
+msgid "In development"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "inactive"
@@ -1048,6 +1064,20 @@ msgstr "Fitxer jamovi {ext}"
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
 msgstr "Fitxers jamovi {ext}"
+
+#: jamovi/client/main/misc/announcements.js:3
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
+msgstr ""
+
+#: jamovi/client/main/misc/announcements.js:2
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1466,7 +1496,10 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "Retorna una transformació Box Cox de la variable."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the "
+"value is within the box of a Boxplot 0 is returned, absolute values larger "
+"than 1.5 are outside the whiskers."
 msgstr ""
 "Retorna si la variable es un valor atípic segons el R.I.Q.: Si el valor es "
 "troba dins de la caixa d'un gràfic de caaixa retorna 0, els valors absoluts "
@@ -1644,6 +1677,10 @@ msgstr "Desat a '{filename}'"
 msgid "Saving"
 msgstr "Desant"
 
+#: jamovi/client/main/notification.js:77
+msgid "Scheduled maintenance"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Cerca variables"
@@ -1693,8 +1730,8 @@ msgid "Show in main menu"
 msgstr "Mostrar al menú principal"
 
 #: jamovi/client/main/store.js:65
-msgid "Side loading modules is not avaliable in this demo."
-msgstr "La càrrega auxiliar de mòduls no està disponible en aquesta demo."
+msgid "Side loading modules is not avaliable on this plan."
+msgstr ""
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1718,7 +1755,9 @@ msgid "Special Import"
 msgstr "Importació especial"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 "Divideix el text en porcions en base a un separador. <i> porció </i> "
 "especifica la part desitjada segons l'índex."
@@ -1773,6 +1812,10 @@ msgstr "Sintaxi"
 msgid "Syntax mode"
 msgstr "Mode sintaxi"
 
+#: jamovi/client/main/ribbon/appmenu.js:209
+msgid "System default"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "Taula"
@@ -1792,7 +1835,9 @@ msgid "The content has been copied to the clipboard"
 msgstr "El contingut s'ha copiat al portapapers"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgid ""
+"The content has been prepared, and can be copied with the button below, or "
+"by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
 "El contingut està preparat i es pot copiar amb el botó de baix o prement "
 "<em> {k} + C </em> al teclat"
@@ -1814,8 +1859,8 @@ msgid "The index of value in the provided values."
 msgstr "L'index del valor als valors proporcionats."
 
 #: jamovi/client/main/store.js:64
-msgid "The jamovi library is not avaliable in this demo."
-msgstr "La biblioteca jamovi no està disponible en aquesta demo."
+msgid "The jamovi library is not avaliable on this plan."
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2036,6 +2081,12 @@ msgstr "Actualizació no encontrada"
 msgid "Updates"
 msgstr "Actualitzacions"
 
+#: jamovi/client/main/instance.js:199
+#: jamovi/client/main/instance.js:238
+#: jamovi/client/main/instance.js:241
+msgid "Upload failed"
+msgstr ""
+
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
 msgstr "Carregant"
@@ -2091,7 +2142,9 @@ msgid "when"
 msgstr "quan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgid ""
+"When the variable contains a missing value, use the value, otherwise the "
+"else."
 msgstr ""
 "Quan la variable conté un valor perdut, utilitzar aquest valor, "
 "contrariament l'altre."
@@ -2115,7 +2168,9 @@ msgstr ""
 "estan ocultes"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
 msgstr ""
 "No pots modificar transformacions que afecten als filtres quan les files "
 "filtrades estan ocultes"
