@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-19 16:11+0000\n"
+"PO-Revision-Date: 2022-04-29 09:09+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Bokmål "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nb_NO/>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/nb_NO/>\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.12.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -533,7 +533,7 @@ msgstr[1] "Vil du slette {n} rader?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "Slett rader"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
@@ -971,7 +971,7 @@ msgstr "Importerer"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
-msgstr ""
+msgstr "Under utvikling"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1070,13 +1070,14 @@ msgid ""
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
 msgstr ""
+"jamovi er nå tilgjengelig på Norsk bokmål (Takk til Sebastian Jentschke)!"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr ""
+msgstr "jamovi er nå tilgjengelig på Norsk bokmål!"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1614,11 +1615,11 @@ msgstr "Runder hver verdi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Runder av hver verdi til heltallet ovenfor"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Runder av hver verdi til heltallet nedenfor"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1677,7 +1678,7 @@ msgstr "Lagrer"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Planlagt vedlikehold"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1729,7 +1730,7 @@ msgstr "Vis i hovedmenyen"
 
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable on this plan."
-msgstr ""
+msgstr "Side loading av moduler er ikke tilgjengelige i denne subskripsjonen."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1750,7 +1751,7 @@ msgstr "Kildevariabel"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "Spesiell import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1812,7 +1813,7 @@ msgstr "Syntaksmodus"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "Systemstandard"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1858,7 +1859,7 @@ msgstr "Indeks / posisjon av en verdi innenfor de angitte verdiene."
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "jamovi-biblioteket er ikke tilgjengelig i denne subskripsjonen."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2083,7 +2084,7 @@ msgstr "Oppdateringer"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Opplasting mislyktes"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
