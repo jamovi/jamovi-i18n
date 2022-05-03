@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-03 15:11+0000\n"
+"PO-Revision-Date: 2022-05-03 16:11+0000\n"
 "Last-Translator: Serdar Balcı <drserdarbalci@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -42,8 +42,9 @@ msgstr "{m} başarılı bir şekilde kaldırıldı"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "{n} dp"
-msgstr ""
+msgstr "{n} dp"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -52,16 +53,18 @@ msgstr "{n} pozitif bir tam sayı değildir"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} sf"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
 msgstr "{r} bir tam sayı değildir"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
+#, fuzzy
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Dil değişikliği jamovi'nin yeniden başlatılmasını gerektiriyor"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -291,7 +294,7 @@ msgstr "Clipboard"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Kapat"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -357,16 +360,18 @@ msgid "Continuous"
 msgstr "Sürekli"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
+#, fuzzy
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "ABS (IQR değişkeni) için kısa kullanım"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
+#, fuzzy
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "ABS (Z (değişken )) için kolaylık kısaltması"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "MAX (ABSIQR(değişken 1, değişken 2, ... )) için kolaylık kısaltması"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
@@ -856,8 +861,9 @@ msgstr ""
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
+#, fuzzy
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
@@ -1264,8 +1270,9 @@ msgstr ""
 #: jamovi/client/main/vareditor/transformlist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
+#, fuzzy
 msgid "None"
-msgstr ""
+msgstr "Hiçbiri"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
