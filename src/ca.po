@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-04-27 13:10+0000\n"
+"PO-Revision-Date: 2022-05-11 18:11+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1-dev\n"
+"X-Generator: Weblate 4.12.1\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -154,7 +154,7 @@ msgstr "Anàlisis"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
-msgstr "Analitzar"
+msgstr "Anàlisi"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -655,7 +655,7 @@ msgstr "Editar..."
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
 msgid "else use"
-msgstr "a la resta utilitzar"
+msgstr "altrament utilitza"
 
 #: jamovi/client/main/main.js:366
 msgid "Enable"
@@ -2096,7 +2096,7 @@ msgstr "Carregant"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
-msgstr "utlitzar"
+msgstr "utilitza"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
