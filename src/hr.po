@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-03 17:12+0000\n"
-"Last-Translator: Renata Orhanović <renata.split@gmail.com>\n"
+"PO-Revision-Date: 2022-05-13 13:19+0000\n"
+"Last-Translator: Nensi Ćaćić <nensi.cacic2@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -980,7 +980,7 @@ msgstr "Uvoženje"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
-msgstr ""
+msgstr "U razvoju"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1644,11 +1644,11 @@ msgstr "Zaokružuje svaku vrijednost"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Zaokružuje svaku vrijednost na gornju znamenku"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Zaokružuje svaku vrijednost na donju znamenku"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1707,7 +1707,7 @@ msgstr "Spremanje"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Zakazano održavanje"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1782,7 +1782,7 @@ msgstr "Izvorna varijabla"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "Poseban uvoz"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1842,7 +1842,7 @@ msgstr "Način sintakse"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "Zadana postavka sustava"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1888,7 +1888,7 @@ msgstr ""
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "Jamovi knjižnica nije dostupna u ovoj demo verziji."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 #, fuzzy
@@ -1912,17 +1912,19 @@ msgid "The value in the provided values at index."
 msgstr ""
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Ovaj skup podataka više nije dostupan"
 
 #: jamovi/client/main/backstage.js:1196
 #: jamovi/client/main/utils/pathtools.js:15
+#, fuzzy
 msgid "This Device"
-msgstr ""
+msgstr "Ovaj uređaj"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "This is a data variable."
-msgstr ""
+msgstr "Ovo je podatkovna varijabla."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -1930,37 +1932,42 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1318
 #: jamovi/client/main/backstage.js:1326
 msgid "This PC"
-msgstr ""
+msgstr "Ovo računalo"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Ova je sesija ograničena na {} stupaca"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Ova je sesija ograničena na {} redaka"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Ova sesija će uskoro završiti."
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Ova će sesija završiti za otprilike {} minuta"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Ova sesija će završiti za otprilike 1 minutu"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Ova transformacija je pogrešna i treba je urediti."
 
 #: jamovi/client/main/viewcontroller.js:357
+#, fuzzy
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "Previše podataka, umjesto toga koristite uvoz"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
@@ -1974,7 +1981,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Transformacija: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
@@ -2074,7 +2081,7 @@ msgstr "Podcrtaj"
 #: jamovi/client/main/ribbon/datatab.js:24
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Undo Edit"
-msgstr ""
+msgstr "Poništi uređivanje"
 
 #: jamovi/client/main/instance.js:249
 #: jamovi/client/main/instance.js:256
@@ -2115,7 +2122,7 @@ msgstr "Ažuriranja"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Učitavanje nije uspjelo"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
@@ -2131,8 +2138,9 @@ msgid "used by"
 msgstr "korišteno od strane"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
+#, fuzzy
 msgid "using transform"
-msgstr ""
+msgstr "koristiti transformaciju"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
@@ -2194,8 +2202,11 @@ msgid "You cannot insert rows while filtered rows are hidden"
 msgstr "Ne možete umetati redove dok su skriveni filtrirani redovi"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
+"Ne možete urediti stupce koji utječu na filtere kada su filtrirani redci "
+"skriveni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
