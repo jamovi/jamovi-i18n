@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-11 18:11+0000\n"
+"PO-Revision-Date: 2022-05-13 09:53+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1\n"
+"X-Generator: Weblate 4.13-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -502,7 +502,7 @@ msgstr "Predeterminat"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr "Valores perduts predetermints"
+msgstr "Valors perduts predeterminats"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
@@ -1361,7 +1361,7 @@ msgstr[1] "Multiples Variables Resultat ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "Formato de valor-p"
+msgstr "Format de valor-p"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
