@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-15 22:19+0000\n"
+"PO-Revision-Date: 2022-05-15 23:01+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -1069,7 +1069,6 @@ msgid "jamovi files {ext}"
 msgstr "Files jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-#, fuzzy
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
@@ -1626,11 +1625,11 @@ msgstr "Arrotonda ogni valore"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Arrotonda ogni valore al numero intero superiore"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Arrotonda ogni valore al numero intero inferiore"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1689,7 +1688,7 @@ msgstr "Salvataggio"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Manutenzione programmata"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1742,6 +1741,8 @@ msgstr "Mostra nel Menù principale"
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable on this plan."
 msgstr ""
+"In questa demo non è possibile effettuare il caricamento ausiliario (disco "
+"locale) dei moduli."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1762,7 +1763,7 @@ msgstr "Variabile di origine"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "Importazione speciale"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1824,7 +1825,7 @@ msgstr "Modalità sintassi"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "Sistema predefinito"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1872,7 +1873,7 @@ msgstr "L'indice del valore nei valori specificati."
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "La libreria di Jamovi non è disponibile per questa demo."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2097,7 +2098,7 @@ msgstr "Aggiornamenti"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Caricamento fallito"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
