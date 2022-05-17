@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-17 12:14+0000\n"
+"PO-Revision-Date: 2022-05-17 13:18+0000\n"
 "Last-Translator: Artem <artem@molotov.work>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -1824,7 +1824,7 @@ msgstr "Синтаксический режим"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "Типові системні значення"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1870,7 +1870,7 @@ msgstr "Індекс значення у наданих кордонах."
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "Бібліотека jamovi в цьому плані недоступна."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2096,7 +2096,7 @@ msgstr "Оновлення"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Помилка відвантаження"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
