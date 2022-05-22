@@ -1,14 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-03-07 22:43+0000\n"
-"Language-Team: Japanese "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
+"PO-Revision-Date: 2022-05-22 07:17+0000\n"
+"Last-Translator: wed-4 <sedwey234@gmail.com>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -525,7 +526,7 @@ msgstr[1] "{n}行を削除しますか？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "配列を削除する"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
