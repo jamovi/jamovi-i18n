@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
+"Last-Translator: wed-4 <sedwey234@gmail.com>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ja/>\n"
 "Language: ja\n"
