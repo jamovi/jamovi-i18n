@@ -1,16 +1,22 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
-"POT-Creation-Date: 2021-11-24 12:44+0800\n"
-"PO-Revision-Date: 2022-01-12 11:06+0800\n"
+"POT-Creation-Date: 2022-02-02 12:44+0800\n"
+"PO-Revision-Date: 2022-04-25 06:07+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
-"Language-Team: Shun Wang <shuonwang@gmail.com>\n"
+"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
+"jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Poedit 3.0.1\n"
+"X-Generator: Weblate 4.12.1-dev\n"
+"X-Status: production\n"
+
+#: jamovi/server/jamovi/server/column.py
+msgid "'{}' is in error"
+msgstr "'{}' 有错误"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -26,7 +32,7 @@ msgstr "(自动)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:261
 msgid "(current)"
-msgstr "(current)"
+msgstr "(当前)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -36,14 +42,28 @@ msgstr "{columnType} 列不可编辑。"
 msgid "{m} was uninstalled successfully"
 msgstr "{m} 已成功卸载"
 
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} dp"
+msgstr "{n} 位小数"
+
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
 msgstr "{n} 不是正整数"
 
+#: jamovi/client/main/ribbon/appmenu.js:62
+#: jamovi/client/main/ribbon/appmenu.js:69
+msgid "{n} sf"
+msgstr "{n} 有效数字"
+
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
 msgstr "{r} 不是整数"
+
+#: jamovi/client/main/ribbon/appmenu.js:255
+msgid "A change of language requires jamovi to be restarted"
+msgstr "更改语言需要重新启动 jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -270,6 +290,10 @@ msgstr "清除选择"
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Clipboard"
 msgstr "剪贴板"
+
+#: jamovi/client/main/infobox.js:270
+msgid "Close"
+msgstr "关闭"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -502,6 +526,10 @@ msgid_plural "Delete {n} rows?"
 msgstr[0] "删除行 {index}？"
 msgstr[1] "删除 {n} 行？"
 
+#: jamovi/client/main/contextmenu/contextmenus.js:28
+msgid "Delete Rows"
+msgstr "删除多行"
+
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
 msgstr "删除转换"
@@ -534,8 +562,8 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选"
-"的——可以简单地使用 <strong>CONTAINS(needle, haystack)</strong>。"
+"确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选的——可以简单地使用 "
+"<strong>CONTAINS(needle, haystack)</strong>。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -569,8 +597,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"从变量中抽取 n 个样本。例 SAMPLE(var, 20)，例 SAMPLE(1, 20)，例 "
-"SAMPLE('training', 20, 'test')"
+"从变量中抽取 n 个样本。例 SAMPLE(var, 20)，例 SAMPLE(1, 20)，例 SAMPLE('training', 20, "
+"'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -819,11 +847,11 @@ msgstr "绿色"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Greys"
-msgstr "灰色"
+msgstr "灰阶"
 
 #: jamovi/client/resultsview/array.js:73 jamovi/client/resultsview/group.js:73
 msgid "Group"
-msgstr "组"
+msgstr "分组"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 #: jamovi/client/main/ribbon/appmenu.js:99
@@ -852,9 +880,17 @@ msgstr "隐藏的"
 msgid "Hide"
 msgstr "隐藏"
 
+#: jamovi/client/main/vareditor/filterwidget.js:71
+msgid "Hide filter columns"
+msgstr "隐藏筛选器列"
+
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
 msgstr "隐藏库"
+
+#: jamovi/client/analysisui/main.js:223
+msgid "Hide options"
+msgstr "隐藏选项"
 
 #: jamovi/client/main/ribbon/appmenu.js:38
 msgid "Hide settings"
@@ -894,7 +930,7 @@ msgstr "if"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "如果表达式结果为 true，则使用该值，否则使用 else。"
+msgstr "如果表达式结果为 true，则使用此value，否则使用 else。"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -916,6 +952,10 @@ msgstr "导入为"
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
 msgstr "导入中"
+
+#: jamovi/client/main/ribbon/appmenu.js:201
+msgid "In development"
+msgstr "开发中"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1005,6 +1045,20 @@ msgstr "jamovi 文件 {ext}"
 msgid "jamovi files {ext}"
 msgstr "jamovi 文件 {ext}"
 
+#: jamovi/client/main/misc/announcements.js:3
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
+msgstr "jamovi 现在提供 { 中文(简体) }! (非常感谢 {王顺(Shun Wang)和梦特团队})"
+
+#: jamovi/client/main/misc/announcements.js:2
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
+msgstr "jamovi 现在提供{ 中文(简体) }! (非常感谢 @{ 王顺(Shun Wang)和梦特团队 })"
+
 #: jamovi/client/main/ribbon/appmenu.js:129
 msgid "jamovi is up-to-date"
 msgstr "jamovi 已是最新"
@@ -1037,6 +1091,10 @@ msgstr "分散对齐"
 msgid "Keyword: {v}"
 msgstr "关键字：{v}"
 
+#: jamovi/client/main/ribbon/appmenu.js:154
+msgid "Language"
+msgstr "语言"
+
 #: jamovi/client/main/backstage.js:1030 jamovi/client/main/backstage.js:1053
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
@@ -1048,7 +1106,7 @@ msgstr "左对齐"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr "少于"
+msgstr "小于"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
@@ -1290,6 +1348,10 @@ msgstr "粘贴"
 msgid "PDF Document {ext}"
 msgstr "PDF 文档 {ext}"
 
+#: jamovi/client/main/vareditor/datavarlevelwidget.js:19
+msgid "Pin level"
+msgstr "固定水平"
+
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
 msgstr "绘图主题"
@@ -1352,6 +1414,10 @@ msgstr "参考"
 msgid "References"
 msgstr "参考"
 
+#: jamovi/client/main/infobox.js:273
+msgid "Refresh"
+msgstr "刷新"
+
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
 #: jamovi/client/main/store/pagemodules.js:115
@@ -1369,6 +1435,10 @@ msgstr "需要更新版本的 jamovi"
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Restart and Install"
 msgstr "重新启动并安装"
+
+#: jamovi/client/main/ribbon/appmenu.js:254
+msgid "Restart required"
+msgstr "需要重新启动"
 
 #: jamovi/client/main/analyses.js:336 jamovi/client/main/ribbon/appmenu.js:58
 #: jamovi/server/jamovi/server/analyses.py
@@ -1394,9 +1464,7 @@ msgid ""
 "Returns a whether the variable is an outlier according to the IQR: If the "
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
-msgstr ""
-"根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的箱内，则返回 0，绝对值大于 "
-"1.5 的在箱须之外。"
+msgstr "根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的箱内，则返回 0，绝对值大于 1.5 的在箱须之外。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1507,6 +1575,14 @@ msgstr "右对齐"
 msgid "Rounds each value"
 msgstr "舍入每个值"
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:86
+msgid "Rounds each value to the integer above"
+msgstr "将每个值向上取整"
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:84
+msgid "Rounds each value to the integer below"
+msgstr "将每个值向下取整"
+
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
 msgstr "行计数"
@@ -1557,6 +1633,10 @@ msgstr "已保存到 '{filename}'"
 msgid "Saving"
 msgstr "保存中"
 
+#: jamovi/client/main/notification.js:77
+msgid "Scheduled maintenance"
+msgstr "定期维修"
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "搜索变量"
@@ -1600,9 +1680,13 @@ msgstr "显示筛选器列"
 msgid "Show formula editor"
 msgstr "显示公式编辑器"
 
+#: jamovi/client/main/ribbon/ribbonmenu.js:208
+msgid "Show in main menu"
+msgstr "在主菜单中显示"
+
 #: jamovi/client/main/store.js:65
-msgid "Side loading modules is not avaliable in this demo."
-msgstr "此演示中不提供旁加载模块。"
+msgid "Side loading modules is not avaliable on this plan."
+msgstr "此计划不提供从本地进行旁加载模块。"
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1620,6 +1704,10 @@ msgstr "模拟"
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "源变量"
+
+#: jamovi/client/main/backstage.js:1279
+msgid "Special Import"
+msgstr "特殊导入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1675,6 +1763,10 @@ msgstr "语法"
 msgid "Syntax mode"
 msgstr "语法模式"
 
+#: jamovi/client/main/ribbon/appmenu.js:209
+msgid "System default"
+msgstr "系统默认"
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "表格"
@@ -1697,8 +1789,7 @@ msgstr "内容已复制到剪贴板"
 msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
-"内容已准备好，可以使用下面的按钮进行复制，也可以按键盘上的 <em>{k}+C</em>"
+msgstr "内容已准备好，可以使用下面的按钮进行复制，也可以按键盘上的 <em>{k}+C</em>"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -1717,8 +1808,8 @@ msgid "The index of value in the provided values."
 msgstr "在提供的值中的值索引。"
 
 #: jamovi/client/main/store.js:64
-msgid "The jamovi library is not avaliable in this demo."
-msgstr "本演示中不提供 jamovi 库。"
+msgid "The jamovi library is not avaliable on this plan."
+msgstr "jamovi library 库不适用于此计划。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1739,6 +1830,10 @@ msgstr "所选变换有误，应进行编辑。"
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
 msgstr "索引中提供的值。"
+
+#: jamovi/server/jamovi/server/server.py
+msgid "This data set is no longer available"
+msgstr "此数据集已不再可用"
 
 #: jamovi/client/main/backstage.js:1196
 #: jamovi/client/main/utils/pathtools.js:15
@@ -1929,6 +2024,12 @@ msgstr "未找到更新"
 msgid "Updates"
 msgstr "更新"
 
+#: jamovi/client/main/instance.js:199
+#: jamovi/client/main/instance.js:238
+#: jamovi/client/main/instance.js:241
+msgid "Upload failed"
+msgstr "上传失败"
+
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
 msgstr "上传中"
@@ -1951,7 +2052,7 @@ msgstr "对于整数类型的列 '{}'，值太大"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr "变量后缀"
+msgstr "变量名后缀"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
@@ -1986,7 +2087,7 @@ msgstr "当"
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
-msgstr "当变量包含缺失值时，使用该值，否则使用 else。"
+msgstr "当变量包含缺失值时，使用此value，否则使用 else。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2001,8 +2102,7 @@ msgid "You cannot insert rows while filtered rows are hidden"
 msgstr "当筛选的行被隐藏时，您不能插入行"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify columns that affect filters when filtered rows are hidden"
+msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr "当筛选的行被隐藏时，您不能修改影响筛选器的列"
 
 #: jamovi/server/jamovi/server/instance.py

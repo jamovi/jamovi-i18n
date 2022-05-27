@@ -56,6 +56,8 @@ if (args.build) {
     console.log(`Searching ${sourceDir}...`);
 
     let codes = [ ];
+    let codesInDev = [ ];
+
     for (let file of sourcefiles) {
 
         if (file.endsWith('.po') === false)
@@ -64,21 +66,40 @@ if (args.build) {
         let poPath = path.join(sourceDir, file);
         console.log(`found ${file}`);
 
-        let translation = po2json.parseFileSync(poPath, { format: 'jed1.x' });
+        let content = fs.readFileSync(poPath, { encoding: 'utf-8' });
+
+        if (content.includes('X-Status: hidden'))
+            continue;
+
+        let inDev = true;
+        if (content.includes('X-Status: production'))
+            inDev = false;
+
+        let translation = po2json.parse(content, { format: 'jed1.x' });
 
         let code = translation.locale_data.messages[""].lang;
-        codes.push(code);
+        if (code === 'en')
+            codes.unshift('en')
+        else if (inDev)
+            codesInDev.push(code);
+        else
+            codes.push(code);
+
         let buildFile = code + '.json';
         fs.writeFileSync(path.join(buildDir, buildFile), JSON.stringify(translation, null, 4));
         console.log(`wrote: ${buildFile}`);
     }
 
     if (codes.length > 0) {
-        fs.writeFileSync(path.join(buildDir, 'manifest.json'), JSON.stringify(codes, null, 4));
+        if (codesInDev.length > 0)
+            codes = codes.concat(['---']).concat(codesInDev);
+        let manifest = { current: '', available: codes };
+        fs.writeFileSync(path.join(buildDir, 'manifest.json'), JSON.stringify(manifest, null, 4));
         console.log('wrote: manifest.json');
     }
-    else
+    else {
         console.log('\nNo translation files found.');
+    }
 }
 else if (args.update) {
 
@@ -241,7 +262,7 @@ else if (args.update) {
             console.log(`Messages added: ${addedMsgs}`);
         // merged
 
-        let output = gettextParser.po.compile(po);
+        let output = gettextParser.po.compile(po, { foldLength: 77, sort: (a, b) => a.msgid.localeCompare(b.msgid) });
         fs.writeFileSync(path.join(sourceDir, file), output);
     }
 }
@@ -266,7 +287,7 @@ else if (args.create) {
 
     pot.headers.language = code;
 
-    let output = gettextParser.po.compile(pot);
+    let output = gettextParser.po.compile(pot, { foldLength: 77, sort: (a, b) => a.msgid.localeCompare(b.msgid) });
     fs.writeFileSync(path.join(sourceDir, `${code}.po`), output);
 
     console.log(`wrote ${code}.po`);
