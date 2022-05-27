@@ -1,11 +1,16 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-05-27 16:16+0000\n"
+"Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
+"X-Generator: Weblate 4.13-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -78,36 +83,36 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
-msgstr ""
+msgstr "إضافة"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "أضف مرشحًا متداخلًا آخر"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "أضف القيمة المفقودة"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
-msgstr ""
+msgstr "إضافة مرشح جديد"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr ""
+msgstr "أضف مستوى جديد"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "إضافة ملاحظة"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
-msgstr ""
+msgstr "إضافة شرط إعادة الترميز"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "أضافة متغير"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
@@ -115,39 +120,39 @@ msgstr ""
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
-msgstr ""
+msgstr "الكل"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1022
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr ""
+msgstr "كل {n} طريقة"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "مجموعة بيانات على الإنترنت يستضيفها {hostname}"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "حدث خطأ غير متوقع، ويجب الآن إغلاق jamovi."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
-msgstr ""
+msgstr "يوجد تحديث متاح"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr ""
+msgstr "التحليلات"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
-msgstr ""
+msgstr "التحليلات"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
-msgstr ""
+msgstr "و"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -163,75 +168,75 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr ""
+msgstr "أضف"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr ""
+msgstr "أضف كم عدد الصفوف؟"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr ""
+msgstr "أضف صف ..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
-msgstr ""
+msgstr "تطبيق التعديلات"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "آلي"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
-msgstr ""
+msgstr "تلقائي"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
-msgstr ""
+msgstr "تثبيت التحديثات تلقائيًا"
 
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr ""
+msgstr "متاح"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "تعريف دالة تالفة"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
-msgstr ""
+msgstr "أبيض وأسود"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr ""
+msgstr "مزرق"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
-msgstr ""
+msgstr "عريض"
 
 #: jamovi/client/main/backstage.js:341
 msgid "Browse"
-msgstr ""
+msgstr "تصفح"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr ""
+msgstr "قائمة رصاصية"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
-msgstr ""
+msgstr "إلغاء"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "لا يمكن تعيين قيمة غير رقمية للعمود \"{}\""
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "لا يمكن تعيين قيمة غير رقمية للعمود '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
