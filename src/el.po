@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Athanasios Mouratidis <amourati@phed.uoa.gr>\n"
+"Last-Translator: faniaq <faniapk@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
 "Language: el\n"
@@ -2471,7 +2471,8 @@ msgstr ""
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr "Η σύνδεσή σας έχει χαθεί. Παρακαλώ, ανανεώσετε την σελίδα για να συνεχίσετε."
+msgstr ""
+"Η σύνδεσή σας έχει χαθεί. Παρακαλώ, ανανεώσετε την σελίδα για να συνεχίσετε."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
