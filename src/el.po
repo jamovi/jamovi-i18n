@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-26 15:18+0000\n"
-"Last-Translator: Athanasios Mouratidis <amourati@phed.uoa.gr>\n"
+"PO-Revision-Date: 2022-05-28 10:15+0000\n"
+"Last-Translator: faniaq <faniapk@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
 "Language: el\n"
@@ -134,9 +134,8 @@ msgstr "Όλα"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
-#, fuzzy
 msgid "All {n} way"
-msgstr "Όλα {n} τρόπος"
+msgstr "Όλοι {n} τρόποι"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
@@ -144,24 +143,24 @@ msgstr ""
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "Ένα μη αναμενόμενο σφάλμα προέκυψε και το jamovi πρέπει να κλείσει."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
-msgstr ""
+msgstr "Μία νέα έκδοση είναι διαθέσιμη"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr ""
+msgstr "Αναλύσεις"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
-msgstr ""
+msgstr "Ανάλυση"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
-msgstr ""
+msgstr "και"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -177,11 +176,11 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr ""
+msgstr "Προσθήκη στο τέλος"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Πόσες σειρές να προστεθούν στο τέλος;"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -190,25 +189,25 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
-msgstr ""
+msgstr "Εφάρμοσε τις αλλαγές"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "Αυτόματο"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
-msgstr ""
+msgstr "Αυτομάτως"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
-msgstr ""
+msgstr "Αυτομάτως εγκατέστησε τις ενημερώσεις"
 
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr ""
+msgstr "Διαθέσιμο"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -216,40 +215,42 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
-msgstr ""
+msgstr "Ασπρόμαυρο"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
 msgstr ""
+"Το Meant είναι μία σειρά κυανίζοντων χρωμάτων για χρήση σε διαγράμματα (πχ "
+"για γραμμές ή ράβδους)"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
-msgstr ""
+msgstr "Έντονο"
 
 #: jamovi/client/main/backstage.js:341
 msgid "Browse"
-msgstr ""
+msgstr "Φυλλομέτρησε"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr ""
+msgstr "Λίστα σημείων"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
-msgstr ""
+msgstr "Άκυρο"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "Μία μη αριθμητική τιμή δεν μπορεί να ανατεθεί στην στήλη '{}'"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "Μία μη αριθμητική τιμή δεν μπορεί να ανατεθεί στην στήλη '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "Δεν μπορεί να ανατεθεί στην υπολογιζόμενη στήλη '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
@@ -261,11 +262,11 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "Δεν μπορεί να ανατεθεί σε αυτές τις στήλες"
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr ""
+msgstr "Τα κελιά έχουν επεξεργαστεί "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -273,15 +274,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr ""
+msgstr "αλλαγή ετικέτας..."
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Check again"
-msgstr ""
+msgstr "Έλεγξε ξανά"
 
 #: jamovi/client/main/ribbon/appmenu.js:131
 msgid "Checking for updates"
-msgstr ""
+msgstr "Έλεγχος ενημερώσεων"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
@@ -289,7 +290,7 @@ msgstr ""
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
-msgstr ""
+msgstr "Εκκαθάριση επιλογής"
 
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
@@ -298,7 +299,7 @@ msgstr ""
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Κλείσε"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -306,29 +307,29 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
-msgstr ""
+msgstr "Χρωματική συλλογή"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "Η στήλη '{}' δεν υπάρχει στην βάση δεδομένων"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
-msgstr ""
+msgstr "Η στήλη δεν είναι επεξεργάσιμη"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
-msgstr ""
+msgstr "Υπολόγισε"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr ""
+msgstr "Υπολογισμένη"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr ""
+msgstr "Υπολογισμένη μεταβλητή"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -337,8 +338,8 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Υπολογισμένη μεταβλητή"
+msgstr[1] "Πολλαπλές υπολογισμένες μεταβλητές ({n})"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
@@ -346,22 +347,22 @@ msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Confirm uninstall"
-msgstr ""
+msgstr "Επιβεβαίωση της απεγκατάστασης"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr ""
+msgstr "Η σύνδεση απέτυχε"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
 msgid "Connection lost"
-msgstr ""
+msgstr "Η σύνδεση χάθηκε"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "Συνεχής"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
