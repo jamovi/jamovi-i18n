@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-17 13:18+0000\n"
+"PO-Revision-Date: 2022-05-28 11:16+0000\n"
 "Last-Translator: Artem <artem@molotov.work>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -22,7 +22,7 @@ msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"'{}' не являється аргументом для {}()\n"
+"'{}' не є аргументом для {}()\n"
 "(Якщо ви хочете перевірити рівність, використайте два знака рівності '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -31,15 +31,15 @@ msgstr "(авто)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:261
 msgid "(current)"
-msgstr "(котрий точитися)"
+msgstr "(теперішній)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr "Шпальти {columnType} нельзя редактировать."
+msgstr "Шпальти {columnType} неможна редагувати."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
-msgstr "{m} успішно удален"
+msgstr "{m} успішно видалений"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -49,7 +49,7 @@ msgstr "{n} dp"
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
-msgstr "{n} не являється позитивним целым числом"
+msgstr "{n} не є додатнім цілим числом"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -58,15 +58,15 @@ msgstr "{n} sf"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
-msgstr "{r} не являється целым числом"
+msgstr "{r} не є цілим числом"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Изменение мови вимагає перезапуска Jamovi"
+msgstr "Зміна мови вимагає перезапуску Jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr "Вимагає понад пізня версія Jamovi"
+msgstr "Потребує більш нової версії Jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
@@ -77,8 +77,8 @@ msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
 msgstr ""
-"Доступ заборонений. Можливо, у вас ні відповідний дозволів для доступу к "
-"цьому ресурсу."
+"Доступ заборонений. Можливо, у вас немає відповідних дозволів для доступу до "
+"цього ресурсу."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -99,7 +99,7 @@ msgstr "Додати ще один вкладений фільтр"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr "Додати недостающее значення"
+msgstr "Додати пропущене значення"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
@@ -111,7 +111,7 @@ msgstr "Додати новий рівень"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr "Додати заметку"
+msgstr "Додати нотатку"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
@@ -119,7 +119,7 @@ msgstr "Додати умову перекодирования"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr "Додати переменную"
+msgstr "Додати змінну"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
