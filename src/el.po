@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-28 10:15+0000\n"
+"PO-Revision-Date: 2022-05-29 10:17+0000\n"
 "Last-Translator: faniaq <faniapk@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
@@ -70,7 +70,7 @@ msgstr "Απαιτείται μια νέα έκδοση jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr ""
+msgstr "Τόνος"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
@@ -139,7 +139,7 @@ msgstr "Όλοι {n} τρόποι"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "Ένα διαδικτυακά διαθέσιμο σύνολο δεδομένων {hostname}"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
@@ -366,7 +366,7 @@ msgstr "Συνεχής"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Συντομογραφία διευκόλυνσης για ABS (IQR(variable))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
