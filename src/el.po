@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-29 10:17+0000\n"
+"PO-Revision-Date: 2022-05-29 15:17+0000\n"
 "Last-Translator: faniaq <faniapk@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
@@ -185,7 +185,7 @@ msgstr "Πόσες σειρές να προστεθούν στο τέλος;"
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr ""
+msgstr "Πρόσθεσε μετά την σειρά"
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
@@ -254,11 +254,11 @@ msgstr "Δεν μπορεί να ανατεθεί στην υπολογιζόμ�
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "Δεν μπορεί να ανατεθεί στην διακρινόμενη με κριτήρια στήλη '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "Δεν μπορεί να ανατεθεί στην επανακωδικοποιημένη στήλη '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
@@ -270,7 +270,7 @@ msgstr "Τα κελιά έχουν επεξεργαστεί "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr ""
+msgstr "Στοίχηση στο κέντρο"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -2132,11 +2132,14 @@ msgstr ""
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr ""
+"Δεν μπορείτε να τροποποιήσετε μετασχηματισμούς οι οποίοι επηρεάζουν τα "
+"κριτήρια όταν οι επιλεγμένες με κριτήρια σειρές είναι σε απόκρυψη."
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr ""
+"Η σύνδεσή σας έχει χαθεί. Παρακαλώ, ανανεώσετε την σελίδα για να συνεχίσετε."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr ""
+msgstr "Μεγέθτνση"
