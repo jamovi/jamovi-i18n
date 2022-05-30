@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-23 14:17+0000\n"
+"PO-Revision-Date: 2022-05-30 14:18+0000\n"
 "Last-Translator: Olga Dudojc <dudojc.olga@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -282,20 +282,20 @@ msgstr "Sprawdzanie dostępności aktualizacji"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr ""
+msgstr "Wykryto odwołanie cykliczne"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
-msgstr ""
+msgstr "Wyczyść wybrane obiekty"
 
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Clipboard"
-msgstr ""
+msgstr "Schowek"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Zamknij"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
