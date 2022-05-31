@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-27 16:16+0000\n"
+"PO-Revision-Date: 2022-05-31 21:17+0000\n"
 "Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
@@ -14,17 +14,19 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "\"{}\" خطأ"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
+"'{}' ليست وسيطة لـ {} ()\n"
+"(إذا كنت ترغب في اختبار المساواة ، فاستخدم علامتين متساويتين '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
-msgstr ""
+msgstr "(تلقائي)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:265
 msgid "(current)"
@@ -36,7 +38,7 @@ msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "تم إلغاء تثبيت {m} بنجاح"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -46,7 +48,7 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} ليس عددًا صحيحًا موجبًا"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -55,15 +57,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} ليس عددًا صحيحًا"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "يتطلب تغيير اللغة إعادة تشغيل jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "مطلوب إصدار أحدث من jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
@@ -71,13 +73,13 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr ""
+msgstr "الدخول محظور. قد لا يكون لديك الأذونات المناسبة للوصول إلى هذا المورد."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "active"
-msgstr ""
+msgstr "مفعل"
 
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/datatab.js:58
@@ -240,15 +242,15 @@ msgstr "لا يمكن تعيين قيمة غير رقمية للعمود '{colum
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "لا يمكن التخصيص للعمود المحسوب '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "لا يمكن التعيين لتصفية عمود \"{}\""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "لا يمكن التخصيص للعمود المعاد ترميزه '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
@@ -260,7 +262,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr ""
+msgstr "محاذاة للوسط"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -683,7 +685,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr ""
+msgstr "خطأ"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
