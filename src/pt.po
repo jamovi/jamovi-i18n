@@ -2,15 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-03-07 22:43+0000\n"
-"Language-Team: Portuguese "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/pt/>\n"
+"PO-Revision-Date: 2022-06-02 03:19+0000\n"
+"Last-Translator: Jonatã Bolzan Loss <jonata@jonata.org>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -62,7 +63,7 @@ msgstr "{r} não é um inteiro"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Alterar o idioma exige a reinicialização do jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -529,7 +530,7 @@ msgstr[1] "Apagar {n} linhas?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "Deletar Linhas"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
@@ -872,8 +873,8 @@ msgstr "Cabeçalho"
 msgid "Help"
 msgstr "Ajuda"
 
-#: jamovi/client/main/infobox.js:34
 #. ????
+#: jamovi/client/main/infobox.js:34
 msgid "Hi"
 msgstr "Hi"
 
@@ -964,7 +965,7 @@ msgstr "A importar"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
-msgstr ""
+msgstr "Em desenvolvimento"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1060,6 +1061,8 @@ msgid ""
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
 msgstr ""
+"jamovi agora está disponível em português! (Agradecimentos à comunidade de "
+"tradução do jamovi)"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
