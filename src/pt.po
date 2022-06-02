@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-06-02 03:19+0000\n"
+"PO-Revision-Date: 2022-06-02 04:18+0000\n"
 "Last-Translator: Jonatã Bolzan Loss <jonata@jonata.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
@@ -1070,6 +1070,8 @@ msgid ""
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 msgstr ""
+"jamovi está agora disponível em português! (Agradecimentos à comunidade de "
+"tradução do jamovi)"
 
 #: jamovi/client/main/ribbon/appmenu.js:129
 msgid "jamovi is up-to-date"
@@ -1105,7 +1107,7 @@ msgstr "Palavra-chave: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
-msgstr ""
+msgstr "Idioma"
 
 #: jamovi/client/main/backstage.js:1030 jamovi/client/main/backstage.js:1053
 #: jamovi/client/main/resultspanel.js:748
@@ -1449,7 +1451,7 @@ msgstr "Reiniciar e instalar"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 msgid "Restart required"
-msgstr ""
+msgstr "Reinicialização necessária"
 
 #: jamovi/client/main/analyses.js:336 jamovi/client/main/ribbon/appmenu.js:58
 #: jamovi/server/jamovi/server/analyses.py
@@ -1591,11 +1593,11 @@ msgstr "Arredondar cada valor"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Arredondar cada valor para o inteiro acima"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Arredondar cada valor para o inteiro abaixo"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1649,7 +1651,7 @@ msgstr "A guardar"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Manutenção agendada"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1700,7 +1702,7 @@ msgstr "Mostrar no menu principal"
 
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable on this plan."
-msgstr ""
+msgstr "Carregamento de módulos em paralelo não está disponível nesse plano."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1721,7 +1723,7 @@ msgstr "Variável fonte"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "Importar especial"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1781,7 +1783,7 @@ msgstr "Modo de Sintaxe"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "Padrão do sistema"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1827,7 +1829,7 @@ msgstr "O índice do valor nos valores fornecidos."
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "A biblioteca jamovi não está disponível nesse plano."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2046,7 +2048,7 @@ msgstr "Atualizações"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Falha no upload"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
