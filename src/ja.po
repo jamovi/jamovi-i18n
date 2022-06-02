@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-22 07:17+0000\n"
-"Last-Translator: wed-4 <sedwey234@gmail.com>\n"
+"PO-Revision-Date: 2022-06-02 12:16+0000\n"
+"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ja/>\n"
 "Language: ja\n"
@@ -954,7 +954,7 @@ msgstr "読込中"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
-msgstr ""
+msgstr "開発中"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -1049,14 +1049,14 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr ""
+msgstr "jamoviが日本語で利用可能になりました！（jamoviの翻訳チームに感謝）"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr ""
+msgstr "jamoviが日本語で利用可能になりました！（jamoviの翻訳チームに感謝）"
 
 #: jamovi/client/main/ribbon/appmenu.js:129
 msgid "jamovi is up-to-date"
@@ -1578,11 +1578,11 @@ msgstr "変数値を指定された桁数に丸めます"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "各数値を整数に丸めます"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "整数値に切り下げます"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1636,7 +1636,7 @@ msgstr "保存しています"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "定期メンテナンス"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1687,7 +1687,7 @@ msgstr "メインメニューに表示"
 
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable on this plan."
-msgstr ""
+msgstr "このプランでは、外部モジュールは利用できません。"
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1708,7 +1708,7 @@ msgstr "変換元の変数"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "拡張読み込み"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1766,7 +1766,7 @@ msgstr "シンタックスモード"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "システム初期値"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1810,7 +1810,7 @@ msgstr "検索値に一致する値の位置を返します。"
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "このプランでは、jamoviライブラリは利用できません。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2029,7 +2029,7 @@ msgstr "更新"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "アップロード失敗"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
