@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-29 15:17+0000\n"
+"PO-Revision-Date: 2022-06-05 20:15+0000\n"
 "Last-Translator: faniaq <faniapk@gmail.com>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
@@ -693,7 +693,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr ""
+msgstr "Σφάλμα"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
