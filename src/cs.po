@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-06 08:16+0000\n"
+"PO-Revision-Date: 2022-06-06 09:16+0000\n"
 "Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -239,51 +239,51 @@ msgstr "Sloupci '{}' nelze přiřadit nečíselnou hodnotu"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "Sloupci '{columnName}' nelze přiřadit nečíselnou hodnotu"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "Nelze přiřadit k vypočtenému sloupci '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "Nelze přiřadit ke sloupci filtru '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "Nelze přiřadit k překódovanému sloupci '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "K těmto sloupcům nelze přiřadit."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr ""
+msgstr "Upravené buňky "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr ""
+msgstr "Zarovnání na střed"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr ""
+msgstr "změnit označení..."
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Check again"
-msgstr ""
+msgstr "Znovu zkontrolovat"
 
 #: jamovi/client/main/ribbon/appmenu.js:131
 msgid "Checking for updates"
-msgstr ""
+msgstr "Kontrola aktualizací"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr ""
+msgstr "Zjištěn cyklický odkaz"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
-msgstr ""
+msgstr "Vymazat výběr"
 
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
