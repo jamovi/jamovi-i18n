@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-06 09:16+0000\n"
+"PO-Revision-Date: 2022-06-07 08:17+0000\n"
 "Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -288,41 +288,41 @@ msgstr "Vymazat výběr"
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Clipboard"
-msgstr ""
+msgstr "Schránka"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Zavřít"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
-msgstr ""
+msgstr "Blok kódu"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
-msgstr ""
+msgstr "Barevná paleta"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "Sloupec '{}' v datech neexistuje"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
-msgstr ""
+msgstr "Sloupec nelze upravovat"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
-msgstr ""
+msgstr "Vypočítat"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr ""
+msgstr "Vypočteno"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr ""
+msgstr "Vypočtená proměnná"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -331,64 +331,65 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Vypočtená proměnná"
+msgstr[1] "Vypočtených proměnných"
+msgstr[2] "Vypočtené proměnné"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
-msgstr ""
+msgstr "Potvrďte přepsání"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Confirm uninstall"
-msgstr ""
+msgstr "Potvrďte odinstalování"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr ""
+msgstr "Připojení se nezdařilo"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
 msgid "Connection lost"
-msgstr ""
+msgstr "Ztráta spojení"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "Spojitý"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Zkratka pro ABS(IQR( proměnná))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "Zkratka pro ABS(Z( proměnná))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Zkratka pro MAX(ABSIQR( proměnná 1, proměnná 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Zkratka pro MAX(ABSZ( proměnná 1, proměnná 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "Převede reální na celé číslo."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "Převede text na číslo (pokud je to možné)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Converts the value to text."
-msgstr ""
+msgstr "Převede hodnotu na text."
 
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
 msgid "Copied"
-msgstr ""
+msgstr "Zkopírováno"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
@@ -405,76 +406,76 @@ msgstr ""
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
-msgstr ""
+msgstr "Kopírovat"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "Data nelze přiřadit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "Řádky nelze smazat"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "Sloupce nelze vložit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "Řádky nelze vložit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "Sloupce nelze upravit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "Transformaci nelze upravit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "Operaci nelze provést"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "Vytvořit novou transformaci..."
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (hodnoty oddělené čárkou) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
 #: jamovi/client/main/ribbon/annotationtab.js:109
 #: jamovi/client/main/ribbon/datatab.js:18
 msgid "Cut"
-msgstr ""
+msgstr "Vyjmout"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr ""
+msgstr "Tmavý2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
-msgstr ""
+msgstr "Datové soubory"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
-msgstr ""
+msgstr "Knihovna dat"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
-msgstr ""
+msgstr "Datový typ"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:108
 #: jamovi/client/main/contextmenu/contextmenus.js:58
@@ -483,17 +484,18 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:238
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Datová proměnná"
+msgstr[1] "Datových proměnných"
+msgstr[2] "Datové proměnné"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr ""
+msgstr "Desetinné číslo"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
-msgstr ""
+msgstr "desetinná místa"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
