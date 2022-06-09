@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-09 11:17+0000\n"
+"PO-Revision-Date: 2022-06-09 12:17+0000\n"
 "Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -569,58 +569,63 @@ msgstr "Plocha"
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"Určuje, zda se některá z položek objeví v in1, in2, in3, .... Všimněte si, "
+"že většina těchto argumentů je volitelná -- je možné jednoduše použít "
+"<strong>CONTAINS(jehla, kupka sena)</strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
-msgstr ""
+msgstr "Vývojářský režim"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
 msgid "Documents"
-msgstr ""
+msgstr "Dokumenty"
 
 #: jamovi/client/main/main.js:371
 msgid "Don't enable"
-msgstr ""
+msgstr "Nepovolujte"
 
 #: jamovi/client/main/main.js:643
 msgid "Don't Save"
-msgstr ""
+msgstr "Neukládejte"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
 #: jamovi/client/main/backstage.js:1242
 msgid "Download"
-msgstr ""
+msgstr "Stáhnout"
 
 #: jamovi/client/main/utils/pathtools.js:9
 #: jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
-msgstr ""
+msgstr "Stahování"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"Z proměnné vybere vzorek o n prvcích. Např. SAMPLE(var, 20), nebo SAMPLE(1, "
+"20), nebo SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "Vybere vzorky z rozdělení Beta."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "Vybere vzorky z rozdělení Gama."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Vybere vzorky z normálního (Gaussova) rozdělení."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Vybere vzorky z rovnoměrného rozdělení."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikovat"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
