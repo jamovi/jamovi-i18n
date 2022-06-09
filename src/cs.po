@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-09 12:17+0000\n"
+"PO-Revision-Date: 2022-06-09 13:18+0000\n"
 "Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -629,7 +629,7 @@ msgstr "Duplikovat"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "Duplikovat transformaci"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -640,35 +640,35 @@ msgstr ""
 #: jamovi/client/main/tableview.js:1173
 #: jamovi/client/main/tableview.js:1283
 msgid "Edit"
-msgstr ""
+msgstr "Upravit"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr ""
+msgstr "Upravit transformaci"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
 msgid "Edit..."
-msgstr ""
+msgstr "Upravit..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
 msgid "else use"
-msgstr ""
+msgstr "jinak použijte"
 
 #: jamovi/client/main/main.js:372
 msgid "Enable"
-msgstr ""
+msgstr "Povolit"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
-msgstr ""
+msgstr "Zadejte popis"
 
 #: jamovi/client/main/backstage.js:277
 #: jamovi/client/main/backstage.js:314
 msgid "Enter file name here"
-msgstr ""
+msgstr "Zde zadejte název souboru"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
 msgid "Enter label..."
