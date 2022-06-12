@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2022-04-25 06:07+0000\n"
+"PO-Revision-Date: 2022-06-12 12:18+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.12.1-dev\n"
+"X-Generator: Weblate 4.13-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -804,7 +804,7 @@ msgstr "公式"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr "公式包含非法节点(node)"
+msgstr "公式中包含非法节点(node)"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
@@ -1283,7 +1283,7 @@ msgid ""
 msgstr ""
 "此数据集中的一项或多项分析已被禁用\n"
 "                    因为它们允许执行任意代码。\n"
-"                    只有在您信任此数据集来源的情况下才应启用\n"
+"                    只有在您信任此数据集来源的情况下，才应启用\n"
 "                    它们。"
 
 #: jamovi/client/main/backstage.js:461
@@ -1438,7 +1438,7 @@ msgstr "重新启动并安装"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
-msgstr "需要重新启动"
+msgstr "需要重新启动应用程序"
 
 #: jamovi/client/main/analyses.js:336 jamovi/client/main/ribbon/appmenu.js:58
 #: jamovi/server/jamovi/server/analyses.py
@@ -1690,7 +1690,7 @@ msgstr "此计划不提供从本地进行旁加载模块。"
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
-msgstr "旁加载"
+msgstr "从本地加载"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 #: jamovi/client/main/ribbon/appmenu.js:69
