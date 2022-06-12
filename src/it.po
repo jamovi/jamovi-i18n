@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-15 23:01+0000\n"
+"PO-Revision-Date: 2022-06-12 10:18+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -264,7 +264,7 @@ msgstr "Celle modificate "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "Allinea al centro"
+msgstr "Allinea al Centro"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
