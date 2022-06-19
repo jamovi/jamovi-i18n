@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-30 12:14+0000\n"
-"Last-Translator: Sami Çoksan <sami.coksan@erzurum.edu.tr>\n"
+"PO-Revision-Date: 2022-06-19 16:14+0000\n"
+"Last-Translator: Eren Can Aybek <ecaybek@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -545,12 +545,12 @@ msgstr "Dönüştürmeyi sil"
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Değişken Sil"
+msgstr[1] "Değişkenleri Sil"
 
 #: jamovi/client/main/tableview.js:77
 msgid "Deleted"
-msgstr ""
+msgstr "Silindi"
 
 #: jamovi/client/main/editors/transformeditor.js:61
 #: jamovi/client/main/vareditor/editorwidget.js:68
@@ -605,6 +605,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"Değişkenden n büyüklüğünde bir örneklem seçer. Ör: SAMPLE(var, 20), Ör: "
+"SAMPLE(1, 20), Ör: SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -669,27 +671,27 @@ msgstr "Açıklama girin"
 #: jamovi/client/main/backstage.js:275
 #: jamovi/client/main/backstage.js:312
 msgid "Enter file name here"
-msgstr ""
+msgstr "Dosya adını girin"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
 msgid "Enter label..."
-msgstr ""
+msgstr "Etiket girin.."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
 msgid "Enter level value"
-msgstr ""
+msgstr "Kategori değeri girin"
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
-msgstr ""
+msgstr "İsim girin"
 
 #: jamovi/client/resultsview/annotation.js:148
 msgid "Enter your URL here"
-msgstr ""
+msgstr "URL girin"
 
 #: jamovi/client/main/resultspanel.js:718
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "EPS Görseli {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
@@ -701,7 +703,7 @@ msgstr "Hata"
 
 #: jamovi/client/main/backstage.js:978
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
@@ -848,7 +850,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:180
 msgid "Functions"
-msgstr ""
+msgstr "İşlevler"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
