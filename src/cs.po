@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-21 12:18+0000\n"
+"PO-Revision-Date: 2022-06-22 13:17+0000\n"
 "Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -713,35 +713,35 @@ msgstr "Export"
 
 #: jamovi/client/main/resultspanel.js:713
 msgid "Export image"
-msgstr ""
+msgstr "Export obrázku"
 
 #: jamovi/client/main/resultspanel.js:740
 msgid "Export results"
-msgstr ""
+msgstr "Exportovat výsledky"
 
 #: jamovi/client/main/instance.js:460
 msgid "Exported"
-msgstr ""
+msgstr "Exportováno"
 
 #: jamovi/client/main/instance.js:461
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "Exportováno do '{filename}'"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
-msgstr ""
+msgstr "Soubor"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr ""
+msgstr "Formát souboru není podporován"
 
 #: jamovi/client/main/instance.js:136
 msgid "File imported"
-msgstr ""
+msgstr "Importovaný soubor"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
-msgstr ""
+msgstr "Soubor je poškozen"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt or missing)"
@@ -749,11 +749,11 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "Soubor je poškozen (manifest je poškozen)"
 
 #: jamovi/client/main/instance.js:496
 msgid "File save failed."
-msgstr ""
+msgstr "Uložení souboru se nezdařilo."
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
