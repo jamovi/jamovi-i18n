@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-05 01:18+0000\n"
+"PO-Revision-Date: 2022-06-22 06:14+0000\n"
 "Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -31,7 +31,7 @@ msgstr "(تلقائي)"
 #: jamovi/client/main/vareditor/formulatoolbar.js:265
 #, fuzzy
 msgid "(current)"
-msgstr "(جاري)"
+msgstr "(الحالي)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -121,8 +121,9 @@ msgid "Add Variable"
 msgstr "أضافة متغير"
 
 #: jamovi/client/main/tableview.js:76
+#, fuzzy
 msgid "Added"
-msgstr ""
+msgstr "مضاف إليها"
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
@@ -2130,9 +2131,10 @@ msgid "You cannot modify transforms that affect filters when filtered rows are h
 msgstr ""
 
 #: jamovi/client/main/main.js:142
+#, fuzzy
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "لقد فقد اتصالك. يرجى تحديث الصفحة للمتابعة."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr ""
+msgstr "التكبير"
