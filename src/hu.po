@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-29 16:18+0000\n"
+"PO-Revision-Date: 2022-06-29 20:21+0000\n"
 "Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
@@ -197,12 +197,12 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
-msgstr ""
+msgstr "A frissítések automatikus telepítése"
 
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr ""
+msgstr "Elérhető"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
