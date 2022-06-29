@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-29 20:21+0000\n"
+"PO-Revision-Date: 2022-06-29 21:17+0000\n"
 "Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
@@ -67,7 +67,7 @@ msgstr "A jamovi új verziója szükséges"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr "Ékezet"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
@@ -138,11 +138,11 @@ msgstr ""
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "Váratlan hiba történt, a jamovi-nak most  ki kell lépnie."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
-msgstr ""
+msgstr "Frissítés elérhető"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -171,20 +171,21 @@ msgstr "és"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr ""
+msgstr "Hozzáfűzés"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Hány sor hozzáfűzése?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr ""
+msgstr "Sor hozzáfűzése..."
 
 #: jamovi/client/main/variableeditor.js:173
+#, fuzzy
 msgid "Apply changes"
-msgstr ""
+msgstr "Módosítások elfogadása"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -206,15 +207,15 @@ msgstr "Elérhető"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "Rossz függvény definíció"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
-msgstr ""
+msgstr "Fekete-fehér"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr ""
+msgstr "Kékes"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
@@ -843,7 +844,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr ""
+msgstr "Zöldes"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
