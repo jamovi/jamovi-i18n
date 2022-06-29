@@ -1,14 +1,19 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-06-29 08:18+0000\n"
+"Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "'{}' a hibában van"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -40,7 +45,7 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} nem pozitív egész"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -49,15 +54,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} nem egész"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "A nyelvi beállítás a jamovi újraindítása után lesz elérhető"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "A jamovi új verziója szükséges"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
@@ -66,6 +71,8 @@ msgstr ""
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
+"A hozzáférés elutasítva. Nincs megfelelő jogosultsága az erőforrás "
+"eléréséhez."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -254,7 +261,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr ""
+msgstr "Középre igazítás"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -677,7 +684,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr ""
+msgstr "Hiba"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
