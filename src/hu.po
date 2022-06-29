@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
 "Language: hu\n"
@@ -401,7 +401,8 @@ msgstr "Az ABS(Z( variable )) egyszerűbb, rövidebb változata"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "A MAX(ABSIQR( variable 1, variable 2, … )) egyszerűbb, rövidebb változata"
+msgstr ""
+"A MAX(ABSIQR( variable 1, variable 2, … )) egyszerűbb, rövidebb változata"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
