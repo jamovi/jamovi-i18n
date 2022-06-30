@@ -1,36 +1,44 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-06-30 05:19+0000\n"
+"Last-Translator: Fahmi Burhanudin <fahmiburhan2002@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.13.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "'{}' kesalahan"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
+"'{}' bukan perintah untuk {}()\n"
+"(jika kamu ingin melakukan tes equalitas, gunakan dua simbol sama-dengan "
+"'==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
-msgstr ""
+msgstr "(otomatis)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:265
 msgid "(current)"
-msgstr ""
+msgstr "(saat ini)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr ""
+msgstr "{Tipekolom} kolom kemungkinan tidak dapat diedit."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "{m} berhasil di uninstall"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -40,7 +48,7 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} bukanlah integer positif"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -49,72 +57,74 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} bukan integer"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Jamovi butuh direstarted jika terdapat perubahan bahasa"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "Jamovi versi terbaru diperlukan, silahkan update Jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr ""
+msgstr "Aksen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
+"Akses ditolak. Kemungkinan kamu tidak memiliki izin untuk mengakses sumber "
+"ini."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "active"
-msgstr ""
+msgstr "aktif"
 
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
-msgstr ""
+msgstr "Tambah"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "tambahkan filter bertingkat lainnya"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "Isi Nilai yang Hilang"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
-msgstr ""
+msgstr "Tambahkan filter baru"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr ""
+msgstr "Tambahkan level baru"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "Tambahkan catatan"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
-msgstr ""
+msgstr "Tambahkan kondisi yang dikode ulang"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "Tambahkan Variable"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
-msgstr ""
+msgstr "Telah ditambahkan"
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
-msgstr ""
+msgstr "Semua"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1022
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
@@ -125,28 +135,28 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "Data online di simpan oleh {hostname}"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "Kesalahan tak terduga terjadi, jamovi harus ditutup sekarang."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
-msgstr ""
+msgstr "permbaharuan tersedia"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr ""
+msgstr "Analisa"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
-msgstr ""
+msgstr "analisis"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
-msgstr ""
+msgstr "dan"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -162,11 +172,11 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr ""
+msgstr "Menambahkan"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Berapa kolom yang ditambahkan?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
