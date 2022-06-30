@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-29 21:17+0000\n"
+"PO-Revision-Date: 2022-06-30 17:19+0000\n"
 "Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
@@ -219,15 +219,15 @@ msgstr "Kékes"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
-msgstr ""
+msgstr "Félkövér"
 
 #: jamovi/client/main/backstage.js:341
 msgid "Browse"
-msgstr ""
+msgstr "Böngészés"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr ""
+msgstr "Felsorolás"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
@@ -235,32 +235,33 @@ msgid "Cancel"
 msgstr "Mégse"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "A(z) '{}' oszlophoz nem lehet nem numerikus értéket rendelni"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "A(z) '{columnName}' oszlophoz nem lehet nem numerikus értéket rendelni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "Nem rendelhető hozzá a(z) '{}' számított oszlophoz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "Nem rendelhető hozzá a(z) '{}' szűrőoszlophoz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "Nem rendelhető hozzá az átkódolt '{}' oszlophoz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "Nem lehet hozzárendelni ezekhez az oszlopokhoz."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr ""
+msgstr "A cellák szerkesztve "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -268,40 +269,43 @@ msgstr "Középre igazítás"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr ""
+msgstr "címke váltás..."
 
 #: jamovi/client/main/ribbon/appmenu.js:130
+#, fuzzy
 msgid "Check again"
-msgstr ""
+msgstr "Ellenőrizd újra"
 
 #: jamovi/client/main/ribbon/appmenu.js:131
 msgid "Checking for updates"
-msgstr ""
+msgstr "Frissítések keresése"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr ""
+msgstr "Körkörös hivatkozás észlelése"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
-msgstr ""
+msgstr "Kiválasztás törlése"
 
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Clipboard"
-msgstr ""
+msgstr "Vágóasztal"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Bezárás"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
+#, fuzzy
 msgid "Code-Block"
-msgstr ""
+msgstr "Kód"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
+#, fuzzy
 msgid "Color palette"
-msgstr ""
+msgstr "Színpaletta"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
