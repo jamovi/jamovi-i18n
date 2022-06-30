@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-30 19:20+0000\n"
+"PO-Revision-Date: 2022-06-30 20:20+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -15,7 +15,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' jest błędem"
+msgstr "'{}' jest błędne"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -2110,7 +2110,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:220
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr ""
+msgstr "Zmienne"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
