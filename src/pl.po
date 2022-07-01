@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-01 17:16+0000\n"
+"PO-Revision-Date: 2022-07-01 18:21+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -331,9 +331,9 @@ msgstr "Obliczona zmienna"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "Obliczona zmienna"
-msgstr[1] "Obliczone zmienne"
-msgstr[2] ""
+msgstr[0] "Zmienna obliczona"
+msgstr[1] "Zmienne obliczone"
+msgstr[2] "Zmiennych obliczonych"
 
 #: jamovi/client/main/instance.js:421
 msgid "Confirm overwite"
@@ -360,7 +360,7 @@ msgstr "Ciągła"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Convenience short-hand for ABS(IQR( variable ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
@@ -571,6 +571,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"Określa, czy którykolwiek z elementów pojawia się w in1, in2, in3, .... "
+"Większość tych argumentów jest opcjonalna — można po prostu użyć "
+"<strong>CONTAINS(needle, haystack)</strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -622,7 +625,7 @@ msgstr "Wylosuj próby z rozkładu normalnego (Gaussian)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Losuje próby z rozkładu jednostajnego (jednorodnego)."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
@@ -656,7 +659,7 @@ msgstr "Edytuj..."
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
 msgid "else use"
-msgstr ""
+msgstr "w przeciwnym razie użyj"
 
 #: jamovi/client/main/main.js:366
 msgid "Enable"
@@ -677,7 +680,7 @@ msgstr "Wprowadź etykietę..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
 msgid "Enter level value"
-msgstr ""
+msgstr "Wprowadź nazwę poziomu"
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
@@ -801,10 +804,12 @@ msgstr "Filtruje zmienną używając wyrażenia filtrującego."
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
+"Filtry nie mogą odwoływać się do kolumn przy użyciu funkcji „V” lub funkcji "
+"kolumn"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "Filtry nie mogą odwoływać się do zmiennych wyjściowych"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1235,7 +1240,7 @@ msgstr "Nowy"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "Nowa zmienna obliczona"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
@@ -1444,7 +1449,7 @@ msgstr "Ponów edycję"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Reference"
-msgstr ""
+msgstr "Referencja"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -1520,7 +1525,7 @@ msgstr "Zwraca logarytm o podstawie 10 z liczby."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Zwraca wykładnik podstawy ℯ liczby."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
@@ -1745,7 +1750,7 @@ msgstr "Transfer danych"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr ""
+msgstr "cyfry znaczące"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
@@ -1757,13 +1762,15 @@ msgstr "Zmienna źródłowa"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "Import specjalny"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
 msgstr ""
+"Dzieli tekst na kawałki na podstawie separatora. <i>piece</i> określa żądany "
+"element według indeksu."
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1797,7 +1804,7 @@ msgstr "Style"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Sub Script"
-msgstr ""
+msgstr "Sub Script"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
 msgid "Super Script"
