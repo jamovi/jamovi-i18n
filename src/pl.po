@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-30 22:20+0000\n"
+"PO-Revision-Date: 2022-07-01 17:16+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -73,13 +73,10 @@ msgid "Accent"
 msgstr "Akcent"
 
 #: jamovi/server/jamovi/server/instance.py
-#, fuzzy
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr ""
-"Odmowa dostępu. Możesz nie mieć odpowiednich uprawnień dostępu do tego "
-"zasobu."
+msgstr "Odmowa dostępu. Możesz nie mieć odpowiednich uprawnień do tego zasobu."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -96,7 +93,7 @@ msgstr "Dodać"
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "Dodaj kolejny filtr zagnieżdżony"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -180,7 +177,7 @@ msgstr "Dołączyć"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Ile wierszy dołączyć?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -246,7 +243,7 @@ msgstr "Nie można przypisać wartości nienumerycznej do kolumny „{columnName
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "Nie można przypisać do kolumny przekształconej „{}”"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
