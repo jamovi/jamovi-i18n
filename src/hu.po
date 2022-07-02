@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-02 11:17+0000\n"
+"PO-Revision-Date: 2022-07-02 18:20+0000\n"
 "Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
@@ -67,7 +67,7 @@ msgstr "A jamovi új verziója szükséges"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr ""
+msgstr "Accent"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
