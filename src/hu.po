@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-30 17:19+0000\n"
+"PO-Revision-Date: 2022-07-02 11:17+0000\n"
 "Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
@@ -310,73 +310,77 @@ msgstr "Színpaletta"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "A(z) '{}' oszlop nem létezik az adatbázisban"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
-msgstr ""
+msgstr "Az oszlop nem szerkeszthető"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
+#, fuzzy
 msgid "Compute"
-msgstr ""
+msgstr "Kiszámítás"
 
 #: jamovi/client/main/dataset.js:1316
+#, fuzzy
 msgid "Computed"
-msgstr ""
+msgstr "Számított"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr ""
+msgstr "Számított változó"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
 #: jamovi/client/main/ribbon/datatab.js:38
 #: jamovi/client/main/ribbon/variablestab.js:32
 #: jamovi/client/main/vareditor/editorwidget.js:240
+#, fuzzy
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Számított változó"
+msgstr[1] "Több számított változó ({n})"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
-msgstr ""
+msgstr "A felülírás megerősítése"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Confirm uninstall"
-msgstr ""
+msgstr "Az eltávolítás megerősítése"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr ""
+msgstr "A csatlakozás sikertelen"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
 msgid "Connection lost"
-msgstr ""
+msgstr "A kapcsolat megszakadt"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "Folytonos"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Az ABS(IQR( variable )) egyszerűbb, rövidebb változata"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "Az ABS(Z( variable )) egyszerűbb, rövidebb változata"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
 msgstr ""
+"A MAX(ABSIQR( variable 1, variable 2, … )) egyszerűbb, rövidebb változata"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "A MAX(ABSZ( variable 1, variable 2, … )) egyszerűbb, rövidebb változata"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -431,7 +435,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "Nem sikerült módosítani az oszlopokat"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
