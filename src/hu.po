@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-02 18:20+0000\n"
+"PO-Revision-Date: 2022-07-03 10:31+0000\n"
 "Last-Translator: Abari Kálmán <abari.kalman@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
@@ -384,20 +384,20 @@ msgstr "A MAX(ABSZ( variable 1, variable 2, … )) egyszerűbb, rövidebb válto
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "Egy számot egész számmá alakít át."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "A szöveget számmá alakítja (ha lehetséges)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Converts the value to text."
-msgstr ""
+msgstr "Az értéket szöveggé alakítja."
 
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
 msgid "Copied"
-msgstr ""
+msgstr "Másolva"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
@@ -414,24 +414,24 @@ msgstr ""
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
-msgstr ""
+msgstr "Másolás"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "Nem sikerült adatokat hozzárendelni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "Nem sikerült törölni a sorokat"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "Nem sikerült oszlopokat beszúrni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "Nem sikerült sorokat beszúrni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
