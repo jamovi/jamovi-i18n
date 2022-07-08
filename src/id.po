@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-30 05:19+0000\n"
-"Last-Translator: Fahmi Burhanudin <fahmiburhan2002@gmail.com>\n"
+"PO-Revision-Date: 2022-07-08 02:20+0000\n"
+"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -2083,7 +2083,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:224
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr ""
+msgstr "Variabel"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
