@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
+"Last-Translator: Reza Almanda <rezaalmanda27@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
