@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-09 08:20+0000\n"
+"PO-Revision-Date: 2022-07-09 17:18+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -75,7 +75,7 @@ msgstr "ഉച്ചാരണം"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
-"പ്രവേശനം നിഷേധിക്കപ്പെടുന്നു. ഈ വിഭവം ആക്സസ് ചെയ്യുന്നതിന് നിങ്ങൾക്ക് അനുമതി "
+"പ്രവേശനം നിഷേധിക്കപ്പെടുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് അനുമതി "
 "ഉണ്ടായിരിക്കില്ല."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
@@ -101,63 +101,65 @@ msgstr "ഇല്ലാത്ത മൂല്യം ചേർക്കുക"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
-msgstr ""
+msgstr "പുതിയ ഫിൽട്ടർ ചേർക്കുക"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr ""
+msgstr "പുതിയ ലെവൽ ചേർക്കുക"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "നോട്ട് ചേര്ക്കുക"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
-msgstr ""
+msgstr "റീകോഡ് വ്യവസ്ഥ ചേർക്കുക"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "വേരിയബിൾ ചേർക്കുക"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
-msgstr ""
+msgstr "ചേർത്തു"
 
 #: jamovi/client/main/resultspanel.js:587
+#, fuzzy
 msgid "All"
-msgstr ""
+msgstr "എല്ലാം"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1022
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
+#, fuzzy
 msgid "All {n} way"
-msgstr ""
+msgstr "എല്ലാ {n} വഴിയും"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "{hostname} ഹോസ്റ്റ് ചെയ്ത ഒരു ഓൺലൈൻ ഡാറ്റ സെറ്റ്"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "അപ്രതീക്ഷിതമായ ഒരു എറർ ഉണ്ടായി, ജമോവി ഇപ്പോൾ അടയ്ക്കണം."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
-msgstr ""
+msgstr "ഒരു അപ്ഡേറ്റ് ലഭ്യമാണ്"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr ""
+msgstr "വിശകലനങ്ങൾ"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
-msgstr ""
+msgstr "വിശകലനം"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
-msgstr ""
+msgstr "ഉം"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -173,115 +175,115 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr ""
+msgstr "കൂട്ടിച്ചേർക്കുക"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr ""
+msgstr "എത്ര വരികൾ കൂട്ടിച്ചേർക്കണം?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr ""
+msgstr "വരി കൂട്ടിച്ചേർക്കുക..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
-msgstr ""
+msgstr "മാറ്റങ്ങൾ വരുത്തുക"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "ഓട്ടോ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
-msgstr ""
+msgstr "ഓട്ടോമാറ്റിക്"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾ സ്വയം ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr ""
+msgstr "ലഭ്യമാണ്"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "തെറ്റായ ഫങ്ഷൻ നിർവചനം"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
-msgstr ""
+msgstr "കറുപ്പും വെളുപ്പും"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr ""
+msgstr "ബ്ലൂസ്"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
-msgstr ""
+msgstr "ബോൾഡ്"
 
 #: jamovi/client/main/backstage.js:341
 msgid "Browse"
-msgstr ""
+msgstr "ബ്രൗസ് ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr ""
+msgstr "ബുള്ളറ്റ് ലിസ്റ്റ്"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
-msgstr ""
+msgstr "ക്യാൻസൽ ചെയ്യുക"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "'{}' കോളത്തിന് സംഖ്യയല്ലാത്ത മൂല്യം നൽകാനാവില്ല"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "'{columnName}' കോളത്തിന് സംഖ്യയല്ലാത്ത മൂല്യം നൽകാനാവില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "'{}' എന്ന കമ്പ്യൂട്ടുചെയ്ത നിരയിലേക്ക് അസൈൻ ചെയ്യാൻ കഴിയില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "ഫിൽട്ടർ കോളം '{}' ലേക്ക് അസൈൻ ചെയ്യാൻ കഴിയില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "റീകോഡ് ചെയ്‌ത '{}' കോളത്തിലേക്ക് അസൈൻ ചെയ്യാൻ കഴിയില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "ഈ നിരകളിലേക്ക് അസൈൻ ചെയ്യാനാവില്ല."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr ""
+msgstr "സെല്ലുകൾ എഡിറ്റ് ചെയ്തു "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr ""
+msgstr "സെന്റർ അലൈൻ ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr ""
+msgstr "ലേബൽ മാറ്റുക..."
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Check again"
-msgstr ""
+msgstr "ഒന്നുകൂടി പരിശോധിക്കുക"
 
 #: jamovi/client/main/ribbon/appmenu.js:131
 msgid "Checking for updates"
-msgstr ""
+msgstr "അപ്ഡേറ്റുകൾക്കായി പരതുന്നു"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr ""
+msgstr "സർക്കുലർ റഫറൻസ് കാണുന്നു"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
