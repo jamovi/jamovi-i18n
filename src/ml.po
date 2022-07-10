@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 11:16+0000\n"
+"PO-Revision-Date: 2022-07-10 12:18+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -799,27 +799,31 @@ msgstr "ഫിൽട്ടർ എക്സ്പ്രഷൻ ഉപയോഗി�
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
+"'V' അല്ലെങ്കിൽ കോളം ഫങ്ഷനുകൾ ഉപയോഗിച്ച് ഫിൽട്ടറുകൾ കോളങ്ങളെ റഫറൻസ് "
+"ചെയ്തേക്കില്ല"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "ഫിൽട്ടറുകൾ ഔട്ട്പുട്ട് വേരിയബിളുകളെ റഫറൻസ് ചെയ്തേക്കില്ല"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
-msgstr ""
+msgstr "ഫോണ്ട്"
 
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
 msgid "Formula"
-msgstr ""
+msgstr "ഫോർമുല"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "ഫോർമുലയിൽ അനുവദനീയമല്ലാത്ത നോഡ് അടങ്ങിയിരിക്കുന്നു"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr ""
+"ഫോർമുല തെറ്റായി സ്പെസിഫൈ ചെയ്തിരിക്കുന്നു (തുല്യത പരീക്ഷിക്കാനാണെങ്കിൽ, രണ്ട്"
+" തുല്യ ചിഹ്നങ്ങൾ '==' ഉപയോഗിക്കുക)"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
