@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-08 01:16+0000\n"
-"Last-Translator: amber buchtela <amberbuchtela@gmail.com>\n"
+"PO-Revision-Date: 2022-07-10 18:20+0000\n"
+"Last-Translator: Freddy Jack <po12319798@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
 "Language: ar\n"
@@ -25,17 +25,14 @@ msgstr ""
 "(إذا كنت ترغب في اختبار المساواة ، فاستخدم علامتين متساويتين '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
-#, fuzzy
 msgid "(auto)"
 msgstr "(تلقائي)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:265
-#, fuzzy
 msgid "(current)"
 msgstr "(الحالي)"
 
 #: jamovi/client/main/tableview.js:1164
-#, fuzzy
 msgid "{columnType} columns may not be edited."
 msgstr "قد لا يتم تحرير أعمدة {columnType}."
 
@@ -45,36 +42,30 @@ msgstr "تم إلغاء تثبيت {m} بنجاح"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "{n} dp"
-msgstr "{ن} موانئ دبي"
+msgstr "{n} dp"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
-#, fuzzy
 msgid "{n} is not a positive integer"
 msgstr "{n} ليس عددا صحيحا موجبا"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "{n} sf"
-msgstr "{ن} سادس"
+msgstr "{n} sf"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
-#, fuzzy
 msgid "{r} is not an integer"
 msgstr "{r} ليس عددا صحيحا"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
-#, fuzzy
 msgid "A change of language requires jamovi to be restarted"
-msgstr "يتطلب تغيير اللغة إعادة تشغيل jamovi"
+msgstr "يتطلب تغيير اللغة إعادة تشغيل جيموفي"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
-#, fuzzy
 msgid "A newer version of jamovi is required"
-msgstr "هناك حاجة لنسخة جديدة من الـ(جيمسوفي)"
+msgstr "هناك حاجة لنسخة جديدة من الـ(جيموفي)"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
