@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 12:18+0000\n"
+"PO-Revision-Date: 2022-07-10 14:18+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -828,132 +828,139 @@ msgstr ""
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "ഫങ്ഷൻ {}() നിലവിലില്ല"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "ഫങ്ഷൻ {}() ന് കുറഞ്ഞത് {} ആർഗ്യുമെന്റ്{} ആവശ്യമാണ്"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "{}() ഫങ്ഷന് {} ഉം {} ഉം ഇടയിൽ ആർഗ്യുമെന്റുകൾ വേണം"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "{}() ഫങ്ഷന് {} ആർഗ്യുമെന്റ് വേണം{}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
 msgid "Functions"
-msgstr ""
+msgstr "ഫങ്ഷനുകൾ"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
-msgstr ""
+msgstr "ഗ്രേറ്റർ ദാൻ"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
+#, fuzzy
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "ഇതിലും വലുതോ ഇതിനു തുല്യമോ:"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr ""
+msgstr "ഗ്രീൻസ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr ""
+msgstr "ഗ്രേയ്‌സ്"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
 msgid "Group"
-msgstr ""
+msgstr "ഗ്രൂപ്പ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Hadley"
-msgstr ""
+msgstr "ഹാഡ്‌ലി"
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
 msgid "Heading"
-msgstr ""
+msgstr "ഹെഡിങ്ങ്"
 
 #: jamovi/client/resultsview/annotation.js:138
 msgid "Help"
-msgstr ""
+msgstr "സഹായം"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
-msgstr ""
+msgstr "ഹായ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
+#, fuzzy
 msgid "Hidden"
-msgstr ""
+msgstr "മറഞ്ഞിരിക്കുന്നത്"
 
 #: jamovi/client/main/store/pagemodules.js:139
 #: jamovi/client/main/variableeditor.js:175
 #: jamovi/client/main/variableeditor.js:49
 msgid "Hide"
-msgstr ""
+msgstr "മറയ്ക്കുക"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "ഫിൽട്ടർ നിരകൾ മറയ്ക്കുക"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
-msgstr ""
+msgstr "ലൈബ്രറി മറയ്ക്കുക"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
-msgstr ""
+msgstr "ഓപ്ഷനുകൾ മറയ്ക്കുക"
 
 #: jamovi/client/main/ribbon/appmenu.js:39
 msgid "Hide settings"
-msgstr ""
+msgstr "സെറ്റിങ്ങ്സ് മറയ്ക്കുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
+#, fuzzy
 msgid "Highlight Color"
-msgstr ""
+msgstr "ഹൈലൈറ്റ് നിറം"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
 msgid "Home"
-msgstr ""
+msgstr "ഹോം"
 
 #: jamovi/client/resultsview/html.js:53
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "ഐ ♥ SPSS"
 
 #: jamovi/client/main/editors/transformeditor.js:229
 #: jamovi/client/main/vareditor/datavarwidget.js:277
 #: jamovi/client/main/vareditor/measurelist.js:61
 msgid "ID"
-msgstr ""
+msgstr "ഐഡി"
 
 #: jamovi/client/main/notification.js:73
 msgid "Idle session"
-msgstr ""
+msgstr "നിഷ്ക്രിയ സെഷൻ"
 
 #: jamovi/client/main/editors/transformeditor.js:355
+#, fuzzy
 msgid "if"
-msgstr ""
+msgstr "ഇങ്ങനെ ആണെങ്കിൽ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
+#, fuzzy
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
+"എക്സ്പ്രഷൻ ശരിയായാൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ 'അല്ലെങ്കിൽ' എന്നതിലെ "
+"മൂല്യം ഉപയോഗിക്കുക"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
-msgstr ""
+msgstr "ചിത്രം"
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
 msgid "Import"
-msgstr ""
+msgstr "ഇംപോർട്ട്"
 
 #: jamovi/client/main/instance.js:137
 msgid "Import successful"
