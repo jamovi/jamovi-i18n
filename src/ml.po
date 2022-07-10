@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 05:14+0000\n"
+"PO-Revision-Date: 2022-07-10 11:16+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -759,28 +759,29 @@ msgstr "ഫയൽ സേവ് ചെയ്തു"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
-msgstr ""
+msgstr "ഫിൽട്ടർ"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
-msgstr ""
+msgstr "ഫിൽട്ടർ {}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr ""
+msgstr "ഫിൽട്ടർ {i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
 msgid "Filter is active"
-msgstr ""
+msgstr "ഫിൽട്ടർ ആക്ടീവാണ്"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
 msgid "Filter is inactive"
-msgstr ""
+msgstr "ഫിൽട്ടർ ആക്ടീവല്ല"
 
 #: jamovi/client/main/tableview.js:78
+#, fuzzy
 msgid "Filtered"
-msgstr ""
+msgstr "ഫിൽട്ടർ ചെയ്തു"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -789,11 +790,11 @@ msgstr ""
 #: jamovi/client/main/tableview.js:83
 #: jamovi/client/main/variablesview.js:61
 msgid "Filters"
-msgstr ""
+msgstr "ഫിൽട്ടറുകൾ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "ഫിൽട്ടർ എക്സ്പ്രഷൻ ഉപയോഗിച്ച് ഒരു വേരിയബിളിനെ ഫിൽട്ടർ ചെയ്യുന്നു."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
