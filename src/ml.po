@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 04:16+0000\n"
+"PO-Revision-Date: 2022-07-10 05:14+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -21,8 +21,7 @@ msgid ""
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
 "'{}' എന്നത് {}() എന്നതിനുള്ള ആർഗ്യുമെന്റ് അല്ല\n"
-"(നിങ്ങൾക്ക് തുല്യത പരിശോധിക്കണമെങ്കിൽ, രണ്ട് തുല്യ ചിഹ്നങ്ങൾ ഉപയോഗിക്കുക "
-"'==')"
+"(തുല്യത പരിശോധിക്കണമെങ്കിൽ, രണ്ട് തുല്യ ചിഹ്നങ്ങൾ '==' ഉപയോഗിക്കുക )"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -123,7 +122,6 @@ msgid "Added"
 msgstr "ചേർത്തു"
 
 #: jamovi/client/main/resultspanel.js:587
-#, fuzzy
 msgid "All"
 msgstr "എല്ലാം"
 
@@ -584,50 +582,52 @@ msgstr "ഡോക്യുമെന്റുകൾ"
 
 #: jamovi/client/main/main.js:371
 msgid "Don't enable"
-msgstr ""
+msgstr "എനേബിൾ ചെയ്യണ്ടാ"
 
 #: jamovi/client/main/main.js:643
 msgid "Don't Save"
-msgstr ""
+msgstr "സേവ് ചെയ്യണ്ടാ"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
 #: jamovi/client/main/backstage.js:1242
 msgid "Download"
-msgstr ""
+msgstr "ഡൗൺലോഡ്"
 
 #: jamovi/client/main/utils/pathtools.js:9
 #: jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
-msgstr ""
+msgstr "ഡൗൺലോഡുകൾ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"വേരിയബിളിൽ നിന്ന് n-എണ്ണം സാമ്പിൾ എടുക്കുന്നു. അതായത്, SAMPLE(var, 20), i.e. "
+"SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "ഒരു ബീറ്റ ഡിസ്ട്രിബ്യുഷനിൽ നിന്ന് സാമ്പിളുകൾ എടുക്കുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "ഒരു ഗാമ ഡിസ്ട്രിബ്യുഷനിൽ നിന്ന് സാമ്പിളുകൾ എടുക്കുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "ഒരു നോർമൽ (ഗൗസിയൻ) ഡിസ്ട്രിബ്യുഷനിൽ നിന്ന് സാമ്പിളുകൾ എടുക്കുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "ഒരു യൂണിഫോം ഡിസ്ട്രിബ്യുഷനിൽ നിന്ന് സാമ്പിളുകൾ എടുക്കുന്നു."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
-msgstr ""
+msgstr "ഡ്യൂപ്ലിക്കേറ്റ്"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "ഡ്യൂപ്ലിക്കേറ്റ് ട്രാൻസ്ഫോം"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -638,67 +638,67 @@ msgstr ""
 #: jamovi/client/main/tableview.js:1173
 #: jamovi/client/main/tableview.js:1283
 msgid "Edit"
-msgstr ""
+msgstr "എഡിറ്റ്"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr ""
+msgstr "ട്രാൻസ്ഫോം എഡിറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
 msgid "Edit..."
-msgstr ""
+msgstr "എഡിറ്റ്..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
 msgid "else use"
-msgstr ""
+msgstr "അല്ലെങ്കിൽ"
 
 #: jamovi/client/main/main.js:372
 msgid "Enable"
-msgstr ""
+msgstr "എനേബിൾ"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
-msgstr ""
+msgstr "വിവരണം നൽകുക"
 
 #: jamovi/client/main/backstage.js:277
 #: jamovi/client/main/backstage.js:314
 msgid "Enter file name here"
-msgstr ""
+msgstr "ഫയലിന്റെ പേര് ഇവിടെ നൽകുക"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
 msgid "Enter label..."
-msgstr ""
+msgstr "ലേബൽ നൽകുക..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
 msgid "Enter level value"
-msgstr ""
+msgstr "ലെവൽ മൂല്യം നൽകുക"
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
-msgstr ""
+msgstr "പേര് നൽകുക"
 
 #: jamovi/client/resultsview/annotation.js:148
 msgid "Enter your URL here"
-msgstr ""
+msgstr "നിങ്ങളുടെ URL ഇവിടെ നൽകുക"
 
 #: jamovi/client/main/resultspanel.js:718
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "EPS ചിത്രം {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
-msgstr ""
+msgstr "തുല്യം"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr ""
+msgstr "എറർ"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
@@ -707,55 +707,55 @@ msgstr ""
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:215
 msgid "Export"
-msgstr ""
+msgstr "എക്സ്പോർട്ട്"
 
 #: jamovi/client/main/resultspanel.js:713
 msgid "Export image"
-msgstr ""
+msgstr "ചിത്രം എക്സ്പോർട്ട് ചെയ്യുക"
 
 #: jamovi/client/main/resultspanel.js:740
 msgid "Export results"
-msgstr ""
+msgstr "റിസൾട്ടുകൾ എക്സ്പോർട്ട് ചെയ്യുക"
 
 #: jamovi/client/main/instance.js:460
 msgid "Exported"
-msgstr ""
+msgstr "എക്സ്പോർട്ട് ചെയ്തു"
 
 #: jamovi/client/main/instance.js:461
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "'{filename}' ലേക്ക് എക്സ്പോർട്ട് ചെയ്തു"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
-msgstr ""
+msgstr "ഫയൽ"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr ""
+msgstr "സപ്പോർട്ട് ചെയ്യാത്ത ഫയൽ ഫോർമാറ്റ്"
 
 #: jamovi/client/main/instance.js:136
 msgid "File imported"
-msgstr ""
+msgstr "ഫയൽ ഇംപോർട്ട് ചെയ്തു"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
-msgstr ""
+msgstr "ഫയൽ കേടായിരിക്കുന്നു"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is corrupt or missing)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is corrupt)"
 
 #: jamovi/client/main/instance.js:496
 msgid "File save failed."
-msgstr ""
+msgstr "ഫയൽ സേവ് ചെയ്യാനായില്ല."
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
-msgstr ""
+msgstr "ഫയൽ സേവ് ചെയ്തു"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
