@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-09 17:18+0000\n"
+"PO-Revision-Date: 2022-07-10 02:20+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -68,7 +68,6 @@ msgid "A newer version of jamovi is required"
 msgstr "ജമോവിയുടെ ഒരു പുതിയ പതിപ്പ് ആവശ്യമാണ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
-#, fuzzy
 msgid "Accent"
 msgstr "ഉച്ചാരണം"
 
@@ -132,9 +131,8 @@ msgstr "എല്ലാം"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
-#, fuzzy
 msgid "All {n} way"
-msgstr "എല്ലാ {n} വഴിയും"
+msgstr "എല്ലാ {n} വഴി"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
@@ -263,7 +261,7 @@ msgstr "ഈ നിരകളിലേക്ക് അസൈൻ ചെയ്യാ
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr "സെല്ലുകൾ എഡിറ്റ് ചെയ്തു "
+msgstr "എഡിറ്റ് ചെയ്ത സെല്ലുകൾ "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -287,46 +285,46 @@ msgstr "സർക്കുലർ റഫറൻസ് കാണുന്നു"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
-msgstr ""
+msgstr "സെലക്ഷൻ മായ്‌ക്കുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Clipboard"
-msgstr ""
+msgstr "ക്ലിപ്പ്ബോർഡ്"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "അടയ്ക്കുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
-msgstr ""
+msgstr "കോഡ്-ബ്ലോക്ക്"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
-msgstr ""
+msgstr "കളർ പാലറ്റ്"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "'{}' എന്ന നിര ഡാറ്റാസെറ്റിൽ ഇല്ല"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
-msgstr ""
+msgstr "നിര എഡിറ്റ് ചെയ്യാനാകില്ല"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
-msgstr ""
+msgstr "കമ്പ്യൂട്ട്"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr ""
+msgstr "കമ്പ്യൂട്ട് ചെയ്ത"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr ""
+msgstr "കമ്പ്യൂട്ട്ചെയ്ത വേരിയബിൾ"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
