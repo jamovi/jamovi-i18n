@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 03:20+0000\n"
+"PO-Revision-Date: 2022-07-10 04:16+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' തെറ്റുണ്ട്"
+msgstr "'{}' ൽ തെറ്റുണ്ട്"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
