@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 14:18+0000\n"
+"PO-Revision-Date: 2022-07-10 15:19+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -964,32 +964,32 @@ msgstr "ഇംപോർട്ട്"
 
 #: jamovi/client/main/instance.js:137
 msgid "Import successful"
-msgstr ""
+msgstr "ഇംപോർട്ട് വിജയകരം"
 
 #: jamovi/client/main/vareditor/editorwidget.js:43
 msgid "Imported as"
-msgstr ""
+msgstr "ഇമ്പോർട്ട് ചെയ്തിരിക്കുന്നത് ഇങ്ങനെ:"
 
 #: jamovi/client/main/instance.js:119
 msgid "Importing"
-msgstr ""
+msgstr "ഇംപോർട്ട് ചെയ്യുന്നു"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
-msgstr ""
+msgstr "പണി നടക്കുന്നു"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "inactive"
-msgstr ""
+msgstr "നിഷ്ക്രിയം"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr ""
+msgstr "ഇൻഡന്റ് -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr ""
+msgstr "ഇൻഡന്റ് +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1005,185 +1005,193 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
+#, fuzzy
 msgid "Insert"
-msgstr ""
+msgstr "ചേർക്കുക"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
-msgstr ""
+msgstr "എത്ര വരികൾ ചേർക്കണം?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
-msgstr ""
+msgstr "വരി ചേർക്കുക..."
 
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്തു"
 
 #: jamovi/client/main/ribbon/analysetab.js:80
 msgid "Installed Modules"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്ത മൊഡ്യൂളുകൾ"
 
 #: jamovi/client/main/store/pagemodules.js:133
 msgid "Installed version is incompatible"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്ത പതിപ്പ് ചേരുന്നതല്ല"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
-msgstr ""
+msgstr "പൂർണ്ണസംഖ്യ"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1019
 msgid "Interaction"
-msgstr ""
+msgstr "ഇന്ററാക്ഷൻ"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1020
 msgid "Interactions"
-msgstr ""
+msgstr "ഇന്ററാക്ഷനുകൾ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Inverts the value."
-msgstr ""
+msgstr "മൂല്യം തിരിച്ചിടുന്നു."
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
 #: jamovi/client/main/tableview.js:591
 msgid "Issue with formula"
-msgstr ""
+msgstr "ഫോർമുലയുടെ പ്രശ്നം"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
-msgstr ""
+msgstr "ഇറ്റാലിക്"
 
 #: jamovi/client/main/backstage.js:1007
 #: jamovi/client/main/backstage.js:1018
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "jamovi ഫയൽ {ext}"
 
 #: jamovi/client/main/backstage.js:976
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "jamovi ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
+#, fuzzy
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr ""
+"ജമോവി ഇപ്പോൾ {പരിഭാഷാ ഭാഷ ചേർക്കുക } ഭാഷയിൽ ലഭ്യമാണ്! (വളരെ നന്ദി, { "
+"നിങ്ങളുടെ പേര് ഇവിടെ ചേർക്കുക (നിങ്ങൾക്ക് ക്രെഡിറ്റ് ആവശ്യമില്ലെങ്കിൽ, \"ജമ"
+"ോവി പരിഭാഷാ ടീം\" എന്ന് ചേർക്കുക ) })"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr ""
+"ജമോവി ഇപ്പോൾ {പരിഭാഷാ ഭാഷ ചേർക്കുക } ഭാഷയിൽ ലഭ്യമാണ്! (വളരെ നന്ദി, @{ "
+"നിങ്ങളുടെ ട്വിറ്റർ ഹാൻഡിൽ ഇവിടെ ചേർക്കുക (നിങ്ങൾക്ക് ക്രെഡിറ്റ് "
+"ആവശ്യമില്ലെങ്കിൽ, \"ജമോവി പരിഭാഷാ ടീം\" എന്ന് ചേർക്കുക ) })"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
-msgstr ""
+msgstr "ജമോവി അപ്-ടു-ഡേറ്റ് ആണ്"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
-msgstr ""
+msgstr "ജമോവി ലൈബ്രറി"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
-msgstr ""
+msgstr "ജമോവി മൊഡ്യൂളുകൾ"
 
 #: jamovi/client/main/backstage.js:1030
 #: jamovi/client/main/backstage.js:1053
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "ജമോവി ടെംപ്ലേറ്റ് {ext}"
 
 #: jamovi/client/main/backstage.js:977
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "ജമോവി ടെംപ്ലേറ്റുകൾ {ext}"
 
 #: jamovi/client/main/backstage.js:985
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "JASP ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr ""
+msgstr "ജസ്റ്റിഫൈ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "കീവേഡ്: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
-msgstr ""
+msgstr "ഭാഷ"
 
 #: jamovi/client/main/backstage.js:1032
 #: jamovi/client/main/backstage.js:1055
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "LaTeX ബണ്ടിൽ {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
-msgstr ""
+msgstr "ഇടത് അലൈൻ ചെയ്യുക"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr ""
+msgstr "ലെസ്സ് ദാൻ"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
-msgstr ""
+msgstr "ഇതിലും കുറവോ തുല്യമോ:"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
 msgid "Level {0}"
-msgstr ""
+msgstr "ലെവൽ {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:184
 msgid "Level value"
-msgstr ""
+msgstr "ലെവൽ മൂല്യം"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:48
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
 msgid "Levels"
-msgstr ""
+msgstr "ലെവലുകൾ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
-msgstr ""
+msgstr "ലിങ്ക്"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
-msgstr ""
+msgstr "ലോഡിംഗ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "Logical"
-msgstr ""
+msgstr "ലോജിക്കൽ"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
-msgstr ""
+msgstr "മെയിൻ ഇഫക്റ്റുകൾ"
 
 #: jamovi/client/main/ribbon/analysetab.js:79
 msgid "Manage installed"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്തവയെ മാനേജു ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr ""
+msgstr "ഗണിതം"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr ""
+msgstr "അളവ് തരം"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr ""
+msgstr "മിനിമൽ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Misc"
-msgstr ""
+msgstr "മറ്റുള്ളവ"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
