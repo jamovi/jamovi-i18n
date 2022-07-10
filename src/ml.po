@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 02:20+0000\n"
+"PO-Revision-Date: 2022-07-10 03:20+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -333,64 +333,66 @@ msgstr "കമ്പ്യൂട്ട്ചെയ്ത വേരിയബി�
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "കമ്പ്യൂട്ട്ചെയ്ത വേരിയബിൾ"
+msgstr[1] "കമ്പ്യൂട്ട്ചെയ്ത വേരിയബിളുകൾ"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
-msgstr ""
+msgstr "ഓവർറൈറ്റ് ഉറപ്പിക്കുക"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Confirm uninstall"
-msgstr ""
+msgstr "അൺഇൻസ്റ്റാൾ ഉറപ്പിക്കുക"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr ""
+msgstr "കണക്ഷൻ നടന്നില്ല"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
 msgid "Connection lost"
-msgstr ""
+msgstr "കണക്ഷൻ നഷ്ടപ്പെട്ടു"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "തുടർച്ചയായ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "ABS(IQR( variable)-നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "ABS(IQR( variable)-നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
 msgstr ""
+"MAX(ABSIQR( variable 1, variable 2, ... )- നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
 msgstr ""
+"MAX(ABSIQR( variable 1, variable 2, ... )- നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "ഒരു സംഖ്യയെ പൂർണ്ണസംഖ്യയാക്കി മാറ്റുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "ടെക്സ്റ്റിനെ സംഖ്യയിലേക്ക് മാറ്റുന്നു (പറ്റുമെങ്കിൽ)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Converts the value to text."
-msgstr ""
+msgstr "മൂല്യത്തെ ടെക്സ്റ്റിലേക്ക് മാറ്റുന്നു."
 
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
 msgid "Copied"
-msgstr ""
+msgstr "കോപ്പി ചെയ്തു"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
@@ -407,76 +409,76 @@ msgstr ""
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
-msgstr ""
+msgstr "കോപ്പി"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "ഡാറ്റ അസൈൻ ചെയ്യാനായില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "വരികൾ ഡിലീറ്റ് ചെയ്യാൻ കഴിഞ്ഞില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "നിരകൾ ഇടയിൽ ചേർക്കാൻ കഴിഞ്ഞില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "വരികൾ ഇടയിൽ ചേർക്കാൻ കഴിഞ്ഞില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "നിരകൾ മാറ്റാൻ പറ്റിയില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "ട്രാൻസ്ഫോം മാറ്റാൻ പറ്റിയില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "ഓപ്പറേഷൻ ചെയ്യാൻ കഴിഞ്ഞില്ല"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "പുതിയ ട്രാൻസ്ഫോം ഉണ്ടാക്കുക..."
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (Comma delimited) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
 #: jamovi/client/main/ribbon/annotationtab.js:109
 #: jamovi/client/main/ribbon/datatab.js:18
 msgid "Cut"
-msgstr ""
+msgstr "കട്ട്"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr ""
+msgstr "ഡാർക്2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr ""
+msgstr "ഡാറ്റ"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
-msgstr ""
+msgstr "ഡാറ്റ ഫയലുകൾ"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
-msgstr ""
+msgstr "ഡാറ്റ ലൈബ്രറി"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
-msgstr ""
+msgstr "ഡാറ്റ ടൈപ്പ്"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:108
 #: jamovi/client/main/contextmenu/contextmenus.js:58
@@ -485,96 +487,100 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:238
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ഡാറ്റ വേരിയബിൾ"
+msgstr[1] "ഡാറ്റ വേരിയബിളുകൾ"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr ""
+msgstr "ദശാംശം"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
-msgstr ""
+msgstr "ദശാംശ സ്ഥാനങ്ങൾ"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
-msgstr ""
+msgstr "ഡിഫോൾട്ട്"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr ""
+msgstr "ഡിഫോൾട്ട് മിസ്സിങ്ങ്"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:41
 msgid "Delete"
-msgstr ""
+msgstr "ഡിലീറ്റ്"
 
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "'{columnName}' എന്ന നിര ഡിലീറ്റ് ചെയ്യണോ?"
+msgstr[1] "{n} നിരകൾ ഡിലീറ്റ് ചെയ്യണോ?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
 msgid "Delete Filter"
-msgstr ""
+msgstr "ഫിൽട്ടർ ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr ""
+msgstr "വരി ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "വരി {index} ഡിലീറ്റ് ചെയ്യണോ?"
+msgstr[1] "{n} വരികൾ ഡിലീറ്റ് ചെയ്യണോ?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "വരികൾ ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "ട്രാൻസ്ഫോം ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "വേരിയബിൾ ഡിലീറ്റ് ചെയ്യുക"
+msgstr[1] "വേരിയബിളുകൾ ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/tableview.js:77
 msgid "Deleted"
-msgstr ""
+msgstr "ഡിലീറ്റ് ചെയ്തു"
 
 #: jamovi/client/main/editors/transformeditor.js:61
 #: jamovi/client/main/vareditor/editorwidget.js:68
 #: jamovi/client/main/vareditor/filterwidget.js:507
 #: jamovi/client/main/variablesview.js:321
 msgid "Description"
-msgstr ""
+msgstr "വിവരണം"
 
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
 msgid "Desktop"
-msgstr ""
+msgstr "ഡെസ്ക്ടോപ്പ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"ഏതെങ്കിലും ഇനങ്ങൾ in1, in2, in3, തുടങ്ങിയവയിൽ വരുന്നുണ്ടോ എന്ന് നോക്കുന്നു. "
+"ഈ ആർഗ്യുമെന്റുകളിൽ ഭൂരിഭാഗവും ഓപ്ഷണൽ ആണെന്നത് ശ്രദ്ധിക്കുക -- "
+"<strong>CONTAINS(needle, haystack)</strong> എന്ന് ലളിതമായി ഉപയോഗിക്കാനും "
+"കഴിയും."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
-msgstr ""
+msgstr "ഡെവലപ്പർ മോഡ്"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
 msgid "Documents"
-msgstr ""
+msgstr "ഡോക്യുമെന്റുകൾ"
 
 #: jamovi/client/main/main.js:371
 msgid "Don't enable"
