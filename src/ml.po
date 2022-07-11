@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 15:19+0000\n"
+"PO-Revision-Date: 2022-07-11 07:15+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1195,83 +1195,83 @@ msgstr "മറ്റുള്ളവ"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
-msgstr ""
+msgstr "ഇല്ലാത്ത മൂല്യങ്ങൾ"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr ""
+msgstr "ഇല്ലാത്ത മൂല്യങ്ങൾ"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
-msgstr ""
+msgstr "മൊഡ്യൂൾ ഇൻസ്റ്റാൾ ചെയ്തു"
 
 #: jamovi/client/main/store/pagesideload.js:44
 msgid "Module installed successfully"
-msgstr ""
+msgstr "മൊഡ്യൂൾ വിജയകരമായി ഇൻസ്റ്റാൾ ചെയ്തു"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
-msgstr ""
+msgstr "മൊഡ്യൂൾ അൺഇൻസ്റ്റാൾ ചെയ്തു"
 
 #: jamovi/client/main/store/pagemodules.js:193
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "മൊഡ്യൂൾ വിജയകരമായി അൺഇൻസ്റ്റാൾ ചെയ്തു"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
-msgstr ""
+msgstr "മൊഡ്യൂളുകൾ"
 
 #: jamovi/client/main/main.js:370
 msgid "More info ..."
-msgstr ""
+msgstr "കൂടുതൽ വിവരങ്ങൾ..."
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
-msgstr ""
+msgstr "പേര്"
 
 #: jamovi/client/main/backstage.js:1178
 #: jamovi/client/main/backstage.js:1255
 msgid "New"
-msgstr ""
+msgstr "പുതിയത്"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "പുതിയ കമ്പ്യൂട്ടഡ് വേരിയബിൾ"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr ""
+msgstr "പുതിയ ഡാറ്റ വേരിയബിൾ"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr ""
+msgstr "പുതിയ ട്രാൻസ്‌ഫോം ചെയ്ത വേരിയബിൾ"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
-msgstr ""
+msgstr "അടുത്ത വേരിയബിൾ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
-msgstr ""
+msgstr "നിറമില്ല"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
 msgid "No information about this function is avaliable"
-msgstr ""
+msgstr "ഈ ഫങ്ഷനെ കുറിച്ചുള്ള ഒരു വിവരവും ലഭ്യമല്ല"
 
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "ചേരുന്ന ഡാറ്റ ഫയലുകളൊന്നും കണ്ടില്ല."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "നിങ്ങളുടെ അന്വേഷണവുമായി ചേരുന്ന വേരിയബിളുകളൊന്നും ഇല്ല."
 
 #: jamovi/client/main/editors/transformeditor.js:226
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "നോമിനൽ"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1282,29 +1282,29 @@ msgstr ""
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr ""
+msgstr "ഒന്നുമില്ല"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr ""
+msgstr "തുല്യമല്ല"
 
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr ""
+msgstr "കുറിപ്പ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
-msgstr ""
+msgstr "സംഖ്യാ ഫോർമാറ്റ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "മൂല്യങ്ങളെ മുകളിലേക്കോ താഴേക്കോ ഓഫ്‌സെറ്റ് ചെയ്യുന്നു."
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
-msgstr ""
+msgstr "ഓക്കേ"
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1313,39 +1313,44 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"ഈ ഡാറ്റാ സെറ്റിലെ ഒന്നോ അതിലധികമോ വിശകലനങ്ങളെ ഡിസേബിൾ ചെയ്തിട്ടുണ്ട്\n"
+"                    കാരണം അവർ തോന്നിയ പോലെ ചില കോഡ് നടപ്പിലാക്കാൻ "
+"അനുവദിക്കുന്നു. നിങ്ങൾ\n"
+"                    ഈ ഡാറ്റാ സെറ്റിന്റെ ഉറവിടത്തെ നിങ്ങൾ "
+"വിശ്വസിക്കുന്നുവെങ്കിൽ മാത്രം അവ  എനേബിൾ ചെയ്യുക."
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
-msgstr ""
+msgstr "ഓൺലൈൻ ഡാറ്റ സെറ്റ്"
 
 #: jamovi/client/main/backstage.js:1183
 #: jamovi/client/main/backstage.js:1260
 msgid "Open"
-msgstr ""
+msgstr "തുറക്കുക"
 
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "ഡോക്യുമെന്റ് തുറക്കുക (LibreOffice) {ext}"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
 #: jamovi/client/main/main.js:665
 msgid "Opening"
-msgstr ""
+msgstr "തുറക്കുന്നു"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
 msgid "Operators"
-msgstr ""
+msgstr "ഓപ്പറേറ്ററുകൾ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr ""
+msgstr "ഓർഡറിൽ ഉള്ള ലിസ്റ്റ്"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr ""
+msgstr "ഓർഡിനൽ"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
