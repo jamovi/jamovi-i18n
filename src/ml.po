@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-12 15:20+0000\n"
+"PO-Revision-Date: 2022-07-12 16:19+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -851,7 +851,6 @@ msgid "Greater than"
 msgstr "ഗ്രേറ്റർ ദാൻ"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
-#, fuzzy
 msgid "Greater than or equal to"
 msgstr "ഇതിലും വലുതോ ഇതിനു തുല്യമോ:"
 
@@ -947,11 +946,10 @@ msgid "if"
 msgstr "ഇങ്ങനെ ആണെങ്കിൽ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
-#, fuzzy
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
 "എക്സ്പ്രഷൻ ശരിയായാൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ 'അല്ലെങ്കിൽ' എന്നതിലെ "
-"മൂല്യം ഉപയോഗിക്കുക"
+"മൂല്യം ഉപയോഗിക്കുക."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1859,9 +1857,8 @@ msgid "The formula is mis-specified"
 msgstr "ഫോർമുല തെറ്റായി സ്പെസിഫൈ ചെയ്തിരിക്കുന്നു"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
-#, fuzzy
 msgid "The index of value in the provided values."
-msgstr "തന്നിട്ടുള്ള മൂല്യങ്ങളിലെ ഈ മൂല്യത്തിന്റെ ഇൻഡക്സ്"
+msgstr "തന്നിട്ടുള്ള മൂല്യങ്ങളിലെ ഈ മൂല്യത്തിന്റെ ഇൻഡക്സ്."
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
@@ -1884,9 +1881,8 @@ msgid "The selected transform is in error and should be edited."
 msgstr "തിരഞ്ഞെടുത്ത ട്രാൻസ്‌ഫോമിൽ തെറ്റുള്ളതിനാൽ അത് എഡിറ്റ് ചെയ്യണം."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
-#, fuzzy
 msgid "The value in the provided values at index."
-msgstr "നൽകിയിട്ടുള്ള മൂല്യങ്ങളിലെ ഇൻഡക്സിൽ ഉള്ള മൂല്യം"
+msgstr "നൽകിയിട്ടുള്ള മൂല്യങ്ങളിലെ ഇൻഡക്സിൽ ഉള്ള മൂല്യം."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2154,31 +2150,37 @@ msgstr "എപ്പോൾ"
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid "When the variable contains a missing value, use the value, otherwise the else."
 msgstr ""
+"വേരിയബിളിൽ ശൂന്യമായ ഒരു മൂല്യം ഉണ്ടെങ്കിൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ "
+"'അല്ലെങ്കിൽ' എന്നതിലെ മൂല്യം ഉപയോഗിക്കുക."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "ഈ അധിക സ്റ്റെപ്പ് എന്തുകൊണ്ടാണ്?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ വരികൾ ഡിലീറ്റ് ചെയ്യാൻ പറ്റില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ വരികൾ ഇടയിൽ ചേർക്കാൻ പറ്റില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
+"ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ ഫിൽട്ടറുകളെ ബാധിക്കുന്ന നിരകൾക്ക് "
+"മാറ്റം വരുത്താൻ പറ്റില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr ""
+"ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ ഫിൽട്ടറുകളെ ബാധിക്കുന്ന "
+"ട്രാൻസ്‌ഫോമുകൾക്ക് മാറ്റം വരുത്താൻ പറ്റില്ല"
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "നിങ്ങളുടെ കണക്ഷൻ പോയി. തുടരാൻ പേജ് റിഫ്രഷ് ചെയ്യുക."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr ""
+msgstr "സൂം"
