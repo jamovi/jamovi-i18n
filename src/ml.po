@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-11 09:20+0000\n"
+"PO-Revision-Date: 2022-07-12 05:15+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1522,171 +1522,171 @@ msgstr "ഒരു സംഖ്യയുടെ, ℯ അടിസ്ഥാനം �
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളിലെ ഏറ്റവും വലുത് കണ്ടെത്തുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ ഏറ്റവും കൂടിയ മൂല്യം തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ ശരാശരി തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ മീഡിയൻ തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിൽ ഏറ്റവും കൂടുതൽ തവണ വരുന്ന മൂല്യം തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "ഒരു സംഖ്യയുടെ സ്വാഭാവിക ലോഗരിതം തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ നോർമലൈസ് ചെയ്ത മൂല്ല്യങ്ങൾ തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിലെ കേസുകളുടെ[നിരകൾ] എണ്ണം തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിലെ ആകെ നിരകളുടെ[മിസ്സിംഗ് ഉൾപ്പെടെ] എണ്ണം തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ ആകെ ശരാശരി തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ ആകെ തുക തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "വരികളുടെ നമ്പറുകൾ തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളിലെ ഏറ്റവും ചെറുത് കണ്ടെത്തുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ ഏറ്റവും ചെറിയ മൂല്യം തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "ഒരു സംഖ്യയുടെ സ്ക്വയർ റൂട്ട് തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ സ്റ്റാൻഡേർഡ് ഡീവിയേഷൻ തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ സ്റ്റാൻഡേർഡ് ഡീവിയേഷൻ തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ സ്റ്റാൻഡേർഡ് എറർ ഓഫ് മീൻ നൽകുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ തുക തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ വേരിയൻസ് തരുന്നു."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "ഒരു വേരിയബിളിന്റെ വേരിയൻസ് തരുന്നു."
 
 #: jamovi/client/main/variableeditor.js:50
 msgid "Revert changes"
-msgstr ""
+msgstr "മാറ്റങ്ങൾ ഒഴിവാക്കി പഴയപടിയാക്കുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr ""
+msgstr "വലത് അലൈൻ ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr ""
+msgstr "ഓരോ മൂല്യവും റൗണ്ട് ചെയ്യുന്നു"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "ഓരോ മൂല്യവും തൊട്ടുമുകളിലുള്ള പൂർണ്ണസംഖ്യയിലേക്ക് റൌണ്ട് ചെയ്യുന്നു"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "ഓരോ മൂല്യവും തൊട്ടുതാഴെയുള്ള പൂർണ്ണസംഖ്യയിലേക്ക് റൌണ്ട് ചെയ്യുന്നു"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
-msgstr ""
+msgstr "വരികളുടെ എണ്ണം"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr ""
+msgstr "വരികൾക്കുള്ള ഫിൽട്ടറുകൾ"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
 msgid "Rows"
-msgstr ""
+msgstr "വരികൾ"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:984
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "SAS ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/backstage.js:1038
 #: jamovi/client/main/backstage.js:1061
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1297
 #: jamovi/client/main/backstage.js:321
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/menu.js:160
 msgid "Save"
-msgstr ""
+msgstr "സേവ്"
 
 #: jamovi/client/main/backstage.js:1211
 #: jamovi/client/main/backstage.js:1312
 msgid "Save As"
-msgstr ""
+msgstr "പുതിയ പേരിൽ സേവ് ചെയ്യുക"
 
 #: jamovi/client/main/main.js:645
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "'{title}' എന്നതിലെ മാറ്റങ്ങൾ സേവ് ചെയ്യണോ?"
 
 #: jamovi/client/main/instance.js:506
 msgid "Save failed"
-msgstr ""
+msgstr "സേവ് ചെയ്യാൻ പറ്റിയില്ല"
 
 #: jamovi/client/main/instance.js:475
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "'{filename}' എന്നതിലേക്ക് സേവ് ചെയ്‌തു"
 
 #: jamovi/client/main/instance.js:427
 msgid "Saving"
-msgstr ""
+msgstr "സേവ് ചെയ്യുന്നു"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "ഷെഡ്യൂൾ ചെയ്ത അറ്റകുറ്റപ്പണികൾ"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr ""
+msgstr "വേരിയബിളുകൾ തിരയുക"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
