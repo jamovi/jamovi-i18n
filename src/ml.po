@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-12 06:17+0000\n"
+"PO-Revision-Date: 2022-07-12 09:17+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1760,30 +1760,33 @@ msgid "Special Import"
 msgstr "പ്രത്യേക ഇംപോർട്ട്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
+#, fuzzy
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr ""
+"ഒരു സെപ്പറേറ്ററിനെ അടിസ്ഥാനമാക്കി ടെക്സ്റ്റിനെ കഷണങ്ങളായി വിഭജിക്കുന്നു."
+"ഇൻഡക്സ് പ്രകാരം ആവശ്യമുള്ള കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "SPSS ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "SPSS sav ഫയൽ {ext}"
 
 #: jamovi/client/main/backstage.js:1039
 #: jamovi/client/main/backstage.js:1062
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Stata ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr ""
+msgstr "സ്റ്റാറ്റിസ്റ്റിക്കൽ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
