@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-12 05:15+0000\n"
+"PO-Revision-Date: 2022-07-12 06:17+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1690,72 +1690,74 @@ msgstr "വേരിയബിളുകൾ തിരയുക"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
-msgstr ""
+msgstr "എല്ലാം സെലക്റ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
+#, fuzzy
 msgid "Selected"
-msgstr ""
+msgstr "സെലക്റ്റ് ചെയ്തു"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "sequential"
-msgstr ""
+msgstr "സീക്വൻഷ്യൽ"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr ""
+msgstr "സെറ്റ് 1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
-msgstr ""
+msgstr "സെറ്റപ്പ്"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
 msgid "Setup..."
-msgstr ""
+msgstr "സെറ്റപ്പ്..."
 
 #: jamovi/client/main/store/pagemodules.js:136
 msgid "Show"
-msgstr ""
+msgstr "കാണിക്കുക"
 
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
 msgid "Show filter columns"
-msgstr ""
+msgstr "ഫിൽട്ടർ കോളങ്ങൾ കാണിക്കുക"
 
 #: jamovi/client/main/editors/transformeditor.js:634
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
 msgid "Show formula editor"
-msgstr ""
+msgstr "ഫോർമുല എഡിറ്റർ കാണിക്കുക"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "മെയിൻ മെനുവിൽ കാണിക്കുക"
 
 #: jamovi/client/main/store.js:65
 msgid "Side loading modules is not avaliable on this plan."
-msgstr ""
+msgstr "ഈ പ്ലാനിൽ സൈഡ് ലോഡിംഗ് മൊഡ്യൂളുകൾ ലഭ്യമല്ല."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
-msgstr ""
+msgstr "സൈഡ് ലോഡ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr ""
+msgstr "പ്രധാനപ്പെട്ട അക്കങ്ങൾ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Simulation"
-msgstr ""
+msgstr "സിമുലേഷൻ"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
-msgstr ""
+msgstr "ഉറവിട വേരിയബിൾ"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "പ്രത്യേക ഇംപോർട്ട്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
