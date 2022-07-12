@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-12 09:17+0000\n"
+"PO-Revision-Date: 2022-07-12 13:18+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1790,39 +1790,39 @@ msgstr "സ്റ്റാറ്റിസ്റ്റിക്കൽ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
-msgstr ""
+msgstr "വെട്ടുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
-msgstr ""
+msgstr "സ്റ്റൈലുകൾ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Sub Script"
-msgstr ""
+msgstr "സബ് സ്ക്രിപ്റ്റ്"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
 msgid "Super Script"
-msgstr ""
+msgstr "സൂപ്പർ സ്ക്രിപ്റ്റ്"
 
 #: jamovi/client/main/resultspanel.js:717
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "SVG ചിത്രം {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
-msgstr ""
+msgstr "സിന്റാക്സ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "Syntax mode"
-msgstr ""
+msgstr "സിന്റാക്സ് മോഡ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "സിസ്റ്റം ഡിഫോൾട്ട്"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
-msgstr ""
+msgstr "പട്ടിക"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
