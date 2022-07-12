@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-12 13:18+0000\n"
+"PO-Revision-Date: 2022-07-12 14:19+0000\n"
 "Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1827,73 +1827,79 @@ msgstr "പട്ടിക"
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Text"
-msgstr ""
+msgstr "ടെക്സ്റ്റ്"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Text Color"
-msgstr ""
+msgstr "ടെക്സ്റ്റ് നിറം"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "ഉള്ളടക്കം ക്ലിപ്പ്ബോർഡിലേക്ക് പകർത്തിയിട്ടുണ്ട്"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
+"ഉള്ളടക്കം തയ്യാറായി. താഴെയുള്ള ബട്ടൺ ഉപയോഗിച്ചോ, നിങ്ങളുടെ കീബോർഡിൽ "
+"<em>{k}+C</em> അമർത്തിയോ അത് കോപ്പി ചെയ്യാം"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "ഈ ട്രാൻസ്ഫോം പ്രയോഗിക്കാനുള്ള വേരിയബിളിന്റെ ഇപ്പോഴത്തെ മൂല്യം."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
 msgstr ""
+"'{filename}' എന്ന ഫയൽ ഇപ്പോൾത്തന്നെ നിലവിലുണ്ട്. അതിനു മുകളിൽ ഓവർറൈറ്റ് "
+"ചെയ്യണോ?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "ഫോർമുല തെറ്റായി സ്പെസിഫൈ ചെയ്തിരിക്കുന്നു"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
+#, fuzzy
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "തന്നിട്ടുള്ള മൂല്യങ്ങളിലെ ഈ മൂല്യത്തിന്റെ ഇൻഡക്സ്"
 
 #: jamovi/client/main/store.js:64
 msgid "The jamovi library is not avaliable on this plan."
-msgstr ""
+msgstr "ഈ പ്ലാനിൽ ജമോവി ലൈബ്രറി ലഭ്യമല്ല."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "{r} എന്ന ലെവൽ മൂല്ല്യം നിലവിൽ ഉപയോഗത്തിലുണ്ട്."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "ലെവൽ മൂല്ല്യം ശൂന്യമായിരിക്കാൻ പറ്റില്ല."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "ലൈബ്രറി പ്രവർത്തനരഹിതമാണ്"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "തിരഞ്ഞെടുത്ത ട്രാൻസ്‌ഫോമിൽ തെറ്റുള്ളതിനാൽ അത് എഡിറ്റ് ചെയ്യണം."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
+#, fuzzy
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "നൽകിയിട്ടുള്ള മൂല്യങ്ങളിലെ ഇൻഡക്സിൽ ഉള്ള മൂല്യം"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "ഈ ഡാറ്റാ സെറ്റ് ഇനി ലഭ്യമല്ല"
 
 #: jamovi/client/main/backstage.js:1198
 #: jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
-msgstr ""
+msgstr "ഈ ഡിവൈസ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
-msgstr ""
+msgstr "ഇതൊരു ഡാറ്റാ വേരിയബിളാണ്."
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -1901,17 +1907,17 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/backstage.js:1328
 msgid "This PC"
-msgstr ""
+msgstr "ഈ PC"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "ഈ സെഷനിൽ {} നിരകളേ പറ്റൂ"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "ഈ സെഷനിൽ {} വരികളേ പറ്റൂ"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
