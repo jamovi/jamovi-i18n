@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-08 19:16+0000\n"
+"PO-Revision-Date: 2022-07-13 15:17+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 "X-Status: hidden\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -22,8 +22,8 @@ msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"„{}” nie jest argumentem dla {}()\n"
-"(Jeśli chcesz przetestować równość, użyj dwóch znaków równości „==”)"
+"'{}' nie jest argumentem dla {}()\n"
+"(Jeżeli chcesz testować równość, użyj dwóch znaków równości '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -39,7 +39,7 @@ msgstr "{columnType} kolumn nie można edytować."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
-msgstr "{m} został pomyślnie odinstalowany"
+msgstr "deinstalacja {m} została zakończona pomyślnie"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -76,7 +76,7 @@ msgstr "Akcent"
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "Odmowa dostępu. Możesz nie mieć odpowiednich uprawnień do tego zasobu."
+msgstr "Odmowa dostępu. Możesz nie mieć uprawnień do wyświetlenia tego zasobu."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -88,7 +88,7 @@ msgstr "aktywny"
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
-msgstr "Dodać"
+msgstr "Dodaj"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -97,7 +97,7 @@ msgstr "Dodaj kolejny filtr zagnieżdżony"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr "Dodaj brakującą wartość"
+msgstr "Zdefiniuj braki danych"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
@@ -121,7 +121,7 @@ msgstr "Dodaj zmienną"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
-msgstr "Dodany"
+msgstr "Dodano"
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
@@ -132,7 +132,7 @@ msgstr "Wszystko"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "Wszystko {n} sposób"
+msgstr "Wszystkie {n} sposoby(ów)"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
@@ -173,16 +173,16 @@ msgstr "i"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "Dołączyć"
+msgstr "Dodaj"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "Ile wierszy dołączyć?"
+msgstr "Ile wierszy dodać?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "Dołącz wiersz..."
+msgstr "Dodaj wiersz..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
@@ -207,7 +207,7 @@ msgstr "Dostępny"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr "Zła definicja funkcji"
+msgstr "Funkcja została błędnie zdefiniowana"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
@@ -227,7 +227,7 @@ msgstr "Przeglądaj"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr "Lista wypunktowana"
+msgstr "Lista punktowana"
 
 #: jamovi/client/main/main.js:637
 msgid "Cancel"
@@ -251,7 +251,7 @@ msgstr "Nie można przypisać do kolumny filtrującej '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr "Nie można przypisać do rekodowanej kolumny '{}'"
+msgstr "Nie można przypisać do kolumny rekodowanej '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
@@ -296,7 +296,7 @@ msgstr "Zamknij"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
-msgstr "Kod-Blok"
+msgstr "blok kodu"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
@@ -305,11 +305,11 @@ msgstr "Paleta kolorów"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "Kolumna \"{}\" nie istnieje w zestawie danych"
+msgstr "Kolumna \"{}\" nie istnieje"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
-msgstr "Kolumny nie można edytować"
+msgstr "Kolumna nie jest edytowalna"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -331,9 +331,9 @@ msgstr "Obliczona zmienna"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "Zmienna obliczona"
-msgstr[1] "Zmienne obliczone"
-msgstr[2] "Zmiennych obliczonych"
+msgstr[0] "Obliczona zmienna"
+msgstr[1] "Obliczone zmienne"
+msgstr[2] "Obliczonych zmiennych"
 
 #: jamovi/client/main/instance.js:421
 msgid "Confirm overwite"
@@ -345,7 +345,7 @@ msgstr "Potwierdź odinstalowanie"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr "Połącznie nieudane"
+msgstr "Połączenie nie powiodło się"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
@@ -364,19 +364,19 @@ msgstr "Wygodny skrót dla ABS(IQR( zmienna ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr "Convenience short-hand for ABS(Z( zmienna ))"
+msgstr "Wygodny skrót dla ABS(Z( zmienna ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "Convenience short-hand for MAX(ABSIQR(zmienna 1, zmienna 2, … ))"
+msgstr "Wygodny skrót dla MAX(ABSIQR( zmienna 1, zmienna 2, ... ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr "Convenience short-hand for MAX(ABSZ( zmienna 1, zmienna 2, … ))"
+msgstr "Wygodny skrót dla MAX(ABSZ( zmienna 1, zmienna 2, ... ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Converts a number to an integer."
-msgstr "Konwertuj typ numeryczny na integer."
+msgstr "Konwertuj liczbę na liczbę całkowitą (typ integer)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Converts text to a number (if possible)."
@@ -439,13 +439,13 @@ msgstr "Nie można wykonać tej akcji"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr "Nowe przekształcenie..."
+msgstr "Utwórz nowe przekształcenie..."
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/backstage.js:976
 msgid "CSV (Comma delimited) {ext}"
-msgstr "CSV (oddzielone przecinkiem) {ext}"
+msgstr "CSV (rozdzielone przecinkami) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -485,8 +485,8 @@ msgstr "Typ danych"
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] "Zmienna danych"
-msgstr[1] "Zmienne danych ({n})"
-msgstr[2] "Zmiennych danych ({n})"
+msgstr[1] "({n}) zmienne danych"
+msgstr[2] "({n}) zmiennych danych"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
