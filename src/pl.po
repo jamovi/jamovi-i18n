@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-15 21:21+0000\n"
+"PO-Revision-Date: 2022-07-15 22:20+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1348,7 +1348,7 @@ msgstr "Operatory"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr "Uporządkowana lista"
+msgstr "Lista uporządkowana (OL)"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
@@ -1369,7 +1369,7 @@ msgstr[2] "Wiele zmiennych wyjściowych ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "sposób wyświetlania p"
+msgstr "sposób wyświetlania wartości p"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
