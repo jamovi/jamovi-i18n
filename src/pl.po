@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-15 22:20+0000\n"
+"PO-Revision-Date: 2022-07-19 20:21+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1262,7 +1262,7 @@ msgstr "Bez koloru"
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
 msgid "No information about this function is avaliable"
-msgstr "Informacje na temat tej funkcji nie są dostępne"
+msgstr "Informacje na temat tej funkcji są niedostępne"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1320,7 +1320,7 @@ msgid ""
 msgstr ""
 "Co najmniej jedna analiza w tym zbiorze danych została wyłączona\n"
 "                    ponieważ pozwala na wykonanie dowolnego kodu.\n"
-"                    Można włączyć ją wyłącznie, jeżeli plik pochodzi\n"
+"                    Można włączyć ją jedynie, gdy plik pochodzi\n"
 "                    z zaufanego źródła."
 
 #: jamovi/client/main/backstage.js:461
@@ -1440,7 +1440,7 @@ msgstr "Naprawdę odinstalować {m}?"
 
 #: jamovi/client/main/backstage.js:1999
 msgid "Recent"
-msgstr "Ostatnie pliki"
+msgstr "Ostatnio używane"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 #: jamovi/client/main/ribbon/datatab.js:25
@@ -1450,14 +1450,14 @@ msgstr "Ponów edycję"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Reference"
-msgstr "Referencja"
+msgstr "Odwołanie"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "References"
-msgstr "Cytowania"
+msgstr ""
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
@@ -1504,7 +1504,7 @@ msgstr "Ponów"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
-msgstr "Zwraca przekształcenie Boxa-Coxa zmiennej."
+msgstr "Zwraca przekształcenie Boxa-Coxa."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid ""
