@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-19 20:21+0000\n"
+"PO-Revision-Date: 2022-07-19 21:16+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1507,6 +1507,7 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "Zwraca przekształcenie Boxa-Coxa."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
+#, fuzzy
 msgid ""
 "Returns a whether the variable is an outlier according to the IQR: If the "
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
@@ -1530,7 +1531,7 @@ msgstr "Zwraca wykładnik podstawy ℯ liczby."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "Zwraca najwyższy wynik z zestawu liczb."
+msgstr "Zwraca najwyższą wartość ze zbioru liczb."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the largest value of a variable."
@@ -1542,11 +1543,11 @@ msgstr "Zwraca średnią ze zbioru liczb."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
-msgstr "Zwraca medianę dla zmiennej."
+msgstr "Zwraca medianę zmiennej."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the most common value in a variable."
-msgstr "Zwraca najczęściej występującą wartość w zmiennej."
+msgstr "Zwraca wartość najczęściej występującą w zmiennej."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
@@ -1555,7 +1556,7 @@ msgstr "Zwraca logarytm naturalny z liczby."
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Returns the normalized values of a set of numbers."
-msgstr "Zwraca wyniki znormalizowane (z) ze zbioru liczb."
+msgstr "Zwraca wyniki standaryzowane (z) zbioru liczb."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the number of cases in a variable."
@@ -1615,11 +1616,11 @@ msgstr "Zwraca wariancję zmiennej."
 
 #: jamovi/client/main/variableeditor.js:50
 msgid "Revert changes"
-msgstr "Przywróć zmiany"
+msgstr "Cofnij zmiany"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr "Wyrównaj do prawej"
+msgstr "Wyrównanie do prawej"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
@@ -1627,11 +1628,11 @@ msgstr "Zaokrągla każdą wartość"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr "Zaokrągla każdą wartość do liczby całkowitej w górę"
+msgstr "Zaokrągla każdą wartość w górę do liczby całkowitej"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr "Zaokrągla każdą wartość do liczby całkowitej w dół"
+msgstr "Zaokrągla każdą wartość w dół do liczby całkowitej"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1653,7 +1654,7 @@ msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "SAS files {ext}"
-msgstr "pliki SAS {ext}"
+msgstr "Pliki SAS {ext}"
 
 #: jamovi/client/main/backstage.js:1036
 #: jamovi/client/main/backstage.js:1059
@@ -1674,7 +1675,7 @@ msgstr "Zapisz jako"
 
 #: jamovi/client/main/main.js:639
 msgid "Save changes to '{title}'?"
-msgstr "Zapisz zmiany do '{title}'?"
+msgstr "Zapisać zmiany w '{title}'?"
 
 #: jamovi/client/main/instance.js:438
 msgid "Save failed"
@@ -1694,7 +1695,7 @@ msgstr "Zaplanowana konserwacja"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr "Szukaj zmiennych"
+msgstr "Wyszukaj zmienne"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
@@ -1715,11 +1716,11 @@ msgstr "Zbiór1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
-msgstr "Konfiguracja"
+msgstr "Ustawienia"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
 msgid "Setup..."
-msgstr "Konfiguracja..."
+msgstr "Ustawienia..."
 
 #: jamovi/client/main/store/pagemodules.js:136
 msgid "Show"
@@ -1770,17 +1771,17 @@ msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
 msgstr ""
-"Dzieli tekst na kawałki na podstawie separatora. <i>piece</i> określa żądany "
-"element według indeksu."
+"Dzieli tekst na fragmenty na podstawie separatora. <i>piece</i> określa "
+"żądany fragment według indeksu."
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
-msgstr "plik SPSS {ext}"
+msgstr "Pliki SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
-msgstr "plik SPSS sav {ext}"
+msgstr "Plik SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
@@ -1789,11 +1790,11 @@ msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
-msgstr "plik Stata {ext}"
+msgstr "Plik Stata {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr "Statystyczny"
+msgstr "Statystyczne"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -1817,7 +1818,7 @@ msgstr "Obraz SVG {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
-msgstr "Syntax (składnia)"
+msgstr "Składnia (syntax)"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "Syntax mode"
@@ -1851,7 +1852,7 @@ msgid ""
 "by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
 "Zawartość została przygotowana i można ją skopiować za pomocą poniższego "
-"przycisku lub wciskając <em>{k}+C</em> na klawiaturze"
+"przycisku lub naciskając <em>{k}+C</em> na klawiaturze"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -1887,9 +1888,10 @@ msgstr "Biblioteka jest wyłączona"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr "Wybrana transformacja jest błędna i należy ją edytować."
+msgstr "Wybrane przekształcenie jest błędne i należy je edytować."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
+#, fuzzy
 msgid "The value in the provided values at index."
 msgstr "Wartość w podanych wartościach w indeksie."
 
@@ -1938,7 +1940,7 @@ msgstr "Ta sesja zakończy się za około 1 minutę"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
-msgstr "Ta transformacja jest błędna i należy ją edytować."
+msgstr "To przekształcenie jest błędne i należy je edytować."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -1948,23 +1950,23 @@ msgstr "Za dużo danych - użyj opcji importuj"
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr "Przekształcać"
+msgstr "Przekształcenie"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr "Przekształcać {}"
+msgstr "Przekształcenie {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "Przekształcać: {name}"
+msgstr "Przekształcenie: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "Przekształcać: None"
+msgstr "Przekształcenie: Brak"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr "Przekształcać..."
+msgstr "Przekształć..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
@@ -2066,7 +2068,7 @@ msgstr "Niespodziewany błąd"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr "Nie rozpoznano formatu pliku"
+msgstr "Nieznany formatu pliku"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
@@ -2075,7 +2077,7 @@ msgstr "Aktualizacja"
 
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Update did not complete"
-msgstr "Aktualizacja nie została zakończona pomyślnie"
+msgstr "Aktualizacja nie powiodła się"
 
 #: jamovi/client/main/ribbon/appmenu.js:134
 msgid "Update is being downloaded"
@@ -2097,7 +2099,7 @@ msgstr "Aktualizacje"
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr "Aktualizacja zakończona niepowodzeniem"
+msgstr "Przesyłanie nie powiodło się"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
@@ -2109,11 +2111,11 @@ msgstr "użyj"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr "używany przez"
+msgstr "używane przez"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr "za pomocą transformacji"
+msgstr "za pomocą przekształcenia"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
@@ -2158,8 +2160,8 @@ msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
 msgstr ""
-"Gdy zmienna zawiera brakującą wartość, użyj wartości, w przeciwnym razie "
-"wykonaj else."
+"Gdy zmienna zawiera braki danych, użyj wartości, w przeciwnym razie użyj "
+"else."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2167,25 +2169,25 @@ msgstr "Dlaczego ten dodatkowy krok jest konieczny?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr "Nie możesz usuwać wierszy, gdy filtrowane wiersze są ukryte"
+msgstr "Nie można usuwać wierszy, gdy filtr jest aktywny"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr "Nie możesz wstawiać wierszy, gdy filtrowane wiersze są ukryte"
+msgstr "Nie można wstawiać wierszy, gdy filtr jest aktywny"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
-"Nie można modyfikować kolumn, które wpływają na filtry, gdy filtrowane "
-"wiersze są ukryte"
+"Nie można modyfikować kolumn, które wpływają na filtry, gdy filtr jest "
+"aktywny"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
 msgstr ""
-"Nie można modyfikować przekształceń, które wpływają na filtry, gdy "
-"filtrowane wiersze są ukryte"
+"Nie można modyfikować przekształceń, które wpływają na filtry, gdy filtr "
+"jest aktywny"
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
@@ -2193,4 +2195,4 @@ msgstr "Połączenie zostało utracone. Odśwież stronę, aby kontynuować."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr "przybliż"
+msgstr "Powiększ"
