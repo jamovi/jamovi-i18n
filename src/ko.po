@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-24 03:18+0000\n"
+"PO-Revision-Date: 2022-07-24 04:22+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
@@ -67,9 +67,8 @@ msgid "A newer version of jamovi is required"
 msgstr "최신 버전의 jamovi가 필요합니다"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
-#, fuzzy
 msgid "Accent"
-msgstr "악센트"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
@@ -79,9 +78,8 @@ msgstr "접근이 불가능합니다. 이 리소스에 액세스할 수 있는 �
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
-#, fuzzy
 msgid "active"
-msgstr "활성화"
+msgstr ""
 
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/datatab.js:58
@@ -330,10 +328,9 @@ msgstr "계산된 변수"
 #: jamovi/client/main/ribbon/datatab.js:38
 #: jamovi/client/main/ribbon/variablestab.js:32
 #: jamovi/client/main/vareditor/editorwidget.js:240
-#, fuzzy
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "계산된 변수"
+msgstr[0] ""
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
@@ -510,7 +507,6 @@ msgid "Delete"
 msgstr "삭제"
 
 #: jamovi/client/main/viewcontroller.js:273
-#, fuzzy
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
 msgstr[0] "‘{columnName}’ 열을 삭제 하시겠습니까?"
@@ -526,7 +522,6 @@ msgid "Delete Row"
 msgstr "행 삭제"
 
 #: jamovi/client/main/viewcontroller.js:322
-#, fuzzy
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
 msgstr[0] "{index}행을 삭제하시겠습니까?"
@@ -540,7 +535,6 @@ msgid "Delete transform"
 msgstr "변환 삭제"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
-#, fuzzy
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
 msgstr[0] "변수 삭제"
@@ -857,7 +851,6 @@ msgstr "회색들"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
-#, fuzzy
 msgid "Group"
 msgstr "집단"
 
@@ -914,9 +907,8 @@ msgid "Home"
 msgstr "홈"
 
 #: jamovi/client/resultsview/html.js:53
-#, fuzzy
 msgid "Html"
-msgstr "하이퍼텍스트 마크업 랭귀지 (HTML)"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
@@ -1289,16 +1281,12 @@ msgid "OK"
 msgstr "확인"
 
 #: jamovi/client/main/main.js:365
-#, fuzzy
 msgid ""
 "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
-"이 데이터 세트에서 하나 이상의 분석이\n"
-" 임의 코드 실행을 허용하기 때문에 비활성화 되었습니다.\n"
-" 이 데이터 세트의 소스를 신뢰하는 경우에만 활성화해야 합니다."
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1316,9 +1304,8 @@ msgstr "문서 열기(LibreOffice) {ext}"
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
 #: jamovi/client/main/main.js:665
-#, fuzzy
 msgid "Opening"
-msgstr "여는 중"
+msgstr "열기"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
 msgid "Operators"
@@ -1366,14 +1353,12 @@ msgid "PDF Document {ext}"
 msgstr "PDF 문서 {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
-#, fuzzy
 msgid "Pin level"
-msgstr "핀 레벨"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
-#, fuzzy
 msgid "Plot theme"
-msgstr "그래프 테마"
+msgstr "도표 테마"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
@@ -1485,11 +1470,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "변수에 대한 Box-Cox 변환을 반환합니다."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-#, fuzzy
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
-"IQR에 따라 변수의 이상값을 반환합니다. 만약 값이 Boxplot 상자 안에 있으면, 0 "
-"값이 반환되며 1.5보다 큰 절대 값은 수염(위스커) 밖에 나타납니다."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1660,9 +1642,8 @@ msgid "Saved to '{filename}'"
 msgstr "‘{filename}’에 저장됨"
 
 #: jamovi/client/main/instance.js:427
-#, fuzzy
 msgid "Saving"
-msgstr "저장중"
+msgstr "저장"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
@@ -1769,23 +1750,20 @@ msgid "Statistical"
 msgstr "통계적인"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
-#, fuzzy
 msgid "Strike"
-msgstr "스트라이크"
+msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
 msgstr "스타일"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
-#, fuzzy
 msgid "Sub Script"
-msgstr "서브스크립트"
+msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
-#, fuzzy
 msgid "Super Script"
-msgstr "슈퍼스크립트"
+msgstr ""
 
 #: jamovi/client/main/resultspanel.js:717
 msgid "SVG Image {ext}"
@@ -1948,10 +1926,9 @@ msgstr "변환됨"
 #: jamovi/client/main/ribbon/datatab.js:42
 #: jamovi/client/main/ribbon/variablestab.js:36
 #: jamovi/client/main/vareditor/editorwidget.js:242
-#, fuzzy
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] "변환된 변수"
+msgstr[0] ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2082,9 +2059,8 @@ msgid "use"
 msgstr "사용"
 
 #: jamovi/client/main/editors/transformeditor.js:260
-#, fuzzy
 msgid "used by"
-msgstr "사용된"
+msgstr ""
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
