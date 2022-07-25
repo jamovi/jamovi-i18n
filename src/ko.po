@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-24 04:22+0000\n"
+"PO-Revision-Date: 2022-07-26 00:00+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
@@ -146,7 +146,7 @@ msgstr "업데이트가 있습니다"
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr "분석들"
+msgstr "분석"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -221,7 +221,7 @@ msgstr "강조된"
 
 #: jamovi/client/main/backstage.js:341
 msgid "Browse"
-msgstr "탐색하기"
+msgstr "탐색"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
@@ -266,7 +266,7 @@ msgstr "가운데 정렬"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr "레이블 변경…"
+msgstr "라벨 변경…"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Check again"
@@ -342,7 +342,7 @@ msgstr "설치제거 확인"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr "연결에 실패"
+msgstr "연결 실패"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
@@ -352,8 +352,9 @@ msgstr "연결 끊김"
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
+#, fuzzy
 msgid "Continuous"
-msgstr "진행"
+msgstr "연속"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -831,7 +832,7 @@ msgstr "함수 {}()는 {} 인수{}를 취합니다"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
 msgid "Functions"
-msgstr "함수들"
+msgstr "함수"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -843,11 +844,11 @@ msgstr "보다 크거나 같은"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr "녹색들"
+msgstr "녹색"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr "회색들"
+msgstr "회색"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1332,7 +1333,7 @@ msgstr[0] "중다 결과변수"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "p-value 형태"
+msgstr "p-value 형식"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
