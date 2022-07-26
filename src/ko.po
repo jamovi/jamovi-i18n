@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-26 00:00+0000\n"
+"PO-Revision-Date: 2022-07-26 05:17+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
@@ -459,7 +459,7 @@ msgstr "검은색2"
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr "데이터"
+msgstr "자료"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
@@ -1174,7 +1174,7 @@ msgstr "결측 값"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "결측 값들"
+msgstr "결측 값"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1246,7 +1246,7 @@ msgstr "검색어와 일치하는 변수가 없습니다."
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "명목"
+msgstr "명명"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -2085,7 +2085,7 @@ msgstr "변수: {v}"
 #: jamovi/client/main/vareditor/formulatoolbar.js:224
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr "변수들"
+msgstr "변수"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
