@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2022-07-29 08:19+0000\n"
+"Last-Translator: jjyaung <jj_yaung@yahoo.com.tw>\n"
+"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
+"jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -254,7 +259,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr ""
+msgstr "置中對齊"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -335,7 +340,7 @@ msgstr ""
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr ""
+msgstr "連線失敗"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
@@ -677,7 +682,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr ""
+msgstr "錯誤"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
