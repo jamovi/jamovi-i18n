@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-19 09:16+0000\n"
-"Last-Translator: Ivan Buljan <buljan.ivan3@gmail.com>\n"
+"PO-Revision-Date: 2022-08-08 15:14+0000\n"
+"Last-Translator: Igor Dobrača <igor.dobraca@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -264,7 +264,7 @@ msgstr "Ćelije uređene "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "Poravnajte po sredini"
+msgstr "Poravnaj po sredini"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -346,7 +346,7 @@ msgstr "Potvrdite deinstalaciju"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr "Veza nije uspjela"
+msgstr "Povezivanje nije uspjelo"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
@@ -1201,7 +1201,7 @@ msgstr "Nedostaju vrijednosti"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Vrijednosti koje nedostaju"
+msgstr "Nedostajuće vrijednosti"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
