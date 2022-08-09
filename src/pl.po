@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-19 21:16+0000\n"
-"Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
+"PO-Revision-Date: 2022-08-09 17:15+0000\n"
+"Last-Translator: PiotrEsse <piotr.esse@spero.click>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
 "Language: pl\n"
@@ -1239,9 +1239,8 @@ msgid "New"
 msgstr "Nowy"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
-#, fuzzy
 msgid "New computed variable"
-msgstr "Nowa zmienna obliczona"
+msgstr "Nowo wyliczona zmienna"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
@@ -1457,7 +1456,7 @@ msgstr "Odwołanie"
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "References"
-msgstr ""
+msgstr "Referencje"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
