@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
 "Language: ko\n"
