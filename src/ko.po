@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-12 06:20+0000\n"
+"PO-Revision-Date: 2022-08-12 10:17+0000\n"
 "Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
@@ -458,7 +458,7 @@ msgstr "검은색2"
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr "자료"
+msgstr "데이터"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
@@ -1245,7 +1245,7 @@ msgstr "검색어와 일치하는 변수가 없습니다."
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "명명"
+msgstr "명명척도"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1319,7 +1319,7 @@ msgstr "정렬된 목록"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "서열"
+msgstr "서열척도"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
