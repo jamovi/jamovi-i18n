@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-15 14:15+0000\n"
+"PO-Revision-Date: 2022-08-15 15:17+0000\n"
 "Last-Translator: Ahmed Saleh <sniperasa8@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
@@ -408,7 +408,7 @@ msgstr ""
 #: jamovi/client/resultsview/group.js:213
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
-msgstr ""
+msgstr "نسخ"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -454,7 +454,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/annotationtab.js:109
 #: jamovi/client/main/ribbon/datatab.js:18
 msgid "Cut"
-msgstr ""
+msgstr "قص"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
