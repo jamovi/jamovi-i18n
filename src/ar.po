@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-10 18:20+0000\n"
-"Last-Translator: Freddy Jack <po12319798@gmail.com>\n"
+"PO-Revision-Date: 2022-08-15 14:15+0000\n"
+"Last-Translator: Ahmed Saleh <sniperasa8@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
 "Language: ar\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.14-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -225,7 +225,7 @@ msgstr "تصفح"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr "قائمة رصاصية"
+msgstr "قائمة ذات تعداد نقطي"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
@@ -258,7 +258,7 @@ msgstr "لا يمكن تعيين لهذه الأعمدة."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr "الخلايا التي تم تحريرها "
+msgstr "الوحدات التي تم تحريرها "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -291,7 +291,7 @@ msgstr "حافظة"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr "اقترب"
+msgstr "إغلاق"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -317,11 +317,11 @@ msgstr "إحصاء - عد"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr "الحواسيب"
+msgstr "محسوب"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "المتغير المحسوب"
+msgstr "متغير محسوب"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -330,7 +330,7 @@ msgstr "المتغير المحسوب"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "المتغير المحسوب"
+msgstr[0] "متغير محسوب"
 msgstr[1] "المتغير المحسوب"
 msgstr[2] "المتغير المحسوب"
 msgstr[3] "المتغير المحسوب"
@@ -339,7 +339,7 @@ msgstr[5] "المتغير المحسوب"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
-msgstr ""
+msgstr "تأكيد الإستبدال"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Confirm uninstall"
@@ -347,18 +347,18 @@ msgstr "تأكيد إلغاء التثبيت"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr ""
+msgstr "فشل الإتصال"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
 msgid "Connection lost"
-msgstr ""
+msgstr "فُقد الإتصال"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "مستمر"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
