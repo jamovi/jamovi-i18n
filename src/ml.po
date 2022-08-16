@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-07-12 16:19+0000\n"
-"Last-Translator: Dr. Chinchu C. <chinchu.c@gmail.com>\n"
+"PO-Revision-Date: 2022-08-16 14:19+0000\n"
+"Last-Translator: Sac_94 <sachinthankamon@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
 "Language: ml\n"
@@ -779,7 +779,6 @@ msgid "Filter is inactive"
 msgstr "ഫിൽട്ടർ ആക്ടീവല്ല"
 
 #: jamovi/client/main/tableview.js:78
-#, fuzzy
 msgid "Filtered"
 msgstr "ഫിൽട്ടർ ചെയ്തു"
 
@@ -885,7 +884,6 @@ msgid "Hi"
 msgstr "ഹായ്"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
-#, fuzzy
 msgid "Hidden"
 msgstr "മറഞ്ഞിരിക്കുന്നത്"
 
@@ -912,7 +910,6 @@ msgid "Hide settings"
 msgstr "സെറ്റിങ്ങ്സ് മറയ്ക്കുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
-#, fuzzy
 msgid "Highlight Color"
 msgstr "ഹൈലൈറ്റ് നിറം"
 
@@ -941,9 +938,8 @@ msgid "Idle session"
 msgstr "നിഷ്ക്രിയ സെഷൻ"
 
 #: jamovi/client/main/editors/transformeditor.js:355
-#, fuzzy
 msgid "if"
-msgstr "ഇങ്ങനെ ആണെങ്കിൽ"
+msgstr "എങ്കിൽ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
@@ -1003,9 +999,8 @@ msgstr "ഇൻഡന്റ് +1"
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
-#, fuzzy
 msgid "Insert"
-msgstr "ചേർക്കുക"
+msgstr "കൂട്ടിച്ചേര്ക്കുക"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
@@ -1692,12 +1687,10 @@ msgstr "എല്ലാം സെലക്റ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
-#, fuzzy
 msgid "Selected"
 msgstr "സെലക്റ്റ് ചെയ്തു"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
-#, fuzzy
 msgid "sequential"
 msgstr "സീക്വൻഷ്യൽ"
 
@@ -2096,7 +2089,6 @@ msgid "Uploading"
 msgstr "അപ്‌ലോഡ് ചെയ്യുന്നു"
 
 #: jamovi/client/main/editors/transformeditor.js:389
-#, fuzzy
 msgid "use"
 msgstr "ഉപയോഗിക്കുക"
 
