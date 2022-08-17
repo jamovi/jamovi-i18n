@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-17 03:19+0000\n"
+"PO-Revision-Date: 2022-08-17 04:19+0000\n"
 "Last-Translator: Sac_94 <sachinthankamon@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -13,19 +13,19 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' ൽ തെറ്റുണ്ട്"
+msgstr "'{}' തെറ്റാണ്"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"'{}' എന്നത് {}() എന്നതിനുള്ള ആർഗ്യുമെന്റ് അല്ല\n"
+"'{}' എന്നത് {}() എന്നതിനുള്ള വാദം അല്ല\n"
 "(തുല്യത പരിശോധിക്കണമെങ്കിൽ, രണ്ട് തുല്യ ചിഹ്നങ്ങൾ '==' ഉപയോഗിക്കുക )"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
-msgstr "(ഓട്ടോ)"
+msgstr "(സ്വയം)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:265
 msgid "(current)"
@@ -33,7 +33,7 @@ msgstr "(നിലവിലുള്ളത്)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr "{columnType} നിരകൾ എഡിറ്റ് ചെയ്യാനാവില്ല."
+msgstr "{columnType} നിരകൾ എഡിറ്റ് ചെയ്യാൻ പാടില്ല."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -73,8 +73,8 @@ msgstr "ഉച്ചാരണം"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
-"പ്രവേശനം നിഷേധിക്കപ്പെടുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് അനുമതി "
-"ഉണ്ടായിരിക്കില്ല."
+"പ്രവേശനം നിഷേധിക്കപ്പെട്ടിരിക്കുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് "
+"അനുമതികൾ ഇല്ലായിരിക്കാം."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -130,7 +130,7 @@ msgstr "എല്ലാം"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "എല്ലാ {n} വഴി"
+msgstr "എല്ലാം {n} വഴി"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
@@ -138,7 +138,7 @@ msgstr "{hostname} ഹോസ്റ്റ് ചെയ്ത ഒരു ഓൺല�
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr "അപ്രതീക്ഷിതമായ ഒരു എറർ ഉണ്ടായി, ജമോവി ഇപ്പോൾ അടയ്ക്കണം."
+msgstr "ഒരു അപ്രതീക്ഷിത പിശക് സംഭവിച്ചു, ജമോവി ഇപ്പോൾ അടയ്ക്കണം."
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "An update is available"
@@ -147,7 +147,7 @@ msgstr "ഒരു അപ്ഡേറ്റ് ലഭ്യമാണ്"
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr "വിശകലനങ്ങൾ"
+msgstr "വിശകലനം ചെയ്യുന്നു"
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -155,7 +155,7 @@ msgstr "വിശകലനം"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
-msgstr "ഉം"
+msgstr "ഒപ്പം"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -189,11 +189,11 @@ msgstr "മാറ്റങ്ങൾ വരുത്തുക"
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr "ഓട്ടോ"
+msgstr "സ്വയം"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
-msgstr "ഓട്ടോമാറ്റിക്"
+msgstr "സ്വയംപ്രേരിതനായ"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
@@ -231,7 +231,7 @@ msgstr "ബുള്ളറ്റ് ലിസ്റ്റ്"
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
-msgstr "ക്യാൻസൽ ചെയ്യുക"
+msgstr "റദ്ദാക്കുക"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -259,7 +259,7 @@ msgstr "ഈ നിരകളിലേക്ക് അസൈൻ ചെയ്യാ
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr "എഡിറ്റ് ചെയ്ത സെല്ലുകൾ "
+msgstr "കളങ്ങൾ എഡിറ്റ് ചെയ്തു. "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -2094,7 +2094,7 @@ msgstr "ഉപയോഗിക്കുക"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr "ഉപയോഗിക്കുന്നത്:"
+msgstr "ഉപയോഗിച്ചത്:"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
