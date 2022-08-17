@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
+"Last-Translator: Sac_94 <sachinthankamon@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
 "Language: ml\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -79,8 +79,7 @@ msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
 msgstr ""
-"പ്രവേശനം നിഷേധിക്കപ്പെട്ടിരിക്കുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് "
-"അനുമതികൾ ഇല്ലായിരിക്കാം."
+"പ്രവേശനം നിഷേധിക്കപ്പെട്ടിരിക്കുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് അനുമതികൾ ഇല്ലായിരിക്കാം."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -1879,8 +1878,7 @@ msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
 msgstr ""
-"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള "
-"കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
+"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
