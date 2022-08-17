@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-16 14:19+0000\n"
+"PO-Revision-Date: 2022-08-17 03:19+0000\n"
 "Last-Translator: Sac_94 <sachinthankamon@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -446,7 +446,7 @@ msgstr "പുതിയ ട്രാൻസ്ഫോം ഉണ്ടാക്ക�
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
 msgid "CSV (Comma delimited) {ext}"
-msgstr "CSV (Comma delimited) {ext}"
+msgstr "CSV (കോമ വേർതിരിച്ചിരിക്കുന്നു) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -850,6 +850,7 @@ msgid "Greater than"
 msgstr "ഗ്രേറ്റർ ദാൻ"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
+#, fuzzy
 msgid "Greater than or equal to"
 msgstr "ഇതിലും വലുതോ ഇതിനു തുല്യമോ:"
 
@@ -962,7 +963,7 @@ msgstr "ഇംപോർട്ട് വിജയകരം"
 
 #: jamovi/client/main/vareditor/editorwidget.js:43
 msgid "Imported as"
-msgstr "ഇമ്പോർട്ട് ചെയ്തിരിക്കുന്നത് ഇങ്ങനെ:"
+msgstr "ആയി ഇറക്കുമതി ചെയ്തു"
 
 #: jamovi/client/main/instance.js:119
 msgid "Importing"
@@ -1751,11 +1752,10 @@ msgid "Special Import"
 msgstr "പ്രത്യേക ഇംപോർട്ട്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-#, fuzzy
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr ""
-"ഒരു സെപ്പറേറ്ററിനെ അടിസ്ഥാനമാക്കി ടെക്സ്റ്റിനെ കഷണങ്ങളായി വിഭജിക്കുന്നു."
-"ഇൻഡക്സ് പ്രകാരം ആവശ്യമുള്ള കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
+"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള "
+"കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
@@ -2117,7 +2117,6 @@ msgstr "വേരിയബിൾ: {v}"
 #: jamovi/client/main/ribbon/variablestab.js:22
 #: jamovi/client/main/vareditor/formulatoolbar.js:224
 #: jamovi/client/main/variablesview.js:62
-#, fuzzy
 msgid "Variables"
 msgstr "വേരിയബിളുകൾ"
 
