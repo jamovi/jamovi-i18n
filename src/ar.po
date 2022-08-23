@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-15 15:17+0000\n"
-"Last-Translator: Ahmed Saleh <sniperasa8@gmail.com>\n"
+"PO-Revision-Date: 2022-08-23 18:24+0000\n"
+"Last-Translator: Omar Misbah <omarging@protonmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
 "Language: ar\n"
@@ -391,7 +391,7 @@ msgstr ""
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
 msgid "Copied"
-msgstr ""
+msgstr "منسوخ"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:131
 #: jamovi/client/main/contextmenu/contextmenus.js:14
@@ -463,7 +463,7 @@ msgstr ""
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr ""
+msgstr "بيانات"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
@@ -510,7 +510,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:41
 msgid "Delete"
-msgstr ""
+msgstr "حذف"
 
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
@@ -526,7 +526,7 @@ msgstr ""
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr ""
+msgstr "حذف الصف"
 
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
@@ -550,7 +550,7 @@ msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:77
 msgid "Deleted"
-msgstr ""
+msgstr "محذوف"
 
 #: jamovi/client/main/editors/transformeditor.js:61
 #: jamovi/client/main/vareditor/editorwidget.js:68
@@ -583,7 +583,7 @@ msgstr ""
 
 #: jamovi/client/main/main.js:643
 msgid "Don't Save"
-msgstr ""
+msgstr "عدم الحفظ"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -652,7 +652,7 @@ msgstr ""
 
 #: jamovi/client/main/main.js:372
 msgid "Enable"
-msgstr ""
+msgstr "تفعيل"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
