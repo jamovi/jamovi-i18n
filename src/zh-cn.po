@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2022-08-20 08:15+0000\n"
+"PO-Revision-Date: 2022-09-03 13:17+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1635,7 +1635,7 @@ msgstr "保存中"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr "定期维修"
+msgstr "定期维护"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2087,7 +2087,7 @@ msgstr "当"
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
-msgstr "当变量包含缺失值时，使用此value，否则使用 else。"
+msgstr "当变量包含缺失值时，使用此 value，否则使用 else。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
