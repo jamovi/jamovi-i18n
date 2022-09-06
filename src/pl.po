@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-05 15:15+0000\n"
+"PO-Revision-Date: 2022-09-06 10:18+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1456,7 +1456,7 @@ msgstr "Odwołanie"
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "References"
-msgstr "Referencje"
+msgstr "Literatura"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
@@ -2192,4 +2192,4 @@ msgstr "Połączenie zostało utracone. Odśwież stronę, aby kontynuować."
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr "Powiększ"
+msgstr "Powiększenie"
