@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-06 10:18+0000\n"
+"PO-Revision-Date: 2022-09-07 09:16+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -87,7 +87,7 @@ msgstr "aktywny"
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
-msgstr "Dodaj"
+msgstr "Wstaw"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -172,16 +172,16 @@ msgstr "i"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "Dodaj"
+msgstr "Na końcu"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "Ile wierszy dodać?"
+msgstr "Ile wierszy wstawić?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "Dodaj wiersz..."
+msgstr "Wstaw wiersz..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
@@ -375,15 +375,15 @@ msgstr "Wygodny skrót dla MAX(ABSZ( zmienna 1, zmienna 2, ... ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Converts a number to an integer."
-msgstr "Konwertuj liczbę na liczbę całkowitą (typ integer)."
+msgstr "Konwertuje liczbę na liczbę całkowitą (typ integer)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Converts text to a number (if possible)."
-msgstr "Konwertuj tekst na liczbę (jeżeli możliwe)."
+msgstr "Konwertuje tekst na liczbę (jeżeli możliwe)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Converts the value to text."
-msgstr "Konwertuj wartość na tekst."
+msgstr "Konwertuje wartość na tekst."
 
 #: jamovi/client/main/resultspanel.js:681
 #: jamovi/client/main/resultspanel.js:783
@@ -1007,7 +1007,7 @@ msgstr "Wcięcie +1"
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
 msgid "Insert"
-msgstr "Wstaw"
+msgstr "Pomiędzy"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
@@ -1424,7 +1424,7 @@ msgstr "Obiekt języka R {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
-msgstr "Poranguj każdą wartość"
+msgstr "Ranguje każdą wartość"
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
@@ -1510,9 +1510,9 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"Zwraca informację, czy zmienna jest wartością odstającą zgodnie z IQR: Jeśli "
-"wartość znajduje się w polu wykresu pudełkowego, zwracana jest wartość 0. "
-"Wartości bezwzględne większe niż 1,5 znajdują się poza zakresem."
+"Zwraca informację, czy zmienna jest wartością odstającą zgodnie z IQR. "
+"Jeżeli wartość znajduje się w polu wykresu pudełkowego, zwracana jest "
+"wartość 0. Wartości bezwzględne większe niż 1,5 znajdują się poza zakresem."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1528,7 +1528,7 @@ msgstr "Zwraca wykładnik podstawy ℯ liczby."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "Zwraca najwyższą wartość ze zbioru liczb."
+msgstr "Zwraca największą wartość ze zbioru liczb."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the largest value of a variable."
@@ -1637,7 +1637,7 @@ msgstr "Liczba wierszy"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr "Filtry wierszy"
+msgstr "Filtry dla wierszy"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
@@ -2173,17 +2173,13 @@ msgstr "Nie można wstawiać wierszy, gdy filtr jest aktywny"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
-"Nie można modyfikować kolumn, które wpływają na filtry, gdy filtr jest "
-"aktywny"
+msgstr "Nie można modyfikować kolumn, które wpływają na aktywne filtry"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
-msgstr ""
-"Nie można modyfikować przekształceń, które wpływają na filtry, gdy filtr "
-"jest aktywny"
+msgstr "Nie można modyfikować przekształceń, które wpływają na aktywne filtry"
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
