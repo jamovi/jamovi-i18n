@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-09 09:20+0000\n"
+"PO-Revision-Date: 2022-09-09 21:19+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -43,7 +43,7 @@ msgstr "deinstalacja {m} została zakończona pomyślnie"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} dp"
-msgstr "{n} dp"
+msgstr "{n} cyf."
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -53,7 +53,7 @@ msgstr "{n} nie jest dodatnią liczbą całkowitą"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr "{n} sf"
+msgstr "{n} cyf."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -494,7 +494,7 @@ msgstr "Dziesiętny"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
-msgstr "miejsce dziesiętne"
+msgstr "Miejsca dziesiętne"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -962,7 +962,7 @@ msgstr "Obraz"
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
 msgid "Import"
-msgstr "Importuj"
+msgstr "Import"
 
 #: jamovi/client/main/instance.js:134
 msgid "Import successful"
@@ -1095,7 +1095,7 @@ msgstr "jamovi jest aktualne"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
-msgstr "biblioteka jamovi"
+msgstr "Biblioteka jamovi"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
@@ -1191,7 +1191,7 @@ msgstr "Poziom pomiaru zmiennej"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr "Minimalne"
+msgstr "Minimalizm"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "Misc"
@@ -1410,7 +1410,7 @@ msgstr "Poprzednia zmienna"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr "jakościowy"
+msgstr "Zestawy"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
@@ -1456,7 +1456,7 @@ msgstr "Odwołanie"
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "References"
-msgstr "Literatura"
+msgstr "Bibliografia"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
@@ -1706,7 +1706,7 @@ msgstr "Wybrane"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr "sekwencyjny"
+msgstr "Kolory"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
@@ -1750,7 +1750,7 @@ msgstr "Transfer danych"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr "cyfry znaczące"
+msgstr "Ilość cyfr"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
@@ -1820,7 +1820,7 @@ msgstr "Składnia (syntax)"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "Syntax mode"
-msgstr "Tryb składni (syntax)"
+msgstr "Pokaż składnię (syntax)"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
@@ -1941,7 +1941,7 @@ msgstr "To przekształcenie jest błędne i należy je edytować."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
-msgstr "Za dużo danych - użyj opcji importuj"
+msgstr "Za dużo danych - użyj opcji import"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
