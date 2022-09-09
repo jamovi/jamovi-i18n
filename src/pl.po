@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-09 21:19+0000\n"
+"PO-Revision-Date: 2022-09-09 22:21+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1368,7 +1368,7 @@ msgstr[2] "Wiele zmiennych wyjściowych ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "sposób wyświetlania wartości p"
+msgstr "Format wartości p"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
