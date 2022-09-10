@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-09 22:21+0000\n"
+"PO-Revision-Date: 2022-09-10 12:23+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -202,7 +202,7 @@ msgstr "Automatycznie instaluj aktualizacje"
 
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr "Dostępny"
+msgstr "Dostępne"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
