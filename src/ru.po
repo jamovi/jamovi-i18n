@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-11 08:21+0000\n"
+"PO-Revision-Date: 2022-09-12 23:18+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
@@ -35,7 +35,7 @@ msgstr "(текущий)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr "Столбцы {columnType} нельзя редактировать."
+msgstr "Столбцы типа {columnType} нельзя редактировать."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
