@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-10 12:23+0000\n"
+"PO-Revision-Date: 2022-09-12 07:18+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1299,7 +1299,7 @@ msgstr "Uwaga"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
-msgstr "Format liczby"
+msgstr "Format liczb"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Offsets the values up or down."
