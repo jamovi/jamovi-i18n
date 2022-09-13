@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-12 07:18+0000\n"
+"PO-Revision-Date: 2022-09-13 19:20+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -983,7 +983,7 @@ msgstr "W trakcie opracowania"
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "inactive"
-msgstr "nieaktywne"
+msgstr "nieaktywny"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
@@ -1425,7 +1425,7 @@ msgstr "Obiekt języka R {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
-msgstr "Ranguje każdą wartość"
+msgstr "Ranguje każdą wartość."
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
@@ -1529,7 +1529,7 @@ msgstr "Zwraca wykładnik podstawy ℯ liczby."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "Zwraca największą wartość ze zbioru liczb."
+msgstr "Zwraca największą wartość ze zbioru."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the largest value of a variable."
@@ -1537,7 +1537,7 @@ msgstr "Zwraca największą wartość zmiennej."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr "Zwraca średnią ze zbioru liczb."
+msgstr "Zwraca średnią ze zbioru."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1554,7 +1554,7 @@ msgstr "Zwraca logarytm naturalny z liczby."
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Returns the normalized values of a set of numbers."
-msgstr "Zwraca wyniki standaryzowane (z) zbioru liczb."
+msgstr "Zwraca wyniki standaryzowane (z) dla liczb ze zbioru."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the number of cases in a variable."
@@ -1578,7 +1578,7 @@ msgstr "Zwraca liczbę wierszy."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr "Zwraca najmniejszą wartość ze zbioru danych."
+msgstr "Zwraca najmniejszą wartość ze zbioru."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the smallest value of a variable."
@@ -1602,11 +1602,11 @@ msgstr "Zwraca błąd standardowy średniej dla zmiennej."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the sum of a set of numbers."
-msgstr "Zwraca sumę ze zbioru liczb."
+msgstr "Zwraca sumę ze zbioru."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the variance of a set of numbers."
-msgstr "Zwraca wariancję ze zbioru liczb."
+msgstr "Zwraca wariancję ze zbioru."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the variance of a variable."
@@ -1622,15 +1622,15 @@ msgstr "Wyrównanie do prawej"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr "Zaokrągla każdą wartość"
+msgstr "Zaokrągla każdą wartość."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr "Zaokrągla każdą wartość w górę do liczby całkowitej"
+msgstr "Zaokrągla każdą wartość w górę do liczby całkowitej."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr "Zaokrągla każdą wartość w dół do liczby całkowitej"
+msgstr "Zaokrągla każdą wartość w dół do liczby całkowitej."
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
