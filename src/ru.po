@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-20 10:21+0000\n"
+"PO-Revision-Date: 2022-10-02 15:18+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
@@ -134,7 +134,7 @@ msgstr "Все"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "Весь путь {n}"
+msgstr "Все {n} причины"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
