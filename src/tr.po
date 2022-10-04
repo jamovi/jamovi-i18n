@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-06-19 16:14+0000\n"
-"Last-Translator: Eren Can Aybek <ecaybek@gmail.com>\n"
+"PO-Revision-Date: 2022-10-04 13:18+0000\n"
+"Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.13.1-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -375,7 +375,7 @@ msgstr "MAX (ABSIQR(değişken 1, değişken 2, ... )) için kolaylık kısaltma
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "MAX(ABSZ( değişken 1, değişken 2, … )) için kolay gösterimi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Converts a number to an integer."
@@ -556,9 +556,8 @@ msgstr "Silindi"
 #: jamovi/client/main/vareditor/editorwidget.js:68
 #: jamovi/client/main/vareditor/filterwidget.js:507
 #: jamovi/client/main/variablesview.js:321
-#, fuzzy
 msgid "Description"
-msgstr "Tanımlayıcı"
+msgstr "Tanım"
 
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
@@ -571,6 +570,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"Öğelerden herhangi birinin in1, in2, in3, ...'de görünüp görünmediğini "
+"belirler. Bu argümanların çoğunun isteğe bağlı olduğunu unutmayın -- basitçe "
+"<strong>CONTAINS(needle, haystack)</strong> kullanmak mümkündür."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -610,23 +612,23 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "Beta dağıtımından örnekler çizer."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "Gama dağılımından örnekler çizer."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Normal (Gauss) bir dağılımdan örnekler çizer."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Düzgün bir dağılımdan örnekler çizer."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
-msgstr ""
+msgstr "Kopyala"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 #, fuzzy
@@ -660,7 +662,6 @@ msgid "else use"
 msgstr "Başka türlü kullan"
 
 #: jamovi/client/main/main.js:366
-#, fuzzy
 msgid "Enable"
 msgstr "Etkinleştir"
 
@@ -810,43 +811,46 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "Filtreler çıktı değişkenlerine referans vermeyebilir"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
+#, fuzzy
 msgid "Font"
-msgstr ""
+msgstr "Font"
 
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
 msgid "Formula"
-msgstr ""
+msgstr "formül"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "Formül geçersiz düğüm içeriyor"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr ""
+"Formül yanlış belirtilmiş (Eşitliği test etmek istiyorsanız, iki eşittir "
+"işareti '==' kullanın)"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "{}() işlevi mevcut değil"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "{}() işlevi en az {} bağımsız değişken{} gerektirir"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "{}() işlevi {} ve {} arasında bağımsız değişken gerektirir"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "{}() işlevi {} argümanını{} alır"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:180
 msgid "Functions"
@@ -854,19 +858,19 @@ msgstr "İşlevler"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
-msgstr ""
+msgstr "daha büyük"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Büyük veya eşit"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr ""
+msgstr "Yeşiller"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr ""
+msgstr "griler"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -876,120 +880,123 @@ msgstr "Grup"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
+#, fuzzy
 msgid "Hadley"
-msgstr ""
+msgstr "Hadley"
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
 msgid "Heading"
-msgstr ""
+msgstr "Başlık"
 
 #: jamovi/client/resultsview/annotation.js:138
 msgid "Help"
-msgstr ""
+msgstr "Yardım"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
-msgstr ""
+msgstr "Merhaba"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Hidden"
-msgstr ""
+msgstr "Gizli"
 
 #: jamovi/client/main/store/pagemodules.js:139
 #: jamovi/client/main/variableeditor.js:175
 #: jamovi/client/main/variableeditor.js:49
 msgid "Hide"
-msgstr ""
+msgstr "Gizle"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Filtre sütunlarını gizle"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
-msgstr ""
+msgstr "Kitaplığı gizle"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
-msgstr ""
+msgstr "Seçenekleri gizle"
 
 #: jamovi/client/main/ribbon/appmenu.js:39
 msgid "Hide settings"
-msgstr ""
+msgstr "Ayarları gizle"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
-msgstr ""
+msgstr "Vurgu Rengi"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
 msgid "Home"
-msgstr ""
+msgstr "Ev"
 
 #: jamovi/client/resultsview/html.js:53
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "SPSS'i seviyorum"
 
 #: jamovi/client/main/editors/transformeditor.js:229
 #: jamovi/client/main/vareditor/datavarwidget.js:277
 #: jamovi/client/main/vareditor/measurelist.js:61
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Idle session"
-msgstr ""
+msgstr "boş oturum"
 
 #: jamovi/client/main/editors/transformeditor.js:355
 msgid "if"
-msgstr ""
+msgstr "Eğer"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
+"İfade doğru olarak çözülürse, değeri kullanın, aksi takdirde diğerini "
+"kullanın."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
-msgstr ""
+msgstr "Görüntü"
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
 msgid "Import"
-msgstr ""
+msgstr "İçe aktar"
 
 #: jamovi/client/main/instance.js:134
 msgid "Import successful"
-msgstr ""
+msgstr "İçe aktarma başarılı"
 
 #: jamovi/client/main/vareditor/editorwidget.js:43
 msgid "Imported as"
-msgstr ""
+msgstr "olarak içe aktarıldı"
 
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
-msgstr ""
+msgstr "içe aktarılıyor"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
-msgstr ""
+msgstr "Geliştirilmekte"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "inactive"
-msgstr ""
+msgstr "etkin değil"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr ""
+msgstr "Girinti -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr ""
+msgstr "Girinti +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1006,68 +1013,68 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
 msgid "Insert"
-msgstr ""
+msgstr "Ekle"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
-msgstr ""
+msgstr "Kaç satır eklensin?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
-msgstr ""
+msgstr "Satır Ekle..."
 
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
-msgstr ""
+msgstr "Kur"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
-msgstr ""
+msgstr "Yüklenmiş"
 
 #: jamovi/client/main/ribbon/analysetab.js:80
 msgid "Installed Modules"
-msgstr ""
+msgstr "Yüklü Modüller"
 
 #: jamovi/client/main/store/pagemodules.js:133
 msgid "Installed version is incompatible"
-msgstr ""
+msgstr "Yüklü sürüm uyumsuz"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
-msgstr ""
+msgstr "tamsayı"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1019
 msgid "Interaction"
-msgstr ""
+msgstr "Etkileşim"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1020
 msgid "Interactions"
-msgstr ""
+msgstr "Etkileşimler"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "Inverts the value."
-msgstr ""
+msgstr "Değeri tersine çevirir."
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
 #: jamovi/client/main/tableview.js:591
 msgid "Issue with formula"
-msgstr ""
+msgstr "Formülle ilgili sorun"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
-msgstr ""
+msgstr "İtalik"
 
 #: jamovi/client/main/backstage.js:1005
 #: jamovi/client/main/backstage.js:1016
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "jamovi dosyası {ext}"
 
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "jamovi dosyaları {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid ""
@@ -1075,201 +1082,203 @@ msgid ""
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
 msgstr ""
+"jamovi artık { Türkçe } dilinde mevcuttur! (Çok teşekkürler { Dr. Hamza "
+"YALÇİN })"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr ""
+msgstr "jamovi artık { Türkçe } dilinde mevcuttur! (@{'ye çok teşekkürler})"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
-msgstr ""
+msgstr "jamovi güncel"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
-msgstr ""
+msgstr "jamovi kütüphanesi"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
-msgstr ""
+msgstr "jamovi modülleri"
 
 #: jamovi/client/main/backstage.js:1028
 #: jamovi/client/main/backstage.js:1051
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "jamovi şablon {ext}"
 
 #: jamovi/client/main/backstage.js:975
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "jamovi şablonları {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "JASP dosyaları {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr ""
+msgstr "Hizala"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:237
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "Anahtar kelime: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
-msgstr ""
+msgstr "Dil"
 
 #: jamovi/client/main/backstage.js:1030
 #: jamovi/client/main/backstage.js:1053
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "LaTeX bundle (demeti) {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
-msgstr ""
+msgstr "Sola Hizala"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr ""
+msgstr "Daha az"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Küçük veya eşit"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
 msgid "Level {0}"
-msgstr ""
+msgstr "Seviye {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:184
 msgid "Level value"
-msgstr ""
+msgstr "Seviye değeri"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:48
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
 msgid "Levels"
-msgstr ""
+msgstr "Seviyeler"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
-msgstr ""
+msgstr "Link"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
-msgstr ""
+msgstr "Yükleniyor"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Logical"
-msgstr ""
+msgstr "Mantıksal"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
-msgstr ""
+msgstr "Ana Etkiler"
 
 #: jamovi/client/main/ribbon/analysetab.js:79
 msgid "Manage installed"
-msgstr ""
+msgstr "Yüklenenleri yönet"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr ""
+msgstr "Matematik"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr ""
+msgstr "Ölçü türü"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr ""
+msgstr "En az"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "Misc"
-msgstr ""
+msgstr "Misc"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
-msgstr ""
+msgstr "Eksik değer"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr ""
+msgstr "Eksik Değerler"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
-msgstr ""
+msgstr "Modül yüklendi"
 
 #: jamovi/client/main/store/pagesideload.js:44
 msgid "Module installed successfully"
-msgstr ""
+msgstr "Modül başarıyla yüklendi"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
-msgstr ""
+msgstr "Modül kaldırıldı"
 
 #: jamovi/client/main/store/pagemodules.js:193
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "Modül başarıyla yüklendi"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
-msgstr ""
+msgstr "Modüller"
 
 #: jamovi/client/main/main.js:364
 msgid "More info ..."
-msgstr ""
+msgstr "Daha fazla bilgi ..."
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
-msgstr ""
+msgstr "İsim"
 
 #: jamovi/client/main/backstage.js:1176
 #: jamovi/client/main/backstage.js:1253
 msgid "New"
-msgstr ""
+msgstr "Yeni"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "Yeni hesaplanan değişken"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr ""
+msgstr "Yeni veri değişkeni"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr ""
+msgstr "Yeni dönüştürülmüş değişken"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
-msgstr ""
+msgstr "Sonraki değişken"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
-msgstr ""
+msgstr "Renk yok"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
 msgid "No information about this function is avaliable"
-msgstr ""
+msgstr "Bu işlev hakkında hiçbir bilgi mevcut değil"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "Tanınmış veri dosyası bulunamadı."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "Sorgunuzla eşleşen değişken yok."
 
 #: jamovi/client/main/editors/transformeditor.js:226
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "Nominal (adlandıma)"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1284,25 +1293,25 @@ msgstr "Hiçbiri"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr ""
+msgstr "Eşit değil"
 
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr ""
+msgstr "Not"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
-msgstr ""
+msgstr "Sayı biçimi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "Değerleri yukarı veya aşağı dengeler."
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
-msgstr ""
+msgstr "Tamam"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1311,188 +1320,193 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"Bu veri kümesindeki bir veya daha fazla analiz devre dışı bırakıldı\n"
+"                    çünkü keyfi kodun yürütülmesine izin verirler. Sizin\n"
+"                    bunları yalnızca bu veri kümesine güveniyorsanız "
+"etkinleştirmelisiniz\n"
+"                    kaynağı."
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
-msgstr ""
+msgstr "Çevrimiçi veri seti"
 
 #: jamovi/client/main/backstage.js:1181
 #: jamovi/client/main/backstage.js:1258
 msgid "Open"
-msgstr ""
+msgstr "Aç"
 
 #: jamovi/client/main/backstage.js:977
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "Belgeyi Aç (LibreOffice) {ext}"
 
 #: jamovi/client/main/backstage.js:1704
 #: jamovi/client/main/instance.js:236
 #: jamovi/client/main/main.js:657
 msgid "Opening"
-msgstr ""
+msgstr "Açılıyor"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
 msgid "Operators"
-msgstr ""
+msgstr "Operatörler"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr ""
+msgstr "Sıralı Liste"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr ""
+msgstr "Sıralı"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
-msgstr ""
+msgstr "Çıktı"
 
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Çıktı Değişkeni"
+msgstr[1] "Çoklu Çıktı Değişkenleri ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr ""
+msgstr "p-değeri biçimi"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
-msgstr ""
+msgstr "Paragraf"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
 #: jamovi/client/main/ribbon/annotationtab.js:107
 #: jamovi/client/main/ribbon/datatab.js:16
 msgid "Paste"
-msgstr ""
+msgstr "Yapıştır"
 
 #: jamovi/client/main/backstage.js:1026
 #: jamovi/client/main/backstage.js:1049
 #: jamovi/client/main/resultspanel.js:715
 #: jamovi/client/main/resultspanel.js:742
 msgid "PDF Document {ext}"
-msgstr ""
+msgstr "PDF Belgesi {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr ""
+msgstr "Seviyeyi tuttur"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
-msgstr ""
+msgstr "Şekil teması"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr ""
+msgstr "Şekiller"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
-msgstr ""
+msgstr "PNG Resmi {ext}"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
-msgstr ""
+msgstr "Önceki değişken"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr ""
+msgstr "nitel"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
-msgstr ""
+msgstr "R veri dosyaları {ext}"
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1032
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:1055
 msgid "R object {ext}"
-msgstr ""
+msgstr "R nesnesi {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
-msgstr ""
+msgstr "Her değeri sıralar"
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
-msgstr ""
+msgstr "Hazır"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "Hakikaten kaldırılsın mı {m}?"
 
 #: jamovi/client/main/backstage.js:1999
 msgid "Recent"
-msgstr ""
+msgstr "Son"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 #: jamovi/client/main/ribbon/datatab.js:25
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
-msgstr ""
+msgstr "Düzenlemeyi Yeniden Yap"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Reference"
-msgstr ""
+msgstr "Referans"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "References"
-msgstr ""
+msgstr "Kaynaklar"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
-msgstr ""
+msgstr "Yenile"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Remove"
-msgstr ""
+msgstr "Kaldır"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
-msgstr ""
+msgstr "Filtreleri kaldır"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
-msgstr ""
+msgstr "Jamovi'nin daha yeni bir sürümünü gerektirir"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Restart and Install"
-msgstr ""
+msgstr "Yeniden Başlat ve Yükle"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
-msgstr ""
+msgstr "Yeniden başlatılması gerekiyor"
 
 #: jamovi/client/main/analyses.js:336
 #: jamovi/client/main/ribbon/appmenu.js:59
 #: jamovi/server/jamovi/server/analyses.py
 #: jamovi/server/jamovi/server/instance.py
 msgid "Results"
-msgstr ""
+msgstr "Sonuçlar"
 
 #: jamovi/client/main/vareditor/editorwidget.js:101
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "Analizlerde kullanılmayan seviyeleri koruyun"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Retry"
-msgstr ""
+msgstr "yeniden dene"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "Değişkenin Box Cox dönüşümünü döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid ""
@@ -1500,38 +1514,41 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
+"IQR'ye göre değişkenin bir aykırı değer olup olmadığını döndürür: Değer bir "
+"Boxplot kutusunun içindeyse 0 döndürülür, 1,5'ten büyük mutlak değerler "
+"bıyıkların dışındadır."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "Bir sayının mutlak değerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Bir sayının 10 tabanlı logaritmasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Bir sayının ℯ tabanının üssünü döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin en büyük değerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Bir değişkenin en büyük değerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin ortalamasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Bir değişkenin medyanını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Bir değişkendeki en yaygın değeri döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
