@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-08 18:19+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Bokmål "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nb_NO/>\n"
+"PO-Revision-Date: 2022-10-07 00:24+0000\n"
+"Last-Translator: Allan Nordhøy <epost@anotheragency.no>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/nb_NO/>\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -34,7 +34,7 @@ msgstr "(nåværend)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Dette er en pussighet i Safari og på IPad-er)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -157,8 +157,10 @@ msgid "Analyses"
 msgstr "Analyser"
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "Analyses which execute arbitrary code are not permitted in this session."
 msgstr ""
+"Analyser hvilken kjøring av arbitrær kode som ikke tillates denne økten."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -198,16 +200,19 @@ msgid "Apply changes"
 msgstr "Bruk endringer"
 
 #: jamovi/client/main/notification.js:82
+#, fuzzy
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Nærmer seg planens tidsgrense"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "Authentication failure"
-msgstr ""
+msgstr "Kunne ikke identitetsbekrefte"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "Authentication required"
-msgstr ""
+msgstr "Identitetsbekreftelse kreves"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -1051,7 +1056,7 @@ msgstr "Installert versjon er ikke kompatibel"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Installering av moduler er ikke tilgjengelig for din plan"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1129,7 +1134,7 @@ msgstr "JASP-filer {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON-filer {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1324,8 +1329,9 @@ msgstr "Forskyver verdiene opp eller ned."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
+#, fuzzy
 msgid "Ok"
-msgstr ""
+msgstr "OK"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
@@ -1404,7 +1410,7 @@ msgstr "Lim inn"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Innliming er utilgjengelig ved bruk av menyene"
 
 #: jamovi/client/main/backstage.js:1026
 #: jamovi/client/main/backstage.js:1049
@@ -1418,8 +1424,9 @@ msgid "Pin level"
 msgstr "Feste nivå"
 
 #: jamovi/client/main/viewcontroller.js:355
+#, fuzzy
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Bruk Ctrl+V for å lime inn i regnearket."
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1719,7 +1726,7 @@ msgstr "Planlagt vedlikehold"
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "Søk"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1770,8 +1777,9 @@ msgid "Show in main menu"
 msgstr "Vis i hovedmenyen"
 
 #: jamovi/client/main/store.js:93
+#, fuzzy
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Sideinnlasting av moduler er ikke tilgjengelig"
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1899,8 +1907,9 @@ msgid "The index of value in the provided values."
 msgstr "Indeks / posisjon av en verdi innenfor de angitte verdiene."
 
 #: jamovi/client/main/store.js:80
+#, fuzzy
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "Jamovi-biblioteket er ikke tilgjengelig i din økt."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1916,7 +1925,7 @@ msgstr "Biblioteket er deaktivert"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "Modulen for denne analysen er ikke installert, eller er utilgjengelig"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -1929,10 +1938,13 @@ msgstr "Verdien som har denne indeksen / posisjonen i de oppgitte verdiene."
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
 msgstr ""
+"Analysen har overskredet de nåværende tidsgrensene og har blitt avsluttet."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr ""
+"Analysen har blitt avsluttet, antagelig som følge av å ha støtt på en "
+"ressursgrense."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2023,7 +2035,7 @@ msgstr[1] "Transformerte variabler ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "Prøv igjen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2234,8 +2246,9 @@ msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "Tilkoblingen er brutt. Oppdater siden for å fortsette."
 
 #: jamovi/client/main/utils/headeralert.js:29
+#, fuzzy
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "Nettleseren din forhindret jamovi fra å åpne et datasett"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
