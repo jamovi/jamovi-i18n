@@ -1,15 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-29 09:22+0000\n"
-"Last-Translator: Jan Kremláček <jan.kremlacek@lfhk.cuni.cz>\n"
-"Language-Team: Czech "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/cs/>\n"
+"PO-Revision-Date: 2022-10-07 21:23+0000\n"
+"Last-Translator: Josef Dittrych\\ pepa 77\\josef 77 <pepa.gulasek77@gmail."
+"com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -155,8 +156,9 @@ msgid "Analyses"
 msgstr "Analýzy"
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "Analýzy, které spouštějí libovolný kód, nejsou v této relaci povoleny."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -197,15 +199,15 @@ msgstr "Uplatnit změny"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Blíží se časový limit plánu"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Selhání autentizace"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Vyžadováno ověření"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -214,11 +216,11 @@ msgstr "Automaticky"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
-msgstr "AUtomatický"
+msgstr "Automatický"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
-msgstr "Automaticky insatalovat aktualizace"
+msgstr "Automaticky instalovat aktualizace"
 
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
@@ -247,7 +249,7 @@ msgstr "Procházet"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr "Odrážky"
+msgstr "Seznam odrážek"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
@@ -256,7 +258,7 @@ msgstr "Zrušit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr "Sloupci '{}' nelze přiřadit nečíselnou hodnotu"
+msgstr "Nelze přiřadit nečíselnou hodnotu ke sloupci '{}'"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
