@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-07 21:23+0000\n"
+"PO-Revision-Date: 2022-10-07 22:26+0000\n"
 "Last-Translator: Josef Dittrych\\ pepa 77\\josef 77 <pepa.gulasek77@gmail."
 "com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
@@ -319,7 +319,7 @@ msgstr "Zavřít"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
-msgstr "Blok kódu"
+msgstr "Kódový-blok"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
@@ -379,27 +379,27 @@ msgstr "Ztráta spojení"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "Spojitý"
+msgstr "Kontinuální"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr "Zkratka pro ABS(IQR( proměnná))"
+msgstr "Pohodlná zkratka pro ABS (IQR( variabilní ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr "Zkratka pro ABS(Z( proměnná))"
+msgstr "Pohodlná zkratka pro ABS(Z( variabilní ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "Zkratka pro MAX(ABSIQR( proměnná 1, proměnná 2, … ))"
+msgstr "Pohodlná zkratka pro MAX(ABSIQR(variabilní 1, variabilní 2, …))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr "Zkratka pro MAX(ABSZ( proměnná 1, proměnná 2, … ))"
+msgstr "Pohodlná zkratka pro MAX(ABSZ( variabilní 1, variabilní 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
-msgstr "Převede reální na celé číslo."
+msgstr "Převede číslo na celé číslo."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
@@ -513,7 +513,7 @@ msgstr[2] "Datové proměnné"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr "Desetinné číslo"
+msgstr "Desetinný"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -526,7 +526,7 @@ msgstr "Výchozí"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr "Chybí výchozí údaje"
+msgstr "Výchozí chybí"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
@@ -728,7 +728,7 @@ msgstr "Chyba"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
-msgstr "Excel {ext}"
+msgstr "Vynikat {ext}"
 
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
@@ -737,11 +737,11 @@ msgstr "Excel {ext}"
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:215
 msgid "Export"
-msgstr "Export"
+msgstr "Vývozní"
 
 #: jamovi/client/main/resultspanel.js:713
 msgid "Export image"
-msgstr "Export obrázku"
+msgstr "Vývoz obrázku"
 
 #: jamovi/client/main/resultspanel.js:740
 msgid "Export results"
@@ -823,7 +823,7 @@ msgstr "Filtry"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr "Proměnnou filtruje daným výrazem."
+msgstr "Filtruje proměnnou pomocí výrazu filtru."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
@@ -961,7 +961,7 @@ msgstr "I ♥ SPSS"
 #: jamovi/client/main/vareditor/datavarwidget.js:277
 #: jamovi/client/main/vareditor/measurelist.js:61
 msgid "ID"
-msgstr "ID"
+msgstr "Identifikace"
 
 #: jamovi/client/main/notification.js:73
 msgid "Idle session"
@@ -984,11 +984,11 @@ msgstr "Obrázek"
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
 msgid "Import"
-msgstr "Import"
+msgstr "Dovoz"
 
 #: jamovi/client/main/instance.js:137
 msgid "Import successful"
-msgstr "Import proběhl úspěšně"
+msgstr "Dovoz proběhl úspěšně"
 
 #: jamovi/client/main/vareditor/editorwidget.js:43
 msgid "Imported as"
@@ -1060,7 +1060,7 @@ msgstr "Nainstalovaná verze není kompatibilní"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Instalace modulů není ve vašem plánu k dispozici"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1102,18 +1102,14 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr ""
-"Jamovi je nyní k dispozici v {Českém jazyce}! (Mnohokrát děkujeme { ULB LFHK "
-"Jan })"
+msgstr "Josef Dittrych"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr ""
-"Jamovi je nyní k dispozici v {Českém jazyce}! (Mnohokrát děkujeme { ULB LFHK "
-"Jan })"
+msgstr "Josef Dittrych"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1146,7 +1142,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr "Zarovnat do bloku"
+msgstr "Zdůvodněte"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Keyword: {v}"
@@ -1246,67 +1242,67 @@ msgstr "Modul byl úspěšně nainstalován"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
-msgstr ""
+msgstr "Modul odinstalován"
 
 #: jamovi/client/main/store/pagemodules.js:193
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "Modul byl úspěšně nainstalován"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
-msgstr ""
+msgstr "Moduly"
 
 #: jamovi/client/main/main.js:370
 msgid "More info ..."
-msgstr ""
+msgstr "Více informací ..."
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
-msgstr ""
+msgstr "Jméno"
 
 #: jamovi/client/main/backstage.js:1178
 #: jamovi/client/main/backstage.js:1255
 msgid "New"
-msgstr ""
+msgstr "Nový"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "Nová vypočítaná variabilní"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr ""
+msgstr "Nová data variabilní"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr ""
+msgstr "Nová transformovaná variabilní"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
-msgstr ""
+msgstr "Další variabilní"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
-msgstr ""
+msgstr "Žádná barva"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
 msgid "No information about this function is avaliable"
-msgstr ""
+msgstr "Nejsou k dispozici žádné informace o této funkci"
 
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "Nebyly nalezeny žádné rozpoznané datové soubory."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "Vašemu dotazu neodpovídají žádné varianty."
 
 #: jamovi/client/main/editors/transformeditor.js:226
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "Nominální"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1317,34 +1313,34 @@ msgstr ""
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr ""
+msgstr "Žádný"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr ""
+msgstr "Nerovná se"
 
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr ""
+msgstr "Poznámka"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
-msgstr ""
+msgstr "Formát čísel"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "Posunuje hodnoty nahoru nebo dolů."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "Dobře"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
-msgstr ""
+msgstr "Dobře"
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1353,79 +1349,85 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"Jedna nebo více analýz v tomto souboru dat bylo zakázáno\n"
+"                     protože umožňují provádění libovolného kódu.  Vy\n"
+"                     měli byste je povolit pouze v případě, že důvěřujete "
+"této datové sadě\n"
+"                     zdroj."
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
-msgstr ""
+msgstr "Online datová sada"
 
 #: jamovi/client/main/backstage.js:1183
 #: jamovi/client/main/backstage.js:1260
 msgid "Open"
-msgstr ""
+msgstr "Otevřeno"
 
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "Otevřít dokument (LibreOffice) {ext}"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
 #: jamovi/client/main/main.js:665
 msgid "Opening"
-msgstr ""
+msgstr "Otevírací"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
 msgid "Operators"
-msgstr ""
+msgstr "Operátoři"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr ""
+msgstr "Objednaný seznam"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr ""
+msgstr "Řadový"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
-msgstr ""
+msgstr "Výstup"
 
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Výstupní variabilní"
+msgstr[1] "Více výstupních variant ({n})"
+msgstr[2] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr ""
+msgstr "formát p-hodnoty"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
-msgstr ""
+msgstr "Odstavec"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
 #: jamovi/client/main/ribbon/annotationtab.js:107
 #: jamovi/client/main/ribbon/datatab.js:16
 msgid "Paste"
-msgstr ""
+msgstr "Vložit"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Vložit není k dispozici pomocí nabídek"
 
 #: jamovi/client/main/backstage.js:1028
 #: jamovi/client/main/backstage.js:1051
 #: jamovi/client/main/resultspanel.js:715
 #: jamovi/client/main/resultspanel.js:742
 msgid "PDF Document {ext}"
-msgstr ""
+msgstr "Dokument PDF {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
 msgid "Pin level"
-msgstr ""
+msgstr "Úroveň špendlíku"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
