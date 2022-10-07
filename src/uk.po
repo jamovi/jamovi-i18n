@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Anonymous <noreply@weblate.org>\n"
+"Last-Translator: Tymofii Lytvynenko <till.svit@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
 "Language: uk\n"
@@ -2037,7 +2037,8 @@ msgstr "Цей аналіз вийшов за межі поточних часо
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Цей аналіз було припинено, ймовірно, у зв'язку з досягненням ліміту ресурсів."
+msgstr ""
+"Цей аналіз було припинено, ймовірно, у зв'язку з досягненням ліміту ресурсів."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
