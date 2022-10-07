@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2022-10-07 11:19+0000\n"
+"PO-Revision-Date: 2022-10-07 12:18+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -1677,7 +1677,7 @@ msgstr "定期维护"
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1728,7 +1728,7 @@ msgstr "在主菜单中显示"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "无法使用从本地加载模块。"
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1851,7 +1851,7 @@ msgstr "在提供的值中的值索引。"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "您的会话不可使用 jamovi 库。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1867,7 +1867,7 @@ msgstr "jamovi 库被禁用"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "此分析的模块未安装，或不可用"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -1879,11 +1879,11 @@ msgstr "索引中提供的值。"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "此分析已超过当前时间限制，现已终止。"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "此分析已终止，可能是由于达到资源限制。"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -1972,7 +1972,7 @@ msgstr[1] "多个转换变量({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "重试"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2175,7 +2175,7 @@ msgstr "您的连接已丢失。请刷新页面以继续。"
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "您的网络浏览器正阻止 jamovi 打开数据集"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
