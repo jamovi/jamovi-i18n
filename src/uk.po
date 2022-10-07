@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-09-23 17:17+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Ukrainian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/uk/>\n"
+"PO-Revision-Date: 2022-10-07 16:18+0000\n"
+"Last-Translator: Tymofii Lytvynenko <till.svit@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
 "X-Generator: Weblate 4.14.1\n"
 "X-Status: production\n"
 
@@ -35,7 +35,7 @@ msgstr "(теперішній)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Це примха Safari та iPad)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -159,7 +159,7 @@ msgstr "Аналізи"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "Аналізи, які виконують довільний код, на цій сесії не допускаються."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -200,15 +200,15 @@ msgstr "Застосувати изменения"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Наближається строк виконання плану"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Збій автентифікації"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Необхідна автентифікація"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -1058,7 +1058,7 @@ msgstr "Установленная версія несумісна"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Установлення модулів недоступне у вашому плані"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1140,7 +1140,7 @@ msgstr "Файлы JASP {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "Файли JSON {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1336,7 +1336,7 @@ msgstr "Смещает значення вгору або вниз."
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "Гаразд"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
@@ -1416,7 +1416,7 @@ msgstr "Вставить"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Вставка недоступна через меню"
 
 #: jamovi/client/main/backstage.js:1026
 #: jamovi/client/main/backstage.js:1049
@@ -1431,7 +1431,7 @@ msgstr "Рівень контакту"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Використовуйте натомість ctrl-v для вставки в електронну таблицю."
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1731,7 +1731,7 @@ msgstr "Планове технічне обслуговування"
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "Пошук"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1783,7 +1783,7 @@ msgstr "Показати у головнім меню"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Модулі бічного завантаження недоступні."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1912,7 +1912,7 @@ msgstr "Індекс значення у наданих кордонах."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "Бібліотека jamovi недоступна для вашого сеансу."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1928,7 +1928,7 @@ msgstr "Бібліотека отключена"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "Модуль для цього аналізу не встановлений або недоступний"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -1940,11 +1940,12 @@ msgstr "Значення у наданих значеннях у індексі.
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "Цей аналіз вийшов за межі поточних часових рамок і був припинений."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr ""
+"Цей аналіз було припинено, ймовірно, у зв'язку з досягненням ліміту ресурсів."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2036,7 +2037,7 @@ msgstr[2] "Перетворення декількох переменных ({n}
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "Спробувати знову"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2250,7 +2251,7 @@ msgstr "Зв'язок потеряна. Пожалуйста, оновите с�
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "Ваш веббраузер не дозволив jamovi відкрити набір даних"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
