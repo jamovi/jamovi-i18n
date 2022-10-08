@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-07 23:29+0000\n"
+"PO-Revision-Date: 2022-10-10 18:12+0000\n"
 "Last-Translator: Josef Dittrych\\ pepa 77\\josef 77 <pepa.gulasek77@gmail."
 "com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' je chybně"
+msgstr "'{}' je chybné"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -34,7 +34,7 @@ msgstr "(aktuální)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Toto je vtip Safari a iPadů)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -1102,14 +1102,20 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr "Josef Dittrych"
+msgstr ""
+"jamovi je nyní k dispozici v { vložit jazyk překladu }! (Velké díky { sem "
+"vložte své jméno (nebo uveďte obecnější \"překladatelský tým jamovi\", pokud "
+"nechcete kredit) })"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr "Josef Dittrych"
+msgstr ""
+"jamovi je nyní k dispozici v { vložit jazyk překladu }! (Velké díky @{ "
+"vložte sem svůj twitterový popisovač (nebo vložte obecnější \"překladatelský "
+"tým jamovi\", pokud nechcete kredit) })"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1561,72 +1567,72 @@ msgstr "Vrátí absolutní hodnotu čísla."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Vrátí základní 10 logaritmus čísla."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Vrátí exponent pro základ ℯ čísla."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Vrátí největší hodnotu sady čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Vrátí největší hodnotu proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Vrátí průměr množiny čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Vrátí medián proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Vrátí nejběžnější hodnotu v proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Vrátí přirozený logaritmus čísla."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Vrátí normalizované hodnoty sady čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Vrátí počet případů v proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Vrátí počet řádků variabilní."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Vrátí celkový průměr variabilní."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Vrátí celkový součet variabilní."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Vrátí čísla řádků."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Vrátí nejmenší hodnotu sady čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Vrátí nejmenší hodnotu variabilní."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Vrátí druhou odmocninu čísla."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
