@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Last-Translator: Johannes Keyser <joke@fsfe.org>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
 "Language: de\n"
@@ -2035,7 +2035,8 @@ msgstr "Der Wert mit diesem Index innerhalb einer Gruppe von Werten."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr "Diese Analyse hat die geltenden Zeitlimits überschritten und wurde beendet."
+msgstr ""
+"Diese Analyse hat die geltenden Zeitlimits überschritten und wurde beendet."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
