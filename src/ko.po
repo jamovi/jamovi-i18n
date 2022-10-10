@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-18 03:17+0000\n"
-"Last-Translator: Seonjin Lee <sjbase@me.com>\n"
-"Language-Team: Korean "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
+"PO-Revision-Date: 2022-10-10 18:12+0000\n"
+"Last-Translator: zeri <seoyoon047@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.14.1\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -33,7 +33,7 @@ msgstr "(현재의)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(이것은 Safari와 iPad의 특징입니다)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
