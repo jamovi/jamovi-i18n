@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
 "Language: it\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -266,7 +266,8 @@ msgstr "Impossibile assegnare un valore non numerico alla colonna '{}'"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr "Impossibile assegnare un valore non numerico alla colonna '{columnName}'"
+msgstr ""
+"Impossibile assegnare un valore non numerico alla colonna '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
@@ -1399,8 +1400,8 @@ msgid ""
 msgstr ""
 "Una o più analisi in questo set di dati sono state disabilitate\n"
 "                    perché consentono l'esecuzione di codice arbitrario.\n"
-"                    Dovresti abilitarli solo se ritieni attendibile "
-"l'origine\n"
+"                    Dovresti abilitarli solo se ritieni attendibile l'"
+"origine\n"
 "                    di questo set di dati."
 
 #: jamovi/client/main/backstage.js:461
@@ -2035,7 +2036,8 @@ msgstr "Il valore nei valori indicati nell'indice."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr "Questa analisi ha superato i limiti di tempo attuali ed è stata interrotta."
+msgstr ""
+"Questa analisi ha superato i limiti di tempo attuali ed è stata interrotta."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
