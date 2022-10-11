@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2022-10-07 12:18+0000\n"
+"PO-Revision-Date: 2022-10-11 02:30+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -224,7 +224,7 @@ msgstr "自动安装更新"
 
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr "可用模块"
+msgstr "可用语言"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
