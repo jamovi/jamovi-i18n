@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-24 10:41+0000\n"
+"PO-Revision-Date: 2022-10-24 11:34+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1089,7 +1089,7 @@ msgstr "Kursywa"
 #: jamovi/client/main/backstage.js:1005
 #: jamovi/client/main/backstage.js:1016
 msgid "jamovi file {ext}"
-msgstr "plik jamovi {ext}"
+msgstr "Plik jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
@@ -1685,7 +1685,7 @@ msgstr "Wiersze"
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
 msgid "SAS 7bdat {ext}"
-msgstr "SAS 7bdat {ext}"
+msgstr "Plik SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "SAS files {ext}"
@@ -1694,7 +1694,7 @@ msgstr "Pliki SAS {ext}"
 #: jamovi/client/main/backstage.js:1036
 #: jamovi/client/main/backstage.js:1059
 msgid "SAS xpt {ext}"
-msgstr "SAS xpt {ext}"
+msgstr "Plik SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1295
 #: jamovi/client/main/backstage.js:319
@@ -1826,7 +1826,7 @@ msgstr "Plik SPSS {ext}"
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
 msgid "Stata {ext}"
-msgstr "Stata {ext}"
+msgstr "Plik Stata {ext}"
 
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
