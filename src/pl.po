@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-10 18:12+0000\n"
+"PO-Revision-Date: 2022-10-24 10:41+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1093,7 +1093,7 @@ msgstr "plik jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
-msgstr "pliki jamovi {ext}"
+msgstr "Pliki jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid ""
@@ -1136,7 +1136,7 @@ msgstr "Szablony jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "JASP files {ext}"
-msgstr "pliki JASP {ext}"
+msgstr "Pliki JASP {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
@@ -1366,7 +1366,7 @@ msgstr "Otwórz"
 
 #: jamovi/client/main/backstage.js:977
 msgid "Open Document (LibreOffice) {ext}"
-msgstr "Otwórz dokument (LibreOffice) {ext}"
+msgstr "Pliki LibreOffice {ext}"
 
 #: jamovi/client/main/backstage.js:1704
 #: jamovi/client/main/instance.js:236
@@ -1455,7 +1455,7 @@ msgstr "Zestawy"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
-msgstr "Plik danych języka R {ext}"
+msgstr "Pliki danych języka R {ext}"
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1032
@@ -1804,7 +1804,7 @@ msgstr "Zmienna źródłowa"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr "Import specjalny"
+msgstr "Importuj"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
@@ -1830,7 +1830,7 @@ msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
-msgstr "Plik Stata {ext}"
+msgstr "Pliki Stata {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
