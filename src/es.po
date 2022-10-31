@@ -2,21 +2,21 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2022-04-27 13:12+0000\n"
-"Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
-"Language-Team: Spanish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/es/>\n"
+"PO-Revision-Date: 2022-10-31 08:04+0000\n"
+"Last-Translator: Fernando Fernández <jufe956@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.12.1-dev\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' contiene error/es"
+msgstr "'{}' es incorrecto"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -36,7 +36,7 @@ msgstr "(actual)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Esto es un remedio para Safari e iPads)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -160,7 +160,7 @@ msgstr "Análisis"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "Análisis que ejecuta código arbitrario no se permiten en esta sesión."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -201,15 +201,15 @@ msgstr "Aplicar cambios"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Límite del tiempo de plan próximo"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Fallo de autenticación"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Se requiere autenticación"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -286,7 +286,7 @@ msgstr "Celdas editadas "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "Alinear Centrado"
+msgstr "Alineación central"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -367,7 +367,7 @@ msgstr "Confirmar desinstalación"
 
 #: jamovi/client/main/main.js:744
 msgid "Connection failed"
-msgstr "La conexión falló"
+msgstr "Error de conexión"
 
 #: jamovi/client/main/main.js:127 jamovi/client/main/main.js:134
 msgid "Connection lost"
@@ -1039,7 +1039,7 @@ msgstr "La versión instalada es incompatible"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "No está permitido instalar módulos en su plan"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1118,7 +1118,7 @@ msgstr "Archivo JASP {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "Archivos JSON {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1208,7 +1208,7 @@ msgstr "Valores perdidos"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Valores Perdidos"
+msgstr "Faltan valores"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1310,7 +1310,7 @@ msgstr "Desplaza los valores hacia arriba o hacia abajo."
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: jamovi/client/main/infobox.js:37
 msgid "OK"
@@ -1386,7 +1386,7 @@ msgstr "Pegar"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Pegar no está disponible usando los menús"
 
 #: jamovi/client/main/backstage.js:1026 jamovi/client/main/backstage.js:1049
 #: jamovi/client/main/resultspanel.js:715
@@ -1400,7 +1400,7 @@ msgstr "Fijar nivel"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Por favor, use ctrl-v para pegar en la hoja."
 
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
@@ -1689,7 +1689,7 @@ msgstr "Mantenimiento programado"
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "Buscar"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1740,7 +1740,7 @@ msgstr "Mostrar en el menú principal"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Los módulos de carga lateral no están disponibles."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1867,7 +1867,7 @@ msgstr "El índice del valor en los valores proporcionados."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "La librería jamovi no está disponible en su sesión."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1883,7 +1883,7 @@ msgstr "La biblioteca está deshabilitada"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "El módulo para este análisis no está instalado o no está disponible"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -1896,10 +1896,14 @@ msgstr "El valor de los valores proporcionados en el índice."
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
 msgstr ""
+"Este análisis ha superado los límites de tiempo actuales y ha sido "
+"finalizado."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr ""
+"Este análisis ha finalizado, probablemente por alcanzar un límite en los "
+"recursos."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -1988,7 +1992,7 @@ msgstr[1] "Múltiples Variables Transformadas ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "Intentar otra vez"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2197,7 +2201,7 @@ msgstr "La conexión se ha perdido. Actualice la página para continuar."
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "Su navegador evitó que jamovi abriese el conjunto de datos"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
