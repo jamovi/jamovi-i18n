@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-10 18:12+0000\n"
-"Last-Translator: zeri <seoyoon047@gmail.com>\n"
+"PO-Revision-Date: 2022-11-04 05:08+0000\n"
+"Last-Translator: 이정희 <daemul72@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
 "Language: ko\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.14.2-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -155,7 +155,7 @@ msgstr "분석"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "임의 코드를 실행하는 분석은 이 세션에서 허용되지 않습니다."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -196,15 +196,15 @@ msgstr "변경 승인"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "계획 시간 제한에 가까워짐"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "인증 실패"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "인증 필요"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -351,7 +351,7 @@ msgstr "계산된 변수"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
+msgstr[0] "다중 계산 변수 ({n})"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
@@ -1042,7 +1042,7 @@ msgstr "설치된 버전이 호환되지 않습니다"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "사용자의 계획에서 모듈 설치를 사용할 수 없습니다"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1120,7 +1120,7 @@ msgstr "JASP 파일 {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON 파일 {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1316,7 +1316,7 @@ msgstr "값을 위 또는 아래로 보정합니다."
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "확인"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
@@ -1330,6 +1330,10 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"이 데이터 세트에서 하나 이상의 분석이 임의 코드의\n"
+"                    실행을 허용하기 때문에 비활성화되었습니다. \n"
+"                    이 데이터 세트의 소스를 신뢰하는 경우에만\n"
+"                    활성화해야 합니다."
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1390,7 +1394,7 @@ msgstr "붙여넣기"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "메뉴를 사용하여 붙여넣기를 사용할 수 없습니다"
 
 #: jamovi/client/main/backstage.js:1028
 #: jamovi/client/main/backstage.js:1051
@@ -1405,7 +1409,7 @@ msgstr "상위 고정"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "스프레드시트에 붙여넣으려면 ctrl-v를 사용하십시오."
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1704,7 +1708,7 @@ msgstr "정기 점검"
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "검색하기"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1756,7 +1760,7 @@ msgstr "메인 메뉴에 표시"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "사이드 로딩 모듈은 사용할 수 없습니다."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1881,7 +1885,7 @@ msgstr "제공된 값의 값 인덱스입니다."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "사용자의 세션에서 Jamovi 라이브러리를 사용할 수 없습니다."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -1897,7 +1901,7 @@ msgstr "라이브러리가 비활성화되었습니다"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "이 분석을 위한 모듈이 설치되지 않았거나, 사용할 수 없습니다"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -1909,11 +1913,11 @@ msgstr "인덱스에 제공된 값."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "이 분석은 현재 시간 제한을 초과하여 종료되었습니다."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "이 분석은 리소스 제한에 도달하여 종료되었습니다."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -1999,11 +2003,11 @@ msgstr "변환됨"
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] ""
+msgstr[0] "다중 변환 변수 ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "다시 시도"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2131,11 +2135,11 @@ msgstr "업로딩"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
-msgstr "사용"
+msgstr "사용하기"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr ""
+msgstr "사용됨:"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
@@ -2213,7 +2217,7 @@ msgstr "연결이 끊어졌습니다. 계속하려면 페이지를 새로고침 
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "웹 브라우저에서 jamovi가 데이터 세트를 열지 못했습니다"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
