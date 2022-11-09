@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: jpmaroco <jpmaroco@gmail.com>\n"
+"Last-Translator: Andre Sichelero <andresichelero@outlook.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
 "Language: pt\n"
@@ -160,7 +160,8 @@ msgstr "Análises"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "Análises que executam código arbitrário não são permitidas nesta sessão."
+msgstr ""
+"Análises que executam código arbitrário não são permitidas nesta sessão."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
