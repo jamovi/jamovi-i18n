@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-14 09:47+0000\n"
+"PO-Revision-Date: 2022-11-14 16:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -21,8 +21,8 @@ msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"'{}' - {}() аргументі емес\n"
-"(Теңдікті тексергіңіз келсе, '==' деген екі теңдік белгісін пайдаланыңыз)"
+"'{}' {}() үшін аргумент емес\n"
+"(Егер теңдікті тексергіңіз келсе, екі тең '==' белгісін пайдаланыңыз)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -34,15 +34,15 @@ msgstr "(ағымдағы)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Бұл Safari және iPad құрылғыларының ерекшелігі)"
 
 #: jamovi/client/main/tableview.js:1403
 msgid "{columnType} columns may not be edited."
-msgstr ""
+msgstr "{columnType} бағандарын редакциялау мүмкін емес."
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "{m} сәтті жойылды"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
@@ -52,7 +52,7 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:598
 #: jamovi/client/main/viewcontroller.js:639
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} оң бүтін сан емес"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
@@ -61,15 +61,16 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} — бүтін сан емес"
 
 #: jamovi/client/main/ribbon/appmenu.js:268
+#, fuzzy
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Тілді өзгерту jamovi дің қайта іске қосылуын талап етеді"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "Jamovi жаңа нұсқасы қажет"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Accent"
@@ -78,23 +79,25 @@ msgstr ""
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
+"Кіру рұқсаты жоқ. Бұл ресурсқа кіру үшін сізде тиісті рұқсаттар болмауы "
+"мүмкін."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "active"
-msgstr ""
+msgstr "белсенді"
 
 #: jamovi/client/main/ribbon/datatab.js:35
 #: jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:26
 msgid "Add"
-msgstr ""
+msgstr "қосу"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "басқа кірістірілген сүзгіні қосу"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
