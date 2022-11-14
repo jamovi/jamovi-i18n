@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-14 09:47+0000\n"
+"PO-Revision-Date: 2022-11-14 10:47+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1215,7 +1215,7 @@ msgstr "Matematyka"
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr "Poziom pomiaru zmiennej"
+msgstr "Poziom pomiaru"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
