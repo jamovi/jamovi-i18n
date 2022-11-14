@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-14 16:47+0000\n"
+"PO-Revision-Date: 2022-11-14 17:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -101,59 +101,62 @@ msgstr "басқа кірістірілген сүзгіні қосу"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "жетіспейтін мәнді қосыңыз"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
+#, fuzzy
 msgid "Add new filter"
-msgstr ""
+msgstr "жаңа сүзгі қосу"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:44
 msgid "Add new level"
-msgstr ""
+msgstr "жаңа деңгей қосу"
 
 #: jamovi/client/resultsview/element.js:132
 msgid "Add Note"
-msgstr ""
+msgstr "Ескертпе қосу"
 
 #: jamovi/client/main/editors/transformeditor.js:144
 msgid "Add recode condition"
-msgstr ""
+msgstr "қайта кодтау шартын қосу"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "айнымалыны қосу"
 
 #: jamovi/client/main/tableview.js:96
 msgid "Added"
-msgstr ""
+msgstr "қосылды"
 
 #: jamovi/client/main/resultspanel.js:593
 msgid "All"
-msgstr ""
+msgstr "барлығы"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1030
 #: jamovi/client/analysisui/gridtargetcontrol.js:1031
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
 #: jamovi/client/analysisui/gridtargetcontrol.js:1033
 msgid "All {n} way"
-msgstr ""
+msgstr "барлық {n} жолы"
 
 #: jamovi/client/main/backstage.js:550
+#, fuzzy
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "онлайн деректер жинағы {hostname} арқылы орналастырылған"
 
 #: jamovi/client/main/main.js:142
+#, fuzzy
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "Күтпеген қате орын алды, сондықтан  jamovi жабылуы керек."
 
 #: jamovi/client/main/ribbon/appmenu.js:139
 msgid "An update is available"
-msgstr ""
+msgstr "жаңарту қолжетімді"
 
 #: jamovi/client/main/ribbon/analysetab.js:13
 #: jamovi/client/main/ribbon/analysetab.js:95
 msgid "Analyses"
-msgstr ""
+msgstr "талдаулар"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
