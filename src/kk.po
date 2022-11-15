@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-14 17:48+0000\n"
+"PO-Revision-Date: 2022-11-15 15:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -160,15 +160,15 @@ msgstr "талдаулар"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "Осы сессияда еркін кодты орындайтын талдауларға жол берілмейді."
 
 #: jamovi/client/resultsview/main.js:122
 msgid "Analysis"
-msgstr ""
+msgstr "Талдау"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
-msgstr ""
+msgstr "және"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:107
@@ -183,75 +183,80 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:39
+#, fuzzy
 msgid "Append"
-msgstr ""
+msgstr "қосу, байланыстыру"
 
 #: jamovi/client/main/viewcontroller.js:632
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Қанша жолды қосу керек?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr ""
+msgstr "қатарды қосу..."
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
-msgstr ""
+msgstr "Өзгертулерді қолдану"
 
 #: jamovi/client/main/notification.js:82
+#, fuzzy
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Жоспардың уақыт шегіне жақындау"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Аутентификация сәтсіздігі"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Аутентификация талап етіледі"
 
 #: jamovi/client/main/editors/transformeditor.js:246
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "Автоматты"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Automatic"
-msgstr ""
+msgstr "Автоматты түрде"
 
 #: jamovi/client/main/ribbon/appmenu.js:151
 msgid "Automatically install updates"
-msgstr ""
+msgstr "Жаңартуларды автоматты түрде орнату"
 
 #: jamovi/client/main/ribbon/appmenu.js:212
 #: jamovi/client/main/store.js:51
 msgid "Available"
-msgstr ""
+msgstr "Қол жетімді"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Bad function definition"
-msgstr ""
+msgstr "Нашар функция анықтамасы"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Black & white"
-msgstr ""
+msgstr "Қара - ақ"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Blues"
 msgstr ""
+"диаграммаларда (мысалы, сызықтар немесе бағандар үшін) пайдалануға арналған "
+"көкшіл түстер қатарын білдіреді"
 
 #: jamovi/client/main/ribbon/annotationtab.js:113
 msgid "Bold"
-msgstr ""
+msgstr "қалың қаріп"
 
 #: jamovi/client/main/backstage.js:395
 msgid "Browse"
-msgstr ""
+msgstr "Шолу"
 
 #: jamovi/client/main/ribbon/annotationtab.js:136
 msgid "Bullet List"
-msgstr ""
+msgstr "маркіленген тізім"
 
 #: jamovi/client/main/main.js:735
 #: jamovi/client/main/notifications.js:33
