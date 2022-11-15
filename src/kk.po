@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-15 15:48+0000\n"
+"PO-Revision-Date: 2022-11-15 16:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -261,19 +261,19 @@ msgstr "маркіленген тізім"
 #: jamovi/client/main/main.js:735
 #: jamovi/client/main/notifications.js:33
 msgid "Cancel"
-msgstr ""
+msgstr "Болдырмау"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "\"{}\" бағанына сандық емес мәнді тағайындау мүмкін емес"
 
 #: jamovi/client/main/tableview.js:1466
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "\"{columnName}\" бағанына сандық емес мәнді тағайындау мүмкін емес"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "'{}' есептелген бағанға тағайындау мүмкін емес"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
