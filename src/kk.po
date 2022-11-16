@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-15 16:47+0000\n"
+"PO-Revision-Date: 2022-11-16 04:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -277,82 +277,83 @@ msgstr "'{}' есептелген бағанға тағайындау мүмкі
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "Сүзгіге '{}' бағанын тағайындау мүмкін емес"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "Қайта кодталған '{}' бағанына тағайындау мүмкін емес"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "бұл бағандарға тағайындау мүмкін емес."
 
 #: jamovi/client/main/tableview.js:95
 msgid "Cells edited "
-msgstr ""
+msgstr "Ұяшықтар өңделді "
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Center Align"
-msgstr ""
+msgstr "Ортаға туралау"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:92
 msgid "change label..."
-msgstr ""
+msgstr "белгіні өзгерту..."
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Check again"
-msgstr ""
+msgstr "Қайта тексеру"
 
 #: jamovi/client/main/ribbon/appmenu.js:137
 msgid "Checking for updates"
-msgstr ""
+msgstr "жаңартуларды тексеру"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr ""
+msgstr "циклдық сілтеме анықталды"
 
 #: jamovi/client/main/resultspanel.js:444
 msgid "Clear selection"
-msgstr ""
+msgstr "таңдауды тазалау"
 
 #: jamovi/client/main/ribbon/annotationtab.js:98
 #: jamovi/client/main/ribbon/datatab.js:17
 msgid "Clipboard"
-msgstr ""
+msgstr "айырбастау буфері"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
-msgstr ""
+msgstr "Жабу"
 
 #: jamovi/client/main/ribbon/annotationtab.js:148
 msgid "Code-Block"
-msgstr ""
+msgstr "Код-блок"
 
 #: jamovi/client/main/ribbon/appmenu.js:106
 msgid "Color palette"
-msgstr ""
+msgstr "түстер палитрасы"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
+#, fuzzy
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "'{}' бағаны деректер жиынында жоқ"
 
 #: jamovi/client/main/tableview.js:1402
 msgid "Column is not editable"
-msgstr ""
+msgstr "баған өңдеуге жатпайды"
 
 #: jamovi/client/main/ribbon/datatab.js:32
 #: jamovi/client/main/ribbon/variablestab.js:23
 msgid "Compute"
-msgstr ""
+msgstr "есептеу"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr ""
+msgstr "есептелген"
 
 #: jamovi/client/main/tableview.js:305
 msgid "Computed variable"
-msgstr ""
+msgstr "есептелген айнымалы"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:105
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -361,31 +362,31 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "есептелген айнымалы"
+msgstr[1] "бірнеше есептелген айнымалылар ({n})"
 
 #: jamovi/client/main/instance.js:494
 msgid "Confirm overwite"
-msgstr ""
+msgstr "Қайта жазуды растау"
 
 #: jamovi/client/main/store/pagemodules.js:303
 msgid "Confirm uninstall"
-msgstr ""
+msgstr "жоюды растау"
 
 #: jamovi/client/main/main.js:858
 msgid "Connection failed"
-msgstr ""
+msgstr "қосылу сәтсіз аяқталды"
 
 #: jamovi/client/main/main.js:141
 #: jamovi/client/main/main.js:148
 msgid "Connection lost"
-msgstr ""
+msgstr "байланыс жоғалды"
 
 #: jamovi/client/main/editors/transformeditor.js:249
 #: jamovi/client/main/vareditor/datavarwidget.js:288
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "үздіксіз"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
