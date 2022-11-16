@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-16 08:47+0000\n"
+"PO-Revision-Date: 2022-11-16 16:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -595,52 +595,60 @@ msgid "Desktop"
 msgstr "жұмыс үстелі"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
+#, fuzzy
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"Элементтердің кез келгенінің in1, in2, in3, ... ішінде пайда болуын "
+"анықтайды. Бұл аргументтердің көпшілігі міндетті емес екенін ескеріңіз -- "
+"жай ғана <strong>CONTAINS(ине, шөп) пайдалануға болады."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
+#, fuzzy
 msgid "Developer mode"
-msgstr ""
+msgstr "Әзірлеуші режімі"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
 msgid "Documents"
-msgstr ""
+msgstr "құжаттар"
 
 #: jamovi/client/main/main.js:451
 msgid "Don't enable"
-msgstr ""
+msgstr "қоспаңыз"
 
 #: jamovi/client/main/main.js:735
 msgid "Don't Save"
-msgstr ""
+msgstr "сақтамау"
 
 #: jamovi/client/main/backstage.js:1238
 #: jamovi/client/main/backstage.js:1346
 #: jamovi/client/main/backstage.js:1365
 msgid "Download"
-msgstr ""
+msgstr "жүктеу"
 
 #: jamovi/client/main/utils/pathtools.js:9
 #: jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
-msgstr ""
+msgstr "жүктеулер"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
+#, fuzzy
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"Айнымалыдан n таңдауын жасайды. яғни SAMPLE(var, 20), яғни. SAMPLE(1, 20), "
+"яғни.SAMPLE('оқыту', 20, 'сынақ')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "бета таратылымынан үлгілерді жасайды."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "гамма үлестірімінен үлгілерді жасайды."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Қалыпты (Гаусс) үлестірімнен үлгілер жасайды."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
