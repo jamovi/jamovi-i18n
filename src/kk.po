@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-16 04:47+0000\n"
+"PO-Revision-Date: 2022-11-16 05:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -398,28 +398,28 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "MAX(ABSIQR(айнымалы 1, айнымалы 2, ...)) үшін ыңғайлы қысқарту"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "MAX(ABSZ(айнымалы 1, айнымалы 2, ...)) үшін ыңғайлы қысқарту"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "санды бүтін санға түрлендіреді."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "мәтінді санға түрлендіреді (мүмкіндігінше)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Converts the value to text."
-msgstr ""
+msgstr "мәнді мәтінге түрлендіреді."
 
 #: jamovi/client/main/resultspanel.js:687
 #: jamovi/client/main/resultspanel.js:789
 msgid "Copied"
-msgstr ""
+msgstr "Көшірілген"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:133
 #: jamovi/client/main/contextmenu/contextmenus.js:14
@@ -436,53 +436,54 @@ msgstr ""
 #: jamovi/client/resultsview/group.js:210
 #: jamovi/client/resultsview/group.js:212
 msgid "Copy"
-msgstr ""
+msgstr "көшіру"
 
 #: jamovi/client/main/tableview.js:1465
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "деректерді тағайындау мүмкін болмады"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "қатарларды жою мүмкін болмады"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "бағандарды енгізу мүмкін болмады"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "қатарларды енгізу мүмкін болмады"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "бағандарды өзгерту мүмкін болмады"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "түрлендіруді өзгерту мүмкін болмады"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "операция орындалмады"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "жаңа түрлендіру жасау..."
 
 #: jamovi/client/main/backstage.js:1091
 #: jamovi/client/main/backstage.js:1142
 #: jamovi/client/main/backstage.js:1164
+#, fuzzy
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (үтірмен бөлінген) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
 #: jamovi/client/main/ribbon/annotationtab.js:101
 #: jamovi/client/main/ribbon/datatab.js:20
 msgid "Cut"
-msgstr ""
+msgstr "кесу"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Dark2"
@@ -491,21 +492,21 @@ msgstr ""
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:12
 msgid "Data"
-msgstr ""
+msgstr "деректер"
 
 #: jamovi/client/main/backstage.js:1085
 msgid "Data files"
-msgstr ""
+msgstr "деректер файлдары"
 
 #: jamovi/client/main/backstage.js:1319
 #: jamovi/client/main/backstage.js:1399
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
-msgstr ""
+msgstr "деректер кітапханасы"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Data type"
-msgstr ""
+msgstr "деректер түрі"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:110
 #: jamovi/client/main/contextmenu/contextmenus.js:58
@@ -514,21 +515,22 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Деректер айнымалысы"
+msgstr[1] "бірнеше деректер айнымалылары ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
-msgstr ""
+msgstr "ондық бөлшек"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
+#, fuzzy
 msgid "decimal places"
-msgstr ""
+msgstr "ондық бөлшектер"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Default"
-msgstr ""
+msgstr "Әдепкі"
 
 #: jamovi/client/main/ribbon/appmenu.js:117
 msgid "Default missings"
