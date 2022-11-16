@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-16 05:47+0000\n"
+"PO-Revision-Date: 2022-11-16 08:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -540,59 +540,59 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:66
 #: jamovi/client/main/ribbon/variablestab.js:42
 msgid "Delete"
-msgstr ""
+msgstr "Жою"
 
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "'{columnName}' бағанын жою керек пе?"
+msgstr[1] "{n} бағандарын жою керек пе?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
 msgid "Delete Filter"
-msgstr ""
+msgstr "сүзгіні жою"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr ""
+msgstr "қатарды жою"
 
 #: jamovi/client/main/viewcontroller.js:323
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{index} қатарын жою керек пе?"
+msgstr[1] "{n} қатарларын жою керек пе?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "қатарларды жою"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "түрлендіруді жою"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "айнымалыны жою"
+msgstr[1] "айнымалыларды жою"
 
 #: jamovi/client/main/tableview.js:97
 msgid "Deleted"
-msgstr ""
+msgstr "жойылды"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 #: jamovi/client/main/vareditor/editorwidget.js:67
 #: jamovi/client/main/vareditor/filterwidget.js:507
 #: jamovi/client/main/variablesview.js:321
 msgid "Description"
-msgstr ""
+msgstr "сипаттама"
 
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
 msgid "Desktop"
-msgstr ""
+msgstr "жұмыс үстелі"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
