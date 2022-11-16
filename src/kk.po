@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-16 16:47+0000\n"
+"PO-Revision-Date: 2022-11-16 17:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -652,15 +652,15 @@ msgstr "Қалыпты (Гаусс) үлестірімнен үлгілер жа
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "біркелкі үлестірімнен үлгілерді жасайды."
 
 #: jamovi/client/resultsview/group.js:212
 msgid "Duplicate"
-msgstr ""
+msgstr "қайталау"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "түрлендіруді қайталау"
 
 #: jamovi/client/main/main.js:189
 #: jamovi/client/main/ribbon/annotationtab.js:106
@@ -671,67 +671,73 @@ msgstr ""
 #: jamovi/client/main/tableview.js:1414
 #: jamovi/client/main/tableview.js:1540
 msgid "Edit"
-msgstr ""
+msgstr "өңдеу"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
+#, fuzzy
 msgid "Edit transform"
-msgstr ""
+msgstr "Түрлендіруді өңдеу"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:126
 #: jamovi/client/main/contextmenu/contextmenus.js:141
 #: jamovi/client/main/vareditor/recodedvarwidget.js:38
 msgid "Edit..."
-msgstr ""
+msgstr "Өңдеу..."
 
 #: jamovi/client/main/editors/transformeditor.js:381
 #: jamovi/client/main/editors/transformeditor.js:438
 msgid "else use"
-msgstr ""
+msgstr "басқаша пайдалану"
 
 #: jamovi/client/main/main.js:452
 msgid "Enable"
-msgstr ""
+msgstr "рұқсат ету"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
-msgstr ""
+msgstr "Сипаттаманы енгізу"
 
 #: jamovi/client/main/backstage.js:331
 #: jamovi/client/main/backstage.js:368
+#, fuzzy
 msgid "Enter file name here"
-msgstr ""
+msgstr "Файл атауын мына жерге енгізіңіз"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
 msgid "Enter label..."
-msgstr ""
+msgstr "Белгіні енгізіңіз..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
+#, fuzzy
 msgid "Enter level value"
-msgstr ""
+msgstr "Деңгей мәнін енгізіңіз"
 
 #: jamovi/client/main/variablesview.js:132
+#, fuzzy
 msgid "Enter name"
-msgstr ""
+msgstr "Атын енгізіңіз"
 
 #: jamovi/client/resultsview/annotation.js:148
+#, fuzzy
 msgid "Enter your URL here"
-msgstr ""
+msgstr "URL мекенжайыңызды осы жерге енгізіңіз"
 
 #: jamovi/client/main/resultspanel.js:724
+#, fuzzy
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "EPS кескіні {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
-msgstr ""
+msgstr "Тең"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr ""
+msgstr "Қате"
 
 #: jamovi/client/main/backstage.js:1094
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/backstage.js:1355
 #: jamovi/client/main/backstage.js:1452
@@ -740,27 +746,27 @@ msgstr ""
 #: jamovi/client/resultsview/element.js:132
 #: jamovi/client/resultsview/group.js:212
 msgid "Export"
-msgstr ""
+msgstr "Экспорттау"
 
 #: jamovi/client/main/resultspanel.js:719
 msgid "Export image"
-msgstr ""
+msgstr "Кескінді экспорттау"
 
 #: jamovi/client/main/resultspanel.js:746
 msgid "Export results"
-msgstr ""
+msgstr "Нәтижелерді экспорттау"
 
 #: jamovi/client/main/instance.js:465
 msgid "Exported"
-msgstr ""
+msgstr "Экспортталған"
 
 #: jamovi/client/main/instance.js:466
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "\"{filename}\" файлына экспортталды"
 
 #: jamovi/client/main/main.js:183
 msgid "File"
-msgstr ""
+msgstr "Файл"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
@@ -768,52 +774,53 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
-msgstr ""
+msgstr "Файл импортталды"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
-msgstr ""
+msgstr "бүлінген файл"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
+#, fuzzy
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "Файл бүлінген (манифест бүлінген немесе жоқ)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "файл бүлінген (манифест — бүлінген)"
 
 #: jamovi/client/main/instance.js:501
 msgid "File save failed."
-msgstr ""
+msgstr "Файл сақталмады."
 
 #: jamovi/client/main/instance.js:479
 msgid "File Saved"
-msgstr ""
+msgstr "Файл сақталды"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
-msgstr ""
+msgstr "Сүзгі"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
-msgstr ""
+msgstr "Сүзгі {}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr ""
+msgstr "{i} сүзгісі"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
 msgid "Filter is active"
-msgstr ""
+msgstr "Сүзгі белсенді"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
 msgid "Filter is inactive"
-msgstr ""
+msgstr "Сүзгі белсенді емес"
 
 #: jamovi/client/main/tableview.js:98
 msgid "Filtered"
-msgstr ""
+msgstr "Сүзілген"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -822,117 +829,121 @@ msgstr ""
 #: jamovi/client/main/tableview.js:103
 #: jamovi/client/main/variablesview.js:61
 msgid "Filters"
-msgstr ""
+msgstr "Сүзгілер"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "Сүзгі өрнегі арқылы айнымалыны сүзеді."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
+"Сүзгілер «V» немесе баған функцияларын пайдаланатын бағандарға сілтеме жасай "
+"алмайды"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "Сүзгілер шығыс айнымалыларына сілтеме жасай алмайды"
 
 #: jamovi/client/main/ribbon/annotationtab.js:111
 msgid "Font"
-msgstr ""
+msgstr "Қаріп"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 #: jamovi/client/main/vareditor/computedvarwidget.js:76
 msgid "Formula"
-msgstr ""
+msgstr "Формула"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "Формула заңсыз түйінді қамтиды"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr ""
+"Формула қате көрсетілген (Егер теңдікті тексергіңіз келсе, «==» екі теңдік "
+"белгісін пайдаланыңыз)"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "{}() функциясы жоқ"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "{}() функциясы кем дегенде {} аргументті талап етеді{}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "{}() функциясы {} және {} арасындағы аргументтерді талап етеді"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "{}() функциясы {} аргументін қабылдайды{}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
 msgid "Functions"
-msgstr ""
+msgstr "Функциялар"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
-msgstr ""
+msgstr "-ден үлкен"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Үлкен немесе оған тең"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Greens"
-msgstr ""
+msgstr "Жасылдар"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Greys"
-msgstr ""
+msgstr "Сұр"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:70
 msgid "Group"
-msgstr ""
+msgstr "Топ"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Hadley"
-msgstr ""
+msgstr "Хэдли"
 
 #: jamovi/client/main/ribbon/annotationtab.js:149
 msgid "Heading"
-msgstr ""
+msgstr "Тақырып"
 
 #: jamovi/client/resultsview/annotation.js:138
 msgid "Help"
-msgstr ""
+msgstr "Анықтама"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
-msgstr ""
+msgstr "Сәлем"
 
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "Hidden"
-msgstr ""
+msgstr "Жасырын"
 
 #: jamovi/client/main/store/pagemodules.js:226
 #: jamovi/client/main/variableeditor.js:193
 #: jamovi/client/main/variableeditor.js:64
 msgid "Hide"
-msgstr ""
+msgstr "Жасыру"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Сүзгі бағандарын жасыру"
 
 #: jamovi/client/main/store.js:29
 msgid "Hide library"
-msgstr ""
+msgstr "Кітапхананы жасыру"
 
 #: jamovi/client/analysisui/main.js:224
 msgid "Hide options"
-msgstr ""
+msgstr "Параметрлерді жасыру"
 
 #: jamovi/client/main/ribbon/appmenu.js:46
 msgid "Hide settings"
