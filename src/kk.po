@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-16 17:48+0000\n"
+"PO-Revision-Date: 2022-11-16 18:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -947,39 +947,39 @@ msgstr "Параметрлерді жасыру"
 
 #: jamovi/client/main/ribbon/appmenu.js:46
 msgid "Hide settings"
-msgstr ""
+msgstr "баптауларды жасыру"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Highlight Color"
-msgstr ""
+msgstr "ерекшелеу түсі"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
 msgid "Home"
-msgstr ""
+msgstr "Басты"
 
 #: jamovi/client/resultsview/html.js:53
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "Мен ♥ SPSS"
 
 #: jamovi/client/main/editors/transformeditor.js:250
 #: jamovi/client/main/vareditor/datavarwidget.js:289
 #: jamovi/client/main/vareditor/measurelist.js:61
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: jamovi/client/main/notification.js:74
 msgid "Idle session"
-msgstr ""
+msgstr "Бос сеанс"
 
 #: jamovi/client/main/editors/transformeditor.js:376
 msgid "if"
-msgstr ""
+msgstr "егер"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
