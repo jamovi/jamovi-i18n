@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-16 18:48+0000\n"
+"PO-Revision-Date: 2022-11-16 19:48+0000\n"
 "Last-Translator: ENDXR <endehmusicofficial@gmail.com>\n"
 "Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/nn/>\n"
@@ -38,104 +38,106 @@ msgstr "(Dette er ein finurlegheit av Safari og iPad-er)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr ""
+msgstr "{columnType} kolonner kan ikkje bli redigert."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "{m] vart avinstallert"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} dp"
-msgstr ""
+msgstr "{n} dp"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{} er ikkje eit positivt heiltal"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} sf"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} er ikkje eit heltal"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Endring av språk krev at jamovi blir starta på nytt"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "Ein nyare versjon av jamovi krevjast"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr ""
+msgstr "Framheva"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
 msgstr ""
+"Tilgang nektes. Det kan hende du ikkje har dei riktige tillatingane for å få "
+"tilgang til denne ressursen."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "active"
-msgstr ""
+msgstr "aktiv"
 
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/datatab.js:58
 #: jamovi/client/main/ribbon/variablestab.js:27
 msgid "Add"
-msgstr ""
+msgstr "Legg til"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "Legg til enda eit nestet filter"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "Legg til Manglande Verdi"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
-msgstr ""
+msgstr "Legg til nytt filter"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr ""
+msgstr "Legg til nytt nivå"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "Legg til Notat"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
-msgstr ""
+msgstr "Legg til gjenkodingstilstand"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "Legg til Variabel"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
-msgstr ""
+msgstr "Lagt til"
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
-msgstr ""
+msgstr "Alle"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1022
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr ""
+msgstr "All {n} vei"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
