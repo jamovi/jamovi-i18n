@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-17 02:48+0000\n"
+"PO-Revision-Date: 2022-11-17 03:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -1112,203 +1112,210 @@ msgstr "jamovi файлдары {ext}"
 #: jamovi/client/main/misc/announcements.js:4
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr ""
+"jamovi енді { insert translation language } тілінде қолжетімді! (Үлкен "
+"рахмет { insert your name here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr ""
+"jamovi енді { insert translation language } тілінде қолжетімді! (Үлкен "
+"рахмет @{ insert your twitter handle here (or put a more generic \"the "
+"jamovi translation team\", if you don't want credit) })"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "jamovi is up-to-date"
-msgstr ""
+msgstr "jamovi жаңартылған"
 
 #: jamovi/client/main/ribbon/analysetab.js:115
 msgid "jamovi library"
-msgstr ""
+msgstr "jamovi кітапханасы"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
-msgstr ""
+msgstr "jamovi модульдері"
 
 #: jamovi/client/main/backstage.js:1141
 #: jamovi/client/main/backstage.js:1163
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "jamovi үлгісі {ext}"
 
 #: jamovi/client/main/backstage.js:1090
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "jamovi үлгілері {ext}"
 
 #: jamovi/client/main/backstage.js:1099
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "JASP файлдары {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON файлдары {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:132
 msgid "Justify"
-msgstr ""
+msgstr "негіздеу"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "түйін сөз: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:160
 msgid "Language"
-msgstr ""
+msgstr "тіл"
 
 #: jamovi/client/main/backstage.js:1143
 #: jamovi/client/main/backstage.js:1165
 #: jamovi/client/main/resultspanel.js:754
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "LaTeX жинағы {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:129
 msgid "Left Align"
-msgstr ""
+msgstr "солға туралау"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr ""
+msgstr "одан азырақ"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
-msgstr ""
+msgstr "кем немесе тең"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
 msgid "Level {0}"
-msgstr ""
+msgstr "деңгей {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:194
 msgid "Level value"
-msgstr ""
+msgstr "деңгей мәні"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
 msgid "Levels"
-msgstr ""
+msgstr "деңгейлер"
 
 #: jamovi/client/main/ribbon/annotationtab.js:151
 msgid "Link"
-msgstr ""
+msgstr "сілтеме"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
-msgstr ""
+msgstr "жүктелуде"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "Logical"
-msgstr ""
+msgstr "логикалық"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1029
 msgid "Main Effects"
-msgstr ""
+msgstr "негізгі әсерлер"
 
 #: jamovi/client/main/ribbon/analysetab.js:116
 msgid "Manage installed"
-msgstr ""
+msgstr "орнатылғанды басқару"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr ""
+msgstr "математика"
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
 msgid "Measure type"
-msgstr ""
+msgstr "өлшем түрі"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Minimal"
-msgstr ""
+msgstr "минималды"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Misc"
-msgstr ""
+msgstr "әртүрлі"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
-msgstr ""
+msgstr "жоқ мәндер"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
+#, fuzzy
 msgid "Missing Values"
-msgstr ""
+msgstr "жоқ мәндер"
 
 #: jamovi/client/main/store/pagemodules.js:286
 msgid "Module installed"
-msgstr ""
+msgstr "модуль орнатылды"
 
 #: jamovi/client/main/store/pagesideload.js:46
 msgid "Module installed successfully"
-msgstr ""
+msgstr "модуль сәтті орнатылды"
 
 #: jamovi/client/main/store/pagemodules.js:311
 msgid "Module uninstalled"
-msgstr ""
+msgstr "модуль жойылды"
 
 #: jamovi/client/main/store/pagemodules.js:287
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "модуль сәтті орнатылды"
 
 #: jamovi/client/main/ribbon/analysetab.js:114
 msgid "Modules"
-msgstr ""
+msgstr "модульдер"
 
 #: jamovi/client/main/main.js:450
 msgid "More info ..."
-msgstr ""
+msgstr "қосымша ақпарат ..."
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
-msgstr ""
+msgstr "атауы"
 
 #: jamovi/client/main/backstage.js:1298
 #: jamovi/client/main/backstage.js:1378
 msgid "New"
-msgstr ""
+msgstr "жаңа"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "жаңа есептелген айнымалы"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr ""
+msgstr "жаңа деректер айнымалысы"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr ""
+msgstr "жаңа түрлендірілген айнымалы"
 
 #: jamovi/client/main/variableeditor.js:65
 msgid "Next variable"
-msgstr ""
+msgstr "келесі айнымалы"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "No Color"
-msgstr ""
+msgstr "түссіз"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
 msgid "No information about this function is avaliable"
-msgstr ""
+msgstr "бұл функция туралы ақпарат қолжетімді емес"
 
 #: jamovi/client/main/backstage.js:675
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "ешқандай танылатын деректер файлдары табылмады."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "сұранысыңызға ешбір айнымалы мән сәйкес келмейді."
 
 #: jamovi/client/main/editors/transformeditor.js:247
 #: jamovi/client/main/vareditor/datavarwidget.js:286
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "номиналды"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1319,42 +1326,48 @@ msgstr ""
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr ""
+msgstr "ешқайсысы"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr ""
+msgstr "тең емес"
 
 #: jamovi/client/resultsview/main.js:117
 #: jamovi/client/resultsview/table.js:599
 msgid "Note"
-msgstr ""
+msgstr "ескертпе"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "Number format"
-msgstr ""
+msgstr "сан форматы"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "мәндерді жоғары немесе төмен ауыстырады."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "Ок"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
-msgstr ""
+msgstr "ок"
 
 #: jamovi/client/main/main.js:445
+#, fuzzy
 msgid ""
 "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"бұл деректер жиынындағы бір немесе бірнеше талдаулар өшірілген \n"
+"                    өйткені олар ерікті кодты орындауға мүмкіндік береді. "
+"Сіз .\n"
+"                    Осы деректер жинағының көзіне сенсеңіз ғана оларды "
+"қосуыңыз керек"
 
 #: jamovi/client/main/backstage.js:557
 msgid "Online data set"
