@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-17 03:48+0000\n"
+"PO-Revision-Date: 2022-11-18 02:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -1371,22 +1371,22 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:557
 msgid "Online data set"
-msgstr ""
+msgstr "онлайн деректер жинағы"
 
 #: jamovi/client/main/backstage.js:1304
 #: jamovi/client/main/backstage.js:1384
 msgid "Open"
-msgstr ""
+msgstr "ашу"
 
 #: jamovi/client/main/backstage.js:1093
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "құжатты ашу (LibreOffice) {ext}"
 
 #: jamovi/client/main/backstage.js:1847
 #: jamovi/client/main/instance.js:307
 #: jamovi/client/main/main.js:757
 msgid "Opening"
-msgstr ""
+msgstr "ашылу"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
 msgid "Operators"
