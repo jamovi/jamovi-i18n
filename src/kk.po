@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-20 16:48+0000\n"
+"PO-Revision-Date: 2022-11-20 19:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -1614,55 +1614,55 @@ msgstr "айнымалыдағы жағдайлар санын қайтарад�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "айнымалының қатарлар санын қайтарады"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "айнымалының жалпы орташа мәнін қайтарады"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "айнымалының жалпы қосындысын береді."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "қатар нөмірлерін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "сандар жиынының ең кіші мәнін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "айнымалының ең кіші мәнін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "санның квадрат түбірін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "сандар жиынының стандартты ауытқуын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "айнымалының стандартты ауытқуын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "айнымалының орташа мәнінің стандартты қатесін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "сандар жиынының қосындысын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Ссндар жиынының дисперсиясын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "айнымалының дисперсиясын береді."
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Right Align"
