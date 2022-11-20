@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-18 05:47+0000\n"
+"PO-Revision-Date: 2022-11-20 16:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -1560,53 +1560,57 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "fйнымалының Box Cox түрлендіруін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
+#, fuzzy
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
+"шектен тыс көрсеткіштер   Айнымалы мәннің IQR сәйкес шектен тыс мән екенін "
+"қайтарады: егер мән Boxplot жолағында болса, 0 қайтарылады, 1,5-тен жоғары "
+"абсолютті мәндер мұрттардың сыртында болады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "санның абсолютті мәнін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "санның негізі-10 логарифмін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "санның ℯ негізі үшін көрсеткішті қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "сандар жиынының ең үлкен мәнін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "айнымалының ең үлкен мәнін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "сандар жиынының орташа мәнін береді."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "айнымалының медианасын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "айнымалыдағы ортақ мәнді қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "санның натурал логарифмін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "z мәндеріне түрлендірілген сандар жиынының қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "айнымалыдағы жағдайлар санын қайтарады"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
