@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-17 00:55+0000\n"
-"Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
+"PO-Revision-Date: 2022-11-22 18:47+0000\n"
+"Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
 "Language: ru\n"
@@ -1807,11 +1807,11 @@ msgstr "Стили"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Sub Script"
-msgstr "Подстрочный"
+msgstr "жолма жол"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
 msgid "Super Script"
-msgstr "Надстрочный"
+msgstr "суперскрипт"
 
 #: jamovi/client/main/resultspanel.js:717
 msgid "SVG Image {ext}"
