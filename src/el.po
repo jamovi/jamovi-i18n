@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Deleted User <noreply+52638@weblate.org>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
 "Language: el\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1019,14 +1019,14 @@ msgstr "Μεγαλύτερο ή ίσο με"
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
 msgstr ""
-"Εννοείται μια σειρά από πράσινα χρώματα που χρησιμοποιούνται σε διαγράμματα "
-"(π.χ. για γραμμές ή ράβδους)"
+"Εννοείται μια σειρά από πράσινα χρώματα που χρησιμοποιούνται σε διαγράμματα ("
+"π.χ. για γραμμές ή ράβδους)"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
 msgstr ""
-"Εννοείται μια σειρά γκριζωπών χρωμάτων που χρησιμοποιούνται σε διαγράμματα "
-"(π.χ. για γραμμές ή ράβδους)"
+"Εννοείται μια σειρά γκριζωπών χρωμάτων που χρησιμοποιούνται σε διαγράμματα ("
+"π.χ. για γραμμές ή ράβδους)"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1128,7 +1128,8 @@ msgstr "αν"
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 #, fuzzy
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "Εάν η έκφραση επιλύσει true, χρησιμοποιήστε την τιμή, διαφορετικά την άλλη."
+msgstr ""
+"Εάν η έκφραση επιλύσει true, χρησιμοποιήστε την τιμή, διαφορετικά την άλλη."
 
 #: jamovi/client/resultsview/image.js:54
 #, fuzzy
@@ -1218,7 +1219,8 @@ msgstr ""
 #: jamovi/client/main/store/pagemodules.js:115
 #, fuzzy
 msgid "Installing modules is not available on your plan"
-msgstr "Η εγκατάσταση λειτουργικών μονάδων δεν είναι διαθέσιμη στο πρόγραμμά σας"
+msgstr ""
+"Η εγκατάσταση λειτουργικών μονάδων δεν είναι διαθέσιμη στο πρόγραμμά σας"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #, fuzzy
