@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-21 17:47+0000\n"
+"PO-Revision-Date: 2022-11-22 18:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -1823,36 +1823,38 @@ msgstr "арнайы импорт"
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr ""
+"мәтінді бөлгіш негізінде бөліктерге бөледі. <i>дана</i> қажетті бөлікті "
+"индекс бойынша нақтылайды."
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "SPS файлдары {ext}"
 
 #: jamovi/client/main/backstage.js:1146
 #: jamovi/client/main/backstage.js:1168
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "SPSS сақтау {ext}"
 
 #: jamovi/client/main/backstage.js:1150
 #: jamovi/client/main/backstage.js:1172
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:1097
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "стата файлдары {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr ""
+msgstr "статистикалық"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 msgid "Strike"
-msgstr ""
+msgstr "сызып тастау"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Styles"
-msgstr ""
+msgstr "стильдер"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Sub Script"
@@ -1864,73 +1866,75 @@ msgstr ""
 
 #: jamovi/client/main/resultspanel.js:723
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "SVG кескіні {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
-msgstr ""
+msgstr "cинтаксис"
 
 #: jamovi/client/main/ribbon/appmenu.js:90
 msgid "Syntax mode"
-msgstr ""
+msgstr "cинтаксис режимі"
 
 #: jamovi/client/main/ribbon/appmenu.js:215
 msgid "System default"
-msgstr ""
+msgstr "жүйе әдепкі"
 
 #: jamovi/client/resultsview/table.js:171
 msgid "Table"
-msgstr ""
+msgstr "кесте"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Text"
-msgstr ""
+msgstr "мәтін"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Text Color"
-msgstr ""
+msgstr "мәтін түсі"
 
 #: jamovi/client/main/resultspanel.js:688
 #: jamovi/client/main/resultspanel.js:790
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "мазмұны алмасу буферіне көшірілді"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
+"мазмұн дайындалды және төмендегі батырмамен немесе пернетақтада <em>{k}+C</"
+"em> пернелер тіркесімін басу арқылы көшірілуі мүмкін"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "бұл түрлендіру қолданылатын айнымалының ағымдағы мәні."
 
 #: jamovi/client/main/instance.js:494
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "'{filename}' деген файл бұрыннан бар. Бұл файлды қайта жазу қажет пе?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "формула қате көрсетілген"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "берілген мәндердегі мән индексі."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "jamovi кітапханасы сеансыңыз үшін қолжетімді емес."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:123
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "{r} деңгей мәні бұрыннан қолданыста."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:135
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "деңгей мәні бос болмауы керек."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "кітапхана өшірілген"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
