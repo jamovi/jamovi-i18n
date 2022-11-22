@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-22 12:47+0000\n"
+"PO-Revision-Date: 2022-11-22 13:47+0000\n"
 "Last-Translator: Francisco J. Miguel Quesada <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -284,7 +284,7 @@ msgstr "Cel·les editades "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "Alineament Centrat"
+msgstr "Alineació central"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -365,7 +365,7 @@ msgstr "Confirmar la desinstalació"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr "Ha fallat la connexió"
+msgstr "Error de connexió"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
