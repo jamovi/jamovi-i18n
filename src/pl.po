@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-14 10:47+0000\n"
+"PO-Revision-Date: 2022-11-23 10:47+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -341,7 +341,7 @@ msgstr "Obliczono"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "Zmienna obliczona"
+msgstr "Zmienna wynikowa"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -350,9 +350,9 @@ msgstr "Zmienna obliczona"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "Zmienna obliczona"
-msgstr[1] "Zmienne obliczone"
-msgstr[2] "Zmiennych obliczonych"
+msgstr[0] "Zmienna wynikowa"
+msgstr[1] "Zmienne wynikowe"
+msgstr[2] "Zmiennych wynikowych"
 
 #: jamovi/client/main/instance.js:421
 msgid "Confirm overwite"
@@ -1268,7 +1268,7 @@ msgstr "Nowy"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "Nowa zmienna obliczona"
+msgstr "Nowa zmienna wynikowa"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
