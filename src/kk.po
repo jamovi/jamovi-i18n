@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
+"Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
 "Language: kk\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1967,8 +1967,8 @@ msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
-"мазмұн дайындалды және төмендегі батырмамен немесе пернетақтада "
-"<em>{k}+C</em> пернелер тіркесімін басу арқылы көшірілуі мүмкін"
+"мазмұн дайындалды және төмендегі батырмамен немесе пернетақтада <em>{k}+C</"
+"em> пернелер тіркесімін басу арқылы көшірілуі мүмкін"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
@@ -2033,7 +2033,8 @@ msgstr "индекс бойынша берілген мәндердегі мән
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr "бұл талдау ағымдағы уақыт шегінен асып кетті және сол себептен тоқтатылды."
+msgstr ""
+"бұл талдау ағымдағы уақыт шегінен асып кетті және сол себептен тоқтатылды."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
