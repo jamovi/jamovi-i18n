@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-22 18:47+0000\n"
+"PO-Revision-Date: 2022-11-23 01:49+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -1938,36 +1938,37 @@ msgstr "кітапхана өшірілген"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "бұл талдауға арналған модуль орнатылмаған немесе қол жетімсіз"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "таңдалған түрлендіру қате болып табылады және оны өңдеу керек."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "индекс бойынша берілген мәндердегі мән."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
 msgstr ""
+"бұл талдау ағымдағы уақыт шегінен асып кетті және сол себептен тоқтатылды."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "ресурстардың шегіне соғуына байланысты, бұл талдау тоқтатылды"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "бұл деректер жинағы енді қолжетімді емес"
 
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
-msgstr ""
+msgstr "бұл құрылғы"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
-msgstr ""
+msgstr "бұл деректер айнымалысы."
 
 #: jamovi/client/main/backstage.js:1255
 #: jamovi/client/main/backstage.js:1398
@@ -1975,29 +1976,29 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1447
 #: jamovi/client/main/backstage.js:1456
 msgid "This PC"
-msgstr ""
+msgstr "бұл ДК"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "бұл сеанс {} бағандарымен шектеледі"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "бұл сеанс {} қатармен шектелген"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "бұл сессия енді кез келген сәтте аяқталады"
 
 #: jamovi/client/main/notification.js:35
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "бұл сеанс шамамен {} минуттан кейін аяқталады"
 
 #: jamovi/client/main/notification.js:37
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "бұл сеанс шамамен 1 минутта аяқталады"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:39
 msgid "This transform is in error and should be edited."
