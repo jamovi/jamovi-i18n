@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-30 15:47+0000\n"
+"PO-Revision-Date: 2022-11-30 16:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' қатесі"
+msgstr "'{}' қателіктен"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -56,7 +56,7 @@ msgstr "{n} оң бүтін сан емес"
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} мс"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -137,14 +137,12 @@ msgid "All {n} way"
 msgstr "барлық {n} жолы"
 
 #: jamovi/client/main/backstage.js:550
-#, fuzzy
 msgid "An online data set hosted by {hostname}"
 msgstr "онлайн деректер жинағы {hostname} арқылы орналастырылған"
 
 #: jamovi/client/main/main.js:142
-#, fuzzy
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr "Күтпеген қате орын алды, сондықтан  jamovi жабылуы керек."
+msgstr "Күтпеген қате орын алды, сондықтан jamovi жабылуы керек."
 
 #: jamovi/client/main/ribbon/appmenu.js:139
 msgid "An update is available"
@@ -180,7 +178,6 @@ msgstr "және"
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:39
-#, fuzzy
 msgid "Append"
 msgstr "қосу, байланыстыру"
 
@@ -198,9 +195,8 @@ msgid "Apply changes"
 msgstr "Өзгертулерді қолдану"
 
 #: jamovi/client/main/notification.js:82
-#, fuzzy
 msgid "Approaching plan time limit"
-msgstr "Жоспардың уақыт шегіне жақындау"
+msgstr "жоспарланған уақыт шегіне жақындау"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
@@ -229,9 +225,8 @@ msgid "Available"
 msgstr "Қол жетімді"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-#, fuzzy
 msgid "Bad function definition"
-msgstr "Нашар функция анықтамасы"
+msgstr "нашар функция анықтамасы"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Black & white"
@@ -331,7 +326,6 @@ msgstr "түстер палитрасы"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
-#, fuzzy
 msgid "Column '{}' does not exist in the dataset"
 msgstr "'{}' бағаны деректер жиынында жоқ"
 
@@ -387,11 +381,11 @@ msgstr "үздіксіз"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "ABS(IQR( айнымалы)) үшін ыңғайлы қысқа нұсқасы"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "ABS(IQR( айнымалы)) үшін ыңғайлы қысқа нұсқасы"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
@@ -471,7 +465,6 @@ msgstr "жаңа түрлендіру жасау..."
 #: jamovi/client/main/backstage.js:1091
 #: jamovi/client/main/backstage.js:1142
 #: jamovi/client/main/backstage.js:1164
-#, fuzzy
 msgid "CSV (Comma delimited) {ext}"
 msgstr "CSV (үтірмен бөлінген) {ext}"
 
@@ -484,7 +477,7 @@ msgstr "кесу"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Dark2"
-msgstr ""
+msgstr "қараңғы2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:12
@@ -521,7 +514,6 @@ msgstr "ондық бөлшек"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
-#, fuzzy
 msgid "decimal places"
 msgstr "ондық бөлшектер"
 
@@ -531,7 +523,7 @@ msgstr "Әдепкі"
 
 #: jamovi/client/main/ribbon/appmenu.js:117
 msgid "Default missings"
-msgstr ""
+msgstr "әдепкі бойынша алынып тасталды"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/datatab.js:66
@@ -592,7 +584,6 @@ msgid "Desktop"
 msgstr "жұмыс үстелі"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-#, fuzzy
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
 "Элементтердің кез келгенінің in1, in2, in3, ... ішінде пайда болуын "
@@ -600,9 +591,8 @@ msgstr ""
 "жай ғана <strong>CONTAINS(ине, шөп) пайдалануға болады."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
-#, fuzzy
 msgid "Developer mode"
-msgstr "Әзірлеуші режімі"
+msgstr "әзірлеуші режімі"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
@@ -629,7 +619,6 @@ msgid "Downloads"
 msgstr "жүктеулер"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-#, fuzzy
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
 "Айнымалыдан n таңдауын жасайды. яғни SAMPLE(var, 20), яғни. SAMPLE(1, 20), "
@@ -671,9 +660,8 @@ msgid "Edit"
 msgstr "өңдеу"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
-#, fuzzy
 msgid "Edit transform"
-msgstr "Түрлендіруді өңдеу"
+msgstr "түрлендіруді өңдеу"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:126
 #: jamovi/client/main/contextmenu/contextmenus.js:141
@@ -696,31 +684,26 @@ msgstr "Сипаттаманы енгізу"
 
 #: jamovi/client/main/backstage.js:331
 #: jamovi/client/main/backstage.js:368
-#, fuzzy
 msgid "Enter file name here"
-msgstr "Файл атауын мына жерге енгізіңіз"
+msgstr "файл атауын мына жерге енгізіңіз"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
 msgid "Enter label..."
 msgstr "Белгіні енгізіңіз..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
-#, fuzzy
 msgid "Enter level value"
-msgstr "Деңгей мәнін енгізіңіз"
+msgstr "деңгей мәнін енгізіңіз"
 
 #: jamovi/client/main/variablesview.js:132
-#, fuzzy
 msgid "Enter name"
-msgstr "Атын енгізіңіз"
+msgstr "атын енгізіңіз"
 
 #: jamovi/client/resultsview/annotation.js:148
-#, fuzzy
 msgid "Enter your URL here"
 msgstr "URL мекенжайыңызды осы жерге енгізіңіз"
 
 #: jamovi/client/main/resultspanel.js:724
-#, fuzzy
 msgid "EPS Image {ext}"
 msgstr "EPS кескіні {ext}"
 
@@ -767,7 +750,7 @@ msgstr "Файл"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr ""
+msgstr "файл форматы оқылмайды"
 
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
@@ -778,9 +761,8 @@ msgid "File is corrupt"
 msgstr "бүлінген файл"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
-#, fuzzy
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr "Файл бүлінген (манифест бүлінген немесе жоқ)"
+msgstr "файл бүлінген (манифест бүлінген немесе жоқ)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
@@ -901,7 +883,7 @@ msgstr "Сұр"
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:70
 msgid "Group"
-msgstr "Топ"
+msgstr "топ"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:107
@@ -996,7 +978,6 @@ msgid "Import successful"
 msgstr "импорттау сәтті өтті"
 
 #: jamovi/client/main/vareditor/editorwidget.js:42
-#, fuzzy
 msgid "Imported as"
 msgstr "ретінде импортталған"
 
@@ -1010,7 +991,6 @@ msgstr "даму үстінде"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
-#, fuzzy
 msgid "inactive"
 msgstr "белсенді емес"
 
@@ -1019,7 +999,6 @@ msgid "Indent -1"
 msgstr "шегініс -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
-#, fuzzy
 msgid "Indent +1"
 msgstr "+1 шегініс"
 
@@ -1071,7 +1050,6 @@ msgid "Installing modules is not available on your plan"
 msgstr "модульдерді орнату сіздің тарифтік жоспарыңызда жоқ"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
-#, fuzzy
 msgid "Integer"
 msgstr "бүтін сан"
 
@@ -1352,7 +1330,6 @@ msgid "OK"
 msgstr "ок"
 
 #: jamovi/client/main/main.js:445
-#, fuzzy
 msgid ""
 "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
@@ -1556,10 +1533,9 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "fйнымалының Box Cox түрлендіруін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-#, fuzzy
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
-"шектен тыс көрсеткіштер   Айнымалы мәннің IQR сәйкес шектен тыс мән екенін "
+"шектен тыс көрсеткіштер Айнымалы мәннің IQR сәйкес шектен тыс мән екенін "
 "қайтарады: егер мән Boxplot жолағында болса, 0 қайтарылады, 1,5-тен жоғары "
 "абсолютті мәндер мұрттардың сыртында болады."
 
@@ -1691,7 +1667,6 @@ msgstr "қатарлар"
 
 #: jamovi/client/main/backstage.js:1148
 #: jamovi/client/main/backstage.js:1170
-#, fuzzy
 msgid "SAS 7bdat {ext}"
 msgstr "SAS 7bdat {ext}"
 
@@ -1701,7 +1676,6 @@ msgstr "SAS файлдары {ext}"
 
 #: jamovi/client/main/backstage.js:1149
 #: jamovi/client/main/backstage.js:1171
-#, fuzzy
 msgid "SAS xpt {ext}"
 msgstr "SAS xpt {ext}"
 
@@ -1800,7 +1774,6 @@ msgstr "үшінші тарап жүктеулері"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
-#, fuzzy
 msgid "significant figures"
 msgstr "маңызды сандар"
 
@@ -1854,11 +1827,11 @@ msgstr "стильдер"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Sub Script"
-msgstr ""
+msgstr "ішкі скрипт"
 
 #: jamovi/client/main/ribbon/annotationtab.js:120
 msgid "Super Script"
-msgstr ""
+msgstr "супер скрипт"
 
 #: jamovi/client/main/resultspanel.js:723
 msgid "SVG Image {ext}"
