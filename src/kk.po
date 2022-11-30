@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-23 05:48+0000\n"
+"PO-Revision-Date: 2022-11-30 15:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -12,9 +12,8 @@ msgstr ""
 "X-Generator: Weblate 4.15-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
-#, fuzzy
 msgid "'{}' is in error"
-msgstr "'{}' қате"
+msgstr "'{}' қатесі"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -47,7 +46,7 @@ msgstr "{m} сәтті жойылды"
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "{n} dp"
-msgstr ""
+msgstr "{n} об"
 
 #: jamovi/client/main/viewcontroller.js:598
 #: jamovi/client/main/viewcontroller.js:639
@@ -64,9 +63,8 @@ msgid "{r} is not an integer"
 msgstr "{r} — бүтін сан емес"
 
 #: jamovi/client/main/ribbon/appmenu.js:268
-#, fuzzy
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Тілді өзгерту jamovi дің қайта іске қосылуын талап етеді"
+msgstr "тілді өзгерту jamovi дің қайта іске қосылуын талап етеді"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -74,7 +72,7 @@ msgstr "Jamovi жаңа нұсқасы қажет"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Accent"
-msgstr ""
+msgstr "акценттелген"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
@@ -104,7 +102,6 @@ msgid "Add Missing Value"
 msgstr "жетіспейтін мәнді қосыңыз"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
-#, fuzzy
 msgid "Add new filter"
 msgstr "жаңа сүзгі қосу"
 
@@ -293,7 +290,7 @@ msgstr "Ұяшықтар өңделді "
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Center Align"
-msgstr "Ортаға туралау"
+msgstr "ортаға туралау"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:92
 msgid "change label..."
@@ -733,7 +730,7 @@ msgstr "Тең"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
-msgstr "Қате"
+msgstr "қате"
 
 #: jamovi/client/main/backstage.js:1094
 msgid "Excel {ext}"
@@ -1240,7 +1237,6 @@ msgid "Missing values"
 msgstr "жоқ мәндер"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
-#, fuzzy
 msgid "Missing Values"
 msgstr "жоқ мәндер"
 
