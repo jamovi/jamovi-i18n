@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-30 16:48+0000\n"
+"PO-Revision-Date: 2022-12-01 10:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' қателіктен"
+msgstr "'{}' қатесінде"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
