@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2022-10-11 02:30+0000\n"
+"PO-Revision-Date: 2022-12-03 14:48+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.15-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -224,7 +224,7 @@ msgstr "自动安装更新"
 
 #: jamovi/client/main/store.js:36
 msgid "Available"
-msgstr "可用语言"
+msgstr "可用"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
