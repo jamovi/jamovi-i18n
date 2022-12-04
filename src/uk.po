@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-04 01:48+0000\n"
+"PO-Revision-Date: 2022-12-04 14:48+0000\n"
 "Last-Translator: Dan <denqwerta@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -367,7 +367,7 @@ msgstr "Підтвердити видалення"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr "Помилка подключения"
+msgstr "Підключення не вдалося"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
@@ -1231,7 +1231,7 @@ msgstr "Відсутні значення"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Відсутні значення"
+msgstr "Пропущені значення"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
