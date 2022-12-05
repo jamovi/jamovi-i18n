@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-23 11:47+0000\n"
+"PO-Revision-Date: 2022-12-05 21:47+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -38,7 +38,7 @@ msgstr "(Jest to dziwactwo Safari i iPadów)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr "{columnType} kolumn nie można edytować."
+msgstr "Zmienna {columnType} nie może być edytowana."
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -337,7 +337,7 @@ msgstr "Oblicz"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr "Obliczono"
+msgstr "wynikowa"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
@@ -450,7 +450,7 @@ msgstr "Nie można zmodyfikować kolumn"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr "Nie można zmodyfikować kolumny przekształconej"
+msgstr "Nie można zmodyfikować zmiennej przekształconej"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
@@ -2025,7 +2025,7 @@ msgstr "Przekształć..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
-msgstr "Przekształcone"
+msgstr "przekształcona"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
