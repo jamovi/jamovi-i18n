@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-23 13:07+0000\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -640,8 +640,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Losuje próbę n ze zmiennej, tj. SAMPLE(var,20), SAMPLE(1, 20), "
-"SAMLE('training', 20, 'test')"
+"Losuje próbę n ze zmiennej, tj. SAMPLE(var,20), SAMPLE(1, 20), SAMLE("
+"'training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -1144,8 +1144,8 @@ msgid ""
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 msgstr ""
-"jamovi jest już dostępne w języku { polskim }! Serdeczne podziękowania dla "
-"@{ Tomasz_Misiuro }"
+"jamovi jest już dostępne w języku { polskim }! Serdeczne podziękowania dla @{"
+" Tomasz_Misiuro }"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
