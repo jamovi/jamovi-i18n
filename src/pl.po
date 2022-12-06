@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-05 21:47+0000\n"
+"PO-Revision-Date: 2022-12-06 22:47+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -262,7 +262,7 @@ msgstr "Nie można przypisać wartości nienumerycznej do kolumny „{columnName
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr "Nie można przypisać do kolumny wynikowej '{}'"
+msgstr "Nie można przypisać do kolumny wyliczonej '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
@@ -337,11 +337,11 @@ msgstr "Oblicz"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr "wynikowa"
+msgstr "wyliczona"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "Zmienna wynikowa"
+msgstr "Zmienna wyliczona"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -350,9 +350,9 @@ msgstr "Zmienna wynikowa"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "Zmienna wynikowa"
-msgstr[1] "Zmienne wynikowe"
-msgstr[2] "Zmiennych wynikowych"
+msgstr[0] "Zmienna wyliczona"
+msgstr[1] "Zmienne wyliczone"
+msgstr[2] "Zmiennych wyliczonych"
 
 #: jamovi/client/main/instance.js:421
 msgid "Confirm overwite"
@@ -1268,7 +1268,7 @@ msgstr "Nowy"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "Nowa zmienna wynikowa"
+msgstr "Nowa zmienna wyliczona"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
