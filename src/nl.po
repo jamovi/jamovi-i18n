@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-07 10:48+0000\n"
+"PO-Revision-Date: 2022-12-07 13:48+0000\n"
 "Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
@@ -13,13 +13,15 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "Fout bij '{}'"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
+"'{}' is geen argument voor {}()\n"
+"(Gebruik twee gelijktekens '==' om op gelijkwaardigheid wilt controleren)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -31,15 +33,15 @@ msgstr "(huidig)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Dit is een eigenaardigheid van Safari en iPads)"
 
 #: jamovi/client/main/tableview.js:1403
 msgid "{columnType} columns may not be edited."
-msgstr ""
+msgstr "Kan {columnType}-kolommen niet bewerken."
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "{m} geïnstalleerd"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
@@ -49,7 +51,7 @@ msgstr "{n} decimalen"
 #: jamovi/client/main/viewcontroller.js:598
 #: jamovi/client/main/viewcontroller.js:639
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} is geen positief geheel getal"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
@@ -58,15 +60,15 @@ msgstr "{n} significante cijfers"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} is geen geheel getal"
 
 #: jamovi/client/main/ribbon/appmenu.js:268
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "Na het wijzigen van de taal moet jamovi opnieuw worden gestart"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "Een nieuwere versie van jamovi is vereist"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Accent"
@@ -75,6 +77,8 @@ msgstr "Accentkleur"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
+"Toegang geweigerd. U hebt mogelijk niet de juiste machtigingen om toegang te "
+"krijgen tot deze bron."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -91,19 +95,19 @@ msgstr "Toevoegen"
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr ""
+msgstr "Nog een filter toevoegen"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "Ontbrekende waarde toevoegen"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
-msgstr ""
+msgstr "Nieuwe filter"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:44
 msgid "Add new level"
-msgstr ""
+msgstr "Nieuw niveau"
 
 #: jamovi/client/resultsview/element.js:132
 msgid "Add Note"
@@ -111,7 +115,7 @@ msgstr "Opmerking toevoegen"
 
 #: jamovi/client/main/editors/transformeditor.js:144
 msgid "Add recode condition"
-msgstr ""
+msgstr "Herprogrammeringsvoorwaarde toevoegen"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
@@ -130,19 +134,19 @@ msgstr "Alle"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
 #: jamovi/client/analysisui/gridtargetcontrol.js:1033
 msgid "All {n} way"
-msgstr ""
+msgstr "Alle {n} manieren"
 
 #: jamovi/client/main/backstage.js:550
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "Een online dataset gehost door {hostname}"
 
 #: jamovi/client/main/main.js:142
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden waardoor jamovi moet afsluiten."
 
 #: jamovi/client/main/ribbon/appmenu.js:139
 msgid "An update is available"
-msgstr ""
+msgstr "Er is een update beschikbaar"
 
 #: jamovi/client/main/ribbon/analysetab.js:13
 #: jamovi/client/main/ribbon/analysetab.js:95
@@ -152,6 +156,7 @@ msgstr "Analyses"
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
 msgstr ""
+"Analyses die arbitraire code uitvoeren worden in deze sessie niet toegestaan."
 
 #: jamovi/client/resultsview/main.js:122
 msgid "Analysis"
@@ -179,7 +184,7 @@ msgstr "Toevoegen"
 
 #: jamovi/client/main/viewcontroller.js:632
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Hoeveel rijen toevoegen?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -192,7 +197,7 @@ msgstr "Wijzigingen toepassen"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Plantijd loopt bijna af"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
@@ -213,7 +218,7 @@ msgstr "Automatisch"
 
 #: jamovi/client/main/ribbon/appmenu.js:151
 msgid "Automatically install updates"
-msgstr ""
+msgstr "Updates automatisch installeren"
 
 #: jamovi/client/main/ribbon/appmenu.js:212
 #: jamovi/client/main/store.js:51
@@ -222,11 +227,11 @@ msgstr "Beschikbaar"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "Ongeldige functiedefinitie"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Black & white"
-msgstr ""
+msgstr "Zwart-wit"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Blues"
@@ -251,27 +256,27 @@ msgstr "Annuleren"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "Kan geen niet-numerieke waarde toewijzen aan kolom '{}'"
 
 #: jamovi/client/main/tableview.js:1466
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "Kan geen niet-numerieke waarde toewijzen aan kolom '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "Kan niet toewijzen aan kolom '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "Kan niet toewijzen aan filterkolom '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "Kan niet toewijzen aan geherprogrammeerde kolom '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "Kan niet toewijzen aan deze kolommen."
 
 #: jamovi/client/main/tableview.js:95
 msgid "Cells edited "
@@ -291,11 +296,11 @@ msgstr "Opnieuw controleren"
 
 #: jamovi/client/main/ribbon/appmenu.js:137
 msgid "Checking for updates"
-msgstr ""
+msgstr "Op updates controleren"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr ""
+msgstr "Cirkelverwijzing gedetecteerd"
 
 #: jamovi/client/main/resultspanel.js:444
 msgid "Clear selection"
@@ -321,11 +326,11 @@ msgstr "Kleurenpalet"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "Kolom '{}' bestaat niet in de dataset"
 
 #: jamovi/client/main/tableview.js:1402
 msgid "Column is not editable"
-msgstr ""
+msgstr "Kan kolom niet bewerken"
 
 #: jamovi/client/main/ribbon/datatab.js:32
 #: jamovi/client/main/ribbon/variablestab.js:23
@@ -375,31 +380,31 @@ msgstr "Continu"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Verkorting voor ABS(IQR( variabele))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "Verkorting voor ABS(Z( variabele ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Verkorting voor MAX(ABSIQR( variabele 1, variabele 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Verkorting voor MAX(ABSZ( variabele 1, variabele 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "Zet een getal om in een geheel getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "Zet tekst om in een getal (indien mogelijk)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Converts the value to text."
-msgstr ""
+msgstr "Zet de waarde om in tekst."
 
 #: jamovi/client/main/resultspanel.js:687
 #: jamovi/client/main/resultspanel.js:789
@@ -426,41 +431,41 @@ msgstr "Kopiëren"
 #: jamovi/client/main/tableview.js:1465
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "Kan gegevens niet toewijzen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "Kan rijen niet verwijderen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "Kan kolommen niet toevoegen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "Kan rijen niet toevoegen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "Kan kolommen niet bewerken"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "Kan transformatie niet aanpassen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "Kan bewerking niet uitvoeren"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "Nieuwe transformatie..."
 
 #: jamovi/client/main/backstage.js:1091
 #: jamovi/client/main/backstage.js:1142
 #: jamovi/client/main/backstage.js:1164
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (kommagescheiden bestand) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -517,7 +522,7 @@ msgstr "Standaard"
 
 #: jamovi/client/main/ribbon/appmenu.js:117
 msgid "Default missings"
-msgstr ""
+msgstr "Standaard ontbrekende waarden"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/datatab.js:66
@@ -528,8 +533,8 @@ msgstr "Verwijderen"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Kolom '{columnName}' verwijderen?"
+msgstr[1] "{n} kolommen verwijderen?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
@@ -544,8 +549,8 @@ msgstr "Rij verwijderen"
 #: jamovi/client/main/viewcontroller.js:323
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Rij {index} verwijderen?"
+msgstr[1] "{n} rijen verwijderen?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
@@ -580,6 +585,9 @@ msgstr "Bureaublad"
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"Bepaalt of items voorkomen in in1, in2, in3, .... Merk op dat de meeste "
+"argumenten optioneel zijn -- het is mogelijk om simpelweg <strong>CONTAINS("
+"naald, hooiberg)</strong> te gebruiken."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"
@@ -612,22 +620,24 @@ msgstr "Downloads"
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"Neemt een steekproef met lengte n af bij de variabele. Bijv: SAMPLE(var, 20) "
+"of SAMPLE(1, 20) of SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "Neemt een steekproef af bij een Beta-distributie."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "Neemt een steekproef af bij een Gamma-distributie."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Neemt een steekproef af bij een (gaussische) normaalverdeling."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Neemt een steekproef af bij een uniforme verdeling."
 
 #: jamovi/client/resultsview/group.js:212
 msgid "Duplicate"
@@ -669,32 +679,32 @@ msgstr "Inschakelen"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
-msgstr "Beschrijving invoeren"
+msgstr "Beschrijving opgeven"
 
 #: jamovi/client/main/backstage.js:331
 #: jamovi/client/main/backstage.js:368
 msgid "Enter file name here"
-msgstr ""
+msgstr "Bestandsnaam opgeven"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
 msgid "Enter label..."
-msgstr "Label invoeren..."
+msgstr "Label opgeven..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
 msgid "Enter level value"
-msgstr ""
+msgstr "Niveauwaarde opgeven"
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
-msgstr "Naam invoeren"
+msgstr "Naam opgeven"
 
 #: jamovi/client/resultsview/annotation.js:148
 msgid "Enter your URL here"
-msgstr ""
+msgstr "URL opgeven"
 
 #: jamovi/client/main/resultspanel.js:724
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "EPS-afbeelding {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
@@ -731,7 +741,7 @@ msgstr "Geëxporteerd"
 
 #: jamovi/client/main/instance.js:466
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "Geëxporteerd naar '{filename}'"
 
 #: jamovi/client/main/main.js:183
 msgid "File"
@@ -739,7 +749,7 @@ msgstr "Bestand"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr ""
+msgstr "Bestandsindeling wordt niet ondersteund"
 
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
@@ -747,19 +757,19 @@ msgstr "Bestand geïmporteerd"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
-msgstr ""
+msgstr "Bestand is beschadigd"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "Bestand is beschadigd (manifest is beschadigd of ontbreekt)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "Bestand is beschadigd (manifest is beschadigd)"
 
 #: jamovi/client/main/instance.js:501
 msgid "File save failed."
-msgstr ""
+msgstr "Opslaan mislukt."
 
 #: jamovi/client/main/instance.js:479
 msgid "File Saved"
@@ -780,11 +790,11 @@ msgstr "{i} filteren"
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
 msgid "Filter is active"
-msgstr ""
+msgstr "Filter actief"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
 msgid "Filter is inactive"
-msgstr ""
+msgstr "Filter niet actief"
 
 #: jamovi/client/main/tableview.js:98
 msgid "Filtered"
@@ -801,15 +811,15 @@ msgstr "Filters"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "Filtert een variabele middels de filteruitdrukking."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
+msgstr "Filters kunnen niet verwijzen naar kolommen met 'V' of kolomfuncties"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "Filters kunnen niet verwijzen naar uitvoersvariabelen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:111
 msgid "Font"
@@ -822,28 +832,30 @@ msgstr "Formule"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "Formule bevat ongeldige node"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr ""
+"Formule is onjuist gespecificeerd (Gebruik twee gelijktekens '==' als u op "
+"gelijkwaardigheid wilt controleren)"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "Functie {}() bestaat niet"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "Functie {}() vereist tenminste {} argument{}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "Functie {}() vereist tussen de {} en {} argumenten"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "Functie {}() accepteert {} argument{}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
 msgid "Functions"
@@ -855,7 +867,7 @@ msgstr "Groter dan"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Groter dan of gelijk aan"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Greens"
@@ -899,7 +911,7 @@ msgstr "Verbergen"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Filterkolommen verbergen"
 
 #: jamovi/client/main/store.js:29
 msgid "Hide library"
@@ -911,11 +923,11 @@ msgstr "Opties verwijderen"
 
 #: jamovi/client/main/ribbon/appmenu.js:46
 msgid "Hide settings"
-msgstr ""
+msgstr "Instellingen verbergen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Highlight Color"
-msgstr ""
+msgstr "Arceringskleur"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
@@ -928,8 +940,9 @@ msgstr "HTML"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:107
+#, fuzzy
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "I ♥ SPSS"
 
 #: jamovi/client/main/editors/transformeditor.js:250
 #: jamovi/client/main/vareditor/datavarwidget.js:289
@@ -939,7 +952,7 @@ msgstr "ID"
 
 #: jamovi/client/main/notification.js:74
 msgid "Idle session"
-msgstr ""
+msgstr "Inactieve sessie"
 
 #: jamovi/client/main/editors/transformeditor.js:376
 msgid "if"
@@ -948,6 +961,8 @@ msgstr "als"
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
+"Gebruikt de waarde als de oplossing van de uitdrukking 'waar' is. Gebruikt "
+"anders de andere uitdrukking."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -960,11 +975,11 @@ msgstr "Importeren"
 
 #: jamovi/client/main/instance.js:134
 msgid "Import successful"
-msgstr ""
+msgstr "Importeren voltooid"
 
 #: jamovi/client/main/vareditor/editorwidget.js:42
 msgid "Imported as"
-msgstr ""
+msgstr "Geïmporteerd als"
 
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
@@ -972,7 +987,7 @@ msgstr "Geïmporteerd"
 
 #: jamovi/client/main/ribbon/appmenu.js:207
 msgid "In development"
-msgstr ""
+msgstr "In ontwikkeling"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
@@ -981,11 +996,11 @@ msgstr "inactief"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Indent -1"
-msgstr ""
+msgstr "Inspringing verkleinen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Indent +1"
-msgstr ""
+msgstr "Inspringing vergroten"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -1006,12 +1021,12 @@ msgstr "Invoegen"
 
 #: jamovi/client/main/viewcontroller.js:591
 msgid "Insert how many rows?"
-msgstr ""
+msgstr "Hoeveel rijen invoegen?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
-msgstr ""
+msgstr "Rij invoegen..."
 
 #: jamovi/client/main/store/pagemodules.js:199
 msgid "Install"
@@ -1024,15 +1039,15 @@ msgstr "Geïnstalleerd"
 
 #: jamovi/client/main/ribbon/analysetab.js:117
 msgid "Installed Modules"
-msgstr ""
+msgstr "Geïnstalleerde modules"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version is incompatible"
-msgstr ""
+msgstr "Geïnstalleerde versie is niet compatibel"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Het installeren van modules is niet beschikbaar met uw abonnement"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Integer"
@@ -1048,13 +1063,13 @@ msgstr "Interacties"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Inverts the value."
-msgstr ""
+msgstr "Keert de waarde om."
 
 #: jamovi/client/main/tableview.js:540
 #: jamovi/client/main/tableview.js:579
 #: jamovi/client/main/tableview.js:634
 msgid "Issue with formula"
-msgstr ""
+msgstr "Probleem met formule"
 
 #: jamovi/client/main/ribbon/annotationtab.js:114
 msgid "Italic"
@@ -1063,11 +1078,11 @@ msgstr "Cursief"
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1130
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "jamovi-bestand {ext}"
 
 #: jamovi/client/main/backstage.js:1089
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "jamovi-bestanden {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
@@ -1079,32 +1094,32 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "jamovi is up-to-date"
-msgstr ""
+msgstr "jamovi is up-to-date"
 
 #: jamovi/client/main/ribbon/analysetab.js:115
 msgid "jamovi library"
-msgstr ""
+msgstr "jamovi-bibliotheek"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
-msgstr ""
+msgstr "jamovi-modules"
 
 #: jamovi/client/main/backstage.js:1141
 #: jamovi/client/main/backstage.js:1163
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "jamovi-sjabloon {ext}"
 
 #: jamovi/client/main/backstage.js:1090
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "jamovi-sjablonen {ext}"
 
 #: jamovi/client/main/backstage.js:1099
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "JASP-bestanden {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON-bestanden {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:132
 msgid "Justify"
@@ -1112,7 +1127,7 @@ msgstr "Uitvullen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "Trefwoord: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:160
 msgid "Language"
@@ -1122,15 +1137,15 @@ msgstr "Taal"
 #: jamovi/client/main/backstage.js:1165
 #: jamovi/client/main/resultspanel.js:754
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "LaTeX-bundel {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:129
 msgid "Left Align"
-msgstr ""
+msgstr "Links uitlijnen"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr ""
+msgstr "Minder dan"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
@@ -1141,11 +1156,11 @@ msgstr ""
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
 msgid "Level {0}"
-msgstr ""
+msgstr "Niveau {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:194
 msgid "Level value"
-msgstr ""
+msgstr "Niveauwaarde"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
@@ -1166,11 +1181,11 @@ msgstr "Logisch"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1029
 msgid "Main Effects"
-msgstr ""
+msgstr "Hoofdeffecten"
 
 #: jamovi/client/main/ribbon/analysetab.js:116
 msgid "Manage installed"
-msgstr ""
+msgstr "Geïnstalleerde modules beheren"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
@@ -1179,7 +1194,7 @@ msgstr "Wiskunde"
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
 msgid "Measure type"
-msgstr ""
+msgstr "Meettype"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Minimal"
@@ -1191,23 +1206,23 @@ msgstr "Divers"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
-msgstr ""
+msgstr "Ontbrekende waarden"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr ""
+msgstr "Ontbrekende waarden"
 
 #: jamovi/client/main/store/pagemodules.js:286
 msgid "Module installed"
-msgstr ""
+msgstr "Module geïnstalleerd"
 
 #: jamovi/client/main/store/pagesideload.js:46
 msgid "Module installed successfully"
-msgstr ""
+msgstr "Module geïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:311
 msgid "Module uninstalled"
-msgstr ""
+msgstr "Module gedeïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:287
 msgid "Module was installed successfully"
@@ -1219,7 +1234,7 @@ msgstr "Modules"
 
 #: jamovi/client/main/main.js:450
 msgid "More info ..."
-msgstr ""
+msgstr "Meer informatie..."
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:320
@@ -1233,23 +1248,23 @@ msgstr "Nieuw"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "Nieuwe berekende variabele"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr ""
+msgstr "Nieuwe gegevensvariabele"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr ""
+msgstr "Nieuwe getransformeerde variabele"
 
 #: jamovi/client/main/variableeditor.js:65
 msgid "Next variable"
-msgstr ""
+msgstr "Volgende variabele"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "No Color"
-msgstr ""
+msgstr "Geen kleur"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
@@ -1283,7 +1298,7 @@ msgstr "Geen"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr ""
+msgstr "Niet gelijk aan"
 
 #: jamovi/client/resultsview/main.js:117
 #: jamovi/client/resultsview/table.js:599
@@ -1292,7 +1307,7 @@ msgstr "Opmerking"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "Number format"
-msgstr ""
+msgstr "Indeling getallen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
@@ -1318,7 +1333,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:557
 msgid "Online data set"
-msgstr ""
+msgstr "Online dataset"
 
 #: jamovi/client/main/backstage.js:1304
 #: jamovi/client/main/backstage.js:1384
@@ -1341,7 +1356,7 @@ msgstr "Beheerders"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Ordered List"
-msgstr ""
+msgstr "Genummerde lijst"
 
 #: jamovi/client/main/editors/transformeditor.js:248
 #: jamovi/client/main/vareditor/datavarwidget.js:287
@@ -1356,12 +1371,12 @@ msgstr "Uitvoer"
 #: jamovi/client/main/vareditor/editorwidget.js:250
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Uitvoersvariabele"
+msgstr[1] "Uitvoersvariabelen ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "p-value format"
-msgstr ""
+msgstr "Indeling p-waarde"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Paragraph"
@@ -1383,11 +1398,11 @@ msgstr ""
 #: jamovi/client/main/resultspanel.js:721
 #: jamovi/client/main/resultspanel.js:748
 msgid "PDF Document {ext}"
-msgstr ""
+msgstr "PDF-document {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:18
 msgid "Pin level"
-msgstr ""
+msgstr "Vastmaakniveau"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
@@ -1395,7 +1410,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Plot theme"
-msgstr ""
+msgstr "Grafiekthema"
 
 #: jamovi/client/main/ribbon/appmenu.js:96
 msgid "Plots"
@@ -1403,11 +1418,11 @@ msgstr "Grafieken"
 
 #: jamovi/client/main/resultspanel.js:722
 msgid "PNG Image {ext}"
-msgstr ""
+msgstr "PNG-afbeelding {ext}"
 
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
-msgstr ""
+msgstr "Vorige variabele"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "qualitative"
@@ -1422,11 +1437,11 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1166
 #: jamovi/client/main/backstage.js:1167
 msgid "R object {ext}"
-msgstr ""
+msgstr "R-object {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
-msgstr ""
+msgstr "Rangschikt elke waarde"
 
 #: jamovi/client/main/tableview.js:100
 #: jamovi/client/main/tableview.js:1497
@@ -1436,7 +1451,7 @@ msgstr "Gereed"
 
 #: jamovi/client/main/store/pagemodules.js:303
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "{m} deïnstalleren?"
 
 #: jamovi/client/main/backstage.js:2202
 msgid "Recent"
@@ -1446,7 +1461,7 @@ msgstr "Recent"
 #: jamovi/client/main/ribbon/datatab.js:27
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Redo Edit"
-msgstr ""
+msgstr "Opnieuw bewerken"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "Reference"
@@ -1472,7 +1487,7 @@ msgstr "Verwijderen"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
-msgstr ""
+msgstr "Filter verwijderen"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
@@ -1480,11 +1495,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:142
 msgid "Restart and Install"
-msgstr ""
+msgstr "Opnieuw starten en installeren"
 
 #: jamovi/client/main/ribbon/appmenu.js:267
 msgid "Restart required"
-msgstr ""
+msgstr "Opnieuw starten vereist"
 
 #: jamovi/client/main/analyses.js:343
 #: jamovi/client/main/ribbon/appmenu.js:66
@@ -1609,11 +1624,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Right Align"
-msgstr ""
+msgstr "Rechts uitlijnen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr ""
+msgstr "Rondt elke waarde af"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
@@ -1625,11 +1640,11 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:99
 msgid "Row count"
-msgstr ""
+msgstr "Aantal rijen"
 
 #: jamovi/client/main/vareditor/editorwidget.js:252
 msgid "Row Filters"
-msgstr ""
+msgstr "Rijfilters"
 
 #: jamovi/client/main/ribbon/datatab.js:59
 #: jamovi/client/main/ribbon/variablestab.js:46
@@ -1639,16 +1654,16 @@ msgstr "Rijen"
 #: jamovi/client/main/backstage.js:1148
 #: jamovi/client/main/backstage.js:1170
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:1098
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "SAS-bestanden {ext}"
 
 #: jamovi/client/main/backstage.js:1149
 #: jamovi/client/main/backstage.js:1171
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1423
 #: jamovi/client/main/backstage.js:375
@@ -1660,7 +1675,7 @@ msgstr "Opslaan"
 #: jamovi/client/main/backstage.js:1333
 #: jamovi/client/main/backstage.js:1439
 msgid "Save As"
-msgstr ""
+msgstr "Opslaan als"
 
 #: jamovi/client/main/main.js:737
 msgid "Save changes to '{title}'?"
@@ -1668,11 +1683,11 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:511
 msgid "Save failed"
-msgstr ""
+msgstr "Opslaan mislukt"
 
 #: jamovi/client/main/instance.js:480
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "Opgeslagen naar '{filename}'"
 
 #: jamovi/client/main/instance.js:432
 msgid "Saving"
@@ -1680,7 +1695,7 @@ msgstr "Opslaan"
 
 #: jamovi/client/main/notification.js:78
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Gepland onderhoud"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
@@ -1689,11 +1704,11 @@ msgstr "Zoeken"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr ""
+msgstr "Variabelen zoeken"
 
 #: jamovi/client/main/resultspanel.js:439
 msgid "Select all"
-msgstr ""
+msgstr "Alles selecteren"
 
 #: jamovi/client/main/vareditor/editorwidget.js:82
 #: jamovi/client/main/variablesview.js:63
@@ -1723,13 +1738,13 @@ msgstr "Weergeven"
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
 msgid "Show filter columns"
-msgstr ""
+msgstr "Filterkolommen weergeven"
 
 #: jamovi/client/main/editors/transformeditor.js:655
 #: jamovi/client/main/vareditor/computedvarwidget.js:122
 #: jamovi/client/main/vareditor/filterwidget.js:413
 msgid "Show formula editor"
-msgstr ""
+msgstr "Formulebewerker weergeven"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:221
 msgid "Show in main menu"
@@ -1746,7 +1761,7 @@ msgstr "Handmatig toevoegen"
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "significant figures"
-msgstr ""
+msgstr "significante cijfers"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Simulation"
@@ -1754,11 +1769,11 @@ msgstr "Simulatie"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
-msgstr ""
+msgstr "Bronvariabele"
 
 #: jamovi/client/main/backstage.js:1404
 msgid "Special Import"
-msgstr ""
+msgstr "Speciaal importeren"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
@@ -1766,21 +1781,21 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "SPSS-bestanden {ext}"
 
 #: jamovi/client/main/backstage.js:1146
 #: jamovi/client/main/backstage.js:1168
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.js:1150
 #: jamovi/client/main/backstage.js:1172
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:1097
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Stata-bestanden {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
@@ -1796,15 +1811,15 @@ msgstr "Stijlen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Sub Script"
-msgstr ""
+msgstr "Subscript"
 
 #: jamovi/client/main/ribbon/annotationtab.js:120
 msgid "Super Script"
-msgstr ""
+msgstr "Superscript"
 
 #: jamovi/client/main/resultspanel.js:723
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "SVG-afbeelding {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
@@ -1812,11 +1827,11 @@ msgstr "Syntaxis"
 
 #: jamovi/client/main/ribbon/appmenu.js:90
 msgid "Syntax mode"
-msgstr ""
+msgstr "Syntaxismodus"
 
 #: jamovi/client/main/ribbon/appmenu.js:215
 msgid "System default"
-msgstr ""
+msgstr "Systeemstandaard"
 
 #: jamovi/client/resultsview/table.js:171
 msgid "Table"
@@ -1829,7 +1844,7 @@ msgstr "Tekst"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Text Color"
-msgstr ""
+msgstr "Tekstkleur"
 
 #: jamovi/client/main/resultspanel.js:688
 #: jamovi/client/main/resultspanel.js:790
@@ -1899,7 +1914,7 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
-msgstr ""
+msgstr "Dit apparaat"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
@@ -1911,7 +1926,7 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1447
 #: jamovi/client/main/backstage.js:1456
 msgid "This PC"
-msgstr ""
+msgstr "Deze PC"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -1951,15 +1966,15 @@ msgstr "Transformeren"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr ""
+msgstr "{} transformeren"
 
 #: jamovi/client/main/tableview.js:294
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Transformatie: {name}"
 
 #: jamovi/client/main/tableview.js:299
 msgid "Transform: None"
-msgstr ""
+msgstr "Transformatie: geen"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
@@ -1976,12 +1991,12 @@ msgstr "Getransformeerd"
 #: jamovi/client/main/vareditor/editorwidget.js:248
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Getransformeerde variabele"
+msgstr[1] "Getransformeerde variabelen ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "Opnieuw proberen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2016,7 +2031,7 @@ msgstr ""
 #: jamovi/client/main/instance.js:327
 #: jamovi/client/main/main.js:821
 msgid "Unable to open"
-msgstr ""
+msgstr "Kan niet openen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to open {}"
@@ -2024,7 +2039,7 @@ msgstr ""
 
 #: jamovi/client/main/viewcontroller.js:373
 msgid "Unable to paste"
-msgstr ""
+msgstr "Kan niet plakken"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform import"
@@ -2036,7 +2051,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
-msgstr ""
+msgstr "Kan niet opslaan"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save {}"
@@ -2058,18 +2073,18 @@ msgstr "Onderstrepen"
 #: jamovi/client/main/ribbon/datatab.js:26
 #: jamovi/client/main/ribbon/variablestab.js:17
 msgid "Undo Edit"
-msgstr ""
+msgstr "Bewerken ongedaan maken"
 
 #: jamovi/client/main/instance.js:322
 #: jamovi/client/main/instance.js:329
 #: jamovi/client/main/notification.js:86
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Unexpected error"
-msgstr ""
+msgstr "Onverwachte fout"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Bestandsindeling niet herkend"
 
 #: jamovi/client/main/ribbon/appmenu.js:139
 #: jamovi/client/main/store/pagemodules.js:210
@@ -2086,11 +2101,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:142
 msgid "Update is ready"
-msgstr ""
+msgstr "Update beschikbaar"
 
 #: jamovi/client/main/ribbon/appmenu.js:138
 msgid "Update not found"
-msgstr ""
+msgstr "Update niet gevonden"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 msgid "Updates"
@@ -2100,7 +2115,7 @@ msgstr "Updates"
 #: jamovi/client/main/instance.js:235
 #: jamovi/client/main/instance.js:238
 msgid "Upload failed"
-msgstr ""
+msgstr "Uploaden mislukt"
 
 #: jamovi/client/main/instance.js:203
 #: jamovi/client/main/instance.js:207
@@ -2113,11 +2128,11 @@ msgstr "gebruiken"
 
 #: jamovi/client/main/editors/transformeditor.js:281
 msgid "used by"
-msgstr ""
+msgstr "gebruikt door"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:35
 msgid "using transform"
-msgstr ""
+msgstr "gebruikt transformatie"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
@@ -2125,11 +2140,11 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:63
 msgid "Variable suffix"
-msgstr ""
+msgstr "Achtervoegsel variabele"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Variabele: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:11
@@ -2141,7 +2156,7 @@ msgstr "Variabelen"
 
 #: jamovi/client/main/ribbon/appmenu.js:182
 msgid "Version {v}"
-msgstr ""
+msgstr "Versie {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "Visible"
@@ -2151,7 +2166,7 @@ msgstr "Zichtbaar"
 #: jamovi/client/main/backstage.js:1162
 #: jamovi/client/main/resultspanel.js:749
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Webpagina {ext}"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
