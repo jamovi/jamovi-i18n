@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-23 15:09+0000\n"
-"Last-Translator: Tobias Peereboom <agilestuffnl@gmail.com>\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
+"Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.6-rc\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -157,7 +157,8 @@ msgstr "Analyses"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "Analyses die arbitraire code uitvoeren worden in deze sessie niet toegestaan."
+msgstr ""
+"Analyses die arbitraire code uitvoeren worden in deze sessie niet toegestaan."
 
 #: jamovi/client/resultsview/main.js:122
 msgid "Analysis"
@@ -602,8 +603,8 @@ msgid ""
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
 "Bepaalt of items voorkomen in in1, in2, in3, .... Merk op dat de meeste "
-"argumenten optioneel zijn -- het is mogelijk om simpelweg "
-"<strong>CONTAINS(naald, hooiberg)</strong> te gebruiken."
+"argumenten optioneel zijn -- het is mogelijk om simpelweg <strong>CONTAINS("
+"naald, hooiberg)</strong> te gebruiken."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"
@@ -1395,7 +1396,8 @@ msgid ""
 msgstr ""
 "Eén of meer analyses in deze dataset zijn uitgeschakeld\n"
 "                    omdat ze het uitvoeren van arbitraire code toestaan. U\n"
-"                    dient deze analyses alleen in te schakelen als u de bron\n"
+"                    dient deze analyses alleen in te schakelen als u de "
+"bron\n"
 "                    van de dataset vertrouwt."
 
 #: jamovi/client/main/backstage.js:557
@@ -1966,7 +1968,8 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
-msgstr "De huidige waarde van de variabele waarop deze transformatie wordt toegepast."
+msgstr ""
+"De huidige waarde van de variabele waarop deze transformatie wordt toegepast."
 
 #: jamovi/client/main/strings.ts:6
 msgid ""
@@ -2024,7 +2027,8 @@ msgstr "De module voor deze analyse is niet geïnstalleerd of niet beschikbaar"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
-msgstr "De geselecteerde transformatie is ongeldig en dient te worden aangepast."
+msgstr ""
+"De geselecteerde transformatie is ongeldig en dient te worden aangepast."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
@@ -2332,7 +2336,8 @@ msgstr "Waarom is deze extra stap noodzakelijk?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr "U kunt geen rijen verwijderen wanneer er verborgen gefilterde rijen zijn"
+msgstr ""
+"U kunt geen rijen verwijderen wanneer er verborgen gefilterde rijen zijn"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
