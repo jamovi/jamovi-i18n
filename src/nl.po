@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-07 13:48+0000\n"
+"PO-Revision-Date: 2022-12-07 14:47+0000\n"
 "Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
@@ -1087,10 +1087,14 @@ msgstr "jamovi-bestanden {ext}"
 #: jamovi/client/main/misc/announcements.js:4
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr ""
+"jamovi is nu beschikbaar in het Nederlands! (Veel dank aan het vertaalteam "
+"van jamovi)"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr ""
+"jamovi is nu beschikbaar in het Nederlands! (Veel dank aan het vertaalteam "
+"van jamovi)"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "jamovi is up-to-date"
@@ -1149,7 +1153,7 @@ msgstr "Minder dan"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Minder dan of gelijk aan"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
@@ -1226,7 +1230,7 @@ msgstr "Module gedeïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:287
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "Module geïnstalleerd"
 
 #: jamovi/client/main/ribbon/analysetab.js:114
 msgid "Modules"
@@ -1269,15 +1273,15 @@ msgstr "Geen kleur"
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
 msgid "No information about this function is avaliable"
-msgstr ""
+msgstr "Er is geen informatie beschikbaar over deze functie"
 
 #: jamovi/client/main/backstage.js:675
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "Geen herkende databestanden gevonden."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "Geen variabelen die overeenkomen met uw zoekopdracht."
 
 #: jamovi/client/main/editors/transformeditor.js:247
 #: jamovi/client/main/vareditor/datavarwidget.js:286
@@ -1311,7 +1315,7 @@ msgstr "Indeling getallen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "Verschuift de variabelen naar boven of naar beneden."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
@@ -1330,6 +1334,11 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"Eén of meer analyses in deze dataset zijn uitgeschakeld\n"
+"                    omdat ze het uitvoeren van arbitraire code toestaan. U\n"
+"                    dient deze analyses alleen in te schakelen als u de "
+"bron\n"
+"                    van de dataset vertrouwt."
 
 #: jamovi/client/main/backstage.js:557
 msgid "Online data set"
@@ -1342,7 +1351,7 @@ msgstr "Openen"
 
 #: jamovi/client/main/backstage.js:1093
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "Open document (LibreOffice) {ext}"
 
 #: jamovi/client/main/backstage.js:1847
 #: jamovi/client/main/instance.js:307
@@ -1391,7 +1400,7 @@ msgstr "Plakken"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Plakken via het menu is niet beschikbaar"
 
 #: jamovi/client/main/backstage.js:1139
 #: jamovi/client/main/backstage.js:1161
@@ -1406,7 +1415,7 @@ msgstr "Vastmaakniveau"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Gebruik Ctrl + V om te plakken."
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Plot theme"
@@ -1430,7 +1439,7 @@ msgstr "kwalitatief"
 
 #: jamovi/client/main/backstage.js:1096
 msgid "R data files {ext}"
-msgstr ""
+msgstr "R-databestanden {ext}"
 
 #: jamovi/client/main/backstage.js:1144
 #: jamovi/client/main/backstage.js:1145
@@ -1491,7 +1500,7 @@ msgstr "Filter verwijderen"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
-msgstr ""
+msgstr "Vereist een nieuwere versie van jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:142
 msgid "Restart and Install"
@@ -1510,7 +1519,7 @@ msgstr "Resultaten"
 
 #: jamovi/client/main/vareditor/editorwidget.js:99
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "Ongebruikte niveaus in analyses behouden"
 
 #: jamovi/client/main/ribbon/appmenu.js:138
 #: jamovi/client/main/ribbon/appmenu.js:141
@@ -1519,19 +1528,22 @@ msgstr "Opnieuw proberen"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "Berekent een Box Cox-transformatie voor de variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
+"Berekent of de variabele een uitschieter is volgens de IQR: 0 wordt "
+"teruggegeven als de waarde zich in de box van een boxplot bevindt. Absolute "
+"waarde groter dan 1,5 liggen buiten de horizontale lijnen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "Berekent de absolute waarde van een getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Berekent een logaritme met grondtal 10 van een getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
