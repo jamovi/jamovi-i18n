@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-07 14:47+0000\n"
+"PO-Revision-Date: 2022-12-07 16:47+0000\n"
 "Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
@@ -940,7 +940,6 @@ msgstr "HTML"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:107
-#, fuzzy
 msgid "I ♥ SPSS"
 msgstr "I ♥ SPSS"
 
@@ -1547,92 +1546,92 @@ msgstr "Berekent een logaritme met grondtal 10 van een getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Berekent het exponent voor grondtal ℯ van een getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Berekent de grootste waarde uit een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Berekent de grootste waarde van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Berekent het gemiddelde van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Berekent de mediaan van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Berekent de meest voorkomende waarde van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Berekent het natuurlijke logaritme van een getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Berekent de gestandaardiseerde waarden van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Berekent het aantal gevallen van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Berekent het aantal rijen van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Berekent het algehele gemiddelde van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Berekent de algehele som van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Berekent de rijnummers."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Berekent de kleinste waarde van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Berekent de kleinste waarde van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Berekent de vierkantswortel van een getal."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Berekent de standaardafwijking van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Berekent de standaardafwijking van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Berekent de standaardfout van het gemiddelde van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Berekent de som van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Berekent de variantie van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "Berekent de variantie van een variabele."
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Right Align"
@@ -1644,11 +1643,11 @@ msgstr "Rondt elke waarde af"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Rondt elke waarde naar boven af tot een geheel getal"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Rondt elke waarde naar beneden af tot een geheel getal"
 
 #: jamovi/client/main/tableview.js:99
 msgid "Row count"
@@ -1691,7 +1690,7 @@ msgstr "Opslaan als"
 
 #: jamovi/client/main/main.js:737
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "Wijzigingen aan '{title}' opslaan?"
 
 #: jamovi/client/main/instance.js:511
 msgid "Save failed"
@@ -1760,11 +1759,11 @@ msgstr "Formulebewerker weergeven"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:221
 msgid "Show in main menu"
-msgstr ""
+msgstr "In hoofdmenu weergeven"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Het handmatig installeren van modules is niet beschikbaar."
 
 #: jamovi/client/main/store.js:52
 msgid "Sideload"
@@ -1790,6 +1789,8 @@ msgstr "Speciaal importeren"
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr ""
+"Splitst tekst in stukken, gescheiden door een scheidingsteken. <i>piece</i> "
+"geeft de index van het gewenste stuk aan."
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
@@ -1861,67 +1862,73 @@ msgstr "Tekstkleur"
 #: jamovi/client/main/resultspanel.js:688
 #: jamovi/client/main/resultspanel.js:790
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "De inhoud is gekopieerd naar het klembord"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
+"De inhoud is opgesteld. Kopieer het met onderstaande knop of door <em>{k} + "
+"C</em> in te drukken op uw toetsenbord."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
 msgstr ""
+"De huidige waarde van de variabele waarop deze transformatie wordt toegepast."
 
 #: jamovi/client/main/instance.js:494
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "Het bestand '{filename}' bestaat al. Wilt u het overschrijven?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "Deze formule is ongeldig"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "De index van de waarde in de gegeven waarden."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "De jamovi-bibliotheek is in deze sessie niet beschikbaar."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:123
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "De niveauwaarde {r} is al in gebruik."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:135
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "De niveauwaarde kan niet leeg zijn."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "De bibliotheek is uitgeschakeld"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "De module voor deze analyse is niet geïnstalleerd of niet beschikbaar"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
 msgstr ""
+"De geselecteerde transformatie is ongeldig en dient te worden aangepast."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "De waarde met deze index in de gegeven waarden."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "De analyse heeft de tijdslimiet overschreden en is geannuleerd."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr ""
+"Deze analyse is geannuleerd, waarschijnlijk door het bereiken van een "
+"grondstoflimiet."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Deze dataset is niet langer beschikbaar"
 
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/utils/pathtools.js:15
@@ -1930,7 +1937,7 @@ msgstr "Dit apparaat"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
-msgstr ""
+msgstr "Dit is een gegevensvariabele."
 
 #: jamovi/client/main/backstage.js:1255
 #: jamovi/client/main/backstage.js:1398
@@ -1943,32 +1950,32 @@ msgstr "Deze PC"
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Deze sessie is gelimiteerd tot {} kolommen"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Deze sessie is gelimiteerd tot {} rijen"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Deze sessie wordt in enkele ogenblikken beëindigd"
 
 #: jamovi/client/main/notification.js:35
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Deze sessie wordt over {} minuten beëindigd"
 
 #: jamovi/client/main/notification.js:37
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Deze sessie wordt over ongeveer 1 minuut beëindigd"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:39
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Deze transformatie is ongeldig en dient te worden aangepast."
 
 #: jamovi/client/main/viewcontroller.js:374
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "Te veel gegevens - gebruik de importeerfunctie"
 
 #: jamovi/client/main/editors/transformeditor.js:25
 #: jamovi/client/main/ribbon/datatab.js:33
@@ -2012,29 +2019,29 @@ msgstr "Opnieuw proberen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
-msgstr ""
+msgstr "Kan geen toegang krijgen tot analyse"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access library"
-msgstr ""
+msgstr "Kan geen toegang krijgen tot bibliotheek"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
-msgstr ""
+msgstr "Kan {} niet doorbladeren"
 
 #: jamovi/client/main/main.js:859
 msgid "Unable to connect to the server"
-msgstr ""
+msgstr "Kan niet verbinden met de server"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
-msgstr ""
+msgstr "Kan {} niet importeren"
 
 #: jamovi/client/main/store/pagemodules.js:293
 #: jamovi/client/main/store/pagesideload.js:56
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to install module"
-msgstr ""
+msgstr "Kan module niet installeren"
 
 #: jamovi/client/main/backstage.js:1893
 #: jamovi/client/main/instance.js:272
@@ -2047,7 +2054,7 @@ msgstr "Kan niet openen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to open {}"
-msgstr ""
+msgstr "Kan {} niet openen"
 
 #: jamovi/client/main/viewcontroller.js:373
 msgid "Unable to paste"
