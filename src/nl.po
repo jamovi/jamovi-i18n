@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-07 09:48+0000\n"
+"PO-Revision-Date: 2022-12-07 10:48+0000\n"
 "Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
@@ -534,12 +534,12 @@ msgstr[1] ""
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
 msgid "Delete Filter"
-msgstr ""
+msgstr "Filter verwijderen"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr ""
+msgstr "Rij verwijderen"
 
 #: jamovi/client/main/viewcontroller.js:323
 msgid "Delete row {index}?"
@@ -549,17 +549,17 @@ msgstr[1] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "Rijen verwijderen"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "Transformatie verwijderen"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Variabele verwijderen"
+msgstr[1] "Variabelen verwijderen"
 
 #: jamovi/client/main/tableview.js:97
 msgid "Deleted"
@@ -583,7 +583,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"
-msgstr ""
+msgstr "Ontwikkelaarsmodus"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
@@ -592,11 +592,11 @@ msgstr "Documenten"
 
 #: jamovi/client/main/main.js:451
 msgid "Don't enable"
-msgstr ""
+msgstr "Niet inschakelen"
 
 #: jamovi/client/main/main.js:735
 msgid "Don't Save"
-msgstr ""
+msgstr "Niet opslaan"
 
 #: jamovi/client/main/backstage.js:1238
 #: jamovi/client/main/backstage.js:1346
@@ -635,7 +635,7 @@ msgstr "Dupliceren"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "Transformatie dupliceren"
 
 #: jamovi/client/main/main.js:189
 #: jamovi/client/main/ribbon/annotationtab.js:106
@@ -650,7 +650,7 @@ msgstr "Bewerken"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr ""
+msgstr "Transformatie bewerken"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:126
 #: jamovi/client/main/contextmenu/contextmenus.js:141
@@ -661,7 +661,7 @@ msgstr "Bewerken..."
 #: jamovi/client/main/editors/transformeditor.js:381
 #: jamovi/client/main/editors/transformeditor.js:438
 msgid "else use"
-msgstr ""
+msgstr "anders, gebruik"
 
 #: jamovi/client/main/main.js:452
 msgid "Enable"
@@ -669,7 +669,7 @@ msgstr "Inschakelen"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
-msgstr ""
+msgstr "Beschrijving invoeren"
 
 #: jamovi/client/main/backstage.js:331
 #: jamovi/client/main/backstage.js:368
@@ -678,7 +678,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
 msgid "Enter label..."
-msgstr ""
+msgstr "Label invoeren..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
 msgid "Enter level value"
@@ -686,7 +686,7 @@ msgstr ""
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
-msgstr ""
+msgstr "Naam invoeren"
 
 #: jamovi/client/resultsview/annotation.js:148
 msgid "Enter your URL here"
@@ -698,7 +698,7 @@ msgstr ""
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
-msgstr ""
+msgstr "Gelijk aan"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
@@ -706,7 +706,7 @@ msgstr "Fout"
 
 #: jamovi/client/main/backstage.js:1094
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/backstage.js:1355
 #: jamovi/client/main/backstage.js:1452
@@ -719,11 +719,11 @@ msgstr "Exporteren"
 
 #: jamovi/client/main/resultspanel.js:719
 msgid "Export image"
-msgstr ""
+msgstr "Afbeelding exporteren"
 
 #: jamovi/client/main/resultspanel.js:746
 msgid "Export results"
-msgstr ""
+msgstr "Resultaten exporteren"
 
 #: jamovi/client/main/instance.js:465
 msgid "Exported"
@@ -743,7 +743,7 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
-msgstr ""
+msgstr "Bestand geïmporteerd"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
@@ -763,7 +763,7 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:479
 msgid "File Saved"
-msgstr ""
+msgstr "Bestand opgeslagen"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -771,11 +771,11 @@ msgstr "Filteren"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
-msgstr ""
+msgstr "{} filteren"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr ""
+msgstr "{i} filteren"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -851,7 +851,7 @@ msgstr "Functies"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
-msgstr ""
+msgstr "Groter dan"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
 msgid "Greater than or equal to"
@@ -903,11 +903,11 @@ msgstr ""
 
 #: jamovi/client/main/store.js:29
 msgid "Hide library"
-msgstr ""
+msgstr "Bibliotheek verwijderen"
 
 #: jamovi/client/analysisui/main.js:224
 msgid "Hide options"
-msgstr ""
+msgstr "Opties verwijderen"
 
 #: jamovi/client/main/ribbon/appmenu.js:46
 msgid "Hide settings"
