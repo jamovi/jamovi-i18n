@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-23 18:24+0000\n"
-"Last-Translator: Omar Misbah <omarging@protonmail.com>\n"
-"Language-Team: Arabic "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ar/>\n"
+"PO-Revision-Date: 2022-12-13 02:48+0000\n"
+"Last-Translator: ABDULLAH MOHAMMED ALMONTSHRI <acc302@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.14-dev\n"
+"X-Generator: Weblate 4.15-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -156,7 +156,7 @@ msgstr "التحليلات"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "التحليلات التي تنفذ تعليمات برمجية عشوائية غير مسموح بها في هذه الجلسة."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -369,7 +369,7 @@ msgstr "تأكيد إلغاء التثبيت"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr "فشل الإتصال"
+msgstr "فشل الاتصال"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
@@ -1217,7 +1217,7 @@ msgstr ""
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr ""
+msgstr "قيم مفقودة"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -2214,7 +2214,6 @@ msgid ""
 msgstr ""
 
 #: jamovi/client/main/main.js:142
-#, fuzzy
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "لقد فقد اتصالك. يرجى تحديث الصفحة للمتابعة."
 
