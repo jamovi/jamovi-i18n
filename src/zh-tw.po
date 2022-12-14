@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-14 01:53+0000\n"
+"PO-Revision-Date: 2022-12-14 05:50+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -134,7 +134,7 @@ msgstr "全部"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr ""
+msgstr "全部{n}因子"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
@@ -179,7 +179,7 @@ msgstr "和"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "附加"
+msgstr "追加"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
@@ -226,7 +226,7 @@ msgstr "可用"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "錯誤的函數定義"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
@@ -246,7 +246,7 @@ msgstr "瀏覽"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr ""
+msgstr "項目符號清單"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
@@ -279,7 +279,7 @@ msgstr "無法指派到這些欄位。"
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr ""
+msgstr "已編輯的儲存格 "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -287,7 +287,7 @@ msgstr "置中對齊"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr ""
+msgstr "變更標籤..."
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Check again"
@@ -316,7 +316,7 @@ msgstr "關閉"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
-msgstr ""
+msgstr "程式碼區塊"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
@@ -338,11 +338,11 @@ msgstr "計算"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr ""
+msgstr "計算變數"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "計算的變數"
+msgstr "計算變數"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -351,8 +351,7 @@ msgstr "計算的變數"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "({n})個計算變數"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
@@ -379,19 +378,19 @@ msgstr "連續變項"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "ABS(IQR( 變數 ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "ABS(Z(變數))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "MAX(ABSIQR( 變數1, 變數2, … ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "MAX(ABSIQR( 變數1, 變數2, … ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -430,7 +429,7 @@ msgstr "複製"
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "無法指派資料"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
@@ -450,21 +449,21 @@ msgstr "無法變更資料欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "無法變更資料轉換"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "無法執行操作"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "新增資料轉換..."
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (逗號分隔) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -475,7 +474,7 @@ msgstr "剪下"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr ""
+msgstr "暗色系2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
@@ -508,7 +507,7 @@ msgstr[1] ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr ""
+msgstr "小數"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -521,7 +520,7 @@ msgstr "預設"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr ""
+msgstr "預設缺漏值"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
@@ -555,7 +554,7 @@ msgstr "刪除資料列"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "刪除資料轉換"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -618,22 +617,24 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE("
+"'training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "從Beta分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "從Gamma分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "從常態(高斯)分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "從均等分配中抽樣。"
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
@@ -641,7 +642,7 @@ msgstr "複製"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "複製資料轉換"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -656,13 +657,13 @@ msgstr "編輯"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr ""
+msgstr "編輯資料轉換"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
 msgid "Edit..."
-msgstr ""
+msgstr "編輯..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
@@ -684,11 +685,11 @@ msgstr "在此輸入檔案名稱"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
 msgid "Enter label..."
-msgstr ""
+msgstr "輸入標籤..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
 msgid "Enter level value"
-msgstr ""
+msgstr "輸入水準值"
 
 #: jamovi/client/main/variablesview.js:132
 msgid "Enter name"
@@ -733,7 +734,7 @@ msgstr "匯出結果"
 
 #: jamovi/client/main/instance.js:460
 msgid "Exported"
-msgstr "已輸出"
+msgstr "已匯出"
 
 #: jamovi/client/main/instance.js:461
 msgid "Exported to '{filename}'"
@@ -757,11 +758,11 @@ msgstr "檔案已損毀"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "檔案已損毀 (資訊清單檔案損毀或遺失)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "檔案已損毀 (資訊清單檔案損毀)"
 
 #: jamovi/client/main/instance.js:496
 msgid "File save failed."
@@ -777,11 +778,11 @@ msgstr "篩選"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
-msgstr ""
+msgstr "篩選條件{}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr ""
+msgstr "篩選條件{i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -803,19 +804,19 @@ msgstr "已篩選"
 #: jamovi/client/main/tableview.js:83
 #: jamovi/client/main/variablesview.js:61
 msgid "Filters"
-msgstr ""
+msgstr "篩選條件"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "用運算式(filter expression)來篩選變數。"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
+msgstr "篩選條件可能無法使用'V'或欄位函數來查閱資料欄位"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "篩選條件可能無法參照輸出變項"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -824,11 +825,11 @@ msgstr "字型"
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
 msgid "Formula"
-msgstr ""
+msgstr "公式"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "公式包含不允許的節點(node)"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
@@ -1197,7 +1198,7 @@ msgstr "量尺種類"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr "最小值"
+msgstr "極簡"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Misc"
@@ -1354,7 +1355,7 @@ msgstr "運算子"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr ""
+msgstr "順序符號清單"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
@@ -1445,7 +1446,7 @@ msgstr ""
 #: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
-msgstr ""
+msgstr "就緒"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Really uninstall {m}?"
@@ -1463,7 +1464,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "Reference"
-msgstr ""
+msgstr "查閱"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2211,7 +2212,7 @@ msgstr ""
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "您的瀏覽器已阻擋Jamovi開啟資料集"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
