@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-14 00:49+0000\n"
+"PO-Revision-Date: 2022-12-14 01:53+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -138,7 +138,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "由{hostname}提供的線上資料集"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
@@ -375,7 +375,7 @@ msgstr "連線中斷"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "連續的"
+msgstr "連續變項"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -1193,7 +1193,7 @@ msgstr ""
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr ""
+msgstr "量尺種類"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
@@ -1281,7 +1281,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "名義變項"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1314,12 +1314,12 @@ msgstr ""
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1360,11 +1360,11 @@ msgstr ""
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr ""
+msgstr "次序變項"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
-msgstr ""
+msgstr "輸出"
 
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Output Variable"
