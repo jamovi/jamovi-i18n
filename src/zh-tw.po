@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-14 05:50+0000\n"
+"PO-Revision-Date: 2022-12-14 06:47+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -320,7 +320,7 @@ msgstr "程式碼區塊"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
-msgstr "調色盤"
+msgstr "配色"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -835,24 +835,24 @@ msgstr "公式包含不允許的節點(node)"
 msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
-msgstr ""
+msgstr "公式指定錯誤(如果想要判斷是否相等，請使用雙等號'==')"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "函數{}()不存在"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "函數{}()至少需要{}個參數{}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "函數{}()需要{}到{}個參數"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "函數{}()需要{}個參數{}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
 msgid "Functions"
@@ -877,28 +877,28 @@ msgstr "灰色系"
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
 msgid "Group"
-msgstr ""
+msgstr "群組"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Hadley"
-msgstr ""
+msgstr "Hadley"
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
 msgid "Heading"
-msgstr ""
+msgstr "標題"
 
 #: jamovi/client/resultsview/annotation.js:138
 msgid "Help"
-msgstr ""
+msgstr "說明"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
-msgstr ""
+msgstr "嗨伊"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Hidden"
-msgstr ""
+msgstr "已隱藏"
 
 #: jamovi/client/main/store/pagemodules.js:139
 #: jamovi/client/main/variableeditor.js:175
@@ -908,11 +908,11 @@ msgstr "隱藏"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "隱藏篩選欄位"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
-msgstr ""
+msgstr "隱藏套件庫"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
@@ -924,16 +924,16 @@ msgstr "隱藏設定"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
-msgstr ""
+msgstr "文字醒目提示色彩"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
 msgid "Home"
-msgstr ""
+msgstr "首頁"
 
 #: jamovi/client/resultsview/html.js:53
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
@@ -948,15 +948,15 @@ msgstr "ID"
 
 #: jamovi/client/main/notification.js:73
 msgid "Idle session"
-msgstr ""
+msgstr "工作階段閒置"
 
 #: jamovi/client/main/editors/transformeditor.js:355
 msgid "if"
-msgstr ""
+msgstr "if"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr ""
+msgstr "如果判斷條件(expression)為真，則指派value，反之則指派else。"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -990,11 +990,11 @@ msgstr "未啟用"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr ""
+msgstr "減少縮排"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr ""
+msgstr "增加縮排"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1020,7 +1020,7 @@ msgstr "插入多少資料列?"
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
-msgstr ""
+msgstr "插入資料列..."
 
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
@@ -1041,7 +1041,7 @@ msgstr "已安裝的版本不相容"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "安裝的模組不適用您的訂閱方案"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1057,13 +1057,13 @@ msgstr "交互作用"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Inverts the value."
-msgstr ""
+msgstr "反轉真偽(true/false)值。"
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
 #: jamovi/client/main/tableview.js:591
 msgid "Issue with formula"
-msgstr ""
+msgstr "公式遇到問題"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
@@ -1098,7 +1098,7 @@ msgstr "Jamovi已更新至最新版本"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
-msgstr ""
+msgstr "Jamovi套件庫"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
@@ -1107,19 +1107,19 @@ msgstr "Jamovi模組"
 #: jamovi/client/main/backstage.js:1030
 #: jamovi/client/main/backstage.js:1053
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "Jamovi範本 {ext}"
 
 #: jamovi/client/main/backstage.js:977
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "Jamovi範本 {ext}"
 
 #: jamovi/client/main/backstage.js:985
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "JASP檔 {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON檔 {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1137,11 +1137,11 @@ msgstr "語言"
 #: jamovi/client/main/backstage.js:1055
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "LaTeX包裝檔 {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
-msgstr ""
+msgstr "靠左對齊"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
