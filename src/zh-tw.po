@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-13 10:49+0000\n"
+"PO-Revision-Date: 2022-12-14 00:49+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -2129,7 +2129,7 @@ msgstr "上傳中"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
-msgstr ""
+msgstr "使用"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
@@ -2149,7 +2149,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
 msgid "Variable: {v}"
-msgstr ""
+msgstr "變數: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
