@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-14 07:48+0000\n"
+"PO-Revision-Date: 2022-12-15 10:47+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -502,8 +502,7 @@ msgstr "資料種類"
 #: jamovi/client/main/vareditor/editorwidget.js:238
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "資料變數 ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -583,6 +582,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"判斷是否有任何項目(item)出現在in1, in2, in3, .... "
+"值得注意的是大多前述參數是非強制須指定的 -- 可以僅使用<strong>CONTAINS("
+"needle, haystack)</strong>即可。"
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -668,7 +670,7 @@ msgstr "編輯..."
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
 msgid "else use"
-msgstr ""
+msgstr "否則使用"
 
 #: jamovi/client/main/main.js:372
 msgid "Enable"
@@ -1041,7 +1043,7 @@ msgstr "已安裝的版本不相容"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr "安裝的模組不適用您的訂閱方案"
+msgstr "安裝模組的功能不適用於您的訂閱方案"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
