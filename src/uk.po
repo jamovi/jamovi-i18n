@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-04 14:48+0000\n"
+"PO-Revision-Date: 2022-12-16 18:51+0000\n"
 "Last-Translator: Dan <denqwerta@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -8,9 +8,9 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
-"%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Weblate 4.15\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1386,7 +1386,7 @@ msgstr "Упорядоченный список"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "Звичайний"
+msgstr "Порядковий"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
