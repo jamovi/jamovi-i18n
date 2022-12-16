@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-16 07:48+0000\n"
+"PO-Revision-Date: 2022-12-16 08:48+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1531,67 +1531,76 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
+"依據四分位差(IQR)來判斷變數(variable)是否為離群值: "
+"若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1."
+"5則落在箱型圖的鬚(whiskers)外為離群值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr "傳回數值的絕對值。"
+msgstr "傳回數值(number)的絕對值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr "傳回以10為底的對數值。"
+msgstr "傳回輸入數值(number)以10為底的對數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr "傳回以自然數e為底的指數值。"
+msgstr "傳回輸入數值(number)以自然數e為底的指數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "傳回資料數值(variable 1, variable 2, ... "
+"可輸入多項變數)中之最大值(每列分開計算)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "傳回整欄資料變數(variable)中的最大值，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "傳回資料數值(number 1, number 2, ...)的平均數(每列分開計算)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "傳回整欄資料變數(variable)的中位數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "傳回整欄資料變數(variable)的眾數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "傳回數值(number)的自然對數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "傳回資料數值(variable)的標準分數(z-score)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "傳回資料變數(variable)的資料個數(不包含缺漏值)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "傳回資料變數(variable)的列數(包含缺漏值)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "傳回資料變數(variable)所有資料的平均數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "傳回資料集的列數。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
