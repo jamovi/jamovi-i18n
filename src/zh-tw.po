@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-15 10:47+0000\n"
+"PO-Revision-Date: 2022-12-16 07:48+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1331,6 +1331,10 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"在此資料集中至少一個分析已被停用\n"
+"                    因為他們允許執行任意程式碼。您\n"
+"                    只應在信任此資料來源時才\n"
+"                    啟用。"
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1372,8 +1376,7 @@ msgstr "輸出"
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "輸出變數 ({n})個"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
