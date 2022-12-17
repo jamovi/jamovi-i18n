@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-01 10:47+0000\n"
+"PO-Revision-Date: 2022-12-17 05:47+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1377,7 +1377,7 @@ msgstr "реттік"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
-msgstr "шығыс"
+msgstr "нәтиже"
 
 #: jamovi/client/main/vareditor/editorwidget.js:250
 msgid "Output Variable"
