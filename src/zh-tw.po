@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-19 04:47+0000\n"
+"PO-Revision-Date: 2022-12-19 05:48+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1312,7 +1312,7 @@ msgstr "數值格式"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
-msgstr "增加或減少變數的所有數值。"
+msgstr "將欄位向上或向下偏移指定列數(integer)。"
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
@@ -1883,59 +1883,59 @@ msgstr "內容已準備完畢，可用下方按鈕複製，或使用鍵盤的 <e
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "轉換要套用的當前變數值。"
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "'{filename}'檔案已經存在。是否複寫檔案？"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "公式指派有誤"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "比對值(value)在搜尋範圍(value 1, value 2, ...)中的索引值。"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "Jamovi套件庫在您的工作階段中無法使用。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "水準值{r}已經被使用。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "水準值無法是空白。"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "套件庫已被停用"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "此分析所需的模組未被安裝，或無法使用"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "所選取的資料轉換有誤，需要修正。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "在指定範圍(value 1, value 2, ...)中索引位置(index)的資料值。"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "此分析已超過目前的時間限制並終止執行。"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "此分析已中止執行，可能因超過可用的資源限制。"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "此資料集已無法使用"
 
 #: jamovi/client/main/backstage.js:1198
 #: jamovi/client/main/utils/pathtools.js:15
@@ -1944,7 +1944,7 @@ msgstr "此裝置"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
-msgstr ""
+msgstr "此為資料變數。"
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -1978,37 +1978,37 @@ msgstr "本工作階段約在一分鐘後即將結束"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "此資料轉換有誤需要修正。"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "資料量過多，請改用匯入功能"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr ""
+msgstr "資料轉換"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr ""
+msgstr "資料轉換 {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr ""
+msgstr "資料轉換: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr ""
+msgstr "資料轉換: 無"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr ""
+msgstr "資料轉換..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
-msgstr ""
+msgstr "已轉換"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
@@ -2017,8 +2017,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "資料轉換變數 ({n})個"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
@@ -2030,7 +2029,7 @@ msgstr "無法存取分析"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access library"
-msgstr ""
+msgstr "無法存取套件庫"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2154,19 +2153,19 @@ msgstr "使用"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr ""
+msgstr "已被使用，由"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr ""
+msgstr "使用的資料轉換"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "數值對於整數類型的資料欄'{}'太大"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr ""
+msgstr "變數字尾(Variable suffix)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
 msgid "Variable: {v}"
@@ -2182,31 +2181,31 @@ msgstr "變數"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
-msgstr ""
+msgstr "{v} 版"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
-msgstr ""
+msgstr "可見的"
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/resultspanel.js:743
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "網頁 {ext}"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
-msgstr ""
+msgstr "當"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
-msgstr ""
+msgstr "當資料變數(variable)包含缺漏值時，使用(value)值，否則使用(else)值。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "為何需要該額外步驟？"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
@@ -2236,4 +2235,4 @@ msgstr "您的瀏覽器已阻擋Jamovi開啟資料集"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr "縮放"
+msgstr "縮放比例"
