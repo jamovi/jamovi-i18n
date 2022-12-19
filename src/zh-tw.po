@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-10 15:09+0000\n"
-"Last-Translator: Peter Dave Hello <hsu@peterdavehello.org>\n"
+"PO-Revision-Date: 2024-08-15 17:37+0000\n"
+"Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh-tw\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -594,8 +594,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"判斷是否有任何項目(item)出現在in1, in2, in3, .... 值得注意的是大多前述參數是非強制須指定的 -- "
-"可以僅使用<strong>CONTAINS(needle, haystack)</strong>即可。"
+"判斷是否有任何項目(item)出現在in1, in2, in3, .... "
+"值得注意的是大多前述參數是非強制須指定的 -- 可以僅使用<strong>CONTAINS("
+"needle, haystack)</strong>即可。"
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -629,7 +630,9 @@ msgstr "下載"
 msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE('training', 20, 'test')"
+msgstr ""
+"從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE("
+"'training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -1583,7 +1586,8 @@ msgid ""
 "than 1.5 are outside the whiskers."
 msgstr ""
 "依據四分位差(IQR)來判斷變數(variable)是否為離群值: "
-"若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1.5則落在箱型圖的鬚(whiskers)外為離群值。"
+"若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1."
+"5則落在箱型圖的鬚(whiskers)外為離群值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1599,11 +1603,13 @@ msgstr "傳回輸入數值(number)以自然數e為底的指數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "傳回資料數值(variable 1, variable 2, ... 可輸入多項變數)中之最大值(每列分開計算)。"
+msgstr "傳回資料數值(variable 1, variable 2, ... "
+"可輸入多項變數)中之最大值(每列分開計算)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr "傳回整欄資料變數(variable)中的最大值，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)中的最大值，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
@@ -1615,11 +1621,13 @@ msgstr "返回變數的中位數絕對偏差。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr "傳回整欄資料變數(variable)的中位數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的中位數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr "傳回整欄資料變數(variable)的眾數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的眾數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
@@ -1640,11 +1648,13 @@ msgstr "傳回資料變數(variable)的列數(包含缺漏值)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr "傳回資料變數(variable)所有資料的平均數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回資料變數(variable)所有資料的平均數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
@@ -1660,7 +1670,8 @@ msgstr "傳回資料數值(variable 1, variable 2, ...)中的最小值，每一�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr "傳回整欄資料變數(variable)的最小值，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的最小值，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
@@ -1672,11 +1683,14 @@ msgstr "傳回資料數值(number 1, number 2, ...)的標準差，每一列分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr "傳回整欄資料變數(variable)的標準差，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的標準差，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr "傳回整欄資料變數(variable)樣本平均數的標準誤(standard error)，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr ""
+"傳回整欄資料變數(variable)樣本平均數的標準誤(standard "
+"error)，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
@@ -1688,7 +1702,8 @@ msgstr "傳回資料數值(number 1, number 2, ...)的變異數，每一列分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr "傳回整欄資料變數(variable)的變異數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的變異數，支援以其他分組變數做分組計算(如: "
+"group_by=dose)。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -1851,7 +1866,8 @@ msgstr "特殊匯入"
 msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
-msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
+msgstr "依照分隔符號(sep)分割文字。<i>piece</i> "
+"是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
