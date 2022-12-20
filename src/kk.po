@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-17 05:47+0000\n"
+"PO-Revision-Date: 2022-12-20 03:48+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1212,11 +1212,11 @@ msgstr "әртүрлі"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
-msgstr "жоқ мәндер"
+msgstr "жетіспейтін мәндер"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "жоқ мәндер"
+msgstr "жетіспейтін мәндер"
 
 #: jamovi/client/main/store/pagemodules.js:286
 msgid "Module installed"
