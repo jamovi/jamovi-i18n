@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-22 20:48+0000\n"
-"Last-Translator: Γιώργος Καβρός <gior.k79@gmail.com>\n"
+"PO-Revision-Date: 2023-01-08 17:47+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "el/>\n"
 "Language: el\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.15.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -32,7 +32,6 @@ msgid "(current)"
 msgstr "(τρέχον)"
 
 #: jamovi/client/main/utils/headeralert.js:33
-#, fuzzy
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Αυτή είναι μια ιδιορρυθμία του Safari και των iPad)"
 
