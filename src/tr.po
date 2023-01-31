@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-07 22:26+0000\n"
-"Last-Translator: Emin <eminnesatg@gmail.com>\n"
+"PO-Revision-Date: 2023-01-31 07:47+0000\n"
+"Last-Translator: Ünal Halit ÖZDEN <uozden@ticaret.edu.tr>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.16-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -66,9 +66,8 @@ msgid "{r} is not an integer"
 msgstr "{r} bir tam sayı değildir"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
-#, fuzzy
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Dil değişikliği jamovi'nin yeniden başlatılmasını gerektiriyor"
+msgstr "Dil değişikliği jamovi'nin yeniden başlatılmasını gerektirir"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -159,7 +158,7 @@ msgstr "Analizler"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "Bu oturumda rastgele kod çalıştıran analizlere izin verilmez."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -200,11 +199,11 @@ msgstr "Değişiklikleri uygula"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Yaklaşan plan zaman sınırı"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Kimlik doğrulama hatası"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
@@ -366,7 +365,10 @@ msgstr "Kaldırmayı onaylayınız"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr "Bağlantı hatası"
+msgstr ""
+"`none` (varsayılan), `doğrusal` veya `düzleştirilmiş`, sırasıyla regresyon "
+"çizgisi yok, doğrusal regresyon çizgisi veya düzleştirilmiş regresyon "
+"çizgisi sağlar"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
@@ -893,7 +895,6 @@ msgstr "griler"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
-#, fuzzy
 msgid "Group"
 msgstr "Grup"
 
@@ -1233,7 +1234,7 @@ msgstr "Eksik değer"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr "Eksik Değerler"
+msgstr "Kayıp değerler"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
