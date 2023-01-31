@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-01-31 07:47+0000\n"
+"PO-Revision-Date: 2023-01-31 08:35+0000\n"
 "Last-Translator: Ünal Halit ÖZDEN <uozden@ticaret.edu.tr>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "Filtrelenmiş satırlar gizlenmişken yeni satır ekleyemezsiniz."
+msgstr "'{}' hatalı"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -207,7 +207,7 @@ msgstr "Kimlik doğrulama hatası"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Kimlik doğrulama gerekli"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
