@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Unreal Vision <unrealvisionyt@gmail.com>\n"
+"Last-Translator: GUILLAUME DIAS <guillaumedias.perso@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -1997,7 +1997,8 @@ msgstr "La valeur dans les valeurs fournies de l'index."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr "Cette analyse a dépassé les limites de temps actuelles et a été interrompue."
+msgstr ""
+"Cette analyse a dépassé les limites de temps actuelles et a été interrompue."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
