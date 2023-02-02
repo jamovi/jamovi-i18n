@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-13 16:49+0000\n"
-"Last-Translator: gbonaspetti <gbonaspetti@hotmail.com>\n"
+"PO-Revision-Date: 2023-02-02 14:38+0000\n"
+"Last-Translator: GUILLAUME DIAS <guillaumedias.perso@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 4.16-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1888,11 +1888,11 @@ msgstr "La bibliothèque est désactivée"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "Le module pour cette analyse n'est pas installé ou n'est pas disponible"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr "La transformation sélectionnée comporte une erreur et devrait être modifiée."
+msgstr "La transformation sélectionnée est erronée et doit être modifiée."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
@@ -1901,10 +1901,13 @@ msgstr "La valeur dans les valeurs fournies de l'index."
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
 msgstr ""
+"Cette analyse a dépassé les limites de temps actuelles et a été interrompue."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr ""
+"Cette analyse a été interrompue, probablement parce qu'elle a atteint une "
+"limite de ressources."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
