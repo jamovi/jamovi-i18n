@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-07 16:39+0000\n"
+"PO-Revision-Date: 2023-02-07 17:39+0000\n"
 "Last-Translator: Coraline Lethimonnier <coraline@stats-co.eu>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
@@ -1747,7 +1747,7 @@ msgstr "Afficher dans le menu principal"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Le chargement latéral des modules n'est pas disponible."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -1998,7 +1998,7 @@ msgstr[1] "Variables transformées"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "Réessayez"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2209,7 +2209,7 @@ msgstr ""
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "Votre navigateur web empêche jamovi d'ouvrir le jeu de données"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
