@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-02 14:38+0000\n"
-"Last-Translator: GUILLAUME DIAS <guillaumedias.perso@gmail.com>\n"
+"PO-Revision-Date: 2023-02-07 16:39+0000\n"
+"Last-Translator: Coraline Lethimonnier <coraline@stats-co.eu>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -34,7 +34,7 @@ msgstr "(actuel)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(C'est une bizarrerie de Safari et des iPads)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -47,7 +47,7 @@ msgstr "{m} a été désinstallé avec succès"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} dp"
-msgstr "{n} chiffres après la virgule"
+msgstr "{n} nombre de chiffres après la virgule"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -65,7 +65,7 @@ msgstr "{r} n’est pas un entier"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Un changement de langage nécessite que jamovi soit redémarré"
+msgstr "Un changement de langage nécessite de redémarrer jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -73,7 +73,7 @@ msgstr "Une version plus récente de jamovi est requise"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr "Accent"
+msgstr "Accentué"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
@@ -86,8 +86,9 @@ msgstr ""
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
+#, fuzzy
 msgid "active"
-msgstr "active"
+msgstr "activer"
 
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/datatab.js:58
@@ -102,7 +103,7 @@ msgstr "Ajouter un autre filtre imbriqué"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr "Ajouter une valeur manquante"
+msgstr "Ajouter une valeur pour les données manquantes"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
@@ -125,8 +126,9 @@ msgid "Add Variable"
 msgstr "Ajouter une variable"
 
 #: jamovi/client/main/tableview.js:76
+#, fuzzy
 msgid "Added"
-msgstr "Additionné"
+msgstr "Ajouté"
 
 #: jamovi/client/main/resultspanel.js:587
 msgid "All"
@@ -154,7 +156,7 @@ msgstr "Une mise à jour est disponible"
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
-msgstr "Analyse"
+msgstr "Analyses"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
