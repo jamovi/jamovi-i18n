@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-01-29 01:55+0000\n"
-"Last-Translator: Cliff Heraldo <cliffkbrt11@gmail.com>\n"
+"PO-Revision-Date: 2023-02-18 10:37+0000\n"
+"Last-Translator: Asti Wahyuningtyas <tyasaw27@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -98,7 +98,7 @@ msgstr "Tambah"
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr "tambahkan filter bertingkat lainnya"
+msgstr "Tambahkan filter bertingkat lainnya"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -647,11 +647,11 @@ msgstr "Menarik sampel dari distribusi seragam."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplikat"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "Transformasi duplikat"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -666,7 +666,7 @@ msgstr "Sunting"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr ""
+msgstr "Edit transformasi"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -751,7 +751,7 @@ msgstr "Diekspor ke '{filename}'"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
-msgstr ""
+msgstr "File"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
@@ -783,28 +783,28 @@ msgstr "File Disimpan"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
-msgstr ""
+msgstr "Filter"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
-msgstr ""
+msgstr "Filter {}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr ""
+msgstr "Filtet {i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
 msgid "Filter is active"
-msgstr ""
+msgstr "Filter aktif"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
 msgid "Filter is inactive"
-msgstr ""
+msgstr "Filter tidak aktif"
 
 #: jamovi/client/main/tableview.js:78
 msgid "Filtered"
-msgstr ""
+msgstr "Terfilter"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -813,11 +813,11 @@ msgstr ""
 #: jamovi/client/main/tableview.js:83
 #: jamovi/client/main/variablesview.js:61
 msgid "Filters"
-msgstr ""
+msgstr "Filter"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "Memfilter variabel menggunakan ekspresi filter."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
@@ -845,6 +845,8 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr ""
+"Formula salah ditentukan (Jika kamu ingin menguji persamaan, gunakan dua "
+"tanda sama dengan '==')"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -895,11 +897,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
 msgid "Heading"
-msgstr ""
+msgstr "Judul"
 
 #: jamovi/client/resultsview/annotation.js:138
 msgid "Help"
-msgstr ""
+msgstr "Bantuan"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
@@ -913,11 +915,11 @@ msgstr "Tersembunyi"
 #: jamovi/client/main/variableeditor.js:175
 #: jamovi/client/main/variableeditor.js:49
 msgid "Hide"
-msgstr ""
+msgstr "Sembunyi"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Sembunyikan kolom filter"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
@@ -925,11 +927,11 @@ msgstr ""
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
-msgstr ""
+msgstr "Sembunyikan opsi"
 
 #: jamovi/client/main/ribbon/appmenu.js:39
 msgid "Hide settings"
-msgstr ""
+msgstr "Sembunyikan pengaturan"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -942,7 +944,7 @@ msgstr "Beranda"
 
 #: jamovi/client/resultsview/html.js:53
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
@@ -957,7 +959,7 @@ msgstr "ID"
 
 #: jamovi/client/main/notification.js:73
 msgid "Idle session"
-msgstr ""
+msgstr "Sesi idle"
 
 #: jamovi/client/main/editors/transformeditor.js:355
 msgid "if"
@@ -974,7 +976,7 @@ msgstr "Gambar"
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
 msgid "Import"
-msgstr ""
+msgstr "Impor"
 
 #: jamovi/client/main/instance.js:137
 msgid "Import successful"
@@ -995,7 +997,7 @@ msgstr "Dalam perkembangan"
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
 msgid "inactive"
-msgstr ""
+msgstr "tidak aktif"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
@@ -1033,24 +1035,24 @@ msgstr "Sisipkan Baris..."
 
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
-msgstr ""
+msgstr "Pasang"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
-msgstr ""
+msgstr "Terpasang"
 
 #: jamovi/client/main/ribbon/analysetab.js:80
 msgid "Installed Modules"
-msgstr ""
+msgstr "Modul Terpasang"
 
 #: jamovi/client/main/store/pagemodules.js:133
 msgid "Installed version is incompatible"
-msgstr "Versi yang diinstal tidak kompatibel"
+msgstr "Versi yang terpasang tidak kompatibel"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Memasang modul tidak tersedia pada paket Anda"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #, fuzzy
@@ -1063,7 +1065,7 @@ msgstr "Interaksi"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1020
 msgid "Interactions"
-msgstr ""
+msgstr "Interaksi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Inverts the value."
@@ -1077,7 +1079,7 @@ msgstr "Masalah dengan rumus"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
-msgstr ""
+msgstr "Miring"
 
 #: jamovi/client/main/backstage.js:1007
 #: jamovi/client/main/backstage.js:1018
@@ -1114,7 +1116,7 @@ msgstr "jamovi terbaru"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
-msgstr ""
+msgstr "perpustakaan jamovi"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
@@ -1135,7 +1137,7 @@ msgstr "File JASP {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "File JSON {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1153,7 +1155,7 @@ msgstr "Bahasa"
 #: jamovi/client/main/backstage.js:1055
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "paket LaTeX {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
@@ -1172,73 +1174,73 @@ msgstr "Kurang dari atau sama dengan"
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
 msgid "Level {0}"
-msgstr ""
+msgstr "Level {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:184
 msgid "Level value"
-msgstr ""
+msgstr "Nilai level"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:48
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
 msgid "Levels"
-msgstr ""
+msgstr "Level"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
-msgstr ""
+msgstr "Tautan"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
-msgstr ""
+msgstr "Memuat"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "Logical"
-msgstr ""
+msgstr "Logis"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
-msgstr ""
+msgstr "Efek Utama"
 
 #: jamovi/client/main/ribbon/analysetab.js:79
 msgid "Manage installed"
-msgstr ""
+msgstr "Kelola yang terpasang"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr ""
+msgstr "Matematika"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr ""
+msgstr "Tipe pengukuran"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr ""
+msgstr "Minimal"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "Misc"
-msgstr ""
+msgstr "Lain-lain"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
-msgstr ""
+msgstr "Nilai hilang"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
 msgid "Missing Values"
-msgstr ""
+msgstr "Nilai Hilang"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
-msgstr ""
+msgstr "Modul terpasang"
 
 #: jamovi/client/main/store/pagesideload.js:44
 msgid "Module installed successfully"
-msgstr ""
+msgstr "Modul berhasil dipasang"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
-msgstr ""
+msgstr "Modul dicopot pemasangannya"
 
 #: jamovi/client/main/store/pagemodules.js:193
 msgid "Module was installed successfully"
