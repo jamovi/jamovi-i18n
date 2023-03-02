@@ -1,8 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-10 18:12+0000\n"
-"Last-Translator: Josef Dittrych\\ pepa 77\\josef 77 <pepa.gulasek77@gmail."
-"com>\n"
+"PO-Revision-Date: 2023-03-02 16:38+0000\n"
+"Last-Translator: Martin Slavík <martin.d.slavik@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
 "Language: cs\n"
@@ -10,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.14.1\n"
+"X-Generator: Weblate 4.16.2-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1636,56 +1635,57 @@ msgstr "Vrátí druhou odmocninu čísla."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Vrátí směrodatnou odchylku množiny čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Vrátí směrodatnou odchylku proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Vrací standardní chybu průměru proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Vrací součet množiny čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Vrací rozptyl množiny čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "Vrací rozptyl proměnné."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
 msgstr ""
+"Jak má být text zarovnán (v komentářích / Režim úprav [poslední karta])."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr ""
+msgstr "Zaokrouhlit každou hodnotu"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Zaokrouhlit každou hodnotu na nejvyšší celé číslo"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Zaokrouhlit každou hodnotu na nejnižší celé číslo"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
-msgstr ""
+msgstr "Počet řádků"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr ""
+msgstr "Filtr řádků"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
 msgid "Rows"
-msgstr ""
+msgstr "Řádky/ů"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
@@ -1706,12 +1706,12 @@ msgstr ""
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/menu.js:160
 msgid "Save"
-msgstr ""
+msgstr "Uložit"
 
 #: jamovi/client/main/backstage.js:1211
 #: jamovi/client/main/backstage.js:1312
 msgid "Save As"
-msgstr ""
+msgstr "Uložit jako"
 
 #: jamovi/client/main/main.js:645
 msgid "Save changes to '{title}'?"
