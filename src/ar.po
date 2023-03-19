@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Ahmed Saleh <sniperasa8@gmail.com>\n"
+"Last-Translator: Alix Exyam <entery24@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
 "Language: ar\n"
