@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-07 17:39+0000\n"
-"Last-Translator: Coraline Lethimonnier <coraline@stats-co.eu>\n"
+"PO-Revision-Date: 2023-03-25 20:37+0000\n"
+"Last-Translator: tachyglossues <tachyglossues@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 4.17-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -86,7 +86,6 @@ msgstr ""
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
 #: jamovi/client/main/vareditor/filterwidget.js:535
-#, fuzzy
 msgid "active"
 msgstr "activer"
 
@@ -126,7 +125,6 @@ msgid "Add Variable"
 msgstr "Ajouter une variable"
 
 #: jamovi/client/main/tableview.js:76
-#, fuzzy
 msgid "Added"
 msgstr "Ajouté"
 
