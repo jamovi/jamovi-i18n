@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-18 10:37+0000\n"
-"Last-Translator: Asti Wahyuningtyas <tyasaw27@gmail.com>\n"
+"PO-Revision-Date: 2023-07-19 08:05+0000\n"
+"Last-Translator: Wisnu Saputra <macanmelet49@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -34,7 +34,7 @@ msgstr "(saat ini)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Ini adalah keunikan dari Safari dan Ipad)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -198,9 +198,8 @@ msgid "Apply changes"
 msgstr "Menerapkan perubahan"
 
 #: jamovi/client/main/notification.js:82
-#, fuzzy
 msgid "Approaching plan time limit"
-msgstr "Sudah mendekati batas waktu yang ditentukan"
+msgstr "Mendekati batas waktu yang ditentukan"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
