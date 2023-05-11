@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-03-02 16:38+0000\n"
-"Last-Translator: Martin Slavík <martin.d.slavik@gmail.com>\n"
+"PO-Revision-Date: 2023-07-19 08:05+0000\n"
+"Last-Translator: Valeriia Zhuravska <zhuravskayalera1@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
 "Language: cs\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -133,7 +133,6 @@ msgstr "Vše"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
-#, fuzzy
 msgid "All {n} way"
 msgstr "Všechny {n} kombinace"
 
@@ -155,7 +154,6 @@ msgid "Analyses"
 msgstr "Analýzy"
 
 #: jamovi/server/jamovi/server/engine.py
-#, fuzzy
 msgid "Analyses which execute arbitrary code are not permitted in this session."
 msgstr "Analýzy, které spouštějí libovolný kód, nejsou v této relaci povoleny."
 
@@ -1694,7 +1692,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:984
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "SAS soubory {ext}"
 
 #: jamovi/client/main/backstage.js:1038
 #: jamovi/client/main/backstage.js:1061
@@ -1715,101 +1713,101 @@ msgstr "Uložit jako"
 
 #: jamovi/client/main/main.js:645
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "Uložit změny do '{název}'?"
 
 #: jamovi/client/main/instance.js:506
 msgid "Save failed"
-msgstr ""
+msgstr "Uložení se nezdařilo"
 
 #: jamovi/client/main/instance.js:475
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "Uloženo do '{jméno souboru}'"
 
 #: jamovi/client/main/instance.js:427
 msgid "Saving"
-msgstr ""
+msgstr "Uložení"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Plánovaná údržba"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "Vyhledávání"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr ""
+msgstr "Vyhledávací proměnné"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
-msgstr ""
+msgstr "Vybrat vše"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
 msgid "Selected"
-msgstr ""
+msgstr "Vybrané"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr ""
+msgstr "sekvenční"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr ""
+msgstr "Sada1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
-msgstr ""
+msgstr "Nastavení"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
 msgid "Setup..."
-msgstr ""
+msgstr "Nastavení..."
 
 #: jamovi/client/main/store/pagemodules.js:136
 msgid "Show"
-msgstr ""
+msgstr "Zobrazit"
 
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
 msgid "Show filter columns"
-msgstr ""
+msgstr "Zobrazit sloupce filtrů"
 
 #: jamovi/client/main/editors/transformeditor.js:634
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
 msgid "Show formula editor"
-msgstr ""
+msgstr "Zobrazit editor vzorců"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr ""
+msgstr "Zobrazit v hlavní nabídce"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Moduly s bočním ukládáním nejsou k dispozici."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
-msgstr ""
+msgstr "Boční načtení"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr ""
+msgstr "významná čísla"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Simulation"
-msgstr ""
+msgstr "Simulace"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
-msgstr ""
+msgstr "Zdrojová proměnná"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
-msgstr ""
+msgstr "Speciální import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
@@ -1819,7 +1817,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "Soubory SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
@@ -1833,132 +1831,136 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:983
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Soubory Stata {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr ""
+msgstr "Statistické"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
-msgstr ""
+msgstr "Stávka"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
-msgstr ""
+msgstr "Styly"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Sub Script"
-msgstr ""
+msgstr "Dílčí skript"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
 msgid "Super Script"
-msgstr ""
+msgstr "Super skript"
 
 #: jamovi/client/main/resultspanel.js:717
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "SVG obrázek {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
-msgstr ""
+msgstr "Syntax"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "Syntax mode"
-msgstr ""
+msgstr "Režim syntaxe"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
-msgstr ""
+msgstr "Výchozí nastavení systému"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
-msgstr ""
+msgstr "Tabulka"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Text Color"
-msgstr ""
+msgstr "Barva textu"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "Obsah byl zkopírován do mezipaměti"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
+"Obsah byl připraven a dá se zkopírovat pomocí tlačítka níže nebo stisknutím "
+"<em>{k}+C</em> na klávesnici"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "Aktuální hodnota proměnné, na kterou je tato transformace aplikována."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "Soubor '{jméno souboru}' již existuje. Přepsat tento soubor?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "Vzorec je chybně zadán"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "Index hodnoty v zadaných hodnotách."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "Knihovna jamovi není pro vaši relaci dostupná."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "Hodnota úrovně {r} je již použita."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "Hodnota úrovně nemůže být prázdná."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "Knihovna je deaktivována"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "Modul pro tuto analýzu není nainstalován nebo není k dispozici"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "Vybraná transformace je chybná a měla by být upravena."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "Hodnota v zadaných hodnotách v indexu."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "Tato analýza překročila stávající časové limity a byla ukončena."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr ""
+"Tato analýza byla ukončena, pravděpodobně z důvodu překročení limitu "
+"prostředků."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Tento soubor dat již není k dispozici"
 
 #: jamovi/client/main/backstage.js:1198
 #: jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
-msgstr ""
+msgstr "Toto zařízení"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
-msgstr ""
+msgstr "Jedná se o datovou proměnnou."
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -1966,63 +1968,63 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/backstage.js:1328
 msgid "This PC"
-msgstr ""
+msgstr "Tento počítač"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Tato relace je omezena na {} sloupců"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Tato relace je omezena na {} řádků"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Toto sezení bude každou chvíli ukončeno"
 
 #: jamovi/client/main/notification.js:35
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Toto sezení skončí přibližně za {} minut"
 
 #: jamovi/client/main/notification.js:37
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Toto sezení skončí přibližně za 1 minutu"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Tato transformace je chybná a měla by být upravena."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "Příliš mnoho dat, použijte import"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr ""
+msgstr "Transformovat"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr ""
+msgstr "Transformovat {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Transformovat: {jméno}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr ""
+msgstr "Transformovat: Žádné"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr ""
+msgstr "Transformovat..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
-msgstr ""
+msgstr "Transformovaný"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
@@ -2031,20 +2033,21 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Transformovaná proměnná"
+msgstr[1] "Vícenásobně transformované proměnné ({n})"
+msgstr[2] "Vícenásobně transformované proměnné ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "Zkuste to znovu"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
-msgstr ""
+msgstr "Nelze získat přístup k analýze"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access library"
-msgstr ""
+msgstr "Nelze získat přístup ke knihovně"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2052,17 +2055,17 @@ msgstr "Nelze procházet {}"
 
 #: jamovi/client/main/main.js:768
 msgid "Unable to connect to the server"
-msgstr ""
+msgstr "Nepodařilo se připojit k serveru"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
-msgstr ""
+msgstr "Nepodařilo se importovat {}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to install module"
-msgstr ""
+msgstr "Nepodařilo se nainstalovat modul"
 
 #: jamovi/client/main/backstage.js:1752
 #: jamovi/client/main/instance.js:275
@@ -2071,23 +2074,23 @@ msgstr ""
 #: jamovi/client/main/instance.js:322
 #: jamovi/client/main/main.js:730
 msgid "Unable to open"
-msgstr ""
+msgstr "Nepodařilo se otevřít"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to open {}"
-msgstr ""
+msgstr "Nepodařilo se otevřít {}"
 
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
-msgstr ""
+msgstr "Nelze vložit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform import"
-msgstr ""
+msgstr "Nelze provést import"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
-msgstr ""
+msgstr "Nelze splnit požadavek"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
