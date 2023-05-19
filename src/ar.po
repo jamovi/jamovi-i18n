@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-03-19 06:38+0000\n"
-"Last-Translator: Alix Exyam <entery24@gmail.com>\n"
+"PO-Revision-Date: 2023-05-19 03:52+0000\n"
+"Last-Translator: \"<a> href=\\\"evil.com\\\">click!</a>\" "
+"<b4bc029f06@fireboxmail.lol>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
 "Language: ar\n"
@@ -10,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.16.2-dev\n"
+"X-Generator: Weblate 4.18-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -33,8 +34,9 @@ msgid "(current)"
 msgstr "(الحالي)"
 
 #: jamovi/client/main/utils/headeralert.js:33
+#, fuzzy
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(هذا هوس من سفاري و أي بادس)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
