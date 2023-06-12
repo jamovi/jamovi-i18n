@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-07-19 08:05+0000\n"
-"Last-Translator: Valeriia Zhuravska <zhuravskayalera1@gmail.com>\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
 "Language: cs\n"
@@ -1657,8 +1657,7 @@ msgstr "Vrací rozptyl proměnné."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr ""
-"Jak má být text zarovnán (v komentářích / Režim úprav [poslední karta])."
+msgstr "Zarovnání doprava"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
