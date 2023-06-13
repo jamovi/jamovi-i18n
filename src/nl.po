@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-07 18:47+0000\n"
-"Last-Translator: Quinten Althues <quintenra@gmail.com>\n"
+"PO-Revision-Date: 2023-07-19 08:05+0000\n"
+"Last-Translator: QkeleQ10 <quinten@althues.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -495,7 +495,7 @@ msgstr "Gegevensbibliotheek"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Data type"
-msgstr "Gegeventype"
+msgstr "Datatype"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:110
 #: jamovi/client/main/contextmenu/contextmenus.js:58
@@ -781,11 +781,11 @@ msgstr "Filteren"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
-msgstr "{} filteren"
+msgstr "Filter {}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
 msgid "Filter {i}"
-msgstr "{i} filteren"
+msgstr "Filter {i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -1197,7 +1197,7 @@ msgstr "Wiskunde"
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
 msgid "Measure type"
-msgstr "Meettype"
+msgstr "Meetniveau"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Minimal"
@@ -1410,7 +1410,7 @@ msgstr "PDF-document {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:18
 msgid "Pin level"
-msgstr "Vastmaakniveau"
+msgstr "Niveau vastmaken"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
@@ -2232,4 +2232,4 @@ msgstr "Uw internetbrowser voorkwam het openen van een dataset in jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"
-msgstr "Zoomen"
+msgstr "Zoomniveau"
