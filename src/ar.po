@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-12 15:52+0000\n"
+"PO-Revision-Date: 2023-06-19 16:51+0000\n"
 "Last-Translator: \"<a> href=\\\"evil.com\\\">click!</a>\" "
 "<b4bc029f06@fireboxmail.lol>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 4.18.1\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"

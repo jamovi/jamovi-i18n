@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-02-01 11:05+0000\n"
-"Last-Translator: Ünal Halit ÖZDEN <uozden@ticaret.edu.tr>\n"
+"PO-Revision-Date: 2023-06-19 17:52+0000\n"
+"Last-Translator: Winnerxl <osopulika@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.16-dev\n"
+"X-Generator: Weblate 4.18.1\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -46,7 +46,6 @@ msgstr "{m} başarılı bir şekilde kaldırıldı"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "{n} dp"
 msgstr "{n} dp"
 
@@ -57,7 +56,6 @@ msgstr "{n} pozitif bir tam sayı değildir"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
-#, fuzzy
 msgid "{n} sf"
 msgstr "{n} sf"
 
@@ -382,14 +380,12 @@ msgid "Continuous"
 msgstr "Sürekli"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
-#, fuzzy
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr "ABS (IQR değişkeni) için kısa kullanım"
+msgstr "ABS(IQR( değişken )) için kısa kullanım"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
-#, fuzzy
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr "ABS (Z (değişken )) için kolaylık kısaltması"
+msgstr "ABS(Z( değişken )) için kısa kullanım"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
@@ -405,7 +401,7 @@ msgstr "Sayıyı tam sayıya çevirir."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Converts text to a number (if possible)."
-msgstr "Metin değerini sayıya çevirir (eğer mümkünse)"
+msgstr "Metin değerini sayıya çevirir (eğer mümkünse)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Converts the value to text."
@@ -653,9 +649,8 @@ msgid "Duplicate"
 msgstr "Kopyala"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
-#, fuzzy
 msgid "Duplicate transform"
-msgstr "Dönüştürmeyi yinele"
+msgstr "Dönüştürmeyi kopyala"
 
 #: jamovi/client/main/main.js:176
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -770,12 +765,10 @@ msgid "File is corrupt"
 msgstr "Dosya bozuk"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
-#, fuzzy
 msgid "File is corrupt (manifest is corrupt or missing)"
 msgstr "Dosya bozuk (üstverileri içeren dosya bozuk veya kayıp)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
-#, fuzzy
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "Dosya bozuk (üst verileri içeren dosya bozuk)"
 
@@ -826,9 +819,9 @@ msgid "Filters a variable using the filter expression."
 msgstr "Filtre ifadesini kullanarak bir değişkeni filtreler."
 
 #: jamovi/server/jamovi/server/compute/checker.py
-#, fuzzy
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
+msgstr ""
+"Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
