@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-19 17:52+0000\n"
+"PO-Revision-Date: 2023-06-19 18:51+0000\n"
 "Last-Translator: Winnerxl <osopulika@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -892,7 +892,6 @@ msgstr "Grup"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
-#, fuzzy
 msgid "Hadley"
 msgstr "Hadley"
 
@@ -1055,7 +1054,7 @@ msgstr "Yüklü sürüm uyumsuz"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Modül yüklemek planınızda mevcut değil"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1135,7 +1134,7 @@ msgstr "JASP dosyaları {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON dosyaları {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1411,7 +1410,7 @@ msgstr "Yapıştır"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Menüleri kullanarak yapıştırmak mevcut değil"
 
 #: jamovi/client/main/backstage.js:1026
 #: jamovi/client/main/backstage.js:1049
@@ -1426,7 +1425,7 @@ msgstr "Seviyeyi tuttur"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Tabloya yapıştırmak için lütfen ctrl-v kullanın."
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1585,143 +1584,143 @@ msgstr "Bir değişkendeki en yaygın değeri döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Bir sayının doğal logaritma değerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin normalleştirilmiş değerlerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Bir değişkendeki durum sayısını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Bir değişkendeki satır sayısını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Bir değişkenin genel ortalamasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Bir değişkenin genel toplamını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Satır sayılarını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin en küçük değerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Bir değişkenin en küçük değerini döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Bir sayının karekökünü döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin standart sapmasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Bir değişkenin standart sapmasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Bir değişkenin ortalamasının standart hatasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin sayılarının toplamını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Bir sayı kümesinin varyansını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "Bir değişkenin varyansını döndürür."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr ""
+msgstr "Sağa Hizalı"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr ""
+msgstr "Her değeri yuvarlar"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Her değeri üstündeki tam sayıya yuvarlar"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Her değeri altındaki tam sayıya yuvarlar"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
-msgstr ""
+msgstr "Satır sayısı"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr ""
+msgstr "Satır Filtreleri"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
 msgid "Rows"
-msgstr ""
+msgstr "Satırlar"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "SAS dosyaları {ext}"
 
 #: jamovi/client/main/backstage.js:1036
 #: jamovi/client/main/backstage.js:1059
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1295
 #: jamovi/client/main/backstage.js:319
 #: jamovi/client/main/main.js:637
 #: jamovi/client/main/menu.js:160
 msgid "Save"
-msgstr ""
+msgstr "Kaydet"
 
 #: jamovi/client/main/backstage.js:1209
 #: jamovi/client/main/backstage.js:1310
 msgid "Save As"
-msgstr ""
+msgstr "Farklı Kaydet"
 
 #: jamovi/client/main/main.js:639
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "Değişiklikleri '{title}' dosyasına kaydetmek istiyor musunuz?"
 
 #: jamovi/client/main/instance.js:438
 msgid "Save failed"
-msgstr ""
+msgstr "Kaydetme başarısız"
 
 #: jamovi/client/main/instance.js:407
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "'{filename}' olarak kaydedildi"
 
 #: jamovi/client/main/instance.js:359
 msgid "Saving"
-msgstr ""
+msgstr "Kaydediliyor"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Planlanmış bakım"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
