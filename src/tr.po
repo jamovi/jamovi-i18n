@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Æthereal <fr.izgi.kn@gmail.com>\n"
+"Last-Translator: Winnerxl <osopulika@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -846,7 +846,8 @@ msgstr "Filtre ifadesini kullanarak bir değişkeni filtreler."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
+msgstr ""
+"Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -2030,7 +2031,8 @@ msgstr "Bu analiz mevcut zaman limitini aştı ve sonlandırıldı."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
+msgstr ""
+"Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
