@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-19 23:53+0000\n"
+"PO-Revision-Date: 2023-06-20 00:51+0000\n"
 "Last-Translator: Winnerxl <osopulika@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -1890,7 +1890,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "Bu dönüşümün uygulandığı değişkenin geçerli değeri."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2113,70 +2113,70 @@ msgstr "Düzenlemeyi Geri Al"
 #: jamovi/client/main/instance.js:256
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Unexpected error"
-msgstr ""
+msgstr "Beklenmeyen hata"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Tanınmayan dosya biçimi"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
 msgid "Update"
-msgstr ""
+msgstr "Güncelleme"
 
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Update did not complete"
-msgstr ""
+msgstr "Güncelleme tamamlanmadı"
 
 #: jamovi/client/main/ribbon/appmenu.js:134
 msgid "Update is being downloaded"
-msgstr ""
+msgstr "Güncelleme indiriliyor"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Update is ready"
-msgstr ""
+msgstr "Güncelleme hazır"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 msgid "Update not found"
-msgstr ""
+msgstr "Güncelleme bulunamadı"
 
 #: jamovi/client/main/ribbon/appmenu.js:127
 msgid "Updates"
-msgstr ""
+msgstr "Güncellemeler"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Karşıya yükleme başarısız oldu"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
-msgstr ""
+msgstr "Karşıya yükleniyor"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
-msgstr ""
+msgstr "kullanmak"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr ""
+msgstr "tarafından kullanılır"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr ""
+msgstr "dönüşüm kullanarak"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "Değer, tamsayı türündeki '{}' sütunu için çok büyük"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr ""
+msgstr "Değişken son eki"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Değişken: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2184,62 +2184,68 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:220
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr ""
+msgstr "Değişkenler"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
-msgstr ""
+msgstr "Sürüm {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
-msgstr ""
+msgstr "Görünür"
 
 #: jamovi/client/main/backstage.js:1027
 #: jamovi/client/main/backstage.js:1050
 #: jamovi/client/main/resultspanel.js:743
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Web Sayfası {ext}"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
-msgstr ""
+msgstr "ne zaman"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
 msgstr ""
+"Değişken eksik bir değer içerdiğinde, değeri kullanın, aksi takdirde else'i "
+"kullanın."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "Bu ek adım neden gereklidir?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Filtrelenen satırlar gizliyken satırları silemezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Filtrelenen satırlar gizliyken satır ekleyemezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
+"Filtrelenen satırlar gizliyken, filtreleri etkileyen sütunları "
+"değiştiremezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
 msgstr ""
+"Filtrelenen satırlar gizliyken, filtreleri etkileyen dönüşümleri "
+"değiştiremezsiniz"
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "Bağlantınız kesildi. Devam etmek için lütfen sayfayı yenileyin."
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "Web tarayıcınız jamovi'nin bir veri kümesini açmasını engelledi"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr ""
+msgstr "Yakınlaştır"
