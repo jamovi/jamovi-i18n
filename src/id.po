@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-07-19 08:05+0000\n"
-"Last-Translator: Wisnu Saputra <macanmelet49@gmail.com>\n"
+"Last-Translator: zetto xandria <zetto.x07@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -159,6 +159,7 @@ msgstr "Analisa"
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
 msgstr ""
+"Analisis yang mengeksekusi kode arbitrer tidak diizinkan dalam sesi ini."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
