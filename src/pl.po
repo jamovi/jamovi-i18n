@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-19 04:52+0000\n"
+"PO-Revision-Date: 2023-07-29 13:06+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
-"Language-Team: Polish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/pl/>\n"
+"Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/pl/>\n"
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -169,7 +169,7 @@ msgstr "i"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -493,7 +493,7 @@ msgstr "Pliki danych"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Dane nieważone"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
@@ -503,7 +503,7 @@ msgstr "Biblioteka"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Pasek stanu dla danych"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -699,12 +699,12 @@ msgstr "Włącz"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Włącz/wyłącz tryb pełnoekranowy"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Wprowadź"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -749,7 +749,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Eksploracja"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
@@ -778,7 +778,7 @@ msgstr "Wyeksportowano do '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Czynnik"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
@@ -806,7 +806,7 @@ msgstr "Plik jest uszkodzony (manifest file jest uszkodzony)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Elementy menu plików"
 
 #: jamovi/client/main/instance.js:406
 msgid "File Saved"
@@ -883,7 +883,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Częstości"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1327,7 +1327,7 @@ msgstr "Informacje na temat tej funkcji są niedostępne"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Brak połączenia z Internetem"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1365,7 +1365,7 @@ msgstr "Uwaga"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Uwaga"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
@@ -1388,7 +1388,7 @@ msgstr "Ok"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1494,7 +1494,7 @@ msgstr "Obraz PNG {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Ustawienia"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1556,7 +1556,7 @@ msgstr "Odśwież"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Regresja"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1798,7 +1798,7 @@ msgstr "Szukaj"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Wyszukaj pliki"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1883,7 +1883,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Arkusz kalkulacyjny"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1941,7 +1941,7 @@ msgstr "Domyślne"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "Testy t"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1982,13 +1982,15 @@ msgstr ""
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Dane są ważone według zmiennej {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Dane są ważone, jednakże ta analiza nie obsługuje wag. W związku z tym "
+"wykorzystane zostały dane nieważone."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2145,6 +2147,8 @@ msgstr "Brak dostępu do biblioteki"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
+"Brak dostępu do Internetu (prawdopodobnie z powodu problemów ze stroną "
+"logowania)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2187,7 +2191,7 @@ msgstr "Nie można wykonać żądania"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Nie można połączyć się z biblioteką"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2311,7 +2315,7 @@ msgstr "Strona internetowa {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Wagi"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2361,8 +2365,8 @@ msgstr "Powiększenie"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Powiększ"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Pomniejsz"
