@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-06-20 00:51+0000\n"
 "Last-Translator: Winnerxl <osopulika@gmail.com>\n"
-"Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/tr/>\n"
+"Language-Team: Turkish "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -165,6 +165,10 @@ msgstr "Analiz"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "ve"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -488,11 +492,19 @@ msgstr "Veri"
 msgid "Data files"
 msgstr "Veri dosyaları"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "Veri Kütüphanesi"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -682,6 +694,15 @@ msgstr "Başka türlü kullan"
 msgid "Enable"
 msgstr "Etkinleştir"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "Açıklama girin"
@@ -723,6 +744,10 @@ msgstr "Hata"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321
@@ -748,6 +773,10 @@ msgstr "Dışa aktarıldı"
 msgid "Exported to '{filename}'"
 msgstr "'{filename}' olarak dışa aktarıldı"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:170
 msgid "File"
 msgstr "Dosya"
@@ -772,9 +801,9 @@ msgstr "Dosya bozuk (üstverileri içeren dosya bozuk veya kayıp)"
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "Dosya bozuk (üst verileri içeren dosya bozuk)"
 
-#: jamovi/client/main/instance.js:428
-msgid "File save failed."
-msgstr "Dosya kayıt işlemi başarısız oldu."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:406
 msgid "File Saved"
@@ -820,8 +849,7 @@ msgstr "Filtre ifadesini kullanarak bir değişkeni filtreler."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
-"Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
+msgstr "Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -847,6 +875,10 @@ msgid ""
 msgstr ""
 "Formül yanlış belirtilmiş (Eşitliği test etmek istiyorsanız, iki eşittir "
 "işareti '==' kullanın)"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1285,6 +1317,10 @@ msgstr "Renk yok"
 msgid "No information about this function is avaliable"
 msgstr "Bu işlev hakkında hiçbir bilgi mevcut değil"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
 msgstr "Tanınmış veri dosyası bulunamadı."
@@ -1319,6 +1355,10 @@ msgstr "Eşit değil"
 msgid "Note"
 msgstr "Not"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
 msgstr "Sayı biçimi"
@@ -1336,6 +1376,11 @@ msgstr "Tamam"
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "Tamam"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1439,6 +1484,10 @@ msgstr "Şekiller"
 msgid "PNG Image {ext}"
 msgstr "PNG Resmi {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Önceki değişken"
@@ -1496,6 +1545,10 @@ msgstr "Kaynaklar"
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
 msgstr "Yenile"
+
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1575,6 +1628,10 @@ msgid "Returns the mean of a set of numbers."
 msgstr "Bir sayı kümesinin ortalamasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
 msgstr "Bir değişkenin medyanını döndürür."
 
@@ -1606,6 +1663,10 @@ msgstr "Bir değişkenin genel ortalamasını döndürür."
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
 msgstr "Bir değişkenin genel toplamını döndürür."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1727,6 +1788,10 @@ msgstr "Planlanmış bakım"
 msgid "Search"
 msgstr "Ara"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Değişkenleri ara"
@@ -1808,6 +1873,10 @@ msgstr ""
 "Metni bir ayırıcıya göre parçalara böler. <i>piece</i> istenen parçayı "
 "dizine göre belirtir."
 
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
 msgstr "SPSS dosyası {ext}"
@@ -1862,6 +1931,10 @@ msgstr "Söz dizimi modu"
 msgid "System default"
 msgstr "Sistem varsayılanı"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "Tablo"
@@ -1891,6 +1964,23 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
 msgstr "Bu dönüşümün uygulandığı değişkenin geçerli değeri."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -1938,8 +2028,7 @@ msgstr "Bu analiz mevcut zaman limitini aştı ve sonlandırıldı."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
-"Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
+msgstr "Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2040,6 +2129,10 @@ msgstr "Analize erişilemiyor"
 msgid "Unable to access library"
 msgstr "Kütüphaneye erişilemiyor"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "{} göz atılamıyor"
@@ -2067,10 +2160,6 @@ msgstr "Modül yüklenemiyor"
 msgid "Unable to open"
 msgstr "Açılamıyor"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "{} açılamıyor"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "Yapıştırılamıyor"
@@ -2082,6 +2171,10 @@ msgstr "İçe aktarma gerçekleştirilemiyor"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "İstek gerçekleştirilemiyor"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2200,6 +2293,13 @@ msgstr "Görünür"
 msgid "Web Page {ext}"
 msgstr "Web Sayfası {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "ne zaman"
@@ -2249,3 +2349,11 @@ msgstr "Web tarayıcınız jamovi'nin bir veri kümesini açmasını engelledi"
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
 msgstr "Yakınlaştır"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

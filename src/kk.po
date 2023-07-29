@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-12-26 18:50+0000\n"
 "Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
-"Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/kk/>\n"
+"Language-Team: Kazakh "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/kk/>\n"
 "Language: kk\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 4.15.1-dev\n"
@@ -76,7 +76,9 @@ msgid "Accent"
 msgstr "акценттелген"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
 msgstr ""
 "кіру рұқсаты жоқ. Бұл ресурсқа кіру үшін сізде тиісті рұқсаттар болмауы "
 "мүмкін."
@@ -165,6 +167,10 @@ msgstr "талдау"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "және"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:107
@@ -489,11 +495,19 @@ msgstr "деректер"
 msgid "Data files"
 msgstr "деректер файлдары"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1319
 #: jamovi/client/main/backstage.js:1399
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "деректер кітапханасы"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Data type"
@@ -585,7 +599,10 @@ msgid "Desktop"
 msgstr "жұмыс үстелі"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
 "элементтердің кез келгенінің in1, in2, in3, ... ішінде пайда болуын "
 "анықтайды. Бұл аргументтердің көпшілігі міндетті емес екенін ескеріңіз -- "
@@ -620,7 +637,9 @@ msgid "Downloads"
 msgstr "жүктеулер"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgid ""
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
 "айнымалыдан n таңдауын жасайды. яғни SAMPLE(var, 20), яғни. SAMPLE(1, 20), "
 "яғни.SAMPLE('training', 20, 'test')"
@@ -679,6 +698,15 @@ msgstr "басқаша пайдалану"
 msgid "Enable"
 msgstr "рұқсат ету"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "сипаттаманы еңгізу"
@@ -720,6 +748,10 @@ msgstr "қате"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1355
 #: jamovi/client/main/backstage.js:1452
 #: jamovi/client/main/backstage.js:377
@@ -745,6 +777,10 @@ msgstr "экспортталған"
 msgid "Exported to '{filename}'"
 msgstr "\"{filename}\" файлына экспортталды"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:183
 msgid "File"
 msgstr "файл"
@@ -769,9 +805,9 @@ msgstr "файл бүлінген (манифест бүлінген немес�
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "файл бүлінген (манифест — бүлінген)"
 
-#: jamovi/client/main/instance.js:501
-msgid "File save failed."
-msgstr "файл сақталмады."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:479
 msgid "File Saved"
@@ -839,10 +875,16 @@ msgid "Formula contains illegal node"
 msgstr "формула заңсыз түйінді қамтиды"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two equals "
+"signs '==')"
 msgstr ""
 "формула қате көрсетілген (Егер теңдікті тексергіңіз келсе, «==» екі теңдік "
 "белгісін пайдаланыңыз)"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1086,14 +1128,20 @@ msgid "jamovi files {ext}"
 msgstr "jamovi файлдары {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
-msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
 msgstr ""
 "jamovi енді { insert translation language } тілінде қолжетімді! (Үлкен "
 "рахмет { insert your name here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
 msgstr ""
 "jamovi енді { insert translation language } тілінде қолжетімді! (Үлкен "
 "рахмет @{ insert your twitter handle here (or put a more generic \"the "
@@ -1278,6 +1326,10 @@ msgstr "түссіз"
 msgid "No information about this function is avaliable"
 msgstr "бұл функция туралы ақпарат қолжетімді емес"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:675
 msgid "No recognised data files were found."
 msgstr "ешқандай танылатын деректер файлдары табылмады."
@@ -1312,6 +1364,10 @@ msgstr "тең емес"
 msgid "Note"
 msgstr "ескертпе"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "Number format"
 msgstr "сан форматы"
@@ -1329,6 +1385,11 @@ msgstr "Ок"
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "ок"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:445
 msgid ""
@@ -1432,6 +1493,10 @@ msgstr "графиктер"
 msgid "PNG Image {ext}"
 msgstr "PNG кескіні {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
 msgstr "алдыңғы айнымалы"
@@ -1490,6 +1555,10 @@ msgstr "әдебиетке сілтемелер"
 msgid "Refresh"
 msgstr "жаңарту"
 
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
+
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:577
 #: jamovi/client/main/resultspanel.js:599
@@ -1534,7 +1603,10 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "fйнымалының Box Cox түрлендіруін қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the "
+"value is within the box of a Boxplot 0 is returned, absolute values larger "
+"than 1.5 are outside the whiskers."
 msgstr ""
 "шектен тыс көрсеткіштер Айнымалы мәннің IQR сәйкес шектен тыс мән екенін "
 "қайтарады: егер мән Boxplot жолағында болса, 0 қайтарылады, 1,5-тен жоғары "
@@ -1563,6 +1635,10 @@ msgstr "айнымалының ең үлкен мәнін қайтарады."
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
 msgstr "сандар жиынының орташа мәнін береді."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
@@ -1596,6 +1672,10 @@ msgstr "айнымалының жалпы орташа мәнін қайтара
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
 msgstr "айнымалының жалпы қосындысын береді."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1717,6 +1797,10 @@ msgstr "жоспарлы техникалық қызмет көрсету"
 msgid "Search"
 msgstr "іздеу"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "айнымалыларды іздеу"
@@ -1791,10 +1875,16 @@ msgid "Special Import"
 msgstr "арнайы импорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 "мәтінді бөлгіш негізінде бөліктерге бөледі. <i>дана</i> қажетті бөлікті "
 "индекс бойынша нақтылайды."
+
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
@@ -1850,6 +1940,10 @@ msgstr "cинтаксис режимі"
 msgid "System default"
 msgstr "жүйе әдепкі"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:171
 msgid "Table"
 msgstr "кесте"
@@ -1869,14 +1963,33 @@ msgid "The content has been copied to the clipboard"
 msgstr "мазмұны алмасу буферіне көшірілді"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgid ""
+"The content has been prepared, and can be copied with the button below, or "
+"by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
-"мазмұн дайындалды және төмендегі батырмамен немесе пернетақтада <em>{k}+C</"
-"em> пернелер тіркесімін басу арқылы көшірілуі мүмкін"
+"мазмұн дайындалды және төмендегі батырмамен немесе пернетақтада "
+"<em>{k}+C</em> пернелер тіркесімін басу арқылы көшірілуі мүмкін"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
 msgstr "бұл түрлендіру қолданылатын айнымалының ағымдағы мәні."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:494
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -1920,8 +2033,7 @@ msgstr "индекс бойынша берілген мәндердегі мән
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
-"бұл талдау ағымдағы уақыт шегінен асып кетті және сол себептен тоқтатылды."
+msgstr "бұл талдау ағымдағы уақыт шегінен асып кетті және сол себептен тоқтатылды."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
@@ -2026,6 +2138,10 @@ msgstr "талдауға қатынасу мүмкін емес"
 msgid "Unable to access library"
 msgstr "кітапханаға кіру мүмкін емес"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "{} шолу мүмкін емес"
@@ -2053,10 +2169,6 @@ msgstr "модульді орнату мүмкін емес"
 msgid "Unable to open"
 msgstr "ашу мүмкін емес"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "{} ашу мүмкін емес"
-
 #: jamovi/client/main/viewcontroller.js:373
 msgid "Unable to paste"
 msgstr "қою мүмкін емес"
@@ -2068,6 +2180,10 @@ msgstr "импорттау мүмкін емес"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "өтінішті орындау мүмкін емес"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2188,12 +2304,21 @@ msgstr "көрінетін"
 msgid "Web Page {ext}"
 msgstr "веб-бет {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "қашан"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgid ""
+"When the variable contains a missing value, use the value, otherwise the "
+"else."
 msgstr "айнымалы мәнде жетіспейтін мән болса, мәнді пайдаланыңыз, әйтпесе else."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
@@ -2215,7 +2340,9 @@ msgstr ""
 "өзгерте алмайсыз"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
 msgstr ""
 "сүзгіленген қатарлар жасырылған кезде сүзгілерге әсер ететін түрлендірулерді "
 "өзгерте алмайсыз"
@@ -2231,3 +2358,11 @@ msgstr "сіздің веб-браузеріңіз jamovi-ге деректер 
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"
 msgstr "масштабтау"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

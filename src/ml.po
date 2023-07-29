@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-04-17 07:49+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
-"Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ml/>\n"
+"Language-Team: Malayalam "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ml/>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -166,6 +166,10 @@ msgstr "വിശകലനം"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "ഒപ്പം"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -488,11 +492,19 @@ msgstr "ഡാറ്റ"
 msgid "Data files"
 msgstr "ഡാറ്റ ഫയലുകൾ"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "ഡാറ്റ ലൈബ്രറി"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -684,6 +696,15 @@ msgstr "അല്ലെങ്കിൽ"
 msgid "Enable"
 msgstr "എനേബിൾ"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "വിവരണം നൽകുക"
@@ -725,6 +746,10 @@ msgstr "എറർ"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
 #: jamovi/client/main/backstage.js:323
@@ -750,6 +775,10 @@ msgstr "എക്സ്പോർട്ട് ചെയ്തു"
 msgid "Exported to '{filename}'"
 msgstr "'{filename}' ലേക്ക് എക്സ്പോർട്ട് ചെയ്തു"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:176
 msgid "File"
 msgstr "ഫയൽ"
@@ -774,9 +803,9 @@ msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is 
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is corrupt)"
 
-#: jamovi/client/main/instance.js:496
-msgid "File save failed."
-msgstr "ഫയൽ സേവ് ചെയ്യാനായില്ല."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -850,6 +879,10 @@ msgid ""
 msgstr ""
 "ഫോർമുല തെറ്റായി സ്പെസിഫൈ ചെയ്തിരിക്കുന്നു (തുല്യത പരീക്ഷിക്കാനാണെങ്കിൽ, "
 "രണ്ട് തുല്യ ചിഹ്നങ്ങൾ '==' ഉപയോഗിക്കുക)"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1293,6 +1326,10 @@ msgstr "നിറമില്ല"
 msgid "No information about this function is avaliable"
 msgstr "ഈ ഫങ്ഷനെ കുറിച്ചുള്ള ഒരു വിവരവും ലഭ്യമല്ല"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
 msgstr "ചേരുന്ന ഡാറ്റ ഫയലുകളൊന്നും കണ്ടില്ല."
@@ -1327,6 +1364,10 @@ msgstr "തുല്യമല്ല"
 msgid "Note"
 msgstr "കുറിപ്പ്"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
 msgstr "സംഖ്യാ ഫോർമാറ്റ്"
@@ -1344,6 +1385,11 @@ msgstr ""
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "ഓക്കേ"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1447,6 +1493,10 @@ msgstr "പ്ലോട്ടുകൾ"
 msgid "PNG Image {ext}"
 msgstr "PNG ചിത്രം {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "തൊട്ടു മുമ്പത്തെ വേരിയബിൾ"
@@ -1504,6 +1554,10 @@ msgstr "അവലംബങ്ങൾ"
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
 msgstr "റിഫ്രഷ്"
+
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1582,6 +1636,10 @@ msgstr "ഒരു വേരിയബിളിന്റെ ഏറ്റവും 
 msgid "Returns the mean of a set of numbers."
 msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ ശരാശരി തരുന്നു."
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
 msgstr "ഒരു വേരിയബിളിന്റെ മീഡിയൻ തരുന്നു."
@@ -1614,6 +1672,10 @@ msgstr "ഒരു വേരിയബിളിന്റെ ആകെ ശരാശ
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
 msgstr "ഒരു വേരിയബിളിന്റെ ആകെ തുക തരുന്നു."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1735,6 +1797,10 @@ msgstr "ഷെഡ്യൂൾ ചെയ്ത അറ്റകുറ്റപ്�
 msgid "Search"
 msgstr ""
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "വേരിയബിളുകൾ തിരയുക"
@@ -1816,6 +1882,10 @@ msgstr ""
 "ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള "
 "കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
 
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
 msgstr "SPSS ഫയലുകൾ {ext}"
@@ -1870,6 +1940,10 @@ msgstr "സിന്റാക്സ് മോഡ്"
 msgid "System default"
 msgstr "സിസ്റ്റം ഡിഫോൾട്ട്"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "പട്ടിക"
@@ -1899,6 +1973,23 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
 msgstr "ഈ ട്രാൻസ്ഫോം പ്രയോഗിക്കാനുള്ള വേരിയബിളിന്റെ ഇപ്പോഴത്തെ മൂല്യം."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2049,6 +2140,10 @@ msgstr "വിശകലനം ആക്സസ് ചെയ്യാനായി�
 msgid "Unable to access library"
 msgstr "ലൈബ്രറി ആക്സസ് ചെയ്യാനായില്ല"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "{} ബ്രൌസ് ചെയ്യാൻ പറ്റിയില്ല"
@@ -2076,10 +2171,6 @@ msgstr "മൊഡ്യൂൾ ഇൻസ്റ്റാൾ ചെയ്യാന�
 msgid "Unable to open"
 msgstr "തുറക്കാനാവുന്നില്ല"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "{} തുറക്കാനാവുന്നില്ല"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "പേസ്റ്റ് ചെയ്യാൻ പറ്റിയില്ല"
@@ -2091,6 +2182,10 @@ msgstr "ഇംപോർട്ട് ചെയ്യാൻ പറ്റിയി�
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "ആവശ്യം നിർവഹിക്കാൻ പറ്റിയില്ല"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2211,6 +2306,13 @@ msgstr "ദൃശ്യമാണ്"
 msgid "Web Page {ext}"
 msgstr "വെബ് പേജ് {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "എപ്പോൾ"
@@ -2260,3 +2362,11 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
 msgstr "സൂം"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

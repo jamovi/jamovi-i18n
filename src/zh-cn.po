@@ -4,8 +4,8 @@ msgstr ""
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
 "PO-Revision-Date: 2022-12-03 14:48+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
-"Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
-"jamovi/jamovi-i18n/zh_Hans/>\n"
+"Language-Team: Chinese (Simplified) "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -167,6 +167,10 @@ msgstr "分析"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "和"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -482,10 +486,18 @@ msgstr "数据"
 msgid "Data files"
 msgstr "数据文件"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "数据库"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -673,6 +685,15 @@ msgstr "否则使用"
 msgid "Enable"
 msgstr "启用"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "输入说明"
@@ -713,6 +734,10 @@ msgstr "错误"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
 #: jamovi/client/resultsview/element.js:134
@@ -735,6 +760,10 @@ msgstr "已导出"
 #: jamovi/client/main/instance.js:390
 msgid "Exported to '{filename}'"
 msgstr "导出到 '{filename}'"
+
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
 
 #: jamovi/client/main/main.js:169
 msgid "File"
@@ -760,9 +789,9 @@ msgstr "文件已损坏（manifest 已损坏或丢失）"
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "文件已损坏 (manifest 已损坏)"
 
-#: jamovi/client/main/instance.js:425
-msgid "File save failed."
-msgstr "文件保存失败。"
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:403
 msgid "File Saved"
@@ -831,6 +860,10 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr "公式指定错误（如果您想要判断是否相等，请使用双等符号 '=='）"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1258,6 +1291,10 @@ msgstr "无颜色"
 msgid "No information about this function is avaliable"
 msgstr "没有关于此功能的可用信息"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
 msgstr "未找到可识别的数据文件。"
@@ -1290,6 +1327,10 @@ msgstr "不等于"
 msgid "Note"
 msgstr "注释"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Number format"
 msgstr "数字格式"
@@ -1306,6 +1347,11 @@ msgstr "OK"
 #: jamovi/client/main/infobox.js:37
 msgid "OK"
 msgstr "好的"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:358
 msgid ""
@@ -1405,6 +1451,10 @@ msgstr "绘图"
 msgid "PNG Image {ext}"
 msgstr "PNG 图像 {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "上一个变量"
@@ -1458,6 +1508,10 @@ msgstr "参考"
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
 msgstr "刷新"
+
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
 
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1532,6 +1586,10 @@ msgid "Returns the mean of a set of numbers."
 msgstr "返回一组数字的平均值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
 msgstr "返回变量的中位数。"
 
@@ -1563,6 +1621,10 @@ msgstr "返回变量的整体平均值。"
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
 msgstr "返回变量的总和。"
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1679,6 +1741,10 @@ msgstr "定期维护"
 msgid "Search"
 msgstr "搜索"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "搜索变量"
@@ -1757,6 +1823,10 @@ msgid ""
 "desired piece by index."
 msgstr "根据分隔符将文本拆分为多个部分。 <i>piece</i> 按索引指定所需的片段。"
 
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
 msgstr "SPSS 文件 {ext}"
@@ -1809,6 +1879,10 @@ msgstr "语法模式"
 msgid "System default"
 msgstr "系统默认"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "表格"
@@ -1836,6 +1910,23 @@ msgstr "内容已准备好，可以使用下面的按钮进行复制，也可以
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
 msgstr "应用此转换的变量的当前值。"
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:418
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -1982,6 +2073,10 @@ msgstr "无法访问分析"
 msgid "Unable to access library"
 msgstr "无法访问库"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "无法浏览 {}"
@@ -2006,10 +2101,6 @@ msgstr "无法安装模块"
 msgid "Unable to open"
 msgstr "无法打开"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "无法打开 {}"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "无法粘贴"
@@ -2021,6 +2112,10 @@ msgstr "无法执行导入"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "无法执行请求"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2137,6 +2232,13 @@ msgstr "可见的"
 msgid "Web Page {ext}"
 msgstr "网页 {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "当"
@@ -2180,3 +2282,11 @@ msgstr "您的网络浏览器正阻止 jamovi 打开数据集"
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
 msgstr "缩放"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

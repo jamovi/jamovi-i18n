@@ -4,8 +4,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2022-11-09 23:48+0000\n"
 "Last-Translator: Andre Sichelero <andresichelero@outlook.com>\n"
-"Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/pt/>\n"
+"Language-Team: Portuguese "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -160,8 +160,7 @@ msgstr "Análises"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
-"Análises que executam código arbitrário não são permitidas nesta sessão."
+msgstr "Análises que executam código arbitrário não são permitidas nesta sessão."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -170,6 +169,10 @@ msgstr "Análise"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "e"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -485,10 +488,18 @@ msgstr "Dados"
 msgid "Data files"
 msgstr "Ficheiro de Dados"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "Biblioteca de Dados"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -677,6 +688,15 @@ msgstr "caso contrário usar"
 msgid "Enable"
 msgstr "Habilitar"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "Introduzir descrição"
@@ -717,6 +737,10 @@ msgstr "Erro"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
 #: jamovi/client/resultsview/element.js:134
@@ -739,6 +763,10 @@ msgstr "Exportado"
 #: jamovi/client/main/instance.js:390
 msgid "Exported to '{filename}'"
 msgstr "Exportado para '{filename}'"
+
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
 
 #: jamovi/client/main/main.js:169
 msgid "File"
@@ -764,9 +792,9 @@ msgstr "O ficheiro está danificado (o manifesto está danificado ou em falta)"
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "Ficheiro danificado (manifesto danificado)"
 
-#: jamovi/client/main/instance.js:425
-msgid "File save failed."
-msgstr "Gravação do ficheiro falhou."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:403
 msgid "File Saved"
@@ -840,6 +868,10 @@ msgstr ""
 "A fórmula foi especificada incorretamente (se quiser testar a igualdade, use "
 "dois sinais de igual '==')"
 
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
+
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
@@ -894,8 +926,8 @@ msgstr "Cabeçalho"
 msgid "Help"
 msgstr "Ajuda"
 
-#. ????
 #: jamovi/client/main/infobox.js:34
+#. ????
 msgid "Hi"
 msgstr "Hi"
 
@@ -1273,6 +1305,10 @@ msgstr "Sem cor"
 msgid "No information about this function is avaliable"
 msgstr "Não há informação disponível sobre esta função"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
 msgstr "Nenhum ficheiro de dados de formato conhecido foi encontrado."
@@ -1305,6 +1341,10 @@ msgstr "Diferente de"
 msgid "Note"
 msgstr "Nota"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Number format"
 msgstr "Formato numérico"
@@ -1321,6 +1361,11 @@ msgstr "Ok"
 #: jamovi/client/main/infobox.js:37
 msgid "OK"
 msgstr "OK"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:358
 msgid ""
@@ -1419,6 +1464,10 @@ msgstr "Gráficos"
 msgid "PNG Image {ext}"
 msgstr "Imagem PNG {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Variável prévia"
@@ -1472,6 +1521,10 @@ msgstr "Referências"
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
 msgstr "Atualizar"
+
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
 
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1549,6 +1602,10 @@ msgid "Returns the mean of a set of numbers."
 msgstr "Retorna a média de um conjunto de números."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
 msgstr "Retorna a mediana de uma variável."
 
@@ -1580,6 +1637,10 @@ msgstr "Retorna a média geral de uma variável."
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
 msgstr "Retorna a soma de uma variável."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1696,6 +1757,10 @@ msgstr "Manutenção agendada"
 msgid "Search"
 msgstr "Pesquisar"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Variáveis de pesquisa"
@@ -1776,6 +1841,10 @@ msgstr ""
 "Divide o texto em partes com base num separador. <i>peça</i> especifica a "
 "parte desejada pelo índice."
 
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
 msgstr "Ficheiros SPSS {ext}"
@@ -1828,6 +1897,10 @@ msgstr "Modo de Sintaxe"
 msgid "System default"
 msgstr "Padrão do sistema"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "Tabela"
@@ -1857,6 +1930,23 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
 msgstr "O valor atual da variável à qual esta transformação é aplicada."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:418
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2005,6 +2095,10 @@ msgstr "Não é possível aceder à análise"
 msgid "Unable to access library"
 msgstr "Não é possível aceder à biblioteca"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "Não é possível navegar {}"
@@ -2029,10 +2123,6 @@ msgstr "Não é possível instalar o módulo"
 msgid "Unable to open"
 msgstr "Não é possível abrir"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "Não é possível abrir {}"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "Não é possível colar"
@@ -2044,6 +2134,10 @@ msgstr "Não é possível importar"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "Não é possível realizar o pedido"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2160,6 +2254,13 @@ msgstr "Visível"
 msgid "Web Page {ext}"
 msgstr "Página Web {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "quando"
@@ -2207,3 +2308,11 @@ msgstr "Seu navegador da web impediu jamovi de abrir um conjunto de dados"
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
 msgstr "Zoom"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

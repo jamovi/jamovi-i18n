@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-11-04 05:08+0000\n"
 "Last-Translator: 이정희 <daemul72@gmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ko/>\n"
+"Language-Team: Korean "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -164,6 +164,10 @@ msgstr "분석"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "그리고"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -485,11 +489,19 @@ msgstr "데이터"
 msgid "Data files"
 msgstr "데이터 파일"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "데이터 라이브러리"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -675,6 +687,15 @@ msgstr "다른 사용"
 msgid "Enable"
 msgstr "가능하게 하다"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "설명 입력"
@@ -716,6 +737,10 @@ msgstr "오류"
 msgid "Excel {ext}"
 msgstr "엑셀 {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
 #: jamovi/client/main/backstage.js:323
@@ -741,6 +766,10 @@ msgstr "내보내짐"
 msgid "Exported to '{filename}'"
 msgstr "‘{filename}’ 으로 내보내짐"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:176
 msgid "File"
 msgstr "파일"
@@ -765,9 +794,9 @@ msgstr "파일이 손상되었습니다 (명세서가 손상되었거나 누락�
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "파일이 손상되었습니다 (명세서가 손상됨)"
 
-#: jamovi/client/main/instance.js:496
-msgid "File save failed."
-msgstr "파일 저장 실패."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -837,6 +866,10 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr "수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 사용하세요)"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1271,6 +1304,10 @@ msgstr "색상 없음"
 msgid "No information about this function is avaliable"
 msgstr "이 기능에 대한 정보가 없습니다"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
 msgstr "인식된 데이터 파일을 찾을 수 없습니다."
@@ -1305,6 +1342,10 @@ msgstr "같지 않음"
 msgid "Note"
 msgstr "노트"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
 msgstr "숫자형식"
@@ -1322,6 +1363,11 @@ msgstr "확인"
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "확인"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1423,6 +1469,10 @@ msgstr "도표"
 msgid "PNG Image {ext}"
 msgstr "PNG 이미지 {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "이전 변수"
@@ -1480,6 +1530,10 @@ msgstr "참고문헌"
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
 msgstr "새로고침"
+
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1557,6 +1611,10 @@ msgstr "변수의 가장 큰 값을 반환합니다."
 msgid "Returns the mean of a set of numbers."
 msgstr "숫자 집합의 평균을 반환합니다."
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
 msgstr "변수의 중앙값을 반환합니다."
@@ -1589,6 +1647,10 @@ msgstr "변수의 전체 평균을 반환합니다."
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
 msgstr "변수의 전체 합계를 반환합니다."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1710,6 +1772,10 @@ msgstr "정기 점검"
 msgid "Search"
 msgstr "검색하기"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "변수 검색"
@@ -1789,6 +1855,10 @@ msgid ""
 "desired piece by index."
 msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>조각</i>은 인덱스별로 원하는 조각을 지정합니다."
 
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
 msgstr "SPSS 파일 {ext}"
@@ -1843,6 +1913,10 @@ msgstr "구문모드"
 msgid "System default"
 msgstr "디폴트"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "테이블"
@@ -1870,6 +1944,23 @@ msgstr "콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보�
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
 msgstr "이 변환이 적용되는 변수의 현재 값입니다."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2017,6 +2108,10 @@ msgstr "분석에 액세스할 수 없습니다"
 msgid "Unable to access library"
 msgstr "라이브러리에 액세스할 수 없습니다"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "{}을(를) 탐색할 수 없습니다"
@@ -2044,10 +2139,6 @@ msgstr "모듈을 설치할 수 없습니다"
 msgid "Unable to open"
 msgstr "열 수 없음"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "열 수 없음 {}"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "붙여넣을 수 없음"
@@ -2059,6 +2150,10 @@ msgstr "가져오기를 수행할 수 없습니다"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "요청을 수행할 수 없음"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2179,6 +2274,13 @@ msgstr "가시화"
 msgid "Web Page {ext}"
 msgstr "웹페이지 {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "언제"
@@ -2222,3 +2324,11 @@ msgstr "웹 브라우저에서 jamovi가 데이터 세트를 열지 못했습니
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
 msgstr "확대"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

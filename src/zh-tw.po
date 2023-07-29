@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2022-12-19 06:48+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
-"Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
-"jamovi/jamovi-i18n/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional) "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh-tw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -164,6 +164,10 @@ msgstr "分析"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "和"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -485,11 +489,19 @@ msgstr "資料"
 msgid "Data files"
 msgstr "資料檔案"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "資料庫"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -582,9 +594,8 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"判斷是否有任何項目(item)出現在in1, in2, in3, .... "
-"值得注意的是大多前述參數是非強制須指定的 -- 可以僅使用<strong>CONTAINS("
-"needle, haystack)</strong>即可。"
+"判斷是否有任何項目(item)出現在in1, in2, in3, .... 值得注意的是大多前述參數是非強制須指定的 -- "
+"可以僅使用<strong>CONTAINS(needle, haystack)</strong>即可。"
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -618,9 +629,7 @@ msgstr "下載"
 msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE("
-"'training', 20, 'test')"
+msgstr "從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -676,6 +685,15 @@ msgstr "否則使用"
 msgid "Enable"
 msgstr "啟用"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "輸入描述"
@@ -717,6 +735,10 @@ msgstr "錯誤"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
 #: jamovi/client/main/backstage.js:323
@@ -742,6 +764,10 @@ msgstr "已匯出"
 msgid "Exported to '{filename}'"
 msgstr "匯出到'{filename}'"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:176
 msgid "File"
 msgstr "檔案"
@@ -766,9 +792,9 @@ msgstr "檔案已損毀 (資訊清單檔案損毀或遺失)"
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "檔案已損毀 (資訊清單檔案損毀)"
 
-#: jamovi/client/main/instance.js:496
-msgid "File save failed."
-msgstr "檔案儲存失敗。"
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -838,6 +864,10 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr "公式指定錯誤(如果想要判斷是否相等，請使用雙等號'==')"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1272,6 +1302,10 @@ msgstr "無顏色"
 msgid "No information about this function is avaliable"
 msgstr "無此函數的相關資訊"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
 msgstr "未找到可辨識的資料檔案。"
@@ -1306,6 +1340,10 @@ msgstr "不等於"
 msgid "Note"
 msgstr "備註"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
 msgstr "數值格式"
@@ -1323,6 +1361,11 @@ msgstr "Ok"
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "OK"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1424,6 +1467,10 @@ msgstr "統計圖型"
 msgid "PNG Image {ext}"
 msgstr "PNG檔 {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "前一個變數"
@@ -1482,6 +1529,10 @@ msgstr "參考文獻"
 msgid "Refresh"
 msgstr "重新整理"
 
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
+
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1532,8 +1583,7 @@ msgid ""
 "than 1.5 are outside the whiskers."
 msgstr ""
 "依據四分位差(IQR)來判斷變數(variable)是否為離群值: "
-"若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1."
-"5則落在箱型圖的鬚(whiskers)外為離群值。"
+"若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1.5則落在箱型圖的鬚(whiskers)外為離群值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1549,27 +1599,27 @@ msgstr "傳回輸入數值(number)以自然數e為底的指數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "傳回資料數值(variable 1, variable 2, ... "
-"可輸入多項變數)中之最大值(每列分開計算)。"
+msgstr "傳回資料數值(variable 1, variable 2, ... 可輸入多項變數)中之最大值(每列分開計算)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
-msgstr "傳回整欄資料變數(variable)中的最大值，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)中的最大值，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
 msgstr "傳回資料數值(number 1, number 2, ...)的平均數(每列分開計算)。"
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr "傳回整欄資料變數(variable)的中位數，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的中位數，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr "傳回整欄資料變數(variable)的眾數，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的眾數，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
@@ -1590,13 +1640,15 @@ msgstr "傳回資料變數(variable)的列數(包含缺漏值)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr "傳回資料變數(variable)所有資料的平均數，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回資料變數(variable)所有資料的平均數，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分組變數做分組計算(如: group_by=dose)。"
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1608,8 +1660,7 @@ msgstr "傳回資料數值(variable 1, variable 2, ...)中的最小值，每一�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr "傳回整欄資料變數(variable)的最小值，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的最小值，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
@@ -1621,14 +1672,11 @@ msgstr "傳回資料數值(number 1, number 2, ...)的標準差，每一列分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr "傳回整欄資料變數(variable)的標準差，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的標準差，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
-"傳回整欄資料變數(variable)樣本平均數的標準誤(standard "
-"error)，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)樣本平均數的標準誤(standard error)，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
@@ -1640,8 +1688,7 @@ msgstr "傳回資料數值(number 1, number 2, ...)的變異數，每一列分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr "傳回整欄資料變數(variable)的變異數，支援以其他分組變數做分組計算(如: "
-"group_by=dose)。"
+msgstr "傳回整欄資料變數(variable)的變異數，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -1723,6 +1770,10 @@ msgstr "定期維護進行中"
 msgid "Search"
 msgstr "搜尋"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "搜尋變數"
@@ -1800,8 +1851,11 @@ msgstr "特殊匯入"
 msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
-msgstr "依照分隔符號(sep)分割文字。<i>piece</i> "
-"是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
+msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
+
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
@@ -1857,6 +1911,10 @@ msgstr "程式語法模式(Syntax)"
 msgid "System default"
 msgstr "系統預設"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "表格"
@@ -1884,6 +1942,23 @@ msgstr "內容已準備完畢，可用下方按鈕複製，或使用鍵盤的 <e
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
 msgstr "轉換要套用的當前變數值。"
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2031,6 +2106,10 @@ msgstr "無法存取分析"
 msgid "Unable to access library"
 msgstr "無法存取套件庫"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "無法瀏覽{}"
@@ -2058,10 +2137,6 @@ msgstr "無法安裝模組"
 msgid "Unable to open"
 msgstr "無法開啟"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "無法開啟{}"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "無法貼上"
@@ -2073,6 +2148,10 @@ msgstr "無法執行匯入"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "無法執行要求"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2193,6 +2272,13 @@ msgstr "可見的"
 msgid "Web Page {ext}"
 msgstr "網頁 {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "當"
@@ -2236,3 +2322,11 @@ msgstr "您的瀏覽器已阻擋Jamovi開啟資料集"
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
 msgstr "縮放比例"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

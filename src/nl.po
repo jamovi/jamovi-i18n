@@ -2,11 +2,11 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-07-26 12:02+0000\n"
 "Last-Translator: QkeleQ10 <quinten@althues.nl>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
-"nl/>\n"
+"Language-Team: Dutch "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
-"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Weblate 5.0-dev\n"
@@ -75,7 +75,9 @@ msgid "Accent"
 msgstr "Accentkleur"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
 msgstr ""
 "Toegang geweigerd. U hebt mogelijk niet de juiste machtigingen om toegang te "
 "krijgen tot deze bron."
@@ -155,8 +157,7 @@ msgstr "Analyses"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
-"Analyses die arbitraire code uitvoeren worden in deze sessie niet toegestaan."
+msgstr "Analyses die arbitraire code uitvoeren worden in deze sessie niet toegestaan."
 
 #: jamovi/client/resultsview/main.js:122
 msgid "Analysis"
@@ -165,6 +166,10 @@ msgstr "Analyse"
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "en"
+
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:107
@@ -487,11 +492,19 @@ msgstr "Gegevens"
 msgid "Data files"
 msgstr "Gegevensbestanden"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1319
 #: jamovi/client/main/backstage.js:1399
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "Gegevensbibliotheek"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Data type"
@@ -583,11 +596,14 @@ msgid "Desktop"
 msgstr "Bureaublad"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
 "Bepaalt of items voorkomen in in1, in2, in3, .... Merk op dat de meeste "
-"argumenten optioneel zijn -- het is mogelijk om simpelweg <strong>CONTAINS("
-"naald, hooiberg)</strong> te gebruiken."
+"argumenten optioneel zijn -- het is mogelijk om simpelweg "
+"<strong>CONTAINS(naald, hooiberg)</strong> te gebruiken."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"
@@ -618,7 +634,9 @@ msgid "Downloads"
 msgstr "Downloads"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgid ""
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
 "Neemt een steekproef met lengte n af bij de variabele. Bijv: SAMPLE(var, 20) "
 "of SAMPLE(1, 20) of SAMPLE('training', 20, 'test')"
@@ -677,6 +695,15 @@ msgstr "anders, gebruik"
 msgid "Enable"
 msgstr "Inschakelen"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "Beschrijving opgeven"
@@ -718,6 +745,10 @@ msgstr "Fout"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1355
 #: jamovi/client/main/backstage.js:1452
 #: jamovi/client/main/backstage.js:377
@@ -743,6 +774,10 @@ msgstr "Geëxporteerd"
 msgid "Exported to '{filename}'"
 msgstr "Geëxporteerd naar '{filename}'"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:183
 msgid "File"
 msgstr "Bestand"
@@ -767,9 +802,9 @@ msgstr "Bestand is beschadigd (manifest is beschadigd of ontbreekt)"
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "Bestand is beschadigd (manifest is beschadigd)"
 
-#: jamovi/client/main/instance.js:501
-msgid "File save failed."
-msgstr "Opslaan mislukt."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:479
 msgid "File Saved"
@@ -835,10 +870,16 @@ msgid "Formula contains illegal node"
 msgstr "Formule bevat ongeldige node"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two equals "
+"signs '==')"
 msgstr ""
 "Formule is onjuist gespecificeerd (Gebruik twee gelijktekens '==' als u op "
 "gelijkwaardigheid wilt controleren)"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1084,13 +1125,19 @@ msgid "jamovi files {ext}"
 msgstr "jamovi-bestanden {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
-msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
 msgstr ""
 "jamovi is nu beschikbaar in het Nederlands! (Veel dank aan het vertaalteam "
 "van jamovi)"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
 msgstr ""
 "jamovi is nu beschikbaar in het Nederlands! (Veel dank aan het vertaalteam "
 "van jamovi)"
@@ -1274,6 +1321,10 @@ msgstr "Geen kleur"
 msgid "No information about this function is avaliable"
 msgstr "Er is geen informatie beschikbaar over deze functie"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:675
 msgid "No recognised data files were found."
 msgstr "Geen herkende databestanden gevonden."
@@ -1308,6 +1359,10 @@ msgstr "Niet gelijk aan"
 msgid "Note"
 msgstr "Opmerking"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "Number format"
 msgstr "Indeling getallen"
@@ -1326,6 +1381,11 @@ msgstr "OK"
 msgid "OK"
 msgstr "OK"
 
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
+
 #: jamovi/client/main/main.js:445
 msgid ""
 "One or more analyses in this data set have been disabled\n"
@@ -1335,8 +1395,7 @@ msgid ""
 msgstr ""
 "Eén of meer analyses in deze dataset zijn uitgeschakeld\n"
 "                    omdat ze het uitvoeren van arbitraire code toestaan. U\n"
-"                    dient deze analyses alleen in te schakelen als u de "
-"bron\n"
+"                    dient deze analyses alleen in te schakelen als u de bron\n"
 "                    van de dataset vertrouwt."
 
 #: jamovi/client/main/backstage.js:557
@@ -1428,6 +1487,10 @@ msgstr "Grafieken"
 msgid "PNG Image {ext}"
 msgstr "PNG-afbeelding {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
 msgstr "Vorige variabele"
@@ -1486,6 +1549,10 @@ msgstr "Verwijzingen"
 msgid "Refresh"
 msgstr "Vernieuwen"
 
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
+
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:577
 #: jamovi/client/main/resultspanel.js:599
@@ -1530,7 +1597,10 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "Berekent een Box Cox-transformatie voor de variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the "
+"value is within the box of a Boxplot 0 is returned, absolute values larger "
+"than 1.5 are outside the whiskers."
 msgstr ""
 "Berekent of de variabele een uitschieter is volgens de IQR: 0 wordt "
 "teruggegeven als de waarde zich in de box van een boxplot bevindt. Absolute "
@@ -1559,6 +1629,10 @@ msgstr "Berekent de grootste waarde van een variabele."
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
 msgstr "Berekent het gemiddelde van een reeks getallen."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
@@ -1592,6 +1666,10 @@ msgstr "Berekent het algehele gemiddelde van een variabele."
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
 msgstr "Berekent de algehele som van een variabele."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1713,6 +1791,10 @@ msgstr "Gepland onderhoud"
 msgid "Search"
 msgstr "Zoeken"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Variabelen zoeken"
@@ -1787,10 +1869,16 @@ msgid "Special Import"
 msgstr "Speciaal importeren"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 "Splitst tekst in stukken, gescheiden door een scheidingsteken. <i>piece</i> "
 "geeft de index van het gewenste stuk aan."
+
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
@@ -1846,6 +1934,10 @@ msgstr "Syntaxismodus"
 msgid "System default"
 msgstr "Systeemstandaard"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:171
 msgid "Table"
 msgstr "Tabel"
@@ -1865,15 +1957,33 @@ msgid "The content has been copied to the clipboard"
 msgstr "De inhoud is gekopieerd naar het klembord"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgid ""
+"The content has been prepared, and can be copied with the button below, or "
+"by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
 "De inhoud is opgesteld. Kopieer het met onderstaande knop of door <em>{k} + "
 "C</em> in te drukken op uw toetsenbord."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
+msgstr "De huidige waarde van de variabele waarop deze transformatie wordt toegepast."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"De huidige waarde van de variabele waarop deze transformatie wordt toegepast."
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:494
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -1909,8 +2019,7 @@ msgstr "De module voor deze analyse is niet geïnstalleerd of niet beschikbaar"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
-msgstr ""
-"De geselecteerde transformatie is ongeldig en dient te worden aangepast."
+msgstr "De geselecteerde transformatie is ongeldig en dient te worden aangepast."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
@@ -2025,6 +2134,10 @@ msgstr "Kan geen toegang krijgen tot analyse"
 msgid "Unable to access library"
 msgstr "Kan geen toegang krijgen tot bibliotheek"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "Kan {} niet doorbladeren"
@@ -2052,10 +2165,6 @@ msgstr "Kan module niet installeren"
 msgid "Unable to open"
 msgstr "Kan niet openen"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "Kan {} niet openen"
-
 #: jamovi/client/main/viewcontroller.js:373
 msgid "Unable to paste"
 msgstr "Kan niet plakken"
@@ -2067,6 +2176,10 @@ msgstr "Kan niet importeren"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "Kan verzoek niet uitvoeren"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2187,12 +2300,21 @@ msgstr "Zichtbaar"
 msgid "Web Page {ext}"
 msgstr "Webpagina {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "wanneer"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgid ""
+"When the variable contains a missing value, use the value, otherwise the "
+"else."
 msgstr ""
 "Gebruik de waarde wanneer de variabelewaarde ontbreekt. Gebruik anders de "
 "andere uitdrukking."
@@ -2203,8 +2325,7 @@ msgstr "Waarom is deze extra stap noodzakelijk?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
-"U kunt geen rijen verwijderen wanneer er verborgen gefilterde rijen zijn"
+msgstr "U kunt geen rijen verwijderen wanneer er verborgen gefilterde rijen zijn"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
@@ -2217,7 +2338,9 @@ msgstr ""
 "gefilterde rijen zijn"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
 msgstr ""
 "U kunt geen transformaties die filters beïnvloeden bewerken wanneer er "
 "verborgen gefilterde rijen zijn"
@@ -2233,3 +2356,11 @@ msgstr "Uw internetbrowser voorkwam het openen van een dataset in jamovi"
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"
 msgstr "Zoomniveau"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""

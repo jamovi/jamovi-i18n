@@ -168,6 +168,10 @@ msgstr "Analiza"
 msgid "and"
 msgstr "in"
 
+#: jamovi/client/main/ribbon/analysetab.js:188
+msgid "ANOVA"
+msgstr ""
+
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
 #: jamovi/client/main/contextmenu/contextmenus.js:110
@@ -489,11 +493,19 @@ msgstr "Podatki"
 msgid "Data files"
 msgstr "Podatkovne datoteke"
 
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Data is unweighted"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "Podatkovna knjižnica"
+
+#: jamovi/client/main/statusbar/statusbar.js:9
+msgid "Data status bar"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -691,6 +703,15 @@ msgstr "sicer uporabi"
 msgid "Enable"
 msgstr "Omogoči"
 
+#: jamovi/client/main/ribbon.js:131
+msgid "Enable/disable full screen mode"
+msgstr ""
+
+#: jamovi/client/main/tableview.js:1424
+#: jamovi/client/main/tableview.js:1609
+msgid "Enter"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
 msgstr "Vpis opisa"
@@ -732,6 +753,10 @@ msgstr "Napaka"
 msgid "Excel {ext}"
 msgstr "Excel {ext}"
 
+#: jamovi/client/main/ribbon/analysetab.js:186
+msgid "Exploration"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321
@@ -757,6 +782,10 @@ msgstr "Uspešno izvoženo"
 msgid "Exported to '{filename}'"
 msgstr "Izvoženo v datoteko »{filename}«"
 
+#: jamovi/client/main/ribbon/analysetab.js:191
+msgid "Factor"
+msgstr ""
+
 #: jamovi/client/main/main.js:170
 msgid "File"
 msgstr "Datoteka"
@@ -781,9 +810,9 @@ msgstr "Datoteka je okvarjena (manifest je poškodovan ali manjka)"
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "Datoteka je okvarjena (manifest je poškodovan)"
 
-#: jamovi/client/main/instance.js:428
-msgid "File save failed."
-msgstr "Shranjevanje datoteke je spodletelo."
+#: jamovi/client/main/backstage.ts:1184
+msgid "File menu items"
+msgstr ""
 
 #: jamovi/client/main/instance.js:406
 msgid "File Saved"
@@ -855,6 +884,10 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr "Enačba je zapisana napačno! (Če preverjate enakost, uporabite znak »==«)"
+
+#: jamovi/client/main/ribbon/analysetab.js:190
+msgid "Frequencies"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1296,6 +1329,10 @@ msgstr "Ni barve"
 msgid "No information about this function is avaliable"
 msgstr "Podrobnosti o tej funkciji niso na voljo"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "No internet connection"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
 msgstr "Ni prepoznanih podatkovnih datotek."
@@ -1330,6 +1367,10 @@ msgstr "ni enako"
 msgid "Note"
 msgstr "Opomba"
 
+#: jamovi/client/resultsview/notice.js:44
+msgid "Notice"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
 msgstr "Zapis števil"
@@ -1347,6 +1388,11 @@ msgstr ""
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
 msgstr "V redu"
+
+#: jamovi/client/main/backstage.ts:367
+#: jamovi/client/main/backstage.ts:402
+msgid "One Drive"
+msgstr ""
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1451,6 +1497,10 @@ msgstr "Diagrami"
 msgid "PNG Image {ext}"
 msgstr "Slika PNG {ext}"
 
+#: jamovi/client/main/ribbon.js:132
+msgid "Preferences"
+msgstr ""
+
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Predhodna spremenljivka"
@@ -1508,6 +1558,10 @@ msgstr "Sklici"
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
 msgstr "Osveži"
+
+#: jamovi/client/main/ribbon/analysetab.js:189
+msgid "Regression"
+msgstr ""
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1588,6 +1642,10 @@ msgid "Returns the mean of a set of numbers."
 msgstr "Vrne povprečno vrednost nabora števil."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+msgid "Returns the median absolute deviation of a variable."
+msgstr ""
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
 msgstr "Vrne mediano vrednost spremenljivke."
 
@@ -1619,6 +1677,10 @@ msgstr "Vrne skupno povprečno vrednost spremenljivke."
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
 msgstr "Vrne skupini seštevek vrednosti spremenljivke."
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:96
+msgid "Returns the robust median absolute deviation of a variable."
+msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1740,6 +1802,10 @@ msgstr "Načrtovano vzdrževanje"
 msgid "Search"
 msgstr ""
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+msgid "Search files"
+msgstr ""
+
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
 msgstr "Iskanje spremenljivk"
@@ -1819,6 +1885,10 @@ msgid ""
 "desired piece by index."
 msgstr "Po ločilniku razdeli besedilo na dele, <i>del</i> določa želen del indeksa."
 
+#: jamovi/client/main/tableview.js:62
+msgid "Spreadsheet"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
 msgstr "Datoteke SPSS {ext}"
@@ -1873,6 +1943,10 @@ msgstr "Skladenjski način"
 msgid "System default"
 msgstr "Sistemsko privzeto"
 
+#: jamovi/client/main/ribbon/analysetab.js:187
+msgid "T-Tests"
+msgstr ""
+
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
 msgstr "Razpredelnica"
@@ -1902,6 +1976,23 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
 msgstr "Trenutna vrednost spremenljivke, za katero se uporablja ta pretvorba."
+
+#: jamovi/client/main/strings.ts:6
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:7
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "The data is weighted by the variable {}."
+msgstr ""
+
+#: jamovi/client/main/strings.ts:5
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2052,6 +2143,10 @@ msgstr "Ni mogoč dostop do analize"
 msgid "Unable to access library"
 msgstr "Dostop do knjižnice ni mogoč"
 
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to access the internet (likely due to a captive portal)"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
 msgstr "Mesta {} ni mogoče prebrskati"
@@ -2079,10 +2174,6 @@ msgstr "Modula ni mogoče namestiti"
 msgid "Unable to open"
 msgstr "Ni mogoče odpreti"
 
-#: jamovi/server/jamovi/server/instance.py
-msgid "Unable to open {}"
-msgstr "Datoteke {} ni mogoče odpreti"
-
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
 msgstr "Vsebine ni mogoče prilepiti"
@@ -2094,6 +2185,10 @@ msgstr "Ni mogoče izvesti uvoza"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
 msgstr "Zahteve ni mogoče izvesti"
+
+#: jamovi/server/jamovi/server/downloader.py
+msgid "Unable to reach the library"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2212,6 +2307,13 @@ msgstr "Vidni"
 msgid "Web Page {ext}"
 msgstr "Spletna stran {ext}"
 
+#: jamovi/client/main/ribbon/datatab.js:18
+#: jamovi/client/main/ribbon/datatab.js:41
+#: jamovi/client/resultsview/main.js:334
+#: jamovi/server/jamovi/server/analyses/weights.py
+msgid "Weights"
+msgstr ""
+
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
 msgstr "ko ‧"
@@ -2261,3 +2363,11 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
 msgstr "Približanje"
+
+#: jamovi/client/main/ribbon/appmenu.js:65
+msgid "Zoom in"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:63
+msgid "Zoom out"
+msgstr ""
