@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-05-27 06:51+0000\n"
+"PO-Revision-Date: 2023-07-29 13:06+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
-"Language-Team: Russian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ru/>\n"
+"Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ru/>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.18-dev\n"
+"X-Generator: Weblate 5.0-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -171,7 +171,7 @@ msgstr "и"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ДА"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -490,7 +490,7 @@ msgstr "Файлы данных"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Данные являются невзвешенными"
 
 #: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
@@ -499,7 +499,7 @@ msgstr "Библиотека данных"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Строка состояния данных"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -693,12 +693,12 @@ msgstr "Разрешить"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Включение/отключение полноэкранного режима"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Вход"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -742,7 +742,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Разведочный"
 
 #: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
@@ -769,7 +769,7 @@ msgstr "Экспортировано в '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Факторный"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
@@ -797,7 +797,7 @@ msgstr "Файл поврежден (манифест поврежден)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Пункты меню Файл"
 
 #: jamovi/client/main/instance.js:406
 msgid "File Saved"
@@ -871,7 +871,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Частоты"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1306,7 +1306,7 @@ msgstr "Информация об этой функции отсутствует
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Нет подключения к Интернету"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1342,7 +1342,7 @@ msgstr "Примечание"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Уведомление"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
@@ -1364,7 +1364,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1467,7 +1467,7 @@ msgstr "Изображение PNG {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Настройки"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1525,7 +1525,7 @@ msgstr "Обновить"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Регрессионный"
 
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1604,7 +1604,7 @@ msgstr "Возвращает среднее значение набора чис
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Возвращает абсолютное отклонение медианы переменной."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1641,7 +1641,7 @@ msgstr "Возвращает общую сумму переменной."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Возвращает робастное абсолютное отклонение медианы переменной."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1760,7 +1760,7 @@ msgstr "Поиск"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Поиск файлов"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1845,7 +1845,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Электронная таблица"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1901,7 +1901,7 @@ msgstr "Системное значение по умолчанию"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "Т-тесты"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1938,17 +1938,21 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"Данные взвешены по переменной {}, однако данный анализ не поддерживает "
+"нецелые веса. Веса были округлены до ближайшего целого числа."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Данные взвешиваются по переменной {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Данные взвешены, однако данный анализ не поддерживает взвешивание. В данном "
+"анализе использовались невзвешенные данные."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2099,6 +2103,7 @@ msgstr "Не удается получить доступ к библиотек�
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
+"Невозможно получить доступ к Интернету (вероятно, из-за портала авторизации)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2138,7 +2143,7 @@ msgstr "Невозможно выполнить запрос"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Невозможно использовать библиотеку"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2260,7 +2265,7 @@ msgstr "Веб-страница {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Веса"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2314,8 +2319,8 @@ msgstr "Масштаб"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Приблизить"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Отдалить"
