@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2023-07-30 02:10+0000\n"
+"PO-Revision-Date: 2023-07-31 07:05+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -1329,7 +1329,7 @@ msgstr "注释"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "通知"
 
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Number format"
@@ -1351,7 +1351,7 @@ msgstr "好的"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:358
 msgid ""
@@ -1453,7 +1453,7 @@ msgstr "PNG 图像 {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "首选项"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1511,7 +1511,7 @@ msgstr "刷新"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "回归"
 
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1587,7 +1587,7 @@ msgstr "返回一组数字的平均值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "返回变量的绝对偏差的中位数。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1624,7 +1624,7 @@ msgstr "返回变量的总和。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "返回变量的稳健中值绝对偏差。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1743,7 +1743,7 @@ msgstr "搜索"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "搜索文件"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1825,7 +1825,7 @@ msgstr "根据分隔符将文本拆分为多个部分。 <i>piece</i> 按索引�
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "电子表格"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1881,7 +1881,7 @@ msgstr "系统默认"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "T 检验"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1915,18 +1915,18 @@ msgstr "应用此转换的变量的当前值。"
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
+msgstr "数据由变量 {} 加权，但此分析不支持非整数权重。权重已被舍入到最接近的整数。"
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "数据已由变量 {} 加权。"
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
-msgstr ""
+msgstr "数据已加权，但此分析不支持权重。该分析使用未加权的数据。"
 
 #: jamovi/client/main/instance.js:418
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2075,7 +2075,7 @@ msgstr "无法访问库"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "无法访问互联网（可能是由于captive portal）"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2115,7 +2115,7 @@ msgstr "无法执行请求"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "无法访问库"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2237,7 +2237,7 @@ msgstr "网页 {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "权重"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2285,8 +2285,8 @@ msgstr "缩放"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "放大"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "缩小"
