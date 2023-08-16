@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-09 05:01+0000\n"
+"PO-Revision-Date: 2023-08-16 08:48+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1611,7 +1611,7 @@ msgstr "傳回資料數值(number 1, number 2, ...)的平均數(每列分開計�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "返回變數的中位數絕對偏差。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
@@ -1648,7 +1648,7 @@ msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "返回變數的可靠中位數絕對偏差。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1772,7 +1772,7 @@ msgstr "搜尋"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "搜索檔"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1855,7 +1855,7 @@ msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "電子表格"
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
@@ -1913,7 +1913,7 @@ msgstr "系統預設"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "T 檢驗"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1947,18 +1947,18 @@ msgstr "轉換要套用的當前變數值。"
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
+msgstr "數據由變數 {} 加權，但此分析不支援非整數權重。權重四捨五入到最接近的整數。"
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "數據由變數 {} 加權。"
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
-msgstr ""
+msgstr "數據已加權，但此分析不支援權重。該分析使用了未加權的數據。"
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2108,7 +2108,7 @@ msgstr "無法存取套件庫"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "無法存取網路（可能是由於強制門戶）"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2151,7 +2151,7 @@ msgstr "無法執行要求"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "無法訪問庫"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2277,7 +2277,7 @@ msgstr "網頁 {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "權重"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2325,8 +2325,8 @@ msgstr "縮放比例"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "放大"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "縮小"
