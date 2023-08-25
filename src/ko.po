@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Hyunsoo Seol <snowcau@gmail.com>\n"
+"Last-Translator: 이정희 <daemul72@gmail.com>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
 "Language: ko\n"
@@ -1957,8 +1957,8 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 지원하지 않습니다. 가중치는 가장 가까운 정수로 "
-"반올림되었습니다."
+"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 "
+"지원하지 않습니다. 가중치는 가장 가까운 정수로 반올림되었습니다."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -1969,7 +1969,8 @@ msgstr "데이터는 변수 {}에 의해 가중치가 부여됩니다."
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
-msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 분석에서는 비가중 데이터를 사용했습니다."
+msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 "
+"분석에서는 비가중 데이터를 사용했습니다."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
