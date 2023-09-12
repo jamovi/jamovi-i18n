@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-06 13:47+0000\n"
+"PO-Revision-Date: 2023-09-12 08:52+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -427,7 +427,7 @@ msgstr ""
 #: jamovi/client/resultsview/group.js:210
 #: jamovi/client/resultsview/group.js:212
 msgid "Copy"
-msgstr ""
+msgstr "העתקה"
 
 #: jamovi/client/main/tableview.js:1470
 #: jamovi/server/jamovi/server/instance.py
@@ -473,7 +473,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/annotationtab.js:104
 #: jamovi/client/main/ribbon/datatab.js:27
 msgid "Cut"
-msgstr ""
+msgstr "גזירה"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Dark2"
@@ -527,7 +527,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Default"
-msgstr ""
+msgstr "ברירת מחדל"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Default missings"
@@ -589,7 +589,7 @@ msgstr ""
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
 msgid "Desktop"
-msgstr ""
+msgstr "שולחן העבודה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
