@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-12 09:56+0000\n"
+"PO-Revision-Date: 2023-09-12 10:54+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -727,7 +727,7 @@ msgstr ""
 
 #: jamovi/client/main/strings.ts:12
 msgid "Error"
-msgstr ""
+msgstr "שגיאה"
 
 #: jamovi/client/main/backstage.ts:119
 msgid "Excel {ext}"
@@ -1663,7 +1663,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "מחזיר את טעות התקן של ממוצע משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
@@ -2167,7 +2167,7 @@ msgstr "בטל עריכה"
 #: jamovi/client/main/notification.js:86
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Unexpected error"
-msgstr ""
+msgstr "שגיאה בלתי צפויה"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "Unrecognised file format"
