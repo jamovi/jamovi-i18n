@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-12 09:51+0000\n"
+"PO-Revision-Date: 2023-09-12 09:56+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -120,8 +120,9 @@ msgid "Add Variable"
 msgstr "הוספת משתנה"
 
 #: jamovi/client/main/tableview.js:97
+#, fuzzy
 msgid "Added"
-msgstr ""
+msgstr "התווסף"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
@@ -157,7 +158,7 @@ msgstr ""
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
-msgstr ""
+msgstr "ניתוח"
 
 #: jamovi/client/main/vareditor/filterwidget.js:402
 msgid "and"
@@ -211,15 +212,15 @@ msgstr ""
 #: jamovi/client/main/editors/transformeditor.js:246
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "אוטו'"
 
 #: jamovi/client/main/ribbon/annotationtab.js:134
 msgid "Automatic"
-msgstr ""
+msgstr "אוטומטי"
 
 #: jamovi/client/main/ribbon/appmenu.js:164
 msgid "Automatically install updates"
-msgstr ""
+msgstr "התקן עדכונים אוטומטית"
 
 #: jamovi/client/main/ribbon/appmenu.js:226
 #: jamovi/client/main/store.js:51
@@ -1872,7 +1873,7 @@ msgstr "קו חוצה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:169
 msgid "Styles"
-msgstr ""
+msgstr "סגנונות"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Sub Script"
