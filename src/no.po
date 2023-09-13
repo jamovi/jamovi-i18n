@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-13 10:49+0000\n"
+"PO-Revision-Date: 2023-09-13 11:50+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/nb_NO/>\n"
@@ -1965,17 +1965,21 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"Dataene er vektet med variabelen {}, men denne analysen støtter ikke vekter "
+"som ikke er heltall. Vektene ble avrundet til nærmeste heltall."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Dataene er vektet med variabelen {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Dataene er vektet, men denne analysen støtter ikke bruk av vekter. Dataene "
+"brukes uvektet i denne analysen."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2129,6 +2133,8 @@ msgstr "Får ikke tilgang til biblioteket"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
+"Får ikke tilgang til Internett (sannsynligvis på grunn av at Internett-"
+"tilgang krever innlogging)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2171,7 +2177,7 @@ msgstr "Kan ikke utføre forespørselen"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Får ikke tilgang til jamovi library"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2295,7 +2301,7 @@ msgstr "Nettside {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Vekter"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2347,8 +2353,8 @@ msgstr "Zoom"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Zoom inn"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Zoom ut"
