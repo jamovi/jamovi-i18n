@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-10-11 19:45+0000\n"
+"PO-Revision-Date: 2023-09-13 10:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Bokmål "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nb_NO/>\n"
+"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/nb_NO/>\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.0.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -170,7 +170,7 @@ msgstr "og"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -493,7 +493,7 @@ msgstr "Datafiler"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Dataene er ikke vekted"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
@@ -503,7 +503,7 @@ msgstr "Databibliotek"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Data-statuslinje"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -695,12 +695,12 @@ msgstr "Aktivere"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Aktiver / deaktiver fullskjermmodus"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter-taste"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -745,7 +745,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Eksplorasjon"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
@@ -774,7 +774,7 @@ msgstr "Eksportert til «{filename}»"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Faktor"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
@@ -802,7 +802,7 @@ msgstr "Filen er skadet (manifestet er skadet)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Menypunkter i Fil-menyen"
 
 #: jamovi/client/main/instance.js:406
 msgid "File Saved"
@@ -877,7 +877,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Frekvenser"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1315,7 +1315,7 @@ msgstr "Ingen informasjon om denne funksjonen er tilgjengelig"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Ingen internettforbindelse"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1353,7 +1353,7 @@ msgstr "Merknad"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Varsel"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
@@ -1376,7 +1376,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1481,7 +1481,7 @@ msgstr "PNG-bilde {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Innstillinger"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1543,7 +1543,7 @@ msgstr "Oppdater"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Regresjon"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1624,7 +1624,7 @@ msgstr "Gir tilbake gjennomsnittet av et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Gir medianen av det absolutte avviket for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1661,7 +1661,7 @@ msgstr "Gir tilbake den totale summen av en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Gir den robuste medianen av det absolutte avviket for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1785,7 +1785,7 @@ msgstr "Søk"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Søk etter filer"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1870,7 +1870,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Regnark"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1928,7 +1928,7 @@ msgstr "Systemstandard"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "t-tester"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
