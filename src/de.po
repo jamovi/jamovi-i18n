@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-03 12:52+0000\n"
-"Last-Translator: Ettore Atalan <atalanttore@googlemail.com>\n"
+"PO-Revision-Date: 2023-09-13 08:52+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
 "Language: de\n"
@@ -173,7 +173,7 @@ msgstr "und"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -496,7 +496,7 @@ msgstr "Datendateien"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Die Daten sind nicht gewichtet"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
@@ -1381,7 +1381,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1629,7 +1629,7 @@ msgstr "Berechnet den Mittelwert einer Gruppe von Zahlen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Gibt den Median der absoluten Abweichung einer Variable aus."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1666,7 +1666,7 @@ msgstr "Berechnet die Gesamtsumme einer Variablen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Gibt den robusten Median der absoluten Abweichung einer Variable aus."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1972,17 +1972,22 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"Die Daten werden mit der Variablen {} gewichtet, diese Analyse unterstützt "
+"jedoch keine Gewichte mit Dezimalzahlen. Die Gewichte wurden auf die nächste "
+"ganze Zahl gerundet."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Die Daten werden mit der Variable {} gewichtet."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Die Daten sind gewichtet, jedoch unterstützt diese Analyse keine Gewichte. "
+"Diese Analyse verwendet die Daten ungewichtet."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2136,6 +2141,8 @@ msgstr "Zugriff auf die Bibliothek nicht möglich"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
+"Kann nicht auf das Internet zugreifen (wahrscheinlich wegen eines Internet-"
+"Zugangs, der ein Einloggen erfordert)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2178,7 +2185,7 @@ msgstr "Anforderung kann nicht ausgeführt werden"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Kann nicht auf die jamovi library zugreifen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2302,7 +2309,7 @@ msgstr "Webseite {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Gewichte"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2358,8 +2365,8 @@ msgstr "Zoom"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Hineinzoomen"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Herauszoomen"
