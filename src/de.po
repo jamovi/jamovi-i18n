@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-13 08:52+0000\n"
+"PO-Revision-Date: 2023-09-13 10:49+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
@@ -698,12 +698,12 @@ msgstr "Einschalten"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr "Vollbildmodus ein-/ausschalten"
+msgstr "Vollbildmodus ein- / ausschalten"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr "Eingabe"
+msgstr "Eingabe-Taste"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -748,7 +748,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr "Erkundung"
+msgstr "Exploration"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
