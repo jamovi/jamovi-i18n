@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-04 22:06+0000\n"
-"Last-Translator: Florent Berthelot <florentius.b@gmail.com>\n"
+"PO-Revision-Date: 2023-09-19 19:00+0000\n"
+"Last-Translator: \"Mathieu B.\" <mathieu.bousquet2@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -172,7 +172,7 @@ msgstr "et"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -689,12 +689,12 @@ msgstr "Activer"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Activer/désactiver le mode plein écran"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Entrée"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -765,7 +765,7 @@ msgstr "Exporté vers '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Facteur"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
@@ -869,7 +869,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Fréquences"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1304,7 +1304,7 @@ msgstr "Aucune information disponible sur cette fonction"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Aucune connexion internet"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1362,7 +1362,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1466,7 +1466,7 @@ msgstr "Image PNG {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Préférences"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1524,7 +1524,7 @@ msgstr "Rafraîchir"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Régression"
 
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1759,7 +1759,7 @@ msgstr "Rechercher"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Rechercher des fichiers"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
