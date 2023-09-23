@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-08-07 19:51+0000\n"
-"Last-Translator: Astrid <github@astrid.exposed>\n"
+"PO-Revision-Date: 2023-09-23 14:01+0000\n"
+"Last-Translator: QkeleQ10 <quinten@althues.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -702,7 +702,7 @@ msgstr "Volledig scherm modus in- of uitschakelen"
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -1361,7 +1361,7 @@ msgstr "Opmerking"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Opmerking"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "Number format"
@@ -1384,7 +1384,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:445
 msgid ""
@@ -1632,7 +1632,7 @@ msgstr "Berekent het gemiddelde van een reeks getallen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Geeft de mediaan van de absolute afwijking van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
@@ -1669,7 +1669,7 @@ msgstr "Berekent de algehele som van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Geeft de robuuste mediaan van de absolute afwijking van een variabele."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1793,7 +1793,7 @@ msgstr "Zoeken"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Bestanden zoeken"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1878,7 +1878,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Spreadsheet"
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
@@ -1936,7 +1936,7 @@ msgstr "Systeemstandaard"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "t-toetsen"
 
 #: jamovi/client/resultsview/table.js:171
 msgid "Table"
@@ -1973,17 +1973,22 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"De gegevens worden gewogen door de variabele {}, maar deze analyse "
+"ondersteunt geen weegfactoren met decimalen. Deze weegfactoren worden "
+"afgerond naar het dichtstbijzijnde gehele getal."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "De gegevens worden gewogen door de variabele {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Deze data is gewogen, maar deze analyse ondersteunt geen weegfactoren. De "
+"analyse heeft de gegevens ongewogen gebruikt."
 
 #: jamovi/client/main/instance.js:494
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2137,6 +2142,8 @@ msgstr "Kan geen toegang krijgen tot bibliotheek"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
+"Geen internettoegang (waarschijnlijk omdat er eerst moet worden ingelogd op "
+"het netwerk)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2179,7 +2186,7 @@ msgstr "Kan verzoek niet uitvoeren"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Bibliotheek kon niet worden bereikt"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2305,7 +2312,7 @@ msgstr "Webpagina {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Weegfactoren"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2359,8 +2366,8 @@ msgstr "Zoomniveau"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Inzoomen"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Uitzoomen"
