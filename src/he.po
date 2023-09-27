@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-12 10:54+0000\n"
+"PO-Revision-Date: 2023-09-27 07:01+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.0.1-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -286,7 +286,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:145
 msgid "Center Align"
-msgstr "יישור למרכז"
+msgstr "מרכוז"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:92
 msgid "change label..."
@@ -744,11 +744,11 @@ msgstr ""
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:212
 msgid "Export"
-msgstr ""
+msgstr "יצוא"
 
 #: jamovi/client/main/resultspanel.js:723
 msgid "Export image"
-msgstr ""
+msgstr "יצוא תמונה"
 
 #: jamovi/client/main/resultspanel.js:752
 msgid "Export results"
@@ -756,11 +756,11 @@ msgstr "יצוא התוצאות"
 
 #: jamovi/client/main/instance.ts:425
 msgid "Exported"
-msgstr ""
+msgstr "יוצא"
 
 #: jamovi/client/main/instance.ts:425
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "יוצא אל \"{filename}\""
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
@@ -831,11 +831,11 @@ msgstr ""
 #: jamovi/client/main/tableview.js:104
 #: jamovi/client/main/variablesview.js:61
 msgid "Filters"
-msgstr ""
+msgstr "סננים"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "מסנן את המשתנה בעזרת ביטוי הסינון."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
@@ -1699,7 +1699,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/editorwidget.js:252
 msgid "Row Filters"
-msgstr ""
+msgstr "סנני עמודות"
 
 #: jamovi/client/main/ribbon/datatab.js:67
 #: jamovi/client/main/ribbon/variablestab.js:46
