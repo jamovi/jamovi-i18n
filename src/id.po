@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 08:05+0000\n"
-"Last-Translator: zetto xandria <zetto.x07@gmail.com>\n"
-"Language-Team: Indonesian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/id/>\n"
+"PO-Revision-Date: 2023-10-09 02:01+0000\n"
+"Last-Translator: EngageIndo <engageindo@gmail.com>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -170,7 +170,7 @@ msgstr "dan"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "Analisis Variasi"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -253,7 +253,7 @@ msgstr "Jelajahi"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr ""
+msgstr "Daftar Isi"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
@@ -394,10 +394,14 @@ msgstr "Kenyamanan singkatan untuk ABS(Z( variabel ))"
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
 msgstr ""
+"Penggunaan singkat untuk mencari nilai maksimum dari (ABSIQR( variabel 1, "
+"variabel 2, ...))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
 msgstr ""
+"Penggunaan singkat untuk mencari nilai maksimum dari (ABSZ( variabel 1, "
+"variabel 2, ...))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -469,9 +473,10 @@ msgstr "Buat Transformasi Baru..."
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
-#, fuzzy
 msgid "CSV (Comma delimited) {ext}"
-msgstr "CSV (Koma delimited) {ext}"
+msgstr ""
+"format penyimpanan data yang menggunakan koma sebagai pemisah antar-nilai "
+"{ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -495,7 +500,7 @@ msgstr "File data"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Data tidak dibobotkan"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
@@ -505,7 +510,7 @@ msgstr "Data Pustaka"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Baris status data"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -534,9 +539,8 @@ msgid "Default"
 msgstr "Bawaan"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
-#, fuzzy
 msgid "Default missings"
-msgstr "Default hilang"
+msgstr "Pengaturan awal untuk data yang hilang"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
@@ -632,13 +636,12 @@ msgid "Downloads"
 msgstr "Unduhan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-#, fuzzy
 msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Menarik sampel n dari variabel. yaitu SAMPLE(var, 20), yaitu SAMPEL(1, 20), "
-"yaitu SAMPEL('pelatihan', 20, 'tes')"
+"Mengambil sampel sebanyak n dari variabel. Contoh: SAMPLE(var, 20), contoh: "
+"SAMPLE(1, 20), contoh: SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -692,16 +695,16 @@ msgstr "lain gunakan"
 
 #: jamovi/client/main/main.js:372
 msgid "Enable"
-msgstr ""
+msgstr "Mengaktifkan"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Menyala/matikan mode layar penuh"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -746,7 +749,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Eksplorasi"
 
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
@@ -775,7 +778,7 @@ msgstr "Diekspor ke '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Factor"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
@@ -803,7 +806,7 @@ msgstr "File rusak (manifes rusak)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Item menu file"
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -850,10 +853,12 @@ msgstr "Memfilter variabel menggunakan ekspresi filter."
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
+"Pengaturan mungkin tidak boleh merujuk pada columns menggunakan 'V' atau "
+"kolom functions"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "Filter tidak boleh merujuk pada variables keluaran"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -878,7 +883,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Frekuensi"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -911,11 +916,11 @@ msgstr "Lebih dari atau sama dengan"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr ""
+msgstr "Hijau"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr ""
+msgstr "Abu-abu"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -925,7 +930,7 @@ msgstr "Grup"
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Hadley"
-msgstr ""
+msgstr "Hadley"
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
 msgid "Heading"
@@ -955,7 +960,7 @@ msgstr "Sembunyikan kolom filter"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
-msgstr ""
+msgstr "Sembunyikan perpustakaan"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
@@ -1033,11 +1038,11 @@ msgstr "tidak aktif"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr ""
+msgstr "Tambahkan jarak -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr ""
+msgstr "Tambahkan jarak +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1054,7 +1059,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
 msgid "Insert"
-msgstr ""
+msgstr "Sisipkan"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
@@ -1087,7 +1092,6 @@ msgid "Installing modules is not available on your plan"
 msgstr "Memasang modul tidak tersedia pada paket Anda"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
-#, fuzzy
 msgid "Integer"
 msgstr "Bilangan bulat"
 
@@ -1101,7 +1105,7 @@ msgstr "Interaksi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Inverts the value."
-msgstr ""
+msgstr "Membalikkan value."
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
@@ -1173,7 +1177,7 @@ msgstr "File JSON {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr ""
+msgstr "Membenarkan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Keyword: {v}"
@@ -1276,67 +1280,67 @@ msgstr "Modul dicopot pemasangannya"
 
 #: jamovi/client/main/store/pagemodules.js:193
 msgid "Module was installed successfully"
-msgstr ""
+msgstr "Modul telah terpasang dengan sukses"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
-msgstr ""
+msgstr "Modul"
 
 #: jamovi/client/main/main.js:370
 msgid "More info ..."
-msgstr ""
+msgstr "Informasi lebih lanjut ..."
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
-msgstr ""
+msgstr "Name"
 
 #: jamovi/client/main/backstage.js:1178
 #: jamovi/client/main/backstage.js:1255
 msgid "New"
-msgstr ""
+msgstr "Baru"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr ""
+msgstr "Variabel komputasi baru"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr ""
+msgstr "Data variable baru"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr ""
+msgstr "Variabel yang diubah baru"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
-msgstr ""
+msgstr "Variabel selanjutnya"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
-msgstr ""
+msgstr "Tanpa Color"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
 msgid "No information about this function is avaliable"
-msgstr ""
+msgstr "Tidak ada informasi tentang function ini tersedia"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Tidak ada koneksi internet"
 
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "Tidak ditemukan file data yang diakui."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
-msgstr ""
+msgstr "Tidak ada variables yang sesuai dengan permintaan Anda."
 
 #: jamovi/client/main/editors/transformeditor.js:226
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "Jumlah"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1347,38 +1351,38 @@ msgstr ""
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr ""
+msgstr "Tidak ada"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr ""
+msgstr "Tidak setara dengan"
 
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr ""
+msgstr "Catatan"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Menyadari"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
-msgstr ""
+msgstr "Format angka"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "Mengimbangi nilai ke atas atau ke bawah."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
 msgid "Ok"
-msgstr ""
+msgstr "Oke"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
