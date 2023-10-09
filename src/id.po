@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Magnitudee <bdls_unbecoming@aleeas.com>\n"
+"Last-Translator: EngageIndo <engageindo@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -1707,8 +1707,8 @@ msgstr "Kembali adalah jumlah dari sekelompok angka."
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
 msgstr ""
-"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai "
-"rata-ratanya."
+"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-"
+"ratanya."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
