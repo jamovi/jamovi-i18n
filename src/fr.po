@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-19 19:00+0000\n"
-"Last-Translator: \"Mathieu B.\" <mathieu.bousquet2@gmail.com>\n"
+"PO-Revision-Date: 2023-10-09 13:00+0000\n"
+"Last-Translator: Hugo <hugo.deleye@outlook.fr>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -490,7 +490,7 @@ msgstr "Fichier de données"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "La donnée n'est pas pondérée"
 
 #: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
