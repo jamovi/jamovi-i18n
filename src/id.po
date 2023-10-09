@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-10-09 02:01+0000\n"
-"Last-Translator: EngageIndo <engageindo@gmail.com>\n"
+"Last-Translator: Asti Wahyuningtyas <tyasaw27@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -745,7 +745,7 @@ msgstr "Kesalahan"
 
 #: jamovi/client/main/backstage.js:980
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
