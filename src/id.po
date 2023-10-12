@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-09 08:06+0000\n"
-"Last-Translator: Asti Wahyuningtyas <tyasaw27@gmail.com>\n"
+"PO-Revision-Date: 2023-10-13 04:10+0000\n"
+"Last-Translator: EngageIndo <engageindo@gmail.com>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/id/>\n"
 "Language: id\n"
@@ -1492,15 +1492,15 @@ msgstr ""
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Pilihan"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
-msgstr ""
+msgstr "Variabel sebelumnya"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr ""
+msgstr "kualitatif"
 
 #: jamovi/client/main/backstage.js:982
 msgid "R data files {ext}"
@@ -1511,7 +1511,7 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1056
 #: jamovi/client/main/backstage.js:1057
 msgid "R object {ext}"
-msgstr ""
+msgstr "Objek R {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
 msgid "Ranks each value"
@@ -1521,15 +1521,15 @@ msgstr ""
 #: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
-msgstr ""
+msgstr "Siap"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "Benar-benar menghapus {m}?"
 
 #: jamovi/client/main/backstage.js:2008
 msgid "Recent"
-msgstr ""
+msgstr "Belakangan ini"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 #: jamovi/client/main/ribbon/datatab.js:25
@@ -1539,45 +1539,45 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "Reference"
-msgstr ""
+msgstr "Referensi"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "References"
-msgstr ""
+msgstr "Rujukan"
 
 #: jamovi/client/main/infobox.js:273
 msgid "Refresh"
-msgstr ""
+msgstr "Segarkan"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Regresi"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Remove"
-msgstr ""
+msgstr "Buang"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
-msgstr ""
+msgstr "Buang Filter"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
-msgstr ""
+msgstr "Membutuhkan versi jamovi yang lebih baru"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Restart and Install"
-msgstr ""
+msgstr "Mulai Ulang dan Pasang"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 msgid "Restart required"
-msgstr ""
+msgstr "Perlu dinyalakan ulang"
 
 #: jamovi/client/main/analyses.js:336
 #: jamovi/client/main/ribbon/appmenu.js:59
@@ -1588,12 +1588,12 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/editorwidget.js:101
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "Tetapkan level yang tidak digunakan dalam analisis"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Retry"
-msgstr ""
+msgstr "Coba lagi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
@@ -1669,7 +1669,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Kembali adalah deviasi median yang kuat dari suatu variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1685,15 +1685,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Mengembalikan akar kuadrat dari sebuah angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Kembalikan deviasi standar dari sekelompok angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Kembali adalah simpangan baku dari sebuah variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
@@ -1701,31 +1701,35 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Kembali adalah jumlah dari sekelompok angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
 msgstr ""
+"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-"
+"ratanya."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
 msgstr ""
+"Variansi adalah pengukuran seberapa bervariasinya data dari nilai rata-rata "
+"suatu variabel."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr ""
+msgstr "Tata Letak Kanan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr ""
+msgstr "Membulatkan setiap value"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Membulatkan setiap value ke bilangan bulat di atasnya"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Membulatkan setiap value ke bilangan bulat di bawahnya"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
