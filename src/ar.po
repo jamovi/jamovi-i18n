@@ -1,17 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-07-19 08:05+0000\n"
-"Last-Translator: \"a href=\\\"evil.com\\\"click!/a\" "
-"<b4bc029f06@fireboxmail.lol>\n"
-"Language-Team: Arabic "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ar/>\n"
+"PO-Revision-Date: 2023-10-15 01:02+0000\n"
+"Last-Translator: Foras Dlke <forasdlke@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.0-dev\n"
+"X-Generator: Weblate 5.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -66,8 +65,11 @@ msgid "{r} is not an integer"
 msgstr "{r} ليس عددا صحيحا"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
+#, fuzzy
 msgid "A change of language requires jamovi to be restarted"
-msgstr "يتطلب تغيير اللغة إعادة تشغيل جيموفي"
+msgstr ""
+"العرببه\n"
+"—يتطلب تغيير اللغة إعادة تشغيل جيموفي"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
