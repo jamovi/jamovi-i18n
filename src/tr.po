@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-06-20 00:51+0000\n"
-"Last-Translator: Winnerxl <osopulika@gmail.com>\n"
-"Language-Team: Turkish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/tr/>\n"
+"PO-Revision-Date: 2023-10-31 20:03+0000\n"
+"Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.18.1\n"
+"X-Generator: Weblate 5.2-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -30,7 +30,7 @@ msgstr "(auto)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:261
 msgid "(current)"
-msgstr "(current)"
+msgstr "(mevcut)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
@@ -73,7 +73,7 @@ msgstr "Daha yeni bir jamovi sürümü gerekiyor"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr "Accent"
+msgstr "Aksan"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
@@ -184,7 +184,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "Ekle"
+msgstr "Ek"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
@@ -193,7 +193,7 @@ msgstr "Kaç satır eklenecek?"
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "Satır ekle."
+msgstr "Satır ekle..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
@@ -238,7 +238,7 @@ msgstr "Siyah ve Beyaz"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr "Blues"
+msgstr "Maviler"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
@@ -311,7 +311,7 @@ msgstr "Seçimi temizle"
 #: jamovi/client/main/ribbon/annotationtab.js:106
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Clipboard"
-msgstr "Clipboard"
+msgstr "Pano"
 
 #: jamovi/client/main/infobox.js:270
 msgid "Close"
@@ -367,10 +367,7 @@ msgstr "Kaldırmayı onaylayınız"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr ""
-"`none` (varsayılan), `doğrusal` veya `düzleştirilmiş`, sırasıyla regresyon "
-"çizgisi yok, doğrusal regresyon çizgisi veya düzleştirilmiş regresyon "
-"çizgisi sağlar"
+msgstr "Bağlantı başarısız"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
@@ -527,7 +524,7 @@ msgstr "Ondalık"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
-msgstr "ondalık yeri"
+msgstr "ondalık yerleri"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -535,7 +532,7 @@ msgstr "Varsayılan"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr "Varsayılan eksik"
+msgstr "Varsayılan eksikler"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
