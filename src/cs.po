@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-20 23:03+0000\n"
+"PO-Revision-Date: 2023-11-21 00:07+0000\n"
 "Last-Translator: Josef Solin <kvokocka@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -33,7 +33,7 @@ msgstr "(aktuální)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr "(Toto je vtip Safari a iPadů)"
+msgstr "(Toto je odchylka Safari a iPadů)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -72,13 +72,15 @@ msgstr "Je vyžadována novější verze Jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr "Důraz"
+msgstr "Barevný motiv"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "Přístup odepřen. Pravděpodobně nemáte potřebná oprávnění."
+msgstr ""
+"Přístup odepřen. Pravděpodobně nemáte potřebná oprávnění pro přístup k "
+"tomuto zdroji."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -95,11 +97,12 @@ msgstr "Přidat"
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
-msgstr "Přidat další zanořený filtr"
+msgstr "Přidat další vnořený filtr"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
+#, fuzzy
 msgid "Add Missing Value"
-msgstr "Přidat \"chybějící hodnota\""
+msgstr "Přidat \"Chybí hodnota\""
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
@@ -138,7 +141,7 @@ msgstr "Všechny {n} kombinace"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
-msgstr "Všechny online datové soubory jsou hostovány {hostname}"
+msgstr "Online datový soubor je hostován na {hostname}"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
@@ -187,16 +190,16 @@ msgstr "Připojit"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "Kolik řádků přidat?"
+msgstr "Kolik řádků připojit?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "Přidat řádek ..."
+msgstr "Připojit řádek ..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
-msgstr "Uplatnit změny"
+msgstr "Aplikovat změny"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
@@ -204,20 +207,20 @@ msgstr "Blíží se časový limit plánu"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr "Selhání autentizace"
+msgstr "Autentizace selhala"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr "Vyžadováno ověření"
+msgstr "Vyžadována autentizace"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr "Automaticky"
+msgstr "Auto"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
-msgstr "Automatický"
+msgstr "Automatické"
 
 #: jamovi/client/main/ribbon/appmenu.js:145
 msgid "Automatically install updates"
@@ -238,7 +241,7 @@ msgstr "Černobílé"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr "Modré"
+msgstr "Modře"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
@@ -271,7 +274,7 @@ msgstr "Nelze přiřadit k vypočtenému sloupci '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr "Nelze přiřadit ke sloupci filtru '{}'"
+msgstr "Nelze přiřadit k filtrovanému sloupci '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
@@ -282,8 +285,9 @@ msgid "Cannot assign to these columns."
 msgstr "K těmto sloupcům nelze přiřadit."
 
 #: jamovi/client/main/tableview.js:75
+#, fuzzy
 msgid "Cells edited "
-msgstr "Upravené buňky "
+msgstr "Upraveno   buněk "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -291,7 +295,7 @@ msgstr "Zarovnání na střed"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
-msgstr "změnit označení..."
+msgstr "změnit štítek..."
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Check again"
@@ -303,7 +307,7 @@ msgstr "Kontrola aktualizací"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr "Zjištěn cyklický odkaz"
+msgstr "Zjištěn kruhový odkaz"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
@@ -329,7 +333,7 @@ msgstr "Barevná paleta"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "Sloupec '{}' v datech neexistuje"
+msgstr "Sloupec '{}' neexistuje v datovém souboru"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -356,8 +360,8 @@ msgstr "Vypočtená proměnná"
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "Vypočtená proměnná"
-msgstr[1] "Vypočtených proměnných"
-msgstr[2] "Vypočtené proměnné"
+msgstr[1] "Vypočtené proměnné"
+msgstr[2] "Vypočtených proměnných"
 
 #: jamovi/client/main/instance.js:489
 msgid "Confirm overwite"
@@ -374,7 +378,7 @@ msgstr "Připojení se nezdařilo"
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
 msgid "Connection lost"
-msgstr "Ztráta spojení"
+msgstr "Spojení ztraceno"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
@@ -384,19 +388,22 @@ msgstr "Kontinuální"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr "Pohodlná zkratka pro ABS (IQR( variabilní ))"
+msgstr "Pohodlná zkratka pro ABS(IQR( proměnná ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
+#, fuzzy
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr "Pohodlná zkratka pro ABS(Z( variabilní ))"
+msgstr "Pohodlná zkratka pro ABS(Z( proměnná ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
+#, fuzzy
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "Pohodlná zkratka pro MAX(ABSIQR(variabilní 1, variabilní 2, …))"
+msgstr "Pohodlná zkratka pro MAX(ABSIQR(proměnná 1, proměnná 2, …))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
+#, fuzzy
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr "Pohodlná zkratka pro MAX(ABSZ( variabilní 1, variabilní 2, … ))"
+msgstr "Pohodlná zkratka pro MAX(ABSZ( proměnná 1, proměnná 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -492,8 +499,9 @@ msgid "Data files"
 msgstr "Datové soubory"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Data nejsou zvážená"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
@@ -503,7 +511,7 @@ msgstr "Knihovna dat"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Řádek stavu dat"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -700,12 +708,12 @@ msgstr "Povolit"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Povolit/zakázat režim celé obrazovky"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -750,7 +758,7 @@ msgstr "Vynikat {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Explorace"
 
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
@@ -779,7 +787,7 @@ msgstr "Exportováno do '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Faktor"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
