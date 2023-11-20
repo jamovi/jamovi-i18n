@@ -1,8 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: \"Josef Dittrych\\\\ pepa 77\\\\josef 77\" <pepa."
-"gulasek77@gmail.com>\n"
+"Last-Translator: Josef Solin <kvokocka@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
 "Language: cs\n"
@@ -1994,8 +1993,8 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"Data jsou zvážena dle proměnné {}, ale tato analýza nepodporuje "
-"ne-celočíslené váhy. Váhy budou zaokrouhleny k nejbližšímu celému číslu."
+"Data jsou zvážena dle proměnné {}, ale tato analýza nepodporuje ne-"
+"celočíslené váhy. Váhy budou zaokrouhleny k nejbližšímu celému číslu."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
