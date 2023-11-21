@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 00:07+0000\n"
+"PO-Revision-Date: 2023-11-21 01:08+0000\n"
 "Last-Translator: Josef Solin <kvokocka@gmail.com>\n"
 "Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "cs/>\n"
@@ -815,7 +815,7 @@ msgstr "Soubor je poškozen (manifest je poškozen)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Položky souborového menu"
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -890,7 +890,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Frekvence"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1182,7 +1182,7 @@ msgstr "Soubory JASP {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON soubory {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1336,7 +1336,7 @@ msgstr "Nejsou k dispozici žádné informace o této funkci"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Bez připojení k internetu"
 
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
@@ -1374,7 +1374,7 @@ msgstr "Poznámka"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Oznámení"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
@@ -1397,7 +1397,7 @@ msgstr "Dobře"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:365
 msgid ""
@@ -1504,7 +1504,7 @@ msgstr "Obrázek PNG {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Preference"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1566,7 +1566,7 @@ msgstr "Obnovit"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Regrese"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1645,8 +1645,9 @@ msgid "Returns the mean of a set of numbers."
 msgstr "Vrátí průměr množiny čísel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+#, fuzzy
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Vrátí mediální absolutní odchylky u proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
@@ -1683,7 +1684,7 @@ msgstr "Vrátí celkový součet variabilní."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Vrátí robustní medián absolutní odchylky u proměnné."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1756,8 +1757,9 @@ msgstr "Řádky/ů"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
+#, fuzzy
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:984
 msgid "SAS files {ext}"
@@ -1765,8 +1767,9 @@ msgstr "SAS soubory {ext}"
 
 #: jamovi/client/main/backstage.js:1038
 #: jamovi/client/main/backstage.js:1061
+#, fuzzy
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1297
 #: jamovi/client/main/backstage.js:321
@@ -1807,7 +1810,7 @@ msgstr "Vyhledávání"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Prohledat soubory"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1887,10 +1890,13 @@ msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
 msgstr ""
+"Rozdělí text na kusy dle separátoru. <i>kus</i> specifikuje žádaný kus "
+"pomocí indexu."
 
 #: jamovi/client/main/tableview.js:62
+#, fuzzy
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Tabulka"
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
@@ -1898,13 +1904,15 @@ msgstr "Soubory SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
+#, fuzzy
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.js:1039
 #: jamovi/client/main/backstage.js:1062
+#, fuzzy
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "Stata files {ext}"
@@ -1948,7 +1956,7 @@ msgstr "Výchozí nastavení systému"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "T-Testy"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1981,21 +1989,26 @@ msgid "The current value of the variable to which this transform is applied."
 msgstr "Aktuální hodnota proměnné, na kterou je tato transformace aplikována."
 
 #: jamovi/client/main/strings.ts:6
+#, fuzzy
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"Data jsou zvážena dle proměnné {}, ale tato analýza nepodporuje ne-"
+"celočíslené váhy. Váhy budou zaokrouhleny k nejbližšímu celému číslu."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Data jsou zvážena dle proměnné {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Data jsou zvážena, ale tato analýza nepodporuje váhy. Tato analýza použila "
+"data v nezvážené podobě."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2148,8 +2161,9 @@ msgid "Unable to access library"
 msgstr "Nelze získat přístup ke knihovně"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "Nezdařilo se připojení k internetu (asi díky captive portálu)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2192,104 +2206,110 @@ msgstr "Nelze splnit požadavek"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Nelze se spojit s knihovnou"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
-msgstr ""
+msgstr "Nelze uložit"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save {}"
-msgstr ""
+msgstr "Nelze uložit {}"
 
 #: jamovi/client/main/store/pagemodules.js:224
 msgid "Unable to uninstall module"
-msgstr ""
+msgstr "Nelze odinstalovat modul"
 
 #: jamovi/client/main/store/pagemodules.js:124
 msgid "Unavailable"
-msgstr ""
+msgstr "Nedostupné"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Underline"
-msgstr ""
+msgstr "Podtržené"
 
 #: jamovi/client/main/ribbon/annotationtab.js:115
 #: jamovi/client/main/ribbon/datatab.js:24
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Undo Edit"
-msgstr ""
+msgstr "Vrátit úpravu"
 
 #: jamovi/client/main/instance.js:317
 #: jamovi/client/main/instance.js:324
 #: jamovi/client/main/notification.js:81
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Unexpected error"
-msgstr ""
+msgstr "Neočekávaná chyba"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Nerozpoznaný formát souboru"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
+#, fuzzy
 msgid "Update"
-msgstr ""
+msgstr "Aktualizace"
 
 #: jamovi/client/main/ribbon/appmenu.js:135
 msgid "Update did not complete"
-msgstr ""
+msgstr "Aktualizace se nezdařila"
 
 #: jamovi/client/main/ribbon/appmenu.js:134
 msgid "Update is being downloaded"
-msgstr ""
+msgstr "Aktualizace se stahuje"
 
 #: jamovi/client/main/ribbon/appmenu.js:136
 msgid "Update is ready"
-msgstr ""
+msgstr "Aktualizace je připravena"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 msgid "Update not found"
-msgstr ""
+msgstr "Aktualizace nenalezena"
 
 #: jamovi/client/main/ribbon/appmenu.js:127
+#, fuzzy
 msgid "Updates"
-msgstr ""
+msgstr "Aktualizace"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
 msgid "Upload failed"
-msgstr ""
+msgstr "Nahrání selhalo"
 
 #: jamovi/client/main/instance.js:206
 #: jamovi/client/main/instance.js:210
 msgid "Uploading"
-msgstr ""
+msgstr "Nahrávám"
 
 #: jamovi/client/main/editors/transformeditor.js:389
+#, fuzzy
 msgid "use"
-msgstr ""
+msgstr "použít"
 
 #: jamovi/client/main/editors/transformeditor.js:260
+#, fuzzy
 msgid "used by"
-msgstr ""
+msgstr "používáno"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
+#, fuzzy
 msgid "using transform"
-msgstr ""
+msgstr "užitím transformace"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "Hodnota je moc velká pro sloupec '{}' typu celého čísla"
 
 #: jamovi/client/main/editors/transformeditor.js:62
+#, fuzzy
 msgid "Variable suffix"
-msgstr ""
+msgstr "Přípona proměnné"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Proměnná: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2297,77 +2317,85 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:224
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr ""
+msgstr "Proměnné"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
-msgstr ""
+msgstr "Verze {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
-msgstr ""
+msgstr "Viditelné"
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/resultspanel.js:743
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Webová stránka {ext}"
 
 #: jamovi/client/main/ribbon/datatab.js:18
 #: jamovi/client/main/ribbon/datatab.js:41
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Váhy"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
-msgstr ""
+msgstr "když"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
+#, fuzzy
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
 msgstr ""
+"Když proměnná obsahuje chybějící hodnotu, použij tuto hodnotu, jinak tu "
+"druhou."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "Proč je tento dodatečný krok nutný?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Nemůžeš mazat řádky, když jsou filtrované řádky skryté"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Nemůžeš vložit řádky, když jsou filtrované řádky skryté"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
+"Nemůžeš upravit sloupce, které ovlivňují filtry, když jsou filtrované řádky "
+"skryté"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
 msgstr ""
+"Nemůžeš upravit transformace, které ovlivňují filtry, když jsou filtrované "
+"řádky skryté"
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "Připojení bylo ztraceno. Prosím obnov stránku pro pokračování."
 
 #: jamovi/client/main/utils/headeralert.js:29
 msgid "Your web browser prevented jamovi from opening a data set"
-msgstr ""
+msgstr "Tvůj webový prohlížeč zabránil jamovi otevírání datového souboru"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
+#, fuzzy
 msgid "Zoom"
-msgstr ""
+msgstr "Zobrazení"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Přiblížit"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Oddálit"
