@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-10-31 20:03+0000\n"
-"Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
+"PO-Revision-Date: 2023-12-01 23:07+0000\n"
+"Last-Translator: Æthereal <fr.izgi.kn@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.2-dev\n"
+"X-Generator: Weblate 5.3-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -167,8 +167,9 @@ msgid "and"
 msgstr "ve"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
+#, fuzzy
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -693,12 +694,12 @@ msgstr "Etkinleştir"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Tam Ekran Modunu Aktif Et/Devre Dışı Bırak"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -771,8 +772,9 @@ msgid "Exported to '{filename}'"
 msgstr "'{filename}' olarak dışa aktarıldı"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
+#, fuzzy
 msgid "Factor"
-msgstr ""
+msgstr "Faktör"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
@@ -1316,7 +1318,7 @@ msgstr "Bu işlev hakkında hiçbir bilgi mevcut değil"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "İnternet Bağlantısı Yok"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1354,7 +1356,7 @@ msgstr "Not"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "Uyarı"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
@@ -1483,7 +1485,7 @@ msgstr "PNG Resmi {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "Seçenekler"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1545,7 +1547,7 @@ msgstr "Yenile"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Regresyon"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1787,7 +1789,7 @@ msgstr "Ara"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Dosyaları Ara"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1963,21 +1965,29 @@ msgid "The current value of the variable to which this transform is applied."
 msgstr "Bu dönüşümün uygulandığı değişkenin geçerli değeri."
 
 #: jamovi/client/main/strings.ts:6
+#, fuzzy
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"Veriler {} değişkeni ile ağırlıklandırılmıştır, ancak bu analiz tamsayı "
+"olmayan ağırlıkları desteklememektedir. Ağırlıklar en yakın tam sayıya "
+"yuvarlanmıştır."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Veriler {} değişkeniyle ağırlıklandırılır."
 
 #: jamovi/client/main/strings.ts:5
+#, fuzzy
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Veriler ağırlıklandırılmıştır, ancak bu analiz ağırlıkları "
+"desteklememektedir. Bu analizde veriler ağırlıklandırılmadan kullanılmıştır."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2171,7 +2181,7 @@ msgstr "İstek gerçekleştirilemiyor"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Kütüphaneye ulaşılamıyor"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2349,8 +2359,8 @@ msgstr "Yakınlaştır"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Yakınlaştır"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Uzaklaştır"
