@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-12-16 18:51+0000\n"
-"Last-Translator: Dan <denqwerta@gmail.com>\n"
-"Language-Team: Ukrainian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/uk/>\n"
+"PO-Revision-Date: 2023-12-30 11:08+0000\n"
+"Last-Translator: Сергій <sergiy.goncharuk.1@gmail.com>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
-"X-Generator: Weblate 4.15\n"
+"X-Generator: Weblate 5.4-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -171,7 +171,7 @@ msgstr "і"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -780,7 +780,7 @@ msgstr "Экспортировано у '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Фактор"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
@@ -885,7 +885,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Частотний"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1555,7 +1555,7 @@ msgstr "Оновити"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "Регресивний"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
@@ -1940,7 +1940,7 @@ msgstr "Типові системні значення"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "Т-тести"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -2306,7 +2306,7 @@ msgstr "Веб-сторінка {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Ваги"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
