@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-03 07:07+0000\n"
+"PO-Revision-Date: 2024-01-03 08:08+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -1516,11 +1516,11 @@ msgstr "העדפות"
 
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
-msgstr ""
+msgstr "המשתנה הקודם"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
-msgstr ""
+msgstr "איכותני"
 
 #: jamovi/client/main/backstage.ts:121
 msgid "R data files {ext}"
@@ -1541,16 +1541,17 @@ msgstr ""
 #: jamovi/client/main/tableview.js:1502
 #: jamovi/client/main/tableview.js:1540
 #: jamovi/client/main/variablesview.js:58
+#, fuzzy
 msgid "Ready"
-msgstr ""
+msgstr "מוכן"
 
 #: jamovi/client/main/store/pagemodules.js:303
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "האם באמת להסיר את ההתקנה של {m}?"
 
 #: jamovi/client/main/backstage.ts:1244
 msgid "Recent"
-msgstr ""
+msgstr "אחרונים"
 
 #: jamovi/client/main/ribbon/annotationtab.js:114
 #: jamovi/client/main/ribbon/datatab.js:34
@@ -1572,7 +1573,7 @@ msgstr "הפניות"
 
 #: jamovi/client/main/infobox.js:280
 msgid "Refresh"
-msgstr ""
+msgstr "רענון"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
@@ -1583,11 +1584,11 @@ msgstr "רגרסיה"
 #: jamovi/client/main/resultspanel.js:602
 #: jamovi/client/main/store/pagemodules.js:194
 msgid "Remove"
-msgstr ""
+msgstr "הסרה"
 
 #: jamovi/client/main/vareditor/filterwidget.js:501
 msgid "Remove filter"
-msgstr ""
+msgstr "הסרת סנן"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
@@ -1595,11 +1596,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:155
 msgid "Restart and Install"
-msgstr ""
+msgstr "הפעלה מחדש והתקנה"
 
 #: jamovi/client/main/ribbon/appmenu.js:283
 msgid "Restart required"
-msgstr ""
+msgstr "נדרשת הפעלה מחדש"
 
 #: jamovi/client/main/analyses.ts:360
 #: jamovi/client/main/ribbon/appmenu.js:71
@@ -1614,8 +1615,9 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:151
 #: jamovi/client/main/ribbon/appmenu.js:154
+#, fuzzy
 msgid "Retry"
-msgstr ""
+msgstr "ניסיון חוזר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
@@ -1638,16 +1640,19 @@ msgid "Returns the exponent for basis ℯ of a number."
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
+#, fuzzy
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "מחזיר את הערך הגבוה ביותר בסט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
+#, fuzzy
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "מחזיר את הערך הגדול ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
+#, fuzzy
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "מחזיר את הממוצע של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
@@ -1655,11 +1660,12 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "מחזיר את החציון של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
+#, fuzzy
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "מחזיר את הערך הנפוץ ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
@@ -1667,88 +1673,104 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
+#, fuzzy
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "מחזיר את הערכים המנורמלים של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the number of cases in a variable."
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
+#, fuzzy
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "מחזיר את מספר השורות של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
+#, fuzzy
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "מחזיר את הממוצע הכללי של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
+#, fuzzy
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "מחזיר את הסכום הכללי של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
+#, fuzzy
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "מחזיר את מספר השורות."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
+#, fuzzy
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "מחזיר את הערך הקטן ביותר בסט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
+#, fuzzy
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "מחזיר את הערך הקטן ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
+#, fuzzy
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "מחזיר את השורש הריבועי של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
+#, fuzzy
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "מחזיר את סטיית התקן של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
+#, fuzzy
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "מחזיר את סטיית התקן של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the standard error of the mean of a variable."
 msgstr "מחזיר את טעות התקן של ממוצע משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
+#, fuzzy
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "מחזיר את הסכום של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
+#, fuzzy
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "מחזיר את השונות של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
+#, fuzzy
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "מחזיר את השונות של משתנה."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Right Align"
 msgstr "יישור לימין"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
+#, fuzzy
 msgid "Rounds each value"
-msgstr ""
+msgstr "מעגל כל ערך"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
+#, fuzzy
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "מעגל כל ערך למספר השלם הגדול הקרוב ביותר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "מעגל כל ערך למספר השלם הקטן הקרוב ביותר"
 
 #: jamovi/client/main/tableview.js:100
+#, fuzzy
 msgid "Row count"
-msgstr ""
+msgstr "ספירת שורות"
 
 #: jamovi/client/main/vareditor/editorwidget.js:252
 msgid "Row Filters"
