@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-27 07:01+0000\n"
+"PO-Revision-Date: 2024-01-03 06:07+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.4-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -28,8 +28,9 @@ msgid "(auto)"
 msgstr "(אוטומטי)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:269
+#, fuzzy
 msgid "(current)"
-msgstr ""
+msgstr "(עדכני)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
@@ -41,7 +42,7 @@ msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "התקנת {m} בוצעה בהצלחה"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -51,7 +52,7 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:600
 #: jamovi/client/main/viewcontroller.js:641
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} הוא לא מספר שלם חיובי"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -60,15 +61,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} הוא לא מספר שלם"
 
 #: jamovi/client/main/ribbon/appmenu.js:284
 msgid "A change of language requires jamovi to be restarted"
-msgstr ""
+msgstr "כדי להחליף את השפה יש להפעיל מחדש את jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr ""
+msgstr "יש להשתמש בגרסה חדשה יותר של jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Accent"
@@ -76,13 +77,14 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr ""
+msgstr "הגישה נדחתה. כנראה שאין בידך הרשאות מתאימות כדי לגשת למשאב זה."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
 #: jamovi/client/main/vareditor/filterwidget.js:497
 #: jamovi/client/main/vareditor/filterwidget.js:534
+#, fuzzy
 msgid "active"
-msgstr ""
+msgstr "פעיל"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 #: jamovi/client/main/ribbon/datatab.js:70
@@ -96,12 +98,13 @@ msgid "Add another nested filter"
 msgstr ""
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
+#, fuzzy
 msgid "Add Missing Value"
-msgstr ""
+msgstr "הוספת ערך חסר"
 
 #: jamovi/client/main/vareditor/filterwidget.js:40
 msgid "Add new filter"
-msgstr ""
+msgstr "הוספת סנן חדש"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:44
 msgid "Add new level"
@@ -109,7 +112,7 @@ msgstr "הוספת רמה חדשה"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "הוספת הערה"
 
 #: jamovi/client/main/editors/transformeditor.js:144
 msgid "Add recode condition"
@@ -126,7 +129,7 @@ msgstr "התווסף"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
-msgstr ""
+msgstr "הכול"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1033
 #: jamovi/client/analysisui/gridtargetcontrol.js:1034
@@ -140,12 +143,13 @@ msgid "An online data set hosted by {hostname}"
 msgstr ""
 
 #: jamovi/client/main/main.js:143
+#, fuzzy
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "אירעה שגיאה בלתי צפויה וכעת jamovi יסגר."
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 msgid "An update is available"
-msgstr ""
+msgstr "יש עדכון זמין"
 
 #: jamovi/client/main/ribbon/analysetab.js:14
 #: jamovi/client/main/ribbon/analysetab.js:97
@@ -195,19 +199,20 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
-msgstr ""
+msgstr "החלת השינויים"
 
 #: jamovi/client/main/notification.js:82
+#, fuzzy
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "סוף זמן התוכנית מתקרב"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "האימות נכשל"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "נדרש אימות"
 
 #: jamovi/client/main/editors/transformeditor.js:246
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -228,24 +233,27 @@ msgid "Available"
 msgstr "זמין"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Bad function definition"
-msgstr ""
+msgstr "הגדרת פונקצייה לא טובה"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Black & white"
-msgstr ""
+msgstr "שחור ולבן"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Blues"
-msgstr ""
+msgstr "כחולים"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Bold"
 msgstr "בולט"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:323
+#, fuzzy
 msgid "Browse"
-msgstr ""
+msgstr "סיור"
 
 #: jamovi/client/main/ribbon/annotationtab.js:153
 msgid "Bullet List"
@@ -254,7 +262,7 @@ msgstr "רשימת תבליטים"
 #: jamovi/client/main/main.js:748
 #: jamovi/client/main/notifications.js:33
 msgid "Cancel"
-msgstr ""
+msgstr "סגירה"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
