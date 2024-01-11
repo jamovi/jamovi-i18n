@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-03 08:08+0000\n"
+"PO-Revision-Date: 2024-01-11 12:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -14,7 +14,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "{} זו שגיאה"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -23,7 +23,6 @@ msgid ""
 msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
-#, fuzzy
 msgid "(auto)"
 msgstr "(אוטומטי)"
 
@@ -731,7 +730,7 @@ msgstr ""
 
 #: jamovi/client/main/variablesview.js:153
 msgid "Enter description"
-msgstr "הכנסת תיאור"
+msgstr "הוספת תיאור"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:238
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:296
@@ -1104,7 +1103,6 @@ msgstr "התקנה"
 
 #: jamovi/client/main/store.js:50
 #: jamovi/client/main/store/pagemodules.js:202
-#, fuzzy
 msgid "Installed"
 msgstr "מותקן"
 
@@ -1833,15 +1831,15 @@ msgstr ""
 #: jamovi/client/analysisui/layoutsupplierview.js:173
 #: jamovi/client/main/store/pagemodules.js:34
 msgid "Search"
-msgstr ""
+msgstr "חיפוש"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "חיפוש קבצים"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr ""
+msgstr "חיפוש משתנים"
 
 #: jamovi/client/main/resultspanel.js:442
 msgid "Select all"
@@ -1910,7 +1908,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.ts:460
 msgid "Special Import"
-msgstr ""
+msgstr "יבוא מיוחד"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
