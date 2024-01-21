@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-19 10:00+0000\n"
-"Last-Translator: Bálint László <blaszlobors@gmail.com>\n"
+"PO-Revision-Date: 2024-01-21 08:01+0000\n"
+"Last-Translator: Ági D <dregelyi.agota@gmail.com>\n"
 "Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hu/>\n"
 "Language: hu\n"
@@ -169,7 +169,7 @@ msgstr "és"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -464,28 +464,30 @@ msgstr "Nem sikerült módosítani az oszlopokat"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "Nem sikerült transzformálni az adatokat"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "Nem sikerült a műveletet befejezni"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "Új transzformáció készítése..."
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
+#, fuzzy
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (Vessző határolt) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
 #: jamovi/client/main/ribbon/annotationtab.js:109
 #: jamovi/client/main/ribbon/datatab.js:18
+#, fuzzy
 msgid "Cut"
-msgstr ""
+msgstr "Kivágás"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
@@ -494,11 +496,11 @@ msgstr ""
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr ""
+msgstr "Adat"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
-msgstr ""
+msgstr "Adat fájlok"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
@@ -530,7 +532,7 @@ msgstr[1] ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr ""
+msgstr "Tizedesjegy"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -539,7 +541,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
-msgstr ""
+msgstr "Alapértelmezett"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
@@ -575,11 +577,11 @@ msgstr[1] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr ""
+msgstr "Sorok törlése"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "Transzformáció törlése"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -617,7 +619,7 @@ msgstr ""
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
 msgid "Documents"
-msgstr ""
+msgstr "Dokumentumok"
 
 #: jamovi/client/main/main.js:371
 msgid "Don't enable"
@@ -631,12 +633,12 @@ msgstr ""
 #: jamovi/client/main/backstage.js:1224
 #: jamovi/client/main/backstage.js:1242
 msgid "Download"
-msgstr ""
+msgstr "Letöltés"
 
 #: jamovi/client/main/utils/pathtools.js:9
 #: jamovi/server/jamovi/server/instance.py
 msgid "Downloads"
-msgstr ""
+msgstr "Letöltések"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid ""
