@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
 "Language: pt\n"
@@ -2102,7 +2102,8 @@ msgstr "Não é possível aceder à biblioteca"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr "Não é possível aceder à internet (provavelmente devido a um portal cativo)"
+msgstr ""
+"Não é possível aceder à internet (provavelmente devido a um portal cativo)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
