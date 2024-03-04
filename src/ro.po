@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-01-10 18:06+0000\n"
-"Last-Translator: fiscuteancom <vladfiscutean@gmail.com>\n"
+"PO-Revision-Date: 2024-03-04 12:01+0000\n"
+"Last-Translator: arcopnt <arcopnt@posteo.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ro/>\n"
 "Language: ro\n"
@@ -10,11 +10,11 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "'{}' dă eroare"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -55,7 +55,7 @@ msgstr "{n} nu este un număr întreg pozitiv"
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} sf"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -71,23 +71,25 @@ msgstr "Este nevoie de o versiune de jamovi mai recentă"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Accent"
-msgstr ""
+msgstr "Accentuat"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr ""
+"Accesul refuzat. Este posibil să nu ai permisiunile corespunzătoare pentru a "
+"accesa această resursă."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
 #: jamovi/client/main/vareditor/filterwidget.js:497
 #: jamovi/client/main/vareditor/filterwidget.js:534
 msgid "active"
-msgstr ""
+msgstr "activ"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 #: jamovi/client/main/ribbon/datatab.js:70
 #: jamovi/client/main/ribbon/variablestab.js:26
 msgid "Add"
-msgstr ""
+msgstr "Adaugă"
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
@@ -96,11 +98,11 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr ""
+msgstr "Adaugă valoarea lipsă"
 
 #: jamovi/client/main/vareditor/filterwidget.js:40
 msgid "Add new filter"
-msgstr ""
+msgstr "Adaugă un filtru nou"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:44
 msgid "Add new level"
@@ -108,7 +110,7 @@ msgstr ""
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "Adaugă o notă"
 
 #: jamovi/client/main/editors/transformeditor.js:144
 msgid "Add recode condition"
@@ -116,15 +118,15 @@ msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "Adaugă o variabilă"
 
 #: jamovi/client/main/tableview.js:97
 msgid "Added"
-msgstr ""
+msgstr "Adăugat(ă)"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
-msgstr ""
+msgstr "Toate"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1033
 #: jamovi/client/analysisui/gridtargetcontrol.js:1034
@@ -139,16 +141,16 @@ msgstr ""
 
 #: jamovi/client/main/main.js:143
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "A apărut o eroare neașteptată, iar jamovi trebuie să se închidă acum."
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 msgid "An update is available"
-msgstr ""
+msgstr "O actualizare este disponibilă"
 
 #: jamovi/client/main/ribbon/analysetab.js:14
 #: jamovi/client/main/ribbon/analysetab.js:97
 msgid "Analyses"
-msgstr ""
+msgstr "Analize"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
@@ -156,15 +158,15 @@ msgstr ""
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
-msgstr ""
+msgstr "Analiză"
 
 #: jamovi/client/main/vareditor/filterwidget.js:402
 msgid "and"
-msgstr ""
+msgstr "și"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:107
