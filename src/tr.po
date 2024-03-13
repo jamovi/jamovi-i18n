@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-01 23:07+0000\n"
-"Last-Translator: Æthereal <fr.izgi.kn@gmail.com>\n"
+"PO-Revision-Date: 2024-03-13 03:02+0000\n"
+"Last-Translator: Semih <semihbrn10@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.3-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -167,7 +167,6 @@ msgid "and"
 msgstr "ve"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
-#, fuzzy
 msgid "ANOVA"
 msgstr "ANOVA"
 
@@ -492,7 +491,7 @@ msgstr "Veri dosyaları"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Veriler ağırlıklandırılmaz"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
@@ -502,7 +501,7 @@ msgstr "Veri Kütüphanesi"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Veri durum çubuğu"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -744,7 +743,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Keşif"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
@@ -772,7 +771,6 @@ msgid "Exported to '{filename}'"
 msgstr "'{filename}' olarak dışa aktarıldı"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
-#, fuzzy
 msgid "Factor"
 msgstr "Faktör"
 
@@ -802,7 +800,7 @@ msgstr "Dosya bozuk (üst verileri içeren dosya bozuk)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Dosya menüsü ögeleri"
 
 #: jamovi/client/main/instance.js:406
 msgid "File Saved"
@@ -877,7 +875,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "Frekanslar"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1379,7 +1377,7 @@ msgstr "Tamam"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "Tek Sürücü"
 
 #: jamovi/client/main/main.js:359
 msgid ""
@@ -1628,7 +1626,7 @@ msgstr "Bir sayı kümesinin ortalamasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Bir değişkenin medyan mutlak sapmasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1665,7 +1663,7 @@ msgstr "Bir değişkenin genel toplamını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Bir değişkenin sağlam medyan mutlak sapmasını döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1874,7 +1872,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "E-tablo"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1932,7 +1930,7 @@ msgstr "Sistem varsayılanı"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "T-Testleri"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1965,23 +1963,20 @@ msgid "The current value of the variable to which this transform is applied."
 msgstr "Bu dönüşümün uygulandığı değişkenin geçerli değeri."
 
 #: jamovi/client/main/strings.ts:6
-#, fuzzy
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"Veriler {} değişkeni ile ağırlıklandırılmıştır, ancak bu analiz tamsayı "
-"olmayan ağırlıkları desteklememektedir. Ağırlıklar en yakın tam sayıya "
+"Veriler {} değişkenine göre ağırlıklandırılır, ancak bu analiz tam sayı "
+"olmayan ağırlıkları desteklemez. Ağırlıklar en yakın tam sayıya "
 "yuvarlanmıştır."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
-#, fuzzy
 msgid "The data is weighted by the variable {}."
 msgstr "Veriler {} değişkeniyle ağırlıklandırılır."
 
 #: jamovi/client/main/strings.ts:5
-#, fuzzy
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
@@ -2138,7 +2133,7 @@ msgstr "Kütüphaneye erişilemiyor"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "İnternete erişilemiyor (muhtemelen sabit bir portal nedeniyle)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2305,7 +2300,7 @@ msgstr "Web Sayfası {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "Ağırlıklar"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
