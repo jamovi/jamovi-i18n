@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-26 09:00+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ca/>\n"
+"Language-Team: Catalan "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1079,9 +1079,9 @@ msgstr "Instal·lat"
 msgid "Installed Modules"
 msgstr "Moduls instal·lats"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "La versió instal·lada és incompatible"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2350,9 +2350,9 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "La connexió s'ha perdut. Actualitzar la pàgina per a continuar."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "El seu navegador no ha permès que jamovi obri el conjunt de dades"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"

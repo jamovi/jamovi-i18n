@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-23 14:01+0000\n"
 "Last-Translator: QkeleQ10 <quinten@althues.nl>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
-"nl/>\n"
+"Language-Team: Dutch "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1082,8 +1082,8 @@ msgid "Installed Modules"
 msgstr "Geïnstalleerde modules"
 
 #: jamovi/client/main/store/pagemodules.js:216
-msgid "Installed version is incompatible"
-msgstr "Geïnstalleerde versie is niet compatibel"
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2356,9 +2356,9 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "Uw verbinding is verbroken. Vernieuw de pagina om door te gaan."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "Uw internetbrowser voorkwam het openen van een dataset in jamovi"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-10-09 13:00+0000\n"
 "Last-Translator: Hugo <hugo.deleye@outlook.fr>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/fr/>\n"
+"Language-Team: French "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1068,9 +1068,9 @@ msgstr "Installé"
 msgid "Installed Modules"
 msgstr "Modules installés"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "La version installée n'est pas compatible"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2306,9 +2306,9 @@ msgstr ""
 "Votre connexion a été perdue. Rafraîchissez la page pour continuer s'il vous "
 "plaît."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "Votre navigateur web empêche jamovi d'ouvrir le jeu de données"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"

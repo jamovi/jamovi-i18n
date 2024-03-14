@@ -1210,10 +1210,9 @@ msgstr ""
 msgid "Installed Modules"
 msgstr ""
 
-#: jamovi/client/main/store/pagemodules.js:133
-#, fuzzy
-msgid "Installed version is incompatible"
-msgstr "Η εγκατεστημένη έκδοση δεν είναι συμβατή"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 #, fuzzy
@@ -2473,8 +2472,8 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "Η σύνδεσή σας έχει χαθεί. Παρακαλώ, ανανεώσετε την σελίδα για να συνεχίσετε."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50

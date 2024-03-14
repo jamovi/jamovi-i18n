@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-12-23 10:12+0000\n"
 "Last-Translator: 박종현 <tgpjh0815@ajou.ac.kr>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ko/>\n"
+"Language-Team: Korean "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1069,9 +1069,9 @@ msgstr "설치됨"
 msgid "Installed Modules"
 msgstr "설치된 모듈"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "설치된 버전이 호환되지 않습니다"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1950,8 +1950,8 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 "
-"지원하지 않습니다. 가중치는 가장 가까운 정수로 반올림되었습니다."
+"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 지원하지 않습니다. 가중치는 가장 가까운 정수로 "
+"반올림되었습니다."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -1962,8 +1962,7 @@ msgstr "데이터는 변수 {}에 의해 가중치가 부여됩니다."
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
-msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 "
-"분석에서는 비가중 데이터를 사용했습니다."
+msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 분석에서는 비가중 데이터를 사용했습니다."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2320,9 +2319,9 @@ msgstr "필터링된 행이 숨겨지면 필터에 영향을 주는 변환을 �
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "연결이 끊어졌습니다. 계속하려면 페이지를 새로고침 하세요."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "웹 브라우저에서 jamovi가 데이터 세트를 열지 못했습니다"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"

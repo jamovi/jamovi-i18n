@@ -1090,9 +1090,9 @@ msgstr "Nameščeno"
 msgid "Installed Modules"
 msgstr "Nameščeni moduli"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "Nameščena različica ni skladna"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2356,8 +2356,8 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "Povezava je izgubljena. Pred nadaljevanjem je treba stran osvežiti."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50

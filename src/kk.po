@@ -1085,8 +1085,8 @@ msgid "Installed Modules"
 msgstr "орнатылған модульдер"
 
 #: jamovi/client/main/store/pagemodules.js:216
-msgid "Installed version is incompatible"
-msgstr "орнатылған нұсқа үйлесімді емес"
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2351,9 +2351,9 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "байланысыңыз жоғалды. Жалғастыру үшін бетті жаңартуыңызды сұраймыз."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "сіздің веб-браузеріңіз jamovi-ге деректер жинағын ашуға жол бермеді"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"

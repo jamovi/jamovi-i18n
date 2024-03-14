@@ -4,8 +4,8 @@ msgstr ""
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2023-08-02 04:04+0000\n"
 "Last-Translator: Raydel Pérez Castillo <raydelp77@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/es/>\n"
+"Language-Team: Spanish "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1066,9 +1066,9 @@ msgstr "Instalado"
 msgid "Installed Modules"
 msgstr "Módulos Instalados"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "La versión instalada es incompatible"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2100,8 +2100,7 @@ msgstr "No se puede acceder a la biblioteca"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
-"No se puede acceder a Internet (probablemente debido a un portal cautivo)"
+msgstr "No se puede acceder a Internet (probablemente debido a un portal cautivo)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2307,9 +2306,9 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "La conexión se ha perdido. Actualice la página para continuar."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "Su navegador evitó que jamovi abriese el conjunto de datos"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"

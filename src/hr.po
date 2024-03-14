@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-11-05 18:35+0000\n"
 "Last-Translator: hackerone_attacker <iwanpakochack04@gmail.com>\n"
-"Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/hr/>\n"
+"Language-Team: Croatian "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1084,9 +1084,9 @@ msgstr "Instalirano"
 msgid "Installed Modules"
 msgstr "Instalirani Moduli"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "Instalirana verija nije kompatibilna"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2352,8 +2352,8 @@ msgstr ""
 "Vaša internetska veza se prekinula. Molimo Vas osvježite stranicu za "
 "nastavak."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50

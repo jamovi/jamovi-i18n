@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-11-21 01:08+0000\n"
 "Last-Translator: Josef Solin <kvokocka@gmail.com>\n"
-"Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
-"cs/>\n"
+"Language-Team: Czech "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1092,9 +1092,9 @@ msgstr "Nainstalováno"
 msgid "Installed Modules"
 msgstr "Nainstalované moduly"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "Nainstalovaná verze není kompatibilní"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1994,8 +1994,8 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"Data jsou zvážena dle proměnné {}, ale tato analýza nepodporuje ne-"
-"celočíslené váhy. Váhy budou zaokrouhleny k nejbližšímu celému číslu."
+"Data jsou zvážena dle proměnné {}, ale tato analýza nepodporuje "
+"ne-celočíslené váhy. Váhy budou zaokrouhleny k nejbližšímu celému číslu."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2383,9 +2383,9 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "Připojení bylo ztraceno. Prosím obnov stránku pro pokračování."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "Tvůj webový prohlížeč zabránil jamovi otevírání datového souboru"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 #, fuzzy

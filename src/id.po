@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-10-13 04:10+0000\n"
 "Last-Translator: EngageIndo <engageindo@gmail.com>\n"
-"Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/id/>\n"
+"Language-Team: Indonesian "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1083,9 +1083,9 @@ msgstr "Terpasang"
 msgid "Installed Modules"
 msgstr "Modul Terpasang"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "Versi yang terpasang tidak kompatibel"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1706,8 +1706,8 @@ msgstr "Kembali adalah jumlah dari sekelompok angka."
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
 msgstr ""
-"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-"
-"ratanya."
+"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai "
+"rata-ratanya."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
@@ -2341,8 +2341,8 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr ""
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50

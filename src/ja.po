@@ -1060,9 +1060,9 @@ msgstr "インストール済"
 msgid "Installed Modules"
 msgstr "インストール済モジュール"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "このバージョンに対応していません"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2276,9 +2276,9 @@ msgstr "フィルタの適用中は、フィルタに影響する変換は編集
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "接続が失われました。継続するにはページを更新してください。"
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "Webブラウザの制限のため、jamoviデータセットを開けませんでした"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"

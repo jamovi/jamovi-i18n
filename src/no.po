@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2023-09-13 11:50+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Bokmål <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/nb_NO/>\n"
+"Language-Team: Norwegian Bokmål "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nb_NO/>\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1078,9 +1078,9 @@ msgstr "Installert"
 msgid "Installed Modules"
 msgstr "Installerte moduler"
 
-#: jamovi/client/main/store/pagemodules.js:133
-msgid "Installed version is incompatible"
-msgstr "Installert versjon er ikke kompatibel"
+#: jamovi/client/main/store/pagemodules.js:216
+msgid "Installed version needs to be updated"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2133,8 +2133,8 @@ msgstr "Får ikke tilgang til biblioteket"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
-"Får ikke tilgang til Internett (sannsynligvis på grunn av at Internett-"
-"tilgang krever innlogging)"
+"Får ikke tilgang til Internett (sannsynligvis på grunn av at "
+"Internett-tilgang krever innlogging)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2343,9 +2343,9 @@ msgstr ""
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "Tilkoblingen er brutt. Oppdater siden for å fortsette."
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
-msgstr "Nettleseren din forhindret jamovi fra å åpne et datasett"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"

@@ -24,11 +24,11 @@ msgstr ""
 msgid "(current)"
 msgstr ""
 
-#: jamovi/client/main/utils/headeralert.js:33
+#: jamovi/client/main/utils/headeralert.js:36
 msgid "(This is a quirk of Safari and iPads)"
 msgstr ""
 
-#: jamovi/client/main/tableview.js:1413
+#: jamovi/client/main/tableview.js:1427
 msgid "{columnType} columns may not be edited."
 msgstr ""
 
@@ -131,7 +131,7 @@ msgstr ""
 msgid "An online data set hosted by {hostname}"
 msgstr ""
 
-#: jamovi/client/main/main.js:143
+#: jamovi/client/main/main.js:144
 msgid "An unexpected error has occured, and jamovi must now close."
 msgstr ""
 
@@ -243,7 +243,7 @@ msgstr ""
 msgid "Bullet List"
 msgstr ""
 
-#: jamovi/client/main/main.js:748
+#: jamovi/client/main/main.js:749
 #: jamovi/client/main/notifications.js:33
 msgid "Cancel"
 msgstr ""
@@ -252,7 +252,7 @@ msgstr ""
 msgid "Cannot assign non-numeric value to column '{}'"
 msgstr ""
 
-#: jamovi/client/main/tableview.js:1471
+#: jamovi/client/main/tableview.js:1485
 msgid "Cannot assign non-numeric value to column '{columnName}'"
 msgstr ""
 
@@ -322,7 +322,7 @@ msgstr ""
 msgid "Column '{}' does not exist in the dataset"
 msgstr ""
 
-#: jamovi/client/main/tableview.js:1412
+#: jamovi/client/main/tableview.js:1426
 msgid "Column is not editable"
 msgstr ""
 
@@ -357,12 +357,12 @@ msgstr ""
 msgid "Confirm uninstall"
 msgstr ""
 
-#: jamovi/client/main/main.js:885
+#: jamovi/client/main/main.js:889
 msgid "Connection failed"
 msgstr ""
 
-#: jamovi/client/main/main.js:142
-#: jamovi/client/main/main.js:149
+#: jamovi/client/main/main.js:143
+#: jamovi/client/main/main.js:150
 msgid "Connection lost"
 msgstr ""
 
@@ -422,7 +422,7 @@ msgstr ""
 msgid "Copy"
 msgstr ""
 
-#: jamovi/client/main/tableview.js:1470
+#: jamovi/client/main/tableview.js:1484
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
 msgstr ""
@@ -597,11 +597,11 @@ msgstr ""
 msgid "Documents"
 msgstr ""
 
-#: jamovi/client/main/main.js:461
+#: jamovi/client/main/main.js:462
 msgid "Don't enable"
 msgstr ""
 
-#: jamovi/client/main/main.js:748
+#: jamovi/client/main/main.js:749
 msgid "Don't Save"
 msgstr ""
 
@@ -644,15 +644,15 @@ msgstr ""
 msgid "Duplicate transform"
 msgstr ""
 
-#: jamovi/client/main/main.js:190
+#: jamovi/client/main/main.js:191
 #: jamovi/client/main/ribbon/annotationtab.js:112
 #: jamovi/client/main/ribbon/annotationtab.js:13
 #: jamovi/client/main/ribbon/datatab.js:32
 #: jamovi/client/main/ribbon/variablestab.js:16
 #: jamovi/client/main/ribbon/variablestab.js:22
-#: jamovi/client/main/tableview.js:1184
-#: jamovi/client/main/tableview.js:1424
-#: jamovi/client/main/tableview.js:1613
+#: jamovi/client/main/tableview.js:1198
+#: jamovi/client/main/tableview.js:1438
+#: jamovi/client/main/tableview.js:1627
 msgid "Edit"
 msgstr ""
 
@@ -671,7 +671,7 @@ msgstr ""
 msgid "else use"
 msgstr ""
 
-#: jamovi/client/main/main.js:462
+#: jamovi/client/main/main.js:463
 msgid "Enable"
 msgstr ""
 
@@ -679,8 +679,8 @@ msgstr ""
 msgid "Enable/disable full screen mode"
 msgstr ""
 
-#: jamovi/client/main/tableview.js:1424
-#: jamovi/client/main/tableview.js:1609
+#: jamovi/client/main/tableview.js:1438
+#: jamovi/client/main/tableview.js:1623
 msgid "Enter"
 msgstr ""
 
@@ -758,7 +758,7 @@ msgstr ""
 msgid "Factor"
 msgstr ""
 
-#: jamovi/client/main/main.js:184
+#: jamovi/client/main/main.js:185
 #: jamovi/client/main/ribbon.js:128
 msgid "File"
 msgstr ""
@@ -1057,7 +1057,7 @@ msgid "Installed Modules"
 msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:216
-msgid "Installed version is incompatible"
+msgid "Installed version needs to be updated"
 msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
@@ -1248,7 +1248,7 @@ msgstr ""
 msgid "Modules"
 msgstr ""
 
-#: jamovi/client/main/main.js:460
+#: jamovi/client/main/main.js:461
 msgid "More info ..."
 msgstr ""
 
@@ -1352,7 +1352,7 @@ msgstr ""
 msgid "One Drive"
 msgstr ""
 
-#: jamovi/client/main/main.js:455
+#: jamovi/client/main/main.js:456
 msgid ""
 "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
@@ -1375,7 +1375,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage.ts:903
 #: jamovi/client/main/instance.ts:336
-#: jamovi/client/main/main.js:771
+#: jamovi/client/main/main.js:772
 msgid "Opening"
 msgstr ""
 
@@ -1477,8 +1477,8 @@ msgid "Ranks each value"
 msgstr ""
 
 #: jamovi/client/main/tableview.js:101
-#: jamovi/client/main/tableview.js:1502
-#: jamovi/client/main/tableview.js:1540
+#: jamovi/client/main/tableview.js:1516
+#: jamovi/client/main/tableview.js:1554
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
 msgstr ""
@@ -1539,7 +1539,7 @@ msgstr ""
 msgid "Restart required"
 msgstr ""
 
-#: jamovi/client/main/analyses.ts:360
+#: jamovi/client/main/analyses.ts:363
 #: jamovi/client/main/ribbon/appmenu.js:71
 #: jamovi/server/jamovi/server/analyses/analyses.py
 #: jamovi/server/jamovi/server/instance.py
@@ -1714,7 +1714,7 @@ msgstr ""
 #: jamovi/client/main/backstage.ts:382
 #: jamovi/client/main/backstage.ts:479
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:303
-#: jamovi/client/main/main.js:748
+#: jamovi/client/main/main.js:749
 #: jamovi/client/main/menu.js:160
 msgid "Save"
 msgstr ""
@@ -1724,7 +1724,7 @@ msgstr ""
 msgid "Save As"
 msgstr ""
 
-#: jamovi/client/main/main.js:750
+#: jamovi/client/main/main.js:751
 msgid "Save changes to '{title}'?"
 msgstr ""
 
@@ -2068,7 +2068,7 @@ msgid_plural "Multiple Transformed Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
 
-#: jamovi/client/main/utils/headeralert.js:24
+#: jamovi/client/main/utils/headeralert.js:27
 msgid "Try again"
 msgstr ""
 
@@ -2088,7 +2088,7 @@ msgstr ""
 msgid "Unable to browse {}"
 msgstr ""
 
-#: jamovi/client/main/main.js:886
+#: jamovi/client/main/main.js:890
 msgid "Unable to connect to the server"
 msgstr ""
 
@@ -2107,7 +2107,7 @@ msgstr ""
 #: jamovi/client/main/instance.ts:304
 #: jamovi/client/main/instance.ts:350
 #: jamovi/client/main/instance.ts:356
-#: jamovi/client/main/main.js:848
+#: jamovi/client/main/main.js:852
 msgid "Unable to open"
 msgstr ""
 
@@ -2281,12 +2281,12 @@ msgstr ""
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr ""
 
-#: jamovi/client/main/main.js:150
+#: jamovi/client/main/main.js:151
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr ""
 
-#: jamovi/client/main/utils/headeralert.js:29
-msgid "Your web browser prevented jamovi from opening a data set"
+#: jamovi/client/main/utils/headeralert.js:32
+msgid "Your web browser prevented jamovi from opening a new tab"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:61
