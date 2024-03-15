@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-13 03:02+0000\n"
+"PO-Revision-Date: 2024-03-15 14:01+0000\n"
 "Last-Translator: Semih <semihbrn10@gmail.com>\n"
-"Language-Team: Turkish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/tr/>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1079,7 +1079,7 @@ msgstr "Yüklü Modüller"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "Kurulu sürümün güncellenmesi gerekiyor"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2346,7 +2346,7 @@ msgstr "Bağlantınız kesildi. Devam etmek için lütfen sayfayı yenileyin."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "Web tarayıcınız, jamovi'nin yeni sekme açmasını engelledi"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
