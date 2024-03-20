@@ -2,10 +2,10 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-03-03 00:01+0000\n"
+"PO-Revision-Date: 2024-03-20 17:01+0000\n"
 "Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
-"Language-Team: Portuguese "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/pt/>\n"
+"Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -926,8 +926,8 @@ msgstr "Cabeçalho"
 msgid "Help"
 msgstr "Ajuda"
 
-#: jamovi/client/main/infobox.js:34
 #. ????
+#: jamovi/client/main/infobox.js:34
 msgid "Hi"
 msgstr "Hi"
 
@@ -1073,7 +1073,7 @@ msgstr "Módulos instalados"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "A versão instalada precisa de ser atualizada"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2308,7 +2308,7 @@ msgstr "A conexão foi perdida. Por favor, atualize a página para continuar."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "O seu navegador impediu o jamovi de abrir um novo separador"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
