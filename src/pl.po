@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-03-28 15:01+0000\n"
+"PO-Revision-Date: 2024-03-28 19:01+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1088,7 +1088,7 @@ msgstr "Zainstalowane moduły"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr "Konieczne wykonanie aktualizacji"
+msgstr "Należy wykonać aktualizację"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
