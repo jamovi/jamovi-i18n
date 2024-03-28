@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-09-26 09:00+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
-"Language-Team: Catalan "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ca/>\n"
+"PO-Revision-Date: 2024-03-28 08:01+0000\n"
+"Last-Translator: Paco Rivière <paco@riviere.cat>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.1-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1081,7 +1081,7 @@ msgstr "Moduls instal·lats"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "Cal actualitzar la versió instal·lada"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -2352,7 +2352,7 @@ msgstr "La connexió s'ha perdut. Actualitzar la pàgina per a continuar."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "El vostre navegador web evita que el Jamovi obri una nova pestanya"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
