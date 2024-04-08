@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-08 18:01+0000\n"
+"PO-Revision-Date: 2024-04-08 19:01+0000\n"
 "Last-Translator: Arya Ghorbani <boytellurian@yahoo.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fa/>\n"
@@ -86,7 +86,7 @@ msgstr "فعال"
 #: jamovi/client/main/ribbon/datatab.js:70
 #: jamovi/client/main/ribbon/variablestab.js:26
 msgid "Add"
-msgstr ""
+msgstr "افزودن"
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
@@ -115,11 +115,11 @@ msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr ""
+msgstr "افزودن متغیر"
 
 #: jamovi/client/main/tableview.js:97
 msgid "Added"
-msgstr ""
+msgstr "افزوده شد"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
@@ -147,7 +147,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/analysetab.js:14
 #: jamovi/client/main/ribbon/analysetab.js:97
 msgid "Analyses"
-msgstr ""
+msgstr "تحلیل‌ها"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
@@ -155,7 +155,7 @@ msgstr ""
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
-msgstr ""
+msgstr "تحلیل"
 
 #: jamovi/client/main/vareditor/filterwidget.js:402
 msgid "and"
@@ -163,7 +163,7 @@ msgstr "و"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "تحلیل واریانس"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:107
@@ -230,11 +230,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Black & white"
-msgstr ""
+msgstr "سیاه و سفید"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Blues"
-msgstr ""
+msgstr "آبی‌ها"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Bold"
@@ -308,7 +308,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/annotationtab.js:100
 #: jamovi/client/main/ribbon/datatab.js:24
 msgid "Clipboard"
-msgstr ""
+msgstr "بریده‌دان"
 
 #: jamovi/client/main/infobox.js:277
 msgid "Close"
@@ -375,7 +375,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/datavarwidget.js:288
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr ""
+msgstr "پیوسته"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -582,7 +582,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/filterwidget.js:506
 #: jamovi/client/main/variablesview.js:341
 msgid "Description"
-msgstr ""
+msgstr "توصیف"
 
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
@@ -882,7 +882,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:188
 msgid "Functions"
-msgstr ""
+msgstr "تابع‌ها"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -894,16 +894,16 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Greens"
-msgstr ""
+msgstr "سبزها"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Greys"
-msgstr ""
+msgstr "خاکستری‌ها"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:70
 msgid "Group"
-msgstr ""
+msgstr "گروه"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 #: jamovi/client/main/ribbon/appmenu.js:119
@@ -920,7 +920,7 @@ msgstr ""
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
-msgstr ""
+msgstr "درود"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Hidden"
@@ -964,7 +964,7 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:111
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "SPSS را دوست دارم"
 
 #: jamovi/client/main/editors/transformeditor.js:250
 #: jamovi/client/main/vareditor/datavarwidget.js:289
@@ -978,7 +978,7 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:376
 msgid "if"
-msgstr ""
+msgstr "اگر"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "If the expression resolves true, use the value, otherwise the else."
@@ -986,7 +986,7 @@ msgstr ""
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
-msgstr ""
+msgstr "تصویر"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
@@ -1012,7 +1012,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/filterwidget.js:384
 #: jamovi/client/main/vareditor/filterwidget.js:534
 msgid "inactive"
-msgstr ""
+msgstr "غیرفعال"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Indent -1"
@@ -1071,15 +1071,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Integer"
-msgstr ""
+msgstr "عدد صحیح"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1030
 msgid "Interaction"
-msgstr ""
+msgstr "میان‌کنش"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1031
 msgid "Interactions"
-msgstr ""
+msgstr "میان‌کنش‌ها"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Inverts the value."
@@ -1099,11 +1099,11 @@ msgstr ""
 #: jamovi/client/main/backstage.ts:155
 #: jamovi/client/main/backstage.ts:238
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "پروندهٔ جمووی {ext}"
 
 #: jamovi/client/main/backstage.ts:114
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "پرونده‌های جمووی {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
@@ -1119,20 +1119,20 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:117
 msgid "jamovi library"
-msgstr ""
+msgstr "کتابخانهٔ جمووی"
 
 #: jamovi/client/main/store/pagesideload.js:27
 msgid "jamovi modules"
-msgstr ""
+msgstr "مدول‌های جمووی"
 
 #: jamovi/client/main/backstage.ts:172
 #: jamovi/client/main/backstage.ts:194
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "الگوی جمووی {ext}"
 
 #: jamovi/client/main/backstage.ts:115
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "الگوهای جمووی {ext}"
 
 #: jamovi/client/main/backstage.ts:124
 msgid "JASP files {ext}"
@@ -1148,11 +1148,11 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "کلیدواژه: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:174
 msgid "Language"
-msgstr ""
+msgstr "زبان"
 
 #: jamovi/client/main/backstage.ts:174
 #: jamovi/client/main/backstage.ts:196
@@ -1190,7 +1190,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:173
 msgid "Link"
-msgstr ""
+msgstr "پیوند"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
@@ -1198,7 +1198,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid "Logical"
-msgstr ""
+msgstr "منطقی"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
 msgid "Main Effects"
@@ -1210,7 +1210,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr ""
+msgstr "ریاضی"
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1219,7 +1219,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Minimal"
-msgstr ""
+msgstr "کمینه"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Misc"
@@ -1251,7 +1251,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:116
 msgid "Modules"
-msgstr ""
+msgstr "مدول‌ها"
 
 #: jamovi/client/main/main.js:461
 msgid "More info ..."
@@ -1260,12 +1260,12 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:340
 msgid "Name"
-msgstr ""
+msgstr "نام"
 
 #: jamovi/client/main/backstage.ts:358
 #: jamovi/client/main/backstage.ts:434
 msgid "New"
-msgstr ""
+msgstr "تازه"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:25
 msgid "New computed variable"
@@ -1281,7 +1281,7 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:65
 msgid "Next variable"
-msgstr ""
+msgstr "متغیر بعدی"
 
 #: jamovi/client/main/ribbon/annotationtab.js:133
 msgid "No Color"
@@ -1308,7 +1308,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/datavarwidget.js:286
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr ""
+msgstr "اسمی"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1396,7 +1396,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/datavarwidget.js:287
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr ""
+msgstr "ترتیبی"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
@@ -1456,15 +1456,15 @@ msgstr ""
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "ترجیحات"
 
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
-msgstr ""
+msgstr "متغیر پیشین"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
-msgstr ""
+msgstr "کیفی"
 
 #: jamovi/client/main/backstage.ts:121
 msgid "R data files {ext}"
@@ -1504,14 +1504,14 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "Reference"
-msgstr ""
+msgstr "مرجع"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:430
 #: jamovi/client/main/resultspanel.js:432
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "References"
-msgstr ""
+msgstr "مرجع‌ها"
 
 #: jamovi/client/main/infobox.js:280
 msgid "Refresh"
@@ -1549,7 +1549,7 @@ msgstr ""
 #: jamovi/server/jamovi/server/analyses/analyses.py
 #: jamovi/server/jamovi/server/instance.py
 msgid "Results"
-msgstr ""
+msgstr "نتیجه‌ها"
 
 #: jamovi/client/main/vareditor/editorwidget.js:99
 msgid "Retain unused levels in analyses"
@@ -2223,11 +2223,11 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:63
 msgid "Variable suffix"
-msgstr ""
+msgstr "پسوند متغیر"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:249
 msgid "Variable: {v}"
-msgstr ""
+msgstr "متغیر: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:37
 #: jamovi/client/main/ribbon/variablestab.js:11
@@ -2235,11 +2235,11 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:228
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr ""
+msgstr "متغیرها"
 
 #: jamovi/client/main/ribbon/appmenu.js:196
 msgid "Version {v}"
-msgstr ""
+msgstr "نسخهٔ {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Visible"
@@ -2249,14 +2249,14 @@ msgstr ""
 #: jamovi/client/main/backstage.ts:193
 #: jamovi/client/main/resultspanel.js:755
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "صفحهٔ وب"
 
 #: jamovi/client/main/ribbon/datatab.js:18
 #: jamovi/client/main/ribbon/datatab.js:41
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "وزن‌ها"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2296,12 +2296,12 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Zoom"
-msgstr ""
+msgstr "زوم"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "زوم‌پیش"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "زوم‌پس"
