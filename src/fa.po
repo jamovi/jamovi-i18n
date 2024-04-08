@@ -1,10 +1,15 @@
 msgid ""
 msgstr ""
+"PO-Revision-Date: 2024-04-08 18:01+0000\n"
+"Last-Translator: Arya Ghorbani <boytellurian@yahoo.com>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -75,7 +80,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/filterwidget.js:497
 #: jamovi/client/main/vareditor/filterwidget.js:534
 msgid "active"
-msgstr ""
+msgstr "فعال"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 #: jamovi/client/main/ribbon/datatab.js:70
@@ -154,7 +159,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/filterwidget.js:402
 msgid "and"
-msgstr ""
+msgstr "و"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
