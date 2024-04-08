@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-08 19:01+0000\n"
+"PO-Revision-Date: 2024-04-08 20:01+0000\n"
 "Last-Translator: Arya Ghorbani <boytellurian@yahoo.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fa/>\n"
@@ -724,7 +724,7 @@ msgstr ""
 
 #: jamovi/client/main/strings.ts:12
 msgid "Error"
-msgstr ""
+msgstr "خطا"
 
 #: jamovi/client/main/backstage.ts:119
 msgid "Excel {ext}"
@@ -732,7 +732,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "اکتشاف"
 
 #: jamovi/client/main/backstage.ts:417
 #: jamovi/client/main/backstage.ts:508
@@ -1400,7 +1400,7 @@ msgstr "ترتیبی"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
-msgstr ""
+msgstr "برون‌داد"
 
 #: jamovi/client/main/vareditor/editorwidget.js:250
 msgid "Output Variable"
@@ -1414,7 +1414,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:141
 msgid "Paragraph"
-msgstr ""
+msgstr "پاراگراف"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1448,7 +1448,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:106
 msgid "Plots"
-msgstr ""
+msgstr "نمودارها"
 
 #: jamovi/client/main/resultspanel.js:726
 msgid "PNG Image {ext}"
