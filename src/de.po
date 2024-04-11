@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-04 00:02+0000\n"
-"Last-Translator: nobkd <44443899+nobkd@users.noreply.github.com>\n"
+"PO-Revision-Date: 2024-04-11 16:01+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
 "Language: de\n"
@@ -1085,7 +1085,7 @@ msgstr "Installierte Module"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr "Installierte Version muss aktualisiert werden"
+msgstr "Die installierte Version muss aktualisiert werden"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
