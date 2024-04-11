@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-02-10 23:02+0000\n"
+"PO-Revision-Date: 2024-04-11 08:01+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
-"Language-Team: Hebrew "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/he/>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -21,6 +21,8 @@ msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
+"'{}' הוא לא ארגומנט של {}()\n"
+"(אם רוצים לבדוק שוויון, יש להשתמש בשני סימני שוויון '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -33,11 +35,11 @@ msgstr "(עדכני)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(זאת בעיה בספארי ובאייפדים)"
 
 #: jamovi/client/main/tableview.js:1413
 msgid "{columnType} columns may not be edited."
-msgstr ""
+msgstr "אי אפשר לערוך עמודות {columType}."
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
@@ -95,11 +97,11 @@ msgstr "הוספה"
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
+#, fuzzy
 msgid "Add another nested filter"
-msgstr ""
+msgstr "הוספת סנן מקונן נוסף"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
-#, fuzzy
 msgid "Add Missing Value"
 msgstr "הוספת ערך חסר"
 
@@ -141,12 +143,11 @@ msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:465
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "מערך נתונים מקוון בחסות {hostname}"
 
 #: jamovi/client/main/main.js:143
-#, fuzzy
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr "אירעה שגיאה בלתי צפויה וכעת jamovi יסגר."
+msgstr "אירעה שגיאה בלתי צפויה וכעת על jamovi להיסגר."
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 msgid "An update is available"
@@ -158,8 +159,9 @@ msgid "Analyses"
 msgstr "ניתוחים"
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "ניתוחים שמממשים קוד אקראי אינם מורשים בפגישה זו"
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
@@ -186,17 +188,20 @@ msgstr "ניתוח שונות"
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:39
+#, fuzzy
 msgid "Append"
-msgstr ""
+msgstr "סיפוח"
 
 #: jamovi/client/main/viewcontroller.js:634
+#, fuzzy
 msgid "Append how many rows?"
-msgstr ""
+msgstr "כמה שורות לספח?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
+#, fuzzy
 msgid "Append Row..."
-msgstr ""
+msgstr "סיפוח עמודה..."
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
@@ -234,9 +239,8 @@ msgid "Available"
 msgstr "זמין"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-#, fuzzy
 msgid "Bad function definition"
-msgstr "הגדרת פונקצייה לא טובה"
+msgstr "הגדרת הפונקצייה לא טובה"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Black & white"
@@ -267,11 +271,11 @@ msgstr "ביטול"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "לא ניתן להזין ערך לא מספרי לעמודה '{}'"
 
 #: jamovi/client/main/tableview.js:1471
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "לא ניתן להזין ערך לא מספרי לעמודה '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
@@ -298,12 +302,10 @@ msgid "Center Align"
 msgstr "מרכוז"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:92
-#, fuzzy
 msgid "change label..."
-msgstr "שינוי תווית..."
+msgstr "החלפת תווית..."
 
 #: jamovi/client/main/ribbon/appmenu.js:149
-#, fuzzy
 msgid "Check again"
 msgstr "בדיקה חוזרת"
 
@@ -312,7 +314,6 @@ msgid "Checking for updates"
 msgstr "מחפש עדכונים"
 
 #: jamovi/server/jamovi/server/compute/messages.py
-#, fuzzy
 msgid "Circular reference detected"
 msgstr "נמצאה הפנייה מעגלית"
 
@@ -331,10 +332,9 @@ msgstr "סגירה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:170
 msgid "Code-Block"
-msgstr ""
+msgstr "בלוק הקוד"
 
 #: jamovi/client/main/ribbon/appmenu.js:118
-#, fuzzy
 msgid "Color palette"
 msgstr "לוח הצבעים"
 
