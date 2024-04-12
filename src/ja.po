@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-11-18 00:48+0000\n"
+"PO-Revision-Date: 2024-04-12 02:02+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.15-dev\n"
+"X-Generator: Weblate 5.5-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -168,7 +168,7 @@ msgstr "かつ"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "分散分析"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -486,7 +486,7 @@ msgstr "データファイル"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "データは重みづけされていません"
 
 #: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
@@ -495,7 +495,7 @@ msgstr "データライブラリ"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "データステータス"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -686,12 +686,12 @@ msgstr "有効化"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "フルスクリーンモードのオン・オフ"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter (Return) キー"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -735,7 +735,7 @@ msgstr "Excel形式 {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "探索"
 
 #: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
 #: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
@@ -762,7 +762,7 @@ msgstr "「{filename}」に書き出しました"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "因子"
 
 #: jamovi/client/main/main.js:169
 msgid "File"
@@ -790,7 +790,7 @@ msgstr "ファイルが破損しています（マニフェストが破損して
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "ファイルメニュー項目"
 
 #: jamovi/client/main/instance.js:403
 msgid "File Saved"
@@ -862,7 +862,7 @@ msgstr "式の指定に誤りがあります（値が等しいことを確かめ
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "度数"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1062,7 +1062,7 @@ msgstr "インストール済モジュール"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "バージョンの更新が必要です"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1292,7 +1292,7 @@ msgstr "この関数についての情報がありません"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "インターネットに接続されていません"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
@@ -1328,7 +1328,7 @@ msgstr "注"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "注意"
 
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Number format"
@@ -1350,7 +1350,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:358
 msgid ""
@@ -1452,7 +1452,7 @@ msgstr "PNG画像 {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "設定"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1510,7 +1510,7 @@ msgstr "更新"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "回帰"
 
 #: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
@@ -1588,7 +1588,7 @@ msgstr "指定された数値の平均値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "変数の偏差絶対値の中央値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
@@ -1625,7 +1625,7 @@ msgstr "変数値の合計値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "変数の偏差絶対値のロバスト中央値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1744,7 +1744,7 @@ msgstr "検索"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "ファイルを検索"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1826,7 +1826,7 @@ msgstr "変数に含まれる文字列を区切り文字で分割します。<i>
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "スプレッドシート"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
@@ -1882,7 +1882,7 @@ msgstr "システム初期値"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "t検定"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -1916,18 +1916,20 @@ msgstr "この変換が適用される変数値です。"
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
+msgstr "データは{}変数で重みづけされていますが、この分析は非整数の重みをサポートして"
+"いません。重みは最も近い整数に丸められました。"
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "データは{}変数で重みづけされています。"
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
-msgstr ""
+msgstr "データは重みづけされていますが、この分析は重みづけをサポートしていません。分"
+"析では重みづけなしのデータを使用しました。"
 
 #: jamovi/client/main/instance.js:418
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2076,7 +2078,7 @@ msgstr "ライブラリにアクセスできません"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "インターネットにアクセスできません（おそらくキャプティブポータルが原因です）"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2116,7 +2118,7 @@ msgstr "リクエストを実行できません"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "ライブラリに接続できません"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2238,7 +2240,7 @@ msgstr "Webページ {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "重みづけ"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2278,7 +2280,7 @@ msgstr "接続が失われました。継続するにはページを更新して
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "お使いのウェブブラウザによりjamoviの新しいタブを開けませんでした"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Zoom"
@@ -2286,8 +2288,8 @@ msgstr "ズーム"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "拡大"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "縮小"
