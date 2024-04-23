@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-02 21:02+0000\n"
+"PO-Revision-Date: 2024-04-23 13:07+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -121,7 +121,7 @@ msgstr "Dodaj warunek rekodowania"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr "Dodaj zmienną"
+msgstr "Wstaw zmienną"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
