@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-12-23 10:12+0000\n"
-"Last-Translator: 박종현 <tgpjh0815@ajou.ac.kr>\n"
-"Language-Team: Korean "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
+"PO-Revision-Date: 2024-05-02 13:07+0000\n"
+"Last-Translator: 이정희 <daemul72@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.4-dev\n"
+"X-Generator: Weblate 5.5.3-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1071,7 +1071,7 @@ msgstr "설치된 모듈"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "설치된 버전을 업데이트해야 합니다"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1179,11 +1179,11 @@ msgstr "왼쪽정렬"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
-msgstr "보자 작은"
+msgstr "다음보다 작음"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
 msgid "Less than or equal to"
-msgstr "보다 작거나 같은 (이하)"
+msgstr "다음보다 작거나 같음"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
@@ -1199,11 +1199,11 @@ msgstr "레벨 값"
 #: jamovi/client/main/vareditor/datavarwidget.js:48
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
 msgid "Levels"
-msgstr "레베"
+msgstr "레벨"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
-msgstr "연결"
+msgstr "링크"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
@@ -2321,7 +2321,7 @@ msgstr "연결이 끊어졌습니다. 계속하려면 페이지를 새로고침 
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "웹 브라우저로 인해 jamovi가 새 탭을 열 수 없습니다"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
