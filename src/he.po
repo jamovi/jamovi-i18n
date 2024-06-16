@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-16 16:09+0000\n"
+"PO-Revision-Date: 2024-06-16 22:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -533,8 +533,10 @@ msgstr "סוג הנתונים"
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "משתנה נתון"
+msgstr[1] "משתנים נתונים ({n})"
+msgstr[2] "משתנים נתונים ({n})"
+msgstr[3] "משתנים נתונים ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #, fuzzy
