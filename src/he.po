@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-16 15:09+0000\n"
+"PO-Revision-Date: 2024-06-16 16:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -479,7 +479,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr ""
+msgstr "יצירת טרנספורמציה חדשה..."
 
 #: jamovi/client/main/backstage.ts:116
 #: jamovi/client/main/backstage.ts:173
@@ -561,13 +561,12 @@ msgid "Delete"
 msgstr "מחיקה"
 
 #: jamovi/client/main/viewcontroller.js:275
-#, fuzzy
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
 msgstr[0] "האם למחוק את העמודה '{columnName}'?"
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] "האם למחוק {n} עמודות?"
+msgstr[1] "האם למחוק את שתי העמודות?"
+msgstr[2] "האם למחוק את {n} העמודות?"
+msgstr[3] "האם למחוק את {n} העמודות?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
@@ -582,13 +581,12 @@ msgid "Delete Row"
 msgstr "מחיקת השורה"
 
 #: jamovi/client/main/viewcontroller.js:325
-#, fuzzy
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
 msgstr[0] "האם למחוק את שורה {index}?"
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] "האם למחוק {n} עמודות?"
+msgstr[1] "האם למחוק את שתי השורות?"
+msgstr[2] "האם למחוק את {n} השורות?"
+msgstr[3] "האם למחוק את {n} השורות?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
@@ -596,7 +594,7 @@ msgstr "מחיקת שורות"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:40
 msgid "Delete transform"
-msgstr ""
+msgstr "מחיקת הטרנספורמציה"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -688,7 +686,7 @@ msgstr "שכפול"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:39
 msgid "Duplicate transform"
-msgstr ""
+msgstr "שכפול הטרנספורמציה"
 
 #: jamovi/client/main/main.js:190
 #: jamovi/client/main/ribbon/annotationtab.js:112
@@ -704,7 +702,7 @@ msgstr "עריכה"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:38
 msgid "Edit transform"
-msgstr ""
+msgstr "עריכת הטרנספורמציה"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:126
 #: jamovi/client/main/contextmenu/contextmenus.js:141
@@ -1341,7 +1339,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/newvarwidget.js:29
 msgid "New transformed variable"
-msgstr ""
+msgstr "משתנה טרנספורמציה חדש"
 
 #: jamovi/client/main/variableeditor.js:65
 msgid "Next variable"
@@ -1383,7 +1381,7 @@ msgstr "שמני"
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr ""
+msgstr "כלום"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
@@ -1786,7 +1784,7 @@ msgstr "ספירת שורות"
 
 #: jamovi/client/main/vareditor/editorwidget.js:252
 msgid "Row Filters"
-msgstr "סנני עמודות"
+msgstr "סנני שורות"
 
 #: jamovi/client/main/ribbon/datatab.js:67
 #: jamovi/client/main/ribbon/variablestab.js:46
@@ -1918,7 +1916,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
-msgstr ""
+msgstr "משתנה המקור"
 
 #: jamovi/client/main/backstage.ts:460
 msgid "Special Import"
@@ -2018,7 +2016,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "הערך הנוכחי של המשתנה שעליו מבוצעת הטרנספורמציה."
 
 #: jamovi/client/main/strings.ts:6
 msgid ""
@@ -2071,7 +2069,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "הטרנספורמציה שנבחרה מכילה שגיאה ויש לערוך אותה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "The value in the provided values at index."
@@ -2130,7 +2128,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:39
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "הטרנספורמציה מכילה שגיאה ויש לערוך אותה."
 
 #: jamovi/client/main/viewcontroller.js:376
 msgid "Too much data, use import instead"
@@ -2140,27 +2138,27 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:40
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Transform"
-msgstr ""
+msgstr "טרנספורמציה"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr ""
+msgstr "טרנספורמציה על {}"
 
 #: jamovi/client/main/tableview.js:296
 msgid "Transform: {name}"
-msgstr ""
+msgstr "טרנספורמציה: {name}"
 
 #: jamovi/client/main/tableview.js:301
 msgid "Transform: None"
-msgstr ""
+msgstr "טרנספורמציה: כלום"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr ""
+msgstr "טרנספורמציה..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
-msgstr ""
+msgstr "לאחר טרנספורמציה"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
@@ -2169,8 +2167,10 @@ msgstr ""
 #: jamovi/client/main/vareditor/editorwidget.js:248
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "משתנה טרנספורמציה"
+msgstr[1] "משתני טרנספורמציה מרובים ({n})"
+msgstr[2] "משתני טרנספורמציה מרובים ({n})"
+msgstr[3] "משתני טרנספורמציה מרובים ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
@@ -2310,11 +2310,11 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:281
 msgid "used by"
-msgstr ""
+msgstr "בשימוש"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:35
 msgid "using transform"
-msgstr ""
+msgstr "שימוש בטרנספורמציה"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
@@ -2322,7 +2322,7 @@ msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:63
 msgid "Variable suffix"
-msgstr ""
+msgstr "סיומת משתנה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:249
 msgid "Variable: {v}"
