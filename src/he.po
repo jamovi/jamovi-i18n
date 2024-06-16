@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-11 08:01+0000\n"
+"PO-Revision-Date: 2024-06-16 15:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.6-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -247,7 +247,6 @@ msgid "Black & white"
 msgstr "שחור ולבן"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
-#, fuzzy
 msgid "Blues"
 msgstr "כחולים"
 
@@ -349,17 +348,14 @@ msgstr "לא ניתן לערוך את העמודה"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 #: jamovi/client/main/ribbon/variablestab.js:23
-#, fuzzy
 msgid "Compute"
 msgstr "חישוב"
 
 #: jamovi/client/main/dataset.js:1316
-#, fuzzy
 msgid "Computed"
 msgstr "מחושב"
 
 #: jamovi/client/main/tableview.js:307
-#, fuzzy
 msgid "Computed variable"
 msgstr "משתנה מחושב"
 
@@ -370,8 +366,10 @@ msgstr "משתנה מחושב"
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "משתנה מחושב"
+msgstr[1] "משתנים מחושבים ({n})"
+msgstr[2] "משתנים מחושבים ({n})"
+msgstr[3] "משתנים מחושבים ({n})"
 
 #: jamovi/client/main/instance.ts:431
 msgid "Confirm overwite"
@@ -601,11 +599,10 @@ msgid "Delete transform"
 msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
-#, fuzzy
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
 msgstr[0] "מחיקת משתנה"
-msgstr[1] ""
+msgstr[1] "מחיקת משתנים"
 msgstr[2] "מחיקת משתנים"
 msgstr[3] "מחיקת משתנים"
 
