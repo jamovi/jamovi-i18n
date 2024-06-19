@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-16 22:09+0000\n"
+"PO-Revision-Date: 2024-06-19 15:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.6-dev\n"
+"X-Generator: Weblate 5.6-rc\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -21,8 +21,8 @@ msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"'{}' הוא לא ארגומנט של {}()\n"
-"(אם רוצים לבדוק שוויון, יש להשתמש בשני סימני שוויון '==')"
+"”{}“ הוא לא ארגומנט של {}()\n"
+"(אם רוצים לבדוק שוויון, יש להשתמש בשני סימני שוויון ”==“)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -223,7 +223,7 @@ msgstr "נדרש אימות"
 #: jamovi/client/main/editors/transformeditor.js:246
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr "אוטו'"
+msgstr "אוטו׳"
 
 #: jamovi/client/main/ribbon/annotationtab.js:134
 msgid "Automatic"
@@ -803,7 +803,7 @@ msgstr "יוצא"
 
 #: jamovi/client/main/instance.ts:425
 msgid "Exported to '{filename}'"
-msgstr "יוצא אל \"{filename}\""
+msgstr "יוצא אל ”{filename}“"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
@@ -906,7 +906,7 @@ msgstr ""
 msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
-msgstr "הנוסחה שגויה (כדי לבחון שוויון יש להשתמש בשני סימני שוויון \"==\")"
+msgstr "הנוסחה שגויה (כדי לבחון שוויון יש להשתמש בשני סימני שוויון ”==“)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
