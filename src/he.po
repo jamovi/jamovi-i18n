@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-19 15:09+0000\n"
+"PO-Revision-Date: 2024-06-23 15:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -539,14 +539,13 @@ msgstr[2] "משתנים נתונים ({n})"
 msgstr[3] "משתנים נתונים ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
-#, fuzzy
 msgid "Decimal"
 msgstr "עשרוני"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "decimal places"
-msgstr ""
+msgstr "ספרות אחרי הנקודה"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Default"
@@ -554,7 +553,7 @@ msgstr "ברירת מחדל"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "Default missings"
-msgstr ""
+msgstr "ברירת המחדל לחסרים"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 #: jamovi/client/main/ribbon/datatab.js:74
@@ -631,9 +630,8 @@ msgid ""
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:181
-#, fuzzy
 msgid "Developer mode"
-msgstr "מצב מפתחים"
+msgstr "מצב פיתוח"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
@@ -787,15 +785,15 @@ msgstr "סקירה"
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:212
 msgid "Export"
-msgstr "יצוא"
+msgstr "ייצוא"
 
 #: jamovi/client/main/resultspanel.js:723
 msgid "Export image"
-msgstr "יצוא תמונה"
+msgstr "ייצוא תמונה"
 
 #: jamovi/client/main/resultspanel.js:752
 msgid "Export results"
-msgstr "יצוא התוצאות"
+msgstr "ייצוא התוצאות"
 
 #: jamovi/client/main/instance.ts:425
 msgid "Exported"
@@ -960,7 +958,6 @@ msgid "Hadley"
 msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:171
-#, fuzzy
 msgid "Heading"
 msgstr "כותרת"
 
@@ -973,9 +970,8 @@ msgid "Hi"
 msgstr "היי"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
-#, fuzzy
 msgid "Hidden"
-msgstr "חבוי"
+msgstr "מוסתרות"
 
 #: jamovi/client/main/store/pagemodules.js:226
 #: jamovi/client/main/variableeditor.js:193
@@ -1045,7 +1041,7 @@ msgstr "תמונה"
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
 msgid "Import"
-msgstr "יבוא"
+msgstr "ייבוא"
 
 #: jamovi/client/main/instance.ts:151
 msgid "Import successful"
@@ -1118,7 +1114,7 @@ msgstr "מודולים מותקנים"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "יש לעדכן את הגרסה המותקנת"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1400,7 +1396,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:75
 msgid "Number format"
-msgstr ""
+msgstr "פורמט המספר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Offsets the values up or down."
@@ -1475,7 +1471,7 @@ msgstr[1] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "p-value format"
-msgstr ""
+msgstr "פורמט ערך p"
 
 #: jamovi/client/main/ribbon/annotationtab.js:141
 msgid "Paragraph"
@@ -1601,7 +1597,7 @@ msgstr "הסרת סנן"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
-msgstr ""
+msgstr "יש צורך בגרסה חדשה יותר של jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:155
 msgid "Restart and Install"
@@ -1922,7 +1918,7 @@ msgstr "משתנה המקור"
 
 #: jamovi/client/main/backstage.ts:460
 msgid "Special Import"
-msgstr "יבוא מיוחד"
+msgstr "ייבוא מיוחד"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid ""
@@ -1982,7 +1978,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Syntax mode"
-msgstr ""
+msgstr "מצב תחביר"
 
 #: jamovi/client/main/ribbon/appmenu.js:229
 msgid "System default"
@@ -2340,11 +2336,11 @@ msgstr "משתנים"
 
 #: jamovi/client/main/ribbon/appmenu.js:196
 msgid "Version {v}"
-msgstr ""
+msgstr "גרסה {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Visible"
-msgstr ""
+msgstr "מוצגות"
 
 #: jamovi/client/main/backstage.ts:171
 #: jamovi/client/main/backstage.ts:193
@@ -2401,12 +2397,12 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Zoom"
-msgstr ""
+msgstr "זום"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "הצרה"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "הרחבה"
