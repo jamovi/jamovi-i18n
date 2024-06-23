@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-23 15:09+0000\n"
+"PO-Revision-Date: 2024-06-23 16:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -188,20 +188,17 @@ msgstr "ניתוח שונות"
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:39
-#, fuzzy
 msgid "Append"
 msgstr "סיפוח"
 
 #: jamovi/client/main/viewcontroller.js:634
-#, fuzzy
 msgid "Append how many rows?"
 msgstr "כמה שורות לספח?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
-#, fuzzy
 msgid "Append Row..."
-msgstr "סיפוח עמודה..."
+msgstr "סיפוח שורה..."
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
@@ -366,10 +363,10 @@ msgstr "משתנה מחושב"
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "משתנה מחושב"
-msgstr[1] "משתנים מחושבים ({n})"
-msgstr[2] "משתנים מחושבים ({n})"
-msgstr[3] "משתנים מחושבים ({n})"
+msgstr[0] "משתנה חישוב"
+msgstr[1] "משתני חשוב מרובים ({n})"
+msgstr[2] "משתני חישוב מרובים ({n})"
+msgstr[3] "משתני חישוב מרובים ({n})"
 
 #: jamovi/client/main/instance.ts:431
 msgid "Confirm overwite"
@@ -533,10 +530,10 @@ msgstr "סוג הנתונים"
 #: jamovi/client/main/vareditor/editorwidget.js:244
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] "משתנה נתון"
-msgstr[1] "משתנים נתונים ({n})"
-msgstr[2] "משתנים נתונים ({n})"
-msgstr[3] "משתנים נתונים ({n})"
+msgstr[0] "משתנה נתונים"
+msgstr[1] "משתני נתונים מרובים ({n})"
+msgstr[2] "משתני נתונים מרובים ({n})"
+msgstr[3] "משתני נתונים מרובים ({n})"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
@@ -571,7 +568,6 @@ msgstr[3] "האם למחוק את {n} העמודות?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
-#, fuzzy
 msgid "Delete Filter"
 msgstr "מחיקת הסנן"
 
@@ -747,7 +743,7 @@ msgstr "הכנסת תווית..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
 msgid "Enter level value"
-msgstr ""
+msgstr "הכנסת ערך הרמה"
 
 #: jamovi/client/main/variablesview.js:152
 msgid "Enter name"
@@ -1067,11 +1063,11 @@ msgstr "מושבת"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Indent -1"
-msgstr ""
+msgstr "הזחה -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Indent +1"
-msgstr ""
+msgstr "הזחה +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -1546,7 +1542,6 @@ msgstr ""
 #: jamovi/client/main/tableview.js:1502
 #: jamovi/client/main/tableview.js:1540
 #: jamovi/client/main/variablesview.js:58
-#, fuzzy
 msgid "Ready"
 msgstr "מוכן"
 
@@ -1561,9 +1556,8 @@ msgstr "אחרונים"
 #: jamovi/client/main/ribbon/annotationtab.js:114
 #: jamovi/client/main/ribbon/datatab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:18
-#, fuzzy
 msgid "Redo Edit"
-msgstr "שחזר עריכה"
+msgstr "שחזור עריכה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "Reference"
@@ -1870,11 +1864,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/datatab.js:38
 msgid "Setup"
-msgstr ""
+msgstr "תצורה"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
 msgid "Setup..."
-msgstr ""
+msgstr "תצורה..."
 
 #: jamovi/client/main/store/pagemodules.js:221
 msgid "Show"
@@ -2035,7 +2029,7 @@ msgstr ""
 
 #: jamovi/client/main/instance.ts:431
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "הקובץ ”{filename}“ כבר קיים. האם לשכתב אותו?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
@@ -2253,7 +2247,7 @@ msgstr "קו תחתון"
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:17
 msgid "Undo Edit"
-msgstr "בטל עריכה"
+msgstr "ביטול עריכה"
 
 #: jamovi/client/main/instance.ts:351
 #: jamovi/client/main/instance.ts:358
@@ -2281,7 +2275,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:155
 msgid "Update is ready"
-msgstr ""
+msgstr "העדכון מוכן"
 
 #: jamovi/client/main/ribbon/appmenu.js:151
 msgid "Update not found"
@@ -2353,7 +2347,7 @@ msgstr ""
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "משקלים"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2371,7 +2365,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "אי אפשר למחוק שורות כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
