@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-23 17:11+0000\n"
+"PO-Revision-Date: 2024-06-23 18:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -410,9 +410,8 @@ msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
-#, fuzzy
 msgid "Converts a number to an integer."
-msgstr "המרת מספר במספר שלם."
+msgstr "ממירה מספר במספר שלם."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "Converts text to a number (if possible)."
@@ -909,7 +908,7 @@ msgstr "תדירויות"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "הפונקצייה {}() לא קיימת"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
@@ -925,7 +924,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:188
 msgid "Functions"
-msgstr ""
+msgstr "פונקציות"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -1346,7 +1345,7 @@ msgstr "ללא צבע"
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:218
 msgid "No information about this function is avaliable"
-msgstr "אין מידע זמין על פונקציה זו"
+msgstr "אין מידע זמין על פונקצייה זו"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
@@ -1631,15 +1630,15 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "מחזירה את הערך המוחלט של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "מחזירה את הלוגריתם בבסיס 10 של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "מחזירה את הפונקצייה המעריכית בבסיס ℯ של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 #, fuzzy
@@ -1671,7 +1670,7 @@ msgstr "מחזיר את הערך הנפוץ ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "מחזירה את הלוגריתם הטבעי של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
@@ -1718,9 +1717,8 @@ msgid "Returns the smallest value of a variable."
 msgstr "מחזיר את הערך הקטן ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
-#, fuzzy
 msgid "Returns the square root of a number."
-msgstr "מחזיר את השורש הריבועי של מספר."
+msgstr "מחזירה את השורש הריבועי של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 #, fuzzy
@@ -1761,13 +1759,12 @@ msgid "Rounds each value"
 msgstr "מעגל כל ערך"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
-#, fuzzy
 msgid "Rounds each value to the integer above"
-msgstr "מעגל כל ערך למספר השלם הגדול הקרוב ביותר"
+msgstr "מעגלת כל ערך למספר השלם הגדול הקרוב ביותר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr "מעגל כל ערך למספר השלם הקטן הקרוב ביותר"
+msgstr "מעגלת כל ערך למספר השלם הקטן הקרוב ביותר"
 
 #: jamovi/client/main/tableview.js:100
 msgid "Row count"
@@ -2309,7 +2306,7 @@ msgstr "שימוש בטרנספורמציה"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "הערך גדול מדי לעמודה ”{}“ מסוג מספר שלם"
 
 #: jamovi/client/main/editors/transformeditor.js:63
 msgid "Variable suffix"
