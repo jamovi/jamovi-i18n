@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-23 16:09+0000\n"
+"PO-Revision-Date: 2024-06-23 17:11+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -128,7 +128,7 @@ msgstr "הוספת משתנה"
 #: jamovi/client/main/tableview.js:97
 #, fuzzy
 msgid "Added"
-msgstr "התווסף"
+msgstr "התווספה"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
@@ -291,7 +291,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:96
 msgid "Cells edited "
-msgstr ""
+msgstr "תאים שנערכו "
 
 #: jamovi/client/main/ribbon/annotationtab.js:145
 msgid "Center Align"
@@ -448,19 +448,19 @@ msgstr "העתקה"
 #: jamovi/client/main/tableview.js:1470
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
-msgstr ""
+msgstr "לא ניתן היה לשייך את הנתונים"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr ""
+msgstr "לא ניתן היה למחוק את השורות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
-msgstr ""
+msgstr "לא ניתן היה להכניס את העמודות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr ""
+msgstr "לא ניתן היה להכניס את השורות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
@@ -472,7 +472,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr ""
+msgstr "לא ניתן היה לבצע את הפעולה"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -604,7 +604,7 @@ msgstr[3] "מחיקת משתנים"
 #: jamovi/client/main/tableview.js:98
 #, fuzzy
 msgid "Deleted"
-msgstr "נמחק"
+msgstr "נמחקה"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 #: jamovi/client/main/vareditor/editorwidget.js:67
@@ -860,7 +860,7 @@ msgstr "הסנן מושבת"
 #: jamovi/client/main/tableview.js:99
 #, fuzzy
 msgid "Filtered"
-msgstr "מסונן"
+msgstr "מסוננת"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -1493,7 +1493,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:18
 msgid "Pin level"
-msgstr ""
+msgstr "הצמדת הרמה"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Please use ctrl-v to paste into the spreadsheet."
@@ -1770,7 +1770,6 @@ msgid "Rounds each value to the integer below"
 msgstr "מעגל כל ערך למספר השלם הקטן הקרוב ביותר"
 
 #: jamovi/client/main/tableview.js:100
-#, fuzzy
 msgid "Row count"
 msgstr "ספירת שורות"
 
