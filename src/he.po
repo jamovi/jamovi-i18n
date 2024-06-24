@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 11:09+0000\n"
+"PO-Revision-Date: 2024-06-24 12:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -1649,11 +1649,11 @@ msgstr "מחזירה את הממוצע של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "מחזירה את חציון הסטיות המוחלטות מהחציון של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the median of a variable."
-msgstr "מחזיר את החציון של משתנה."
+msgstr "מחזירה את החציון של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 #, fuzzy
@@ -1680,12 +1680,11 @@ msgstr "מחזיר את מספר השורות של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the overall mean of a variable."
-msgstr "מחזירה את הממוצע הכללי של משתנה."
+msgstr "מחזירה את הממוצע הכולל של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
-#, fuzzy
 msgid "Returns the overall sum of a variable."
-msgstr "מחזיר את הסכום הכללי של משתנה."
+msgstr "מחזירה את הסכום הכולל של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
@@ -1721,9 +1720,8 @@ msgid "Returns the standard error of the mean of a variable."
 msgstr "מחזירה את טעות התקן של ממוצע משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
-#, fuzzy
 msgid "Returns the sum of a set of numbers."
-msgstr "מחזיר את הסכום של סט מספרים."
+msgstr "מחזירה את הסכום של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #, fuzzy
