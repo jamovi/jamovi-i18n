@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 09:09+0000\n"
+"PO-Revision-Date: 2024-06-24 10:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -391,19 +391,19 @@ msgstr "רציף"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "כתיבה מקוצרת של ‪ABS(IQR( משתנה ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "כתיבה מקוצרת של ‪ABS(Z( משתנה ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "כתיבה מקוצרת של ‪‪MAX(ABSIQR(‫‪ משתנה 2 ,משתנה 1, ... ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "כתיבה מקוצרת של ‪‪MAX(ABSZ(‫‪ משתנה 2 ,משתנה 1, ... ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Converts a number to an integer."
@@ -1611,7 +1611,7 @@ msgstr "ניסיון חוזר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "מחזירה טרנספורמציית בוקס–קוקס של המשתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid ""
@@ -1800,7 +1800,7 @@ msgstr "שמירה בשם"
 
 #: jamovi/client/main/main.js:750
 msgid "Save changes to '{title}'?"
-msgstr "האם לשמור שינויים ב”{title}“?"
+msgstr "האם לשמור שינויים ב־”{title}“?"
 
 #: jamovi/client/main/instance.ts:442
 #: jamovi/client/main/instance.ts:515
@@ -1809,7 +1809,7 @@ msgstr "השמירה נכשלה"
 
 #: jamovi/client/main/instance.ts:419
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "נשמר ב־”filename“"
 
 #: jamovi/client/main/instance.ts:383
 msgid "Saving"
@@ -1932,7 +1932,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr ""
+msgstr "סטטיסטיקה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:125
 msgid "Strike"
@@ -2057,11 +2057,11 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "הניתוח חרג ממגבלות הזמן הנוכחיות והופסק."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "הניתוח הופסק כנראה בגלל מגבלת המשאבים."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2070,11 +2070,11 @@ msgstr "מאגר נתונים זה אינו זמין עוד"
 #: jamovi/client/main/backstage.ts:369
 #: jamovi/client/main/utils/pathtools.js:15
 msgid "This Device"
-msgstr ""
+msgstr "מכשיר זה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:250
 msgid "This is a data variable."
-msgstr ""
+msgstr "זהו משתנה נתונים."
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
@@ -2087,24 +2087,24 @@ msgstr "מחשב זה"
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "פגישה זו מוגבלת ל־{} עמודות"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "פגישה זו מוגבלת ל־{} שורות"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "הפגישה תסתיים ברגעים הקרובים"
 
 #: jamovi/client/main/notification.js:35
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "הפגישה תסתיים בעוד כ־{} דקות"
 
 #: jamovi/client/main/notification.js:37
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "הפגישה תסתיים בעוד כדקה אחת"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:39
 msgid "This transform is in error and should be edited."
@@ -2349,7 +2349,7 @@ msgstr ""
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "מדוע יש צורך בצעד הנוסף?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
