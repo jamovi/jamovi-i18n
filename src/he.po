@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 17:09+0000\n"
+"PO-Revision-Date: 2024-06-24 18:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -655,22 +655,24 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
+"מפיקה דגימה של n על פי המשתנה. לדוגמה: ‭SAMPLE(var, 20), SAMPLE(1, 20), "
+"SAMPLE('training', 20, 'test')‫"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "מפיקה דגימות מהתפלגות בטא."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "מפיקה דגימות מהתפלגות גמא."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:166
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "מפיקה דגימות מהתפלגות נורמלית (גאוסיאנית)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:168
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "מפיקה דגימות מהתפלגות אחידה."
 
 #: jamovi/client/resultsview/group.js:212
 msgid "Duplicate"
@@ -867,7 +869,7 @@ msgstr "סננים"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Filters a variable using the filter expression."
-msgstr "מסנן את המשתנה בעזרת ביטוי הסינון."
+msgstr "מסננת את המשתנה בעזרת ביטוי הסינון."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
@@ -1269,7 +1271,6 @@ msgid "Minimal"
 msgstr "מינימלי"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
-#, fuzzy
 msgid "Misc"
 msgstr "שונות"
 
@@ -1389,7 +1390,7 @@ msgstr "פורמט המספר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "הסטת הערכים מעלה או מטה."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
@@ -1675,9 +1676,8 @@ msgid "Returns the number of cases in a variable."
 msgstr "מחזירה את מספר האיברים במשתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
-#, fuzzy
 msgid "Returns the number of rows of a variable."
-msgstr "מחזיר את מספר השורות של משתנה."
+msgstr "מחזירה את מספר השורות של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the overall mean of a variable."
@@ -1692,9 +1692,8 @@ msgid "Returns the robust median absolute deviation of a variable."
 msgstr "מחזירה את החציון החסין של הסטיות המוחלטות מהחציון של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
-#, fuzzy
 msgid "Returns the row numbers."
-msgstr "מחזיר את מספר השורות."
+msgstr "מחזירה את מספר השורות."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
@@ -1825,7 +1824,7 @@ msgstr "חיפוש משתנים"
 
 #: jamovi/client/main/resultspanel.js:442
 msgid "Select all"
-msgstr ""
+msgstr "בחירת הכול"
 
 #: jamovi/client/main/vareditor/editorwidget.js:82
 #: jamovi/client/main/variablesview.js:63
@@ -1882,7 +1881,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Simulation"
-msgstr ""
+msgstr "סימולציה"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
@@ -2045,7 +2044,7 @@ msgstr "הטרנספורמציה שנבחרה מכילה שגיאה ויש לע�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "The value in the provided values at index."
-msgstr "ערכם של הערכים הנמצאים תחת האינדקס."
+msgstr "ערכם של הערכים הנמצאים באינדקס."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
