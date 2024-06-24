@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 12:09+0000\n"
+"PO-Revision-Date: 2024-06-24 13:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -1637,7 +1637,7 @@ msgstr "מחזירה את הפונקצייה המעריכית בבסיס ℯ ש�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "מחזירה את הערך הגבוה ביותר בסט מספרים."
+msgstr "מחזירה את הערך הגדול ביותר בסט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the largest value of a variable."
@@ -1656,9 +1656,8 @@ msgid "Returns the median of a variable."
 msgstr "מחזירה את החציון של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
-#, fuzzy
 msgid "Returns the most common value in a variable."
-msgstr "מחזיר את הערך הנפוץ ביותר של משתנה."
+msgstr "מחזירה את הערך השכיח ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
@@ -1671,7 +1670,7 @@ msgstr "מחזירה את הערכים המנורמלים (z) של סט מספר
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "מחזירה את מספר האיברים במשתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 #, fuzzy
@@ -1688,7 +1687,7 @@ msgstr "מחזירה את הסכום הכולל של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "מחזירה את החציון החסין של הסטיות המוחלטות מהחציון של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 #, fuzzy
@@ -1724,14 +1723,12 @@ msgid "Returns the sum of a set of numbers."
 msgstr "מחזירה את הסכום של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
-#, fuzzy
 msgid "Returns the variance of a set of numbers."
-msgstr "מחזיר את השונות של סט מספרים."
+msgstr "מחזירה את השונות של סט מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
-#, fuzzy
 msgid "Returns the variance of a variable."
-msgstr "מחזיר את השונות של משתנה."
+msgstr "מחזירה את השונות של משתנה."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Right Align"
