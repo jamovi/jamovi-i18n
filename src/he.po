@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-23 18:09+0000\n"
+"PO-Revision-Date: 2024-06-24 08:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -1145,18 +1145,18 @@ msgstr "נוטה"
 #: jamovi/client/main/backstage.ts:155
 #: jamovi/client/main/backstage.ts:238
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "קובץ jamovi {ext}"
 
 #: jamovi/client/main/backstage.ts:114
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "קובצי jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr "jamovi זמין עכשיו בעברית! (תודה רבה ל־Kurpaph)"
+msgstr "jamovi זמין כעת בעברית! (תודה רבה ל־Kurpaph)"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid ""
@@ -1180,11 +1180,11 @@ msgstr "מודולים של jamovi"
 #: jamovi/client/main/backstage.ts:172
 #: jamovi/client/main/backstage.ts:194
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "תבנית jamovi {ext}"
 
 #: jamovi/client/main/backstage.ts:115
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "תבניות jamovi {ext}"
 
 #: jamovi/client/main/backstage.ts:124
 msgid "JASP files {ext}"
@@ -1257,9 +1257,8 @@ msgid "Main Effects"
 msgstr "אפקטים עיקריים"
 
 #: jamovi/client/main/ribbon/analysetab.js:118
-#, fuzzy
 msgid "Manage installed"
-msgstr "ניהול ההתקנות"
+msgstr "ניהול המותקנים"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
@@ -1891,7 +1890,7 @@ msgstr ""
 
 #: jamovi/client/main/store.js:52
 msgid "Sideload"
-msgstr ""
+msgstr "התקנה חיצונית"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -1972,7 +1971,7 @@ msgstr "מצב תחביר"
 
 #: jamovi/client/main/ribbon/appmenu.js:229
 msgid "System default"
-msgstr ""
+msgstr "ברירת המחדל של המערכת"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
@@ -2037,7 +2036,7 @@ msgstr ""
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "ספריית jamovi אינה זמינה בהפעלה זו."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:123
 msgid "The level value {r} is already in use."
@@ -2383,7 +2382,7 @@ msgstr ""
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "דפדפן האינטרנט מנע מ־jamovi לפתוח כרטיסייה חדשה"
 
 #: jamovi/client/main/ribbon/appmenu.js:61
 msgid "Zoom"
