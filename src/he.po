@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 13:09+0000\n"
+"PO-Revision-Date: 2024-06-24 14:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -619,6 +619,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
+"בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 ... יש לשים לב שרוב "
+"הארגומנטים הם אופציונליים – ניתן להשתמש בפשטות כך: <strong>CONTAINS(needle, "
+"haystack)</strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
 msgid "Developer mode"
@@ -1020,7 +1023,7 @@ msgstr "אם"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr ""
+msgstr "אם הפסוק אמת, הערך ייבחר. אם לא, ה”אחרת“."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1122,7 +1125,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Inverts the value."
-msgstr ""
+msgstr "הופך את ערך האמת."
 
 #: jamovi/client/main/tableview.js:542
 #: jamovi/client/main/tableview.js:581
@@ -1243,7 +1246,7 @@ msgstr "טוען"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid "Logical"
-msgstr ""
+msgstr "לוגיקה"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
 msgid "Main Effects"
@@ -2333,7 +2336,7 @@ msgstr ""
 msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
-msgstr ""
+msgstr "כשבמשתנה חסר ערך, הערך שבנוסחה ייבחר. אם לא, ה”אחרת“."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
