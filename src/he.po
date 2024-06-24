@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 08:09+0000\n"
+"PO-Revision-Date: 2024-06-24 09:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -48,7 +48,7 @@ msgstr "התקנת {m} בוצעה בהצלחה"
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "{n} dp"
-msgstr ""
+msgstr "{ספרות}"
 
 #: jamovi/client/main/viewcontroller.js:600
 #: jamovi/client/main/viewcontroller.js:641
@@ -85,7 +85,6 @@ msgstr "הגישה נדחתה. כנראה שאין בידך הרשאות מתא�
 #: jamovi/client/main/vareditor/filterwidget.js:379
 #: jamovi/client/main/vareditor/filterwidget.js:497
 #: jamovi/client/main/vareditor/filterwidget.js:534
-#, fuzzy
 msgid "active"
 msgstr "פעיל"
 
@@ -97,7 +96,6 @@ msgstr "הוספה"
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
-#, fuzzy
 msgid "Add another nested filter"
 msgstr "הוספת סנן מקונן נוסף"
 
@@ -159,9 +157,8 @@ msgid "Analyses"
 msgstr "ניתוחים"
 
 #: jamovi/server/jamovi/server/engine.py
-#, fuzzy
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "ניתוחים שמממשים קוד אקראי אינם מורשים בפגישה זו"
+msgstr "ניתוחים שמממשים קוד אקראי אינם מורשים בפגישה זו."
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
@@ -252,9 +249,8 @@ msgid "Bold"
 msgstr "בולט"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:323
-#, fuzzy
 msgid "Browse"
-msgstr "סיור"
+msgstr "עיון"
 
 #: jamovi/client/main/ribbon/annotationtab.js:153
 msgid "Bullet List"
@@ -267,11 +263,11 @@ msgstr "ביטול"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr "לא ניתן להזין ערך לא מספרי לעמודה '{}'"
+msgstr "לא ניתן להזין ערך לא מספרי לעמודה ”{}“"
 
 #: jamovi/client/main/tableview.js:1471
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr "לא ניתן להזין ערך לא מספרי לעמודה '{columnName}'"
+msgstr "לא ניתן להזין ערך לא מספרי לעמודה ”{columnName}“"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
@@ -337,7 +333,7 @@ msgstr "לוח הצבעים"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "העמודה '{}' אינה קיימת במאגר הנתונים"
+msgstr "העמודה ”{}“ אינה קיימת במאגר הנתונים"
 
 #: jamovi/client/main/tableview.js:1412
 msgid "Column is not editable"
@@ -560,7 +556,7 @@ msgstr "מחיקה"
 #: jamovi/client/main/viewcontroller.js:275
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "האם למחוק את העמודה '{columnName}'?"
+msgstr[0] "האם למחוק את העמודה ”{columnName}“?"
 msgstr[1] "האם למחוק את שתי העמודות?"
 msgstr[2] "האם למחוק את {n} העמודות?"
 msgstr[3] "האם למחוק את {n} העמודות?"
@@ -634,13 +630,12 @@ msgid "Documents"
 msgstr "מסמכים"
 
 #: jamovi/client/main/main.js:461
-#, fuzzy
 msgid "Don't enable"
-msgstr "אל תאשר"
+msgstr "לא לאפשר"
 
 #: jamovi/client/main/main.js:748
 msgid "Don't Save"
-msgstr "אל תשמור"
+msgstr "לא לשמור"
 
 #: jamovi/client/main/backstage.ts:303
 #: jamovi/client/main/backstage.ts:408
@@ -711,14 +706,12 @@ msgid "else use"
 msgstr ""
 
 #: jamovi/client/main/main.js:462
-#, fuzzy
 msgid "Enable"
 msgstr "לאפשר"
 
 #: jamovi/client/main/ribbon.js:131
-#, fuzzy
 msgid "Enable/disable full screen mode"
-msgstr "לאפשר/למנוע מצב מסך מלא"
+msgstr "לאפשר/לבטל מצב מסך מלא"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
@@ -908,7 +901,7 @@ msgstr "תדירויות"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr "הפונקצייה {}() לא קיימת"
+msgstr "הפונקצייה {}() אינה קיימת"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
@@ -976,7 +969,7 @@ msgstr "הסתרה"
 
 #: jamovi/client/main/vareditor/filterwidget.js:70
 msgid "Hide filter columns"
-msgstr ""
+msgstr "הסתרת עמודות סננים"
 
 #: jamovi/client/main/store.js:29
 msgid "Hide library"
@@ -984,7 +977,7 @@ msgstr "הסתרת ספרייה"
 
 #: jamovi/client/analysisui/main.js:235
 msgid "Hide options"
-msgstr "הסתרת אפשרויות"
+msgstr "הסתרת האפשרויות"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Hide settings"
@@ -1585,7 +1578,7 @@ msgstr "הסרה"
 
 #: jamovi/client/main/vareditor/filterwidget.js:501
 msgid "Remove filter"
-msgstr "הסרת סנן"
+msgstr "הסרת הסנן"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
@@ -1807,7 +1800,7 @@ msgstr "שמירה בשם"
 
 #: jamovi/client/main/main.js:750
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "האם לשמור שינויים ב”{title}“?"
 
 #: jamovi/client/main/instance.ts:442
 #: jamovi/client/main/instance.ts:515
@@ -1872,13 +1865,13 @@ msgstr ""
 #: jamovi/client/main/vareditor/filterwidget.js:58
 #: jamovi/client/main/vareditor/filterwidget.js:75
 msgid "Show filter columns"
-msgstr ""
+msgstr "הצגת עמודות סננים"
 
 #: jamovi/client/main/editors/transformeditor.js:655
 #: jamovi/client/main/vareditor/computedvarwidget.js:124
 #: jamovi/client/main/vareditor/filterwidget.js:412
 msgid "Show formula editor"
-msgstr ""
+msgstr "הצגת עורך הנוסחות"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:224
 msgid "Show in main menu"
@@ -2052,7 +2045,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "המודול לניתוח זה אינו מותקן או אינו זמין"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
@@ -2089,7 +2082,7 @@ msgstr ""
 #: jamovi/client/main/backstage.ts:503
 #: jamovi/client/main/backstage.ts:512
 msgid "This PC"
-msgstr ""
+msgstr "מחשב זה"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2177,7 +2170,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
-msgstr ""
+msgstr "אין אפשרות לעיין ב{}"
 
 #: jamovi/client/main/main.js:886
 msgid "Unable to connect to the server"
@@ -2364,11 +2357,11 @@ msgstr "אי אפשר למחוק שורות כשמוסתרות שורות מסו
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "אי אפשר להכניס שורות כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
+msgstr "אי אפשר לשנות עמודות שמשפיעות על סננים כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
