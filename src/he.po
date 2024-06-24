@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 14:09+0000\n"
+"PO-Revision-Date: 2024-06-24 16:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -29,9 +29,8 @@ msgid "(auto)"
 msgstr "(אוטומטי)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:269
-#, fuzzy
 msgid "(current)"
-msgstr "(עדכני)"
+msgstr "(נוכחי)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
@@ -411,11 +410,11 @@ msgstr "ממירה מספר במספר שלם."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "Converts text to a number (if possible)."
-msgstr "ממיר טקסט במספר (אם אפשרי)."
+msgstr "ממירה טקסט במספר (אם אפשרי)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "Converts the value to text."
-msgstr "ממיר את הערך לטקסט."
+msgstr "ממירה את הערך לטקסט."
 
 #: jamovi/client/main/resultspanel.js:690
 #: jamovi/client/main/resultspanel.js:796
@@ -1555,7 +1554,7 @@ msgstr "שחזור עריכה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "Reference"
-msgstr ""
+msgstr "הפניה"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:430
@@ -1898,6 +1897,8 @@ msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
 msgstr ""
+"מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט <i>piece</i> מצביע על החתיכה "
+"הרצויה לפי מיקום."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
