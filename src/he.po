@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-24 20:09+0000\n"
+"PO-Revision-Date: 2024-06-25 13:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -57,7 +57,7 @@ msgstr "{n} הוא לא מספר שלם חיובי"
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} ספרות"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -1877,7 +1877,7 @@ msgstr "התקנה חיצונית"
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "significant figures"
-msgstr ""
+msgstr "ספרות משמעותיות"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Simulation"
