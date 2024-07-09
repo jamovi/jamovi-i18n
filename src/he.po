@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-06-25 13:09+0000\n"
+"PO-Revision-Date: 2024-07-09 17:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.6-rc\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1118,11 +1118,11 @@ msgstr "מספר שלם"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1030
 msgid "Interaction"
-msgstr ""
+msgstr "אינטראקציה"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1031
 msgid "Interactions"
-msgstr ""
+msgstr "אינטראקציות"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Inverts the value."
