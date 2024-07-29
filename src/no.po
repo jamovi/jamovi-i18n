@@ -34,7 +34,7 @@ msgstr "(nåværend)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr "(Dette er en pussighet i Safari og på IPad-er)"
+msgstr "(Dette er et problem i Safari og på iPad-er)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -158,7 +158,7 @@ msgstr "Analyser"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "Analyser som utfører vilkårlig kode er ikke tillatt i denne økten."
+msgstr "Analyser som utfører vilkårlig kode er ikke tillatt i denne sesjonen."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -186,7 +186,7 @@ msgstr "ANOVA"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "Tilføye"
+msgstr "Legg til"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
@@ -555,12 +555,12 @@ msgstr "Slett filter"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr "Slett rad"
+msgstr "Slett raden"
 
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] "Vil du slette rad {indeks}?"
+msgstr[0] "Vil du slette rad {index}?"
 msgstr[1] "Vil du slette {n} rader?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
@@ -574,8 +574,8 @@ msgstr "Slett transformasjon"
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
-msgstr[0] "Slett variabel"
-msgstr[1] "Slett variabler"
+msgstr[0] "Slett variabelen"
+msgstr[1] "Slett variablene"
 
 #: jamovi/client/main/tableview.js:77
 msgid "Deleted"
@@ -636,24 +636,24 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Tar et utvalg av n fra variabelen. dvs. SAMPLE(var, 20), dvs. SAMPLE(1, 20), "
-"dvs. SAMPLE('trening', 20, 'test')"
+"Trekker et utvalg av n fra variabelen. f.eks. SAMPLE(var, 20), f.eks. SAMPLE(1, "
+"20), f.eks. SAMPLE('trening', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
-msgstr "Tar utvalg fra en betadistribusjon."
+msgstr "Trekker et utvalg fra en beta-fordeling."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 msgid "Draws samples from a Gamma distribution."
-msgstr "Tar utvalg fra en Gamma-fordeling."
+msgstr "Trekker et utvalg fra en gamma-fordeling."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr "Tar utvalg fra en (gaussisk) normalfordeling."
+msgstr "Trekker et utvalg fra en (Gaussisk) normalfordeling."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
-msgstr "Tar utvalg fra en uniform fordeling."
+msgstr "Trekker et utvalg fra en uniform fordeling."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
@@ -733,7 +733,7 @@ msgstr "EPS-bilde {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
-msgstr "Lik"
+msgstr "Tilsvarer"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
@@ -782,7 +782,7 @@ msgstr "Fil"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr "Filformat støttes ikke"
+msgstr "Filformatet støttes ikke"
 
 #: jamovi/client/main/instance.js:133
 msgid "File imported"
@@ -848,15 +848,16 @@ msgstr "Filtrerer en variabel ved å bruke filteruttrykket."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtre kan ikke referere til kolonner som bruker «V»- eller kolonnefunksjoner"
+msgstr ""
+"Filtre kan ikke referere til kolonner som bruker «V»- eller kolonnefunksjoner"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr "Filtre kan ikke referere til utkomstvariabler"
+msgstr "Filtre kan ikke referere til resultatvariabler"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
-msgstr "Font"
+msgstr "Skrifttype"
 
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
@@ -869,8 +870,8 @@ msgstr "Formelen inneholder ugyldig node"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
+"Formula is mis-specified (If you're wanting to test equality, use two equals"
+" signs '==')"
 msgstr ""
 "Formelen er feilspesifisert (Hvis du vil teste likhet, bruk to likhetstegn "
 "'==')"
@@ -894,7 +895,7 @@ msgstr "Funksjonen {}() krever mellom {} og {} argumenter"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr "Funksjonen {}() tar {} argumentet {}"
+msgstr "Funksjonen {}() krever {} argumentet{}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:180
 msgid "Functions"
@@ -990,7 +991,7 @@ msgstr "ID"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Idle session"
-msgstr "Inaktiv økt"
+msgstr "Inaktiv sesjon"
 
 #: jamovi/client/main/editors/transformeditor.js:355
 msgid "if"
@@ -1020,7 +1021,7 @@ msgstr "Importert som"
 
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
-msgstr "Importerer"
+msgstr "Importere"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
 msgid "In development"
@@ -1126,18 +1127,22 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr "jamovi er nå tilgjengelig på Norsk bokmål (Takk til Sebastian Jentschke)!"
+msgstr ""
+"jamovi er nå tilgjengelig på Norsk bokmål (tusen takk til Sebastian "
+"Jentschke)!"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr "jamovi er nå tilgjengelig på Norsk bokmål!"
+msgstr ""
+"jamovi er nå tilgjengelig på Norsk bokmål (tusen takk til Sebastian "
+"Jentschke)!"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
-msgstr "jamovi er oppdatert"
+msgstr "jamovi er up-to-date"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1166,7 +1171,7 @@ msgstr "JSON-filer {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr "Justere"
+msgstr "Juster"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:237
 msgid "Keyword: {v}"
@@ -1344,7 +1349,7 @@ msgstr "Ingen"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
-msgstr "Ikke lik"
+msgstr "Ikke likt med"
 
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
@@ -1388,7 +1393,7 @@ msgstr ""
 "En eller flere analyser i dette datasettet er deaktivert\n"
 "                    fordi de tillater kjøring av vilkårlig kode. Du\n"
 "                    bør bare aktivere dem hvis du stoler på dette\n"
-"                     datasettets kilde."
+"                    datasettets kilde."
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
@@ -1431,7 +1436,7 @@ msgstr "Utgave"
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] "Resulterende variabel"
-msgstr[1] "Flere resulterende variabler ({n])"
+msgstr[1] "Resulterende variabler ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
@@ -1489,7 +1494,7 @@ msgstr "Forrige variabel"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr "kvalitativ"
+msgstr "kvalitativt"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
@@ -1510,7 +1515,7 @@ msgstr "Rangerer verdier"
 #: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
-msgstr "Klar"
+msgstr "Ferdig"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Really uninstall {m}?"
@@ -1586,7 +1591,7 @@ msgstr "Prøv på nytt"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
-msgstr "Beregner Box Cox-transformasjonen av variabelen."
+msgstr "Beregner Box-Cox-transformasjonen av variabelen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid ""
@@ -1594,114 +1599,114 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"Gir tilbake om variabelen er en uteligger (ifølge IQR): Hvis verdien er "
+"Gi tilbake om variabelen er en uteligger (ifølge IQR): Hvis verdien er "
 "innenfor boksen til en boxplot gis 0 tilbake; hvis absolutte verdier er "
 "større enn 1.5 så ligger de utenfor whiskerne."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr "Gir tilbake absoluttverdien til et tall."
+msgstr "Gi tilbake absoluttverdien til et tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr "Gir tilbake base-10-logaritmen til et tall."
+msgstr "Beregn logaritmen med basis 10 av et tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr "Gir tiltbake eksponenten med basis e for et tall."
+msgstr "Beregn eksponenten med basis ℯ for et tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "Gir tilbake den største verdien av et sett med tall."
+msgstr "Gi tilbake den største verdien av et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the largest value of a variable."
-msgstr "Gir tilbake den største verdien innenfor en variabel."
+msgstr "Gi tilbake den største verdien innenfor en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr "Gir tilbake gjennomsnittet av et sett med tall."
+msgstr "Beregn gjennomsnittet av et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr "Gir medianen av det absolutte avviket for en variabel."
+msgstr "Beregn medianen av det absolutte avviket for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median of a variable."
-msgstr "Gir tilbake medianen for en variabel."
+msgstr "Beregn medianen for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the most common value in a variable."
-msgstr "Gir tilbake den oftest forkommende verdien i en variabel."
+msgstr "Gi tilbake den oftest forkommende verdien i en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr "Gir tilbake den naturlige logaritmen til et tall."
+msgstr "Beregn den naturlige logaritmen til et tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Returns the normalized values of a set of numbers."
-msgstr "Gir tilbake de z-standardiserte verdiene for et sett med tall."
+msgstr "Beregn de z-standardiserte verdiene for et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the number of cases in a variable."
-msgstr "Gir tilbake antall målinger i en variabel."
+msgstr "Gi tilbake antall målinger i en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the number of rows of a variable."
-msgstr "Gir tilbake antall rader for en variabel."
+msgstr "Gi tilbake antall rader for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the overall mean of a variable."
-msgstr "Gir tilbake det totale gjennomsnittet for en variabel."
+msgstr "Beregn det totale gjennomsnittet for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the overall sum of a variable."
-msgstr "Gir tilbake den totale summen av en variabel."
+msgstr "Beregn den totale summen for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr "Gir den robuste medianen av det absolutte avviket for en variabel."
+msgstr "Beregn den robuste medianen av det absolutte avviket for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
-msgstr "Gir tilbake radnumrene."
+msgstr "Gi tilbake radnumrene."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr "Gir tilbake den minste verdien av et sett med tall."
+msgstr "Gi tilbake den minste verdien av et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the smallest value of a variable."
-msgstr "Gir tilbake den minste verdien av en variabel."
+msgstr "Gi tilbake den minste verdien av en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr "Gir tilbake kvadratroten av et tall."
+msgstr "Beregn kvadratroten av et tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Returns the standard deviation of a set of numbers."
-msgstr "Returnerer standardavviket for et sett med tall."
+msgstr "Beregn standardavviket for et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the standard deviation of a variable."
-msgstr "Gir tilbake standardavviket for en variabel."
+msgstr "Beregn standardavviket for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the standard error of the mean of a variable."
-msgstr "Returnerer standardfeilen til gjennomsnittet av en variabel."
+msgstr "Beregn standardfeilen til gjennomsnittet for en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the sum of a set of numbers."
-msgstr "Returnerer summen av et sett med tall."
+msgstr "Beregn summen for et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the variance of a set of numbers."
-msgstr "Returnerer variansen til et sett med tall."
+msgstr "Beregn variansen til et sett med tall."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the variance of a variable."
-msgstr "Returnerer variansen til en variabel."
+msgstr "Beregn variansen til en variabel."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -1846,7 +1851,7 @@ msgstr "Legg til manuelt"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr "Gjeldende sifre"
+msgstr "gjeldende sifre"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
@@ -1896,7 +1901,7 @@ msgstr "Statistisk"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
-msgstr "Stryk"
+msgstr "Strøket ut"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Styles"
@@ -1932,7 +1937,7 @@ msgstr "t-tester"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
-msgstr "Tabelle"
+msgstr "Tabell"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -1995,7 +2000,7 @@ msgstr "Indeks / posisjon av en verdi innenfor de angitte verdiene."
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr "jamovi-biblioteket er ikke tilgjengelig for økten din."
+msgstr "jamovi-biblioteket er ikke tilgjengelig for sesjonen din."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2055,24 +2060,24 @@ msgstr "Denne PCen"
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr "Denne økten er begrenset til {} kolonner"
+msgstr "Denne sesjonen er begrenset til {} kolonner"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr "Denne økten er begrenset til {} rader"
+msgstr "Denne sesjonen er begrenset til {} rader"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end any moment now"
-msgstr "Denne økten avsluttes snart"
+msgstr "Denne sesjonen avsluttes snart"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end in around {} minutes"
-msgstr "Denne økten avsluttes om ca. {} minutter"
+msgstr "Denne sesjonen avsluttes om ca. {} minutter"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session will end in around 1 minute"
-msgstr "Denne økten avsluttes om rundt 1 minutt"
+msgstr "Denne sesjonen avsluttes om rundt 1 minutt"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
@@ -2098,7 +2103,7 @@ msgstr "Transformer: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "Transformasjon: Ingen"
+msgstr "Transformer: Ingen"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
@@ -2133,8 +2138,8 @@ msgstr "Får ikke tilgang til biblioteket"
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
-"Får ikke tilgang til Internett (sannsynligvis på grunn av at "
-"Internett-tilgang krever innlogging)"
+"Får ikke tilgang til internett (sannsynligvis på grunn av at "
+"internett-tilgang krever innlogging)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2169,7 +2174,7 @@ msgstr "Kan ikke lime inn"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform import"
-msgstr "Kan ikke gjennomføre import"
+msgstr "Kan ikke importere"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
