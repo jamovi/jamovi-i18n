@@ -9,8 +9,8 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 4.14.1-dev\n"
-"X-Status: hidden\n"
+"X-Generator: Weblate 5.5-dev\n"
+"X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
