@@ -1,3 +1,4 @@
+#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-04-11 16:01+0000\n"
@@ -157,7 +158,8 @@ msgid "Analyses"
 msgstr "Analyser"
 
 #: jamovi/server/jamovi/server/engine.py
-msgid "Analyses which execute arbitrary code are not permitted in this session."
+msgid ""
+"Analyses which execute arbitrary code are not permitted in this session."
 msgstr "Analyser som utfører vilkårlig kode er ikke tillatt i denne sesjonen."
 
 #: jamovi/client/resultsview/main.js:113
@@ -691,7 +693,7 @@ msgstr "ellers bruk"
 
 #: jamovi/client/main/main.js:366
 msgid "Enable"
-msgstr "Aktivere"
+msgstr "Aktiver"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
@@ -873,7 +875,7 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals"
 " signs '==')"
 msgstr ""
-"Formelen er feilspesifisert (Hvis du vil teste likhet, bruk to likhetstegn "
+"Formelen er feilspesifisert (hvis du vil teste likhet, bruk to likhetstegn "
 "'==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
@@ -1068,7 +1070,7 @@ msgstr "Sett inn rad..."
 
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
-msgstr "Installere"
+msgstr "Installer"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1282,7 +1284,7 @@ msgstr "Moduler"
 
 #: jamovi/client/main/main.js:364
 msgid "More info ..."
-msgstr "Mer informasjon ..."
+msgstr "Mer informasjon..."
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1815,11 +1817,11 @@ msgstr "Sett 1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
-msgstr "Konfigurasjon"
+msgstr "Sett opp"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
 msgid "Setup..."
-msgstr "Konfigurasjon..."
+msgstr "Sett opp..."
 
 #: jamovi/client/main/store/pagemodules.js:136
 msgid "Show"
@@ -1968,7 +1970,8 @@ msgstr "Gjeldende verdi av variabelen som denne transformasjonen brukes på."
 #: jamovi/client/main/strings.ts:6
 msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
+"support non-integer weights. The weights were rounded to the nearest "
+"integer."
 msgstr ""
 "Dataene er vektet med variabelen {}, men denne analysen støtter ikke vekter "
 "som ikke er heltall. Vektene ble avrundet til nærmeste heltall."
@@ -2027,8 +2030,10 @@ msgid "The value in the provided values at index."
 msgstr "Verdien som har denne indeksen / posisjonen i de oppgitte verdiene."
 
 #: jamovi/server/jamovi/server/engine.py
-msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr "Analysen har overskredet de nåværende tidsgrensene og har blitt avsluttet."
+msgid ""
+"This analysis has exceeded the current time limits and has been terminated."
+msgstr ""
+"Analysen har overskredet de nåværende tidsgrensene og har blitt avsluttet."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
@@ -2333,8 +2338,10 @@ msgid "You cannot insert rows while filtered rows are hidden"
 msgstr "Du kan ikke sette inn rader mens filtrerte rader er skjult"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "Du kan ikke endre kolonner som påvirker filtre når filtrerte rader er skjult"
+msgid ""
+"You cannot modify columns that affect filters when filtered rows are hidden"
+msgstr ""
+"Du kan ikke endre kolonner som påvirker filtre når filtrerte rader er skjult"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
