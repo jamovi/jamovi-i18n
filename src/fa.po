@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Arya Ghorbani <boytellurian@yahoo.com>\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fa/>\n"
 "Language: fa\n"
