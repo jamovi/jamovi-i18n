@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-05-25 14:18+0000\n"
-"Last-Translator: Matej U <mateju@src.gnome.org>\n"
-"Language-Team: Slovenian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/sl/>\n"
+"PO-Revision-Date: 2024-07-31 09:09+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Slovenian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/sl/>\n"
 "Language: sl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=n%100==1 ? 0 : n%100==2 ? 1 : n%100==3 || "
 "n%100==4 ? 2 : 3;\n"
-"X-Generator: Weblate 4.13-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1392,7 +1392,7 @@ msgstr "V redu"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr ""
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
