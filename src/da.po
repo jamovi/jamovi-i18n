@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-04-11 16:01+0000\n"
+"PO-Revision-Date: 2024-07-31 08:06+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/da/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -142,7 +142,7 @@ msgstr "Alle {n}-veje"
 
 #: jamovi/client/main/backstage.js:454
 msgid "An online data set hosted by {hostname}"
-msgstr "Et webbaseret datasæt hostet af {hostname}."
+msgstr "Et webbaseret datasæt hostet af {hostname}"
 
 #: jamovi/client/main/main.js:129
 msgid "An unexpected error has occured, and jamovi must now close."
@@ -287,7 +287,7 @@ msgstr "Kan ikke tildele til disse kolonner."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr "Celler redigeret"
+msgstr "Celler redigeret "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -2147,7 +2147,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
-msgstr "Kan ikke gennemse {}."
+msgstr "Kan ikke gennemse {}"
 
 #: jamovi/client/main/main.js:753
 msgid "Unable to connect to the server"
@@ -2155,7 +2155,7 @@ msgstr "Kan ikke oprette forbindelse til serveren"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
-msgstr "Kan ikke importere {}."
+msgstr "Kan ikke importere {}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2194,7 +2194,7 @@ msgstr "Kan ikke gemme"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save {}"
-msgstr "Kan ikke gemme {}."
+msgstr "Kan ikke gemme {}"
 
 #: jamovi/client/main/store/pagemodules.js:224
 msgid "Unable to uninstall module"
