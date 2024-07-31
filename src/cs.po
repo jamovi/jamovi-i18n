@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2023-11-21 01:08+0000\n"
-"Last-Translator: Josef Solin <kvokocka@gmail.com>\n"
-"Language-Team: Czech "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/cs/>\n"
+"PO-Revision-Date: 2024-07-31 08:09+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
-"X-Generator: Weblate 5.2\n"
+"Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
+"X-Generator: Weblate 5.7-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -285,9 +285,8 @@ msgid "Cannot assign to these columns."
 msgstr "K těmto sloupcům nelze přiřadit."
 
 #: jamovi/client/main/tableview.js:75
-#, fuzzy
 msgid "Cells edited "
-msgstr "Upraveno   buněk "
+msgstr "Upraveno buněk "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -1397,7 +1396,7 @@ msgstr "Dobře"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr "One Drive"
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:365
 msgid ""
