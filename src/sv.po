@@ -1,20 +1,20 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2022-08-29 16:19+0000\n"
-"Last-Translator: Tom Sawyer <weblate@grymkoll.se>\n"
-"Language-Team: Swedish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/sv/>\n"
+"PO-Revision-Date: 2024-07-31 08:06+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' har ett fel"
+msgstr "'{}' är fel"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -288,7 +288,7 @@ msgstr "Kan inte tilldelas till dessa kolumner."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited "
-msgstr "Celler redigerade"
+msgstr "Celler redigerade "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -373,7 +373,7 @@ msgstr "Bekräfta avinstallationen"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
-msgstr "Anslutningen misslyckades"
+msgstr "Anslutning misslyckades"
 
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
@@ -640,8 +640,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Drar ett stickprov på n från variabeln. t.ex. SAMPLE(var, 20), t.ex. "
-"SAMPLE(1, 20), t.ex. SAMPLE('training', 20, 'test')"
+"Drar ett stickprov på n från variabeln. t.ex. SAMPLE(var, 20), t.ex. SAMPLE("
+"1, 20), t.ex. SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -686,7 +686,7 @@ msgstr "Redigera transformering"
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
 msgid "Edit..."
-msgstr "Edit..."
+msgstr "Redigera..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
@@ -1138,8 +1138,7 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr ""
-"jamovi finns nu på svenska (stort tack till Sebastian Jentschke)!"
+msgstr "jamovi finns nu på svenska (stort tack till Sebastian Jentschke)!"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1392,9 +1391,11 @@ msgid ""
 "                    source."
 msgstr ""
 "En eller flera analyser i detta dataset är inaktiverade\n"
-"                    eftersom de tillåter exekvering av godtycklig kod. Du bör endast\n"
-"                    endast aktivera dem om du litar på källan till detta dataset\n"
-"                    datasetets källa."
+"                    eftersom de tillåter exekvering av godtycklig kod. Du "
+"bör\n"
+"                    endast aktivera dem om du litar på källan till detta "
+"dataset\n"
+"                    källa."
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
@@ -1667,7 +1668,8 @@ msgstr "Beräkna den totala summan av en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr "Beräkna den robusta medianen av den absoluta avvikelsen för en variabel."
+msgstr ""
+"Beräkna den robusta medianen av den absoluta avvikelsen för en variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1973,8 +1975,8 @@ msgid ""
 "support non-integer weights. The weights were rounded to the nearest "
 "integer."
 msgstr ""
-"Data viktas med variabeln {}, men den här analysen stöder inte vikter"
-" som inte är heltal. Vikterna har avrundats till närmaste heltal."
+"Data viktas med variabeln {}, men den här analysen stöder inte vikter som "
+"inte är heltal. Vikterna har avrundats till närmaste heltal."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -1986,8 +1988,8 @@ msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
-"Data är viktade, men denna analys stöder inte användningen av vikter."
-" Data används oviktade i denna analys."
+"Data är viktade, men denna analys stöder inte användningen av vikter. Data "
+"används oviktade i denna analys."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2019,8 +2021,7 @@ msgstr "Biblioteket är inaktiverat"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
-"Modulen för denna analys är inte installerad eller är inte tillgänglig"
+msgstr "Modulen för denna analys är inte installerad eller är inte tillgänglig"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
