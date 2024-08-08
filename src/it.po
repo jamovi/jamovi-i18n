@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-07 14:09+0000\n"
-"Last-Translator: Diego Beraldin <diego.beraldin@gmail.com>\n"
+"PO-Revision-Date: 2024-07-31 09:09+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
 "Language: it\n"
@@ -1388,7 +1388,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr "One Drive"
+msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:359
 msgid ""
