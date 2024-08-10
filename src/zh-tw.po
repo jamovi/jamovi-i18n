@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-10 15:09+0000\n"
+"Last-Translator: Peter Dave Hello <hsu@peterdavehello.org>\n"
 "Language-Team: Chinese (Traditional) <https://hosted.weblate.org/projects/"
 "jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh-tw\n"
@@ -2317,7 +2317,7 @@ msgstr "您的連線已中斷。請重新整理網頁再繼續使用。"
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "您的網頁瀏覽器阻止了 jamovi 開啟新分頁"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
