@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Ayaulym <ayaulym.bauyrzhanova@nu.edu.kz>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
 "Language: kk\n"
