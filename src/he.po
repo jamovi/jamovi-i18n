@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
 "Language: he\n"
@@ -1458,6 +1458,8 @@ msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
+msgstr[3] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "p-value format"
