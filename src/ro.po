@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: arcopnt <arcopnt@posteo.com>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ro/>\n"
 "Language: ro\n"
@@ -358,6 +358,7 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/instance.ts:431
 msgid "Confirm overwite"
@@ -518,6 +519,7 @@ msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
@@ -547,6 +549,7 @@ msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
@@ -563,6 +566,7 @@ msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
@@ -577,6 +581,7 @@ msgid "Delete Variable"
 msgid_plural "Delete Variables"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/tableview.js:98
 msgid "Deleted"
@@ -1425,6 +1430,7 @@ msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "p-value format"
@@ -2101,6 +2107,7 @@ msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
+msgstr[2] ""
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
