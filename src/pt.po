@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-03-20 17:01+0000\n"
-"Last-Translator: Andre Costa <andrecaeu@gmail.com>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
 "Language: pt\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.5-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -2284,15 +2284,18 @@ msgstr "Porque é necessário este passo adicional?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr "Não é possível apagar linhas quando as linhas filtradas estão escondidas"
+msgstr ""
+"Não é possível apagar linhas quando as linhas filtradas estão escondidas"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr "Não é possível inserir linhas quando as linhas filtradas estão escondidas"
+msgstr ""
+"Não é possível inserir linhas quando as linhas filtradas estão escondidas"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "Não é possível modificar colunas quando as linhas filtradas estão escondidas"
+msgstr ""
+"Não é possível modificar colunas quando as linhas filtradas estão escondidas"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
