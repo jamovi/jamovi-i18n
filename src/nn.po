@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/nn/>\n"
 "Language: nn\n"
@@ -160,8 +160,7 @@ msgstr "Analysar"
 #: jamovi/server/jamovi/server/engine.py
 msgid ""
 "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
-"Analysar som utfører vilkårleg kode er ikkje tillaten i denne sesjonen."
+msgstr "Analysar som utfører vilkårleg kode er ikkje tillaten i denne sesjonen."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -1669,8 +1668,7 @@ msgstr "Berekn den totale summen for ein variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
-"Berekn den robuste medianen av det absolutte avviket for ein variabel."
+msgstr "Berekn den robuste medianen av det absolutte avviket for ein variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Returns the row numbers."
@@ -1967,8 +1965,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
-"Gjeldande verdi av variabelen som denne transformasjonen blir brukt på."
+msgstr "Gjeldande verdi av variabelen som denne transformasjonen blir brukt på."
 
 #: jamovi/client/main/strings.ts:6
 msgid ""
@@ -1976,8 +1973,8 @@ msgid ""
 "support non-integer weights. The weights were rounded to the nearest "
 "integer."
 msgstr ""
-"Data er vekta med variabelen {}, men denne analysen støttar ikkje vekter "
-"som ikkje er heiltal. Vektene vart avrunda til næraste heiltal."
+"Data er vekta med variabelen {}, men denne analysen støttar ikkje vekter som "
+"ikkje er heiltal. Vektene vart avrunda til næraste heiltal."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2022,8 +2019,7 @@ msgstr "Biblioteket er deaktivert"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
-"Modulen for denne analysen er ikkje installert, eller er utilgjengeleg"
+msgstr "Modulen for denne analysen er ikkje installert, eller er utilgjengeleg"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
