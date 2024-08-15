@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 09:09+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ko/>\n"
 "Language: ko\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -78,7 +78,8 @@ msgstr "강조"
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "접근이 불가능합니다. 이 리소스에 액세스할 수 있는 적절한 권한이 없을 수 있습니다."
+msgstr "접근이 불가능합니다. 이 리소스에 액세스할 수 있는 적절한 권한이 없을 수 "
+"있습니다."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -594,8 +595,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 사항입니다. 간단히 "
-"<strong>CONTAINS(needle, haystack)</strong>를 사용할 수 있습니다."
+"항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 "
+"사항입니다. 간단히 <strong>CONTAINS(needle, haystack)</strong>를 사용할 수 "
+"있습니다."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -630,8 +632,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"변수에서 n의 샘플을 뽑아냅니다. 예를 들어 SAMPLE(var, 20), 또는 SAMPLE(1, 20), 또는 "
-"SAMPLE(‘training’, 20, ‘test’)"
+"변수에서 n의 샘플을 뽑아냅니다. 예를 들어 SAMPLE(var, 20), 또는 SAMPLE(1, 20)"
+", 또는 SAMPLE(‘training’, 20, ‘test’)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -865,7 +867,8 @@ msgstr "수식에 잘못된 노드가 있습니다"
 msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
-msgstr "수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 사용하세요)"
+msgstr "수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 "
+"사용하세요)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -990,7 +993,8 @@ msgstr "만약"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "표현식이 참으로 확인되면 확인된 값을 사용하고 그렇지 않으면 다른 값을 사용합니다."
+msgstr "표현식이 참으로 확인되면 확인된 값을 사용하고 그렇지 않으면 다른 값을 "
+"사용합니다."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1124,7 +1128,8 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr "jamovi는 이제 { 한국어 }를 제공합니다! (@{MarongHappy (Junghee Lee)}님 감사합니다)"
+msgstr "jamovi는 이제 { 한국어 }를 제공합니다! (@{MarongHappy (Junghee Lee)}님 "
+"감사합니다)"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1853,7 +1858,8 @@ msgstr "특수 파일 불러오기"
 msgid ""
 "Splits text into pieces based on a separator. <i>piece</i> specifies the "
 "desired piece by index."
-msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>조각</i>은 인덱스별로 원하는 조각을 지정합니다."
+msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>조각</i>은 인덱스별로 원하는 "
+"조각을 지정합니다."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -1939,7 +1945,8 @@ msgstr "콘텐츠가 클립보드에 복사되었습니다"
 msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
-msgstr "콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보드에서 <em>{k}+C</em>를 눌러 복사할 수 있습니다"
+msgstr "콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보드에서 <em>{k}+C</em>를 "
+"눌러 복사할 수 있습니다"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
