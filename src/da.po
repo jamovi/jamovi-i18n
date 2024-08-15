@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-07-31 08:06+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-08-15 17:36+0000\n"
+"Last-Translator: Anonymous <noreply@weblate.org>\n"
 "Language-Team: Danish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/da/>\n"
 "Language: da\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7-dev\n"
+"X-Generator: Weblate 5.7\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -160,8 +160,7 @@ msgstr "Analyser"
 #: jamovi/server/jamovi/server/engine.py
 msgid ""
 "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
-"Analyser, der udfører vilkårlig kode, er ikke tilladt i denne session."
+msgstr "Analyser, der udfører vilkårlig kode, er ikke tilladt i denne session."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -602,8 +601,8 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"Bestemmer, om nogen af elementerne vises i in1, in2, in3, .... Bemærk, at de"
-" fleste af disse argumenter er valgfrie - det er muligt blot at bruge "
+"Bestemmer, om nogen af elementerne vises i in1, in2, in3, .... Bemærk, at de "
+"fleste af disse argumenter er valgfrie - det er muligt blot at bruge "
 "<strong>CONTAINS(needle, haystack)</strong>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
@@ -852,8 +851,7 @@ msgstr "Filtrerer en variabel ved hjælp af filterudtrykket."
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
-"Filtre kan ikke henvise til kolonner, der bruger »V«- eller "
-"kolonnefunktioner"
+"Filtre kan ikke henvise til kolonner, der bruger »V«- eller kolonnefunktioner"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1130,16 +1128,14 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr ""
-"jamovi er nu tilgængelig på danska (takket være Sebastian Jentschke)!"
+msgstr "jamovi er nu tilgængelig på danska (takket være Sebastian Jentschke)!"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr ""
-"jamovi er nu tilgængelig på danska (takket være Sebastian Jentschke)!"
+msgstr "jamovi er nu tilgængelig på danska (takket være Sebastian Jentschke)!"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
 msgid "jamovi is up-to-date"
@@ -1601,8 +1597,8 @@ msgid ""
 "than 1.5 are outside the whiskers."
 msgstr ""
 "Returnerer om variablen er en outlier (i henhold til IQR): Returneres 0 hvis "
-"værdien er inden for boksen i et boksplot; hvis de absolutte værdier "
-"er større end 1,5, er de uden for whiskerne."
+"værdien er inden for boksen i et boksplot; hvis de absolutte værdier er "
+"større end 1,5, er de uden for whiskerne."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1972,8 +1968,8 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"Dataene er vægtet med variablen {}, men denne analyse understøtter ikke "
-"ikke-heltallige vægte. Vægtene blev afrundet til nærmeste heltal."
+"Dataene er vægtet med variablen {}, men denne analyse understøtter ikke ikke-"
+"heltallige vægte. Vægtene blev afrundet til nærmeste heltal."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2321,8 +2317,8 @@ msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
 msgstr ""
-"Når variablen indeholder en manglende værdi, skal du bruge den første værdi,"
-" ellers den anden."
+"Når variablen indeholder en manglende værdi, skal du bruge den første værdi, "
+"ellers den anden."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
