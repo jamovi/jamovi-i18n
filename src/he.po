@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-25 13:09+0000\n"
+"PO-Revision-Date: 2024-08-25 15:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -245,7 +245,7 @@ msgstr "כחולים"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Bold"
-msgstr "בולט"
+msgstr "הבלטה"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:323
 msgid "Browse"
@@ -1136,7 +1136,7 @@ msgstr "בעיה בנוסחה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Italic"
-msgstr "נוטה"
+msgstr "הטייה"
 
 #: jamovi/client/main/backstage.ts:145
 #: jamovi/client/main/backstage.ts:155
