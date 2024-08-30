@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-25 15:09+0000\n"
+"PO-Revision-Date: 2024-08-30 10:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -136,7 +136,7 @@ msgstr "הכול"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1035
 #: jamovi/client/analysisui/gridtargetcontrol.js:1036
 msgid "All {n} way"
-msgstr ""
+msgstr "כל ה־{n} כיווניות"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:465
 msgid "An online data set hosted by {hostname}"
