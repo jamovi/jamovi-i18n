@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-30 10:09+0000\n"
+"PO-Revision-Date: 2024-08-30 11:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -123,9 +123,8 @@ msgid "Add Variable"
 msgstr "הוספת משתנה"
 
 #: jamovi/client/main/tableview.js:97
-#, fuzzy
 msgid "Added"
-msgstr "התווספה"
+msgstr "נוספו"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
@@ -596,9 +595,8 @@ msgstr[2] "מחיקת משתנים"
 msgstr[3] "מחיקת משתנים"
 
 #: jamovi/client/main/tableview.js:98
-#, fuzzy
 msgid "Deleted"
-msgstr "נמחקה"
+msgstr "נמחקו"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 #: jamovi/client/main/vareditor/editorwidget.js:67
@@ -854,9 +852,8 @@ msgid "Filter is inactive"
 msgstr "הסנן מושבת"
 
 #: jamovi/client/main/tableview.js:99
-#, fuzzy
 msgid "Filtered"
-msgstr "מסוננת"
+msgstr "מסוננות"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -1831,7 +1828,7 @@ msgstr "בחירת הכול"
 #: jamovi/client/main/vareditor/editorwidget.js:82
 #: jamovi/client/main/variablesview.js:63
 msgid "Selected"
-msgstr ""
+msgstr "נבחרו"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "sequential"
