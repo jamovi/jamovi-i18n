@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-11 04:09+0000\n"
+"PO-Revision-Date: 2024-09-11 05:09+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -209,7 +209,7 @@ msgstr "Authentication നടന്നില്ല"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Authentication വേണം"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
@@ -495,7 +495,7 @@ msgstr "ഡാറ്റ ഫയലുകൾ"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "ഡാറ്റ unweighted ആണ്"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
@@ -505,7 +505,7 @@ msgstr "ഡാറ്റ ലൈബ്രറി"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "ഡാറ്റ സ്റ്റാറ്റസ് ബാർ"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
@@ -698,12 +698,12 @@ msgstr "എനേബിൾ"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "ഫുൾ സ്ക്രീൻ മോഡ് എനേബിൾ/ഡിസേബിൾ ചെയ്യുക"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "എന്റർ കീ (റിട്ടേൺ)"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -748,7 +748,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Exploration"
 
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
@@ -777,7 +777,7 @@ msgstr "'{filename}' ലേക്ക് എക്സ്പോർട്ട് ച
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "ഫാക്ടർ"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
@@ -805,7 +805,7 @@ msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is 
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "ഫയൽ മെനു ഐറ്റങ്ങൾ"
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -880,7 +880,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "ഫ്രീക്വൻസികൾ"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1083,11 +1083,11 @@ msgstr "ഇൻസ്റ്റാൾ ചെയ്ത മൊഡ്യൂളുക�
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "ഇൻസ്റ്റാൾ ചെയ്ത വേർഷൻ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "മൊഡ്യൂളുകൾ ഇൻസ്റ്റാൾ ചെയ്യുന്നത് നിങ്ങളുടെ പ്ലാനിൽ ലഭ്യമല്ല"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
@@ -1125,14 +1125,11 @@ msgid "jamovi files {ext}"
 msgstr "jamovi ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-#, fuzzy
 msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
-msgstr ""
-"ജമോവി ഇപ്പോൾ {പരിഭാഷാ ഭാഷ ചേർക്കുക } ഭാഷയിൽ ലഭ്യമാണ്! (വളരെ നന്ദി, { നിങ്ങളുടെ പേര് ഇവിടെ ചേർക്കുക (നിങ്ങൾക്ക് "
-"ക്രെഡിറ്റ് ആവശ്യമില്ലെങ്കിൽ, \"ജമോവി പരിഭാഷാ ടീം\" എന്ന് ചേർക്കുക ) })"
+msgstr "ജമോവി ഇപ്പോൾ മലയാളം ഭാഷയിൽ ലഭ്യമാണ്! (വളരെ നന്ദി, ഡോക്ടർ ചിഞ്ചു സി.)"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid ""
@@ -1170,7 +1167,7 @@ msgstr "JASP ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON ഫയലുകൾ {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
@@ -1323,7 +1320,7 @@ msgstr "ഈ ഫങ്ഷനെ കുറിച്ചുള്ള ഒരു വ�
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "ഇൻ്റർനെറ്റ് കണക്ഷനില്ല"
 
 #: jamovi/client/main/backstage.js:569
 msgid "No recognised data files were found."
@@ -1361,7 +1358,7 @@ msgstr "കുറിപ്പ്"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "സൂചന"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
