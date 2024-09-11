@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-09-11 04:09+0000\n"
+"Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
 "Language: ml\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -33,7 +33,7 @@ msgstr "(നിലവിലുള്ളത്)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(ഇത് സഫാരിയുടെയും ഐപാഡുകളുടെയും ഒരു പ്രശ്നമാണ്)"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -156,7 +156,7 @@ msgstr "വിശകലനങ്ങൾ"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "arbitrary കോഡ് നടപ്പിലാക്കുന്ന വിശകലനങ്ങൾ ഈ സെഷനിൽ അനുവദിക്കില്ല."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -168,7 +168,7 @@ msgstr "ഒപ്പം"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -201,11 +201,11 @@ msgstr "മാറ്റങ്ങൾ വരുത്തുക"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "പ്ലാനിന്റെ സമയപരിധി അടുക്കുന്നു"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Authentication നടന്നില്ല"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
