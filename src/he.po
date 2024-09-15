@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-30 11:09+0000\n"
+"PO-Revision-Date: 2024-09-15 14:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.7.1-dev\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -331,7 +331,7 @@ msgstr "לוח הצבעים"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "העמודה ”{}“ אינה קיימת במאגר הנתונים"
+msgstr "העמודה ”{}“ אינה קיימת במערך הנתונים"
 
 #: jamovi/client/main/tableview.js:1412
 msgid "Column is not editable"
@@ -1223,11 +1223,11 @@ msgstr ""
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
 msgid "Level {0}"
-msgstr ""
+msgstr "רמה {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:194
 msgid "Level value"
-msgstr ""
+msgstr "ערך הרמה"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
@@ -1411,10 +1411,14 @@ msgid ""
 "                    should only enable them if you trust this data set's\n"
 "                    source."
 msgstr ""
+"ניתוח אחד או יותר הושבת במערך נתונים זה\n"
+"                    כי הוא מאפשר הרצה של קוד אקראי.\n"
+"                    מומלץ לאשר אותו רק אם סומכים\n"
+"                    על המקור של מערך הנתונים הזה."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:472
 msgid "Online data set"
-msgstr "מאגר נתונים מקוון"
+msgstr "מערך נתונים מקוון"
 
 #: jamovi/client/main/backstage.ts:364
 #: jamovi/client/main/backstage.ts:440
@@ -1603,7 +1607,7 @@ msgstr "תוצאות"
 
 #: jamovi/client/main/vareditor/editorwidget.js:99
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "שמירה על הרמות שאינן בשימוש בניתוחים"
 
 #: jamovi/client/main/ribbon/appmenu.js:151
 #: jamovi/client/main/ribbon/appmenu.js:154
@@ -2031,7 +2035,7 @@ msgstr "ערך הרמה לא יכול להיות ריק."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
-msgstr ""
+msgstr "הספרייה מבוטלת"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
@@ -2055,7 +2059,7 @@ msgstr "הניתוח הופסק כנראה בגלל מגבלת המשאבים."
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
-msgstr "מאגר נתונים זה אינו זמין עוד"
+msgstr "מערך נתונים זה אינו זמין עוד"
 
 #: jamovi/client/main/backstage.ts:369
 #: jamovi/client/main/utils/pathtools.js:15
