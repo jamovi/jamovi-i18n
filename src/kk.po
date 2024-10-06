@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-10-06 07:16+0000\n"
+"Last-Translator: Damian Dropmann <damiandropmann@gmail.com>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
 "Language: kk\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.8-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -606,7 +606,7 @@ msgid ""
 msgstr ""
 "элементтердің кез келгенінің in1, in2, in3, ... ішінде пайда болуын "
 "анықтайды. Бұл аргументтердің көпшілігі міндетті емес екенін ескеріңіз -- "
-"жай ғана <strong>CONTAINS(объект, массив) пайдалануға болады."
+"жай ғана <strong>CONTAINS(объект, массив)</strong> пайдалануға болады."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"
