@@ -2035,7 +2035,7 @@ msgstr "Det värde som har detta index/denna position i de angivna värdena."
 msgid ""
 "This analysis has exceeded the current time limits and has been terminated."
 msgstr ""
-"Denna analys har överskridit de aktuella tidsgränserna och har avslutats."
+"Denna analys har överskridit de aktuella tidsgränserna och har avslutats"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
