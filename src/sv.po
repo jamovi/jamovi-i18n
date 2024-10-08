@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-08 01:27+0000\n"
+"PO-Revision-Date: 2024-10-08 01:29+0000\n"
 "Last-Translator: Damian Dropmann <damiandropmann@gmail.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/sv/>\n"
@@ -2035,7 +2035,7 @@ msgstr "Det värde som har detta index/denna position i de angivna värdena."
 msgid ""
 "This analysis has exceeded the current time limits and has been terminated."
 msgstr ""
-"Denna analys har överskridit de aktuella tidsgränserna och har avslutat."
+"Denna analys har överskridit de aktuella tidsgränserna och har avslutats."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
