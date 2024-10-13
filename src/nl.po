@@ -1,8 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-13 05:15+0000\n"
-"Last-Translator: Dklfajsjfi49wefklsf32 <nlincus@users.noreply.hosted.weblate."
-"org>\n"
+"PO-Revision-Date: 2024-10-13 05:20+0000\n"
+"Last-Translator: Astrid <github@astrid.exposed>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -704,7 +703,7 @@ msgstr "Volledig scherm modus in- of uitschakelen"
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr "Enter toets"
+msgstr "Binnenkomen"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -1386,7 +1385,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr "OneDrive"
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:445
 msgid ""
