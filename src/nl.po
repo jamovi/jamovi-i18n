@@ -1,7 +1,8 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Tobias Peereboom <agilestuffnl@gmail.com>\n"
+"PO-Revision-Date: 2024-10-13 04:15+0000\n"
+"Last-Translator: Dklfajsjfi49wefklsf32 <nlincus@users.noreply.hosted.weblate."
+"org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -9,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.8-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -2363,7 +2364,7 @@ msgstr "Uw verbinding is verbroken. Vernieuw de pagina om door te gaan."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "Jouw web browser weerhield jamovi van het openen van een nieuw tabblad"
 
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"
