@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-13 04:15+0000\n"
+"PO-Revision-Date: 2024-10-13 05:15+0000\n"
 "Last-Translator: Dklfajsjfi49wefklsf32 <nlincus@users.noreply.hosted.weblate."
 "org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
@@ -704,7 +704,7 @@ msgstr "Volledig scherm modus in- of uitschakelen"
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr "Enter"
+msgstr "Enter toets"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
