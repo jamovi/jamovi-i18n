@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2024-10-20 14:16+0000\n"
+"Last-Translator: Are4 <are4.yt@gmail.com>\n"
 "Language-Team: Romanian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ro/>\n"
 "Language: ro\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
 "20)) ? 1 : 2;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.8-rc\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -21,6 +21,8 @@ msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
+"'{}' nu este un argument pentru {}()\n"
+"(Dacă dorești să testezi egalitatea, folosește două semne de egalitate '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -108,7 +110,7 @@ msgstr "Adaugă un filtru nou"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:44
 msgid "Add new level"
-msgstr ""
+msgstr "Adaugă un nivel nou"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -116,7 +118,7 @@ msgstr "Adaugă o notă"
 
 #: jamovi/client/main/editors/transformeditor.js:144
 msgid "Add recode condition"
-msgstr ""
+msgstr "Adaugă condiție de recodificare"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
@@ -139,7 +141,7 @@ msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:465
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "Un set de date online găzduit de {hostname}"
 
 #: jamovi/client/main/main.js:143
 msgid "An unexpected error has occured, and jamovi must now close."
@@ -156,7 +158,7 @@ msgstr "Analize"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
+msgstr "Analizele ce execută cod arbitrar nu sunt permise în această sesiune."
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
@@ -184,11 +186,11 @@ msgstr "ANOVA"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:39
 msgid "Append"
-msgstr ""
+msgstr "Adaugă"
 
 #: jamovi/client/main/viewcontroller.js:634
 msgid "Append how many rows?"
-msgstr ""
+msgstr "Câte rânduri să fie adăugate?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -197,45 +199,45 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
-msgstr ""
+msgstr "Aplică schimbări"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Se apropie de limita de timp al planului"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "Eșuare de autentificare"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
-msgstr ""
+msgstr "Autentificare necesară"
 
 #: jamovi/client/main/editors/transformeditor.js:246
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: jamovi/client/main/ribbon/annotationtab.js:134
 msgid "Automatic"
-msgstr ""
+msgstr "Automatic"
 
 #: jamovi/client/main/ribbon/appmenu.js:164
 msgid "Automatically install updates"
-msgstr ""
+msgstr "Instalează actualizări automat"
 
 #: jamovi/client/main/ribbon/appmenu.js:226
 #: jamovi/client/main/store.js:51
 msgid "Available"
-msgstr ""
+msgstr "Valabil"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
-msgstr ""
+msgstr "Definire greșită a funcției"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Black & white"
-msgstr ""
+msgstr "Alb și negru"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Blues"
@@ -243,11 +245,11 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Bold"
-msgstr ""
+msgstr "Îngroșat"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:323
 msgid "Browse"
-msgstr ""
+msgstr "Navigare"
 
 #: jamovi/client/main/ribbon/annotationtab.js:153
 msgid "Bullet List"
