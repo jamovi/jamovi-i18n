@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-09-15 14:09+0000\n"
+"PO-Revision-Date: 2024-11-03 11:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.8.2\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -73,7 +73,7 @@ msgstr "יש להשתמש בגרסה חדשה יותר של jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Accent"
-msgstr ""
+msgstr "מודגש"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
@@ -269,11 +269,11 @@ msgstr "לא ניתן להזין ערך לא מספרי לעמודה ”{columnN
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "אי אפשר לשייך לעמודה המחושבת ”{}“"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "אי אפשר לשייך לעמודה המסוננת ”{}“"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
@@ -281,7 +281,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "אי אפשר לשייך לעמודות אלה."
 
 #: jamovi/client/main/tableview.js:96
 msgid "Cells edited "
@@ -364,7 +364,7 @@ msgstr[3] "משתני חישוב מרובים ({n})"
 
 #: jamovi/client/main/instance.ts:431
 msgid "Confirm overwite"
-msgstr ""
+msgstr "אישור השינוי"
 
 #: jamovi/client/main/store/pagemodules.js:303
 #, fuzzy
@@ -457,11 +457,11 @@ msgstr "לא ניתן היה להכניס את השורות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr ""
+msgstr "לא ניתן היה לשנות את העמודות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr ""
+msgstr "לא ניתן היה לשנות את הטרנספורמציה"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
@@ -475,7 +475,7 @@ msgstr "יצירת טרנספורמציה חדשה..."
 #: jamovi/client/main/backstage.ts:173
 #: jamovi/client/main/backstage.ts:195
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (מופרד באמצעות פסיקים) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -486,7 +486,7 @@ msgstr "גזירה"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "Dark2"
-msgstr ""
+msgstr "חשוך2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:15
@@ -495,11 +495,11 @@ msgstr "נתונים"
 
 #: jamovi/client/main/backstage.ts:110
 msgid "Data files"
-msgstr ""
+msgstr "קובצי נתונים"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "הנתונים אינם משוקללים"
 
 #: jamovi/client/main/backstage.ts:368
 #: jamovi/client/main/backstage.ts:455
@@ -510,7 +510,7 @@ msgstr "ספריית הנתונים"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "סרגל מצב הנתונים"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Data type"
@@ -705,7 +705,7 @@ msgstr "עריכה..."
 #: jamovi/client/main/editors/transformeditor.js:381
 #: jamovi/client/main/editors/transformeditor.js:438
 msgid "else use"
-msgstr ""
+msgstr "אחרת יש להשתמש ב־"
 
 #: jamovi/client/main/main.js:462
 msgid "Enable"
@@ -718,7 +718,7 @@ msgstr "לאפשר/לבטל מצב מסך מלא"
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Enter"
 
 #: jamovi/client/main/variablesview.js:153
 msgid "Enter description"
@@ -745,11 +745,11 @@ msgstr "הכנסת שם"
 
 #: jamovi/client/resultsview/annotation.js:149
 msgid "Enter your URL here"
-msgstr ""
+msgstr "יש להכניס את כתובת ה־URL כאן"
 
 #: jamovi/client/main/resultspanel.js:728
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "תמונת ESP {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 #, fuzzy
@@ -762,7 +762,7 @@ msgstr "שגיאה"
 
 #: jamovi/client/main/backstage.ts:119
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
@@ -808,7 +808,7 @@ msgstr "אין תמיכה בתבנית קובץ זו"
 
 #: jamovi/client/main/instance.ts:150
 msgid "File imported"
-msgstr ""
+msgstr "הקובץ יובא"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File is corrupt"
@@ -816,11 +816,11 @@ msgstr "הקובץ פגום"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "הקובץ פגום (קובץ המניפסט פגום או חסר)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "הקובץ פגום (קובץ המניפסט פגום)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -870,11 +870,11 @@ msgstr "מסננת את המשתנה בעזרת ביטוי הסינון."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
+msgstr "סננים לא יכולים להפנות לעמודות המכילות ”V“ או פונקציות של עמודות"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "סננים לא יכולים להפנות למשתני פלט"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -887,7 +887,7 @@ msgstr "נוסחה"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "הנוסחה מכילה צומת בלתי חוקי"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid ""
@@ -906,7 +906,7 @@ msgstr "הפונקצייה {}() אינה קיימת"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "הפונקציה {}() צריכה לפחות {} ארגומנטים"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
