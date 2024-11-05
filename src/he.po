@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-05 19:00+0000\n"
+"PO-Revision-Date: 2024-11-05 20:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -156,7 +156,7 @@ msgstr "ניתוחים"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "ניתוחים שמממשים קוד אקראי אינם מורשים בפגישה זו."
+msgstr "ניתוחים שמממשים קוד אקראי אינם מורשים בהפעלה זו."
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
@@ -200,7 +200,6 @@ msgid "Apply changes"
 msgstr "החלת השינויים"
 
 #: jamovi/client/main/notification.js:82
-#, fuzzy
 msgid "Approaching plan time limit"
 msgstr "סוף זמן התוכנית מתקרב"
 
@@ -277,7 +276,7 @@ msgstr "אי אפשר לשייך לעמודה המסוננת ”{}“"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "לא ניתן לשייך לעמודת הקידוד־מחדש ”{}“"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
@@ -367,9 +366,8 @@ msgid "Confirm overwite"
 msgstr "אישור השינוי"
 
 #: jamovi/client/main/store/pagemodules.js:303
-#, fuzzy
 msgid "Confirm uninstall"
-msgstr "יש לאשר את הסרת ההתקנה"
+msgstr "אישור הסרת ההתקנה"
 
 #: jamovi/client/main/main.js:885
 msgid "Connection failed"
@@ -377,7 +375,6 @@ msgstr "החיבור נכשל"
 
 #: jamovi/client/main/main.js:142
 #: jamovi/client/main/main.js:149
-#, fuzzy
 msgid "Connection lost"
 msgstr "החיבור נותק"
 
@@ -417,7 +414,6 @@ msgstr "ממירה את הערך לטקסט."
 
 #: jamovi/client/main/resultspanel.js:690
 #: jamovi/client/main/resultspanel.js:796
-#, fuzzy
 msgid "Copied"
 msgstr "הועתק"
 
@@ -504,7 +500,6 @@ msgstr "הנתונים אינם משוקללים"
 #: jamovi/client/main/backstage.ts:368
 #: jamovi/client/main/backstage.ts:455
 #: jamovi/client/main/utils/pathtools.js:17
-#, fuzzy
 msgid "Data Library"
 msgstr "ספריית הנתונים"
 
@@ -566,7 +561,6 @@ msgstr "מחיקת הסנן"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
-#, fuzzy
 msgid "Delete Row"
 msgstr "מחיקת השורה"
 
@@ -726,12 +720,10 @@ msgstr "הוספת תיאור"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:238
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:296
-#, fuzzy
 msgid "Enter file name here"
 msgstr "יש להכניס את שם הקובץ כאן"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
-#, fuzzy
 msgid "Enter label..."
 msgstr "הכנסת תווית..."
 
@@ -752,9 +744,8 @@ msgid "EPS Image {ext}"
 msgstr "תמונת ESP {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
-#, fuzzy
 msgid "Equal to"
-msgstr "שווה ל"
+msgstr "שווה ל־"
 
 #: jamovi/client/main/strings.ts:12
 msgid "Error"
@@ -994,13 +985,11 @@ msgid "Home"
 msgstr "בית"
 
 #: jamovi/client/resultsview/html.js:53
-#, fuzzy
 msgid "Html"
 msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 #: jamovi/client/main/ribbon/appmenu.js:119
-#, fuzzy
 msgid "I ♥ SPSS"
 msgstr "אני ♥︎ SPSS"
 
@@ -1012,10 +1001,9 @@ msgstr "מזהה"
 
 #: jamovi/client/main/notification.js:74
 msgid "Idle session"
-msgstr ""
+msgstr "ההפעלה אינה פעילה"
 
 #: jamovi/client/main/editors/transformeditor.js:376
-#, fuzzy
 msgid "if"
 msgstr "אם"
 
@@ -1050,9 +1038,8 @@ msgstr "בפיתוח"
 
 #: jamovi/client/main/vareditor/filterwidget.js:384
 #: jamovi/client/main/vareditor/filterwidget.js:534
-#, fuzzy
 msgid "inactive"
-msgstr "מושבת"
+msgstr "לא פעיל"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
 msgid "Indent -1"
@@ -2081,24 +2068,24 @@ msgstr "מחשב זה"
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr "פגישה זו מוגבלת ל־{} עמודות"
+msgstr "הפעלה זו מוגבלת ל־{} עמודות"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr "פגישה זו מוגבלת ל־{} שורות"
+msgstr "הפעלה זו מוגבלת ל־{} שורות"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
-msgstr "הפגישה תסתיים ברגעים הקרובים"
+msgstr "ההפעלה תסתיים ברגעים הקרובים"
 
 #: jamovi/client/main/notification.js:35
 msgid "This session will end in around {} minutes"
-msgstr "הפגישה תסתיים בעוד כ־{} דקות"
+msgstr "ההפעלה תסתיים בעוד כ־{} דקות"
 
 #: jamovi/client/main/notification.js:37
 msgid "This session will end in around 1 minute"
-msgstr "הפגישה תסתיים בעוד כדקה אחת"
+msgstr "ההפעלה תסתיים בעוד כדקה אחת"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:39
 msgid "This transform is in error and should be edited."
