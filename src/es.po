@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-16 22:00+0000\n"
+"PO-Revision-Date: 2024-11-17 05:06+0000\n"
 "Last-Translator: Diego Huamantica Vilches <diegohv_25@hotmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/es/>\n"
@@ -962,7 +962,7 @@ msgstr "Resaltar Color"
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
 msgid "Home"
-msgstr "Casa"
+msgstr "Inicio"
 
 #: jamovi/client/resultsview/html.js:53
 msgid "Html"
@@ -1728,7 +1728,7 @@ msgstr "Guardar"
 
 #: jamovi/client/main/backstage.js:1209 jamovi/client/main/backstage.js:1310
 msgid "Save As"
-msgstr "Guardar Como"
+msgstr "Guardar como"
 
 #: jamovi/client/main/main.js:638
 msgid "Save changes to '{title}'?"
@@ -1897,7 +1897,7 @@ msgstr "Predeterminado del sistema"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr "Pruebas T"
+msgstr "Pruebas t"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
