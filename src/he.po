@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-05 21:04+0000\n"
+"PO-Revision-Date: 2024-12-23 21:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -193,7 +193,7 @@ msgstr "כמה שורות לספח?"
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "סיפוח שורה..."
+msgstr "סיפוח שורה…"
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
@@ -292,7 +292,7 @@ msgstr "מרכוז"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:92
 msgid "change label..."
-msgstr "החלפת תווית..."
+msgstr "החלפת תווית…"
 
 #: jamovi/client/main/ribbon/appmenu.js:149
 msgid "Check again"
@@ -394,11 +394,11 @@ msgstr "כתיבה מקוצרת של ‪ABS(Z( משתנה ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "כתיבה מקוצרת של ‪‪MAX(ABSIQR(‫‪ משתנה 2 ,משתנה 1, ... ))"
+msgstr "כתיבה מקוצרת של ‪‪MAX(ABSIQR(‫‪ משתנה 2 ,משתנה 1, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr "כתיבה מקוצרת של ‪‪MAX(ABSZ(‫‪ משתנה 2 ,משתנה 1, ... ))"
+msgstr "כתיבה מקוצרת של ‪‪MAX(ABSZ(‫‪ משתנה 2 ,משתנה 1, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Converts a number to an integer."
@@ -465,7 +465,7 @@ msgstr "לא ניתן היה לבצע את הפעולה"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr "יצירת טרנספורמציה חדשה..."
+msgstr "יצירת טרנספורמציה חדשה…"
 
 #: jamovi/client/main/backstage.ts:116
 #: jamovi/client/main/backstage.ts:173
@@ -610,7 +610,7 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "<strong>CONTAINS(needle, haystack)</strong>."
 msgstr ""
-"בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 ... יש לשים לב שרוב הארגומנטים "
+"בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 … יש לשים לב שרוב הארגומנטים "
 "הם אופציונליים – ניתן להשתמש בפשטות כך: <strong>CONTAINS(needle, "
 "haystack)</strong>."
 
@@ -694,7 +694,7 @@ msgstr "עריכת הטרנספורמציה"
 #: jamovi/client/main/contextmenu/contextmenus.js:141
 #: jamovi/client/main/vareditor/recodedvarwidget.js:38
 msgid "Edit..."
-msgstr "עריכה..."
+msgstr "עריכה…"
 
 #: jamovi/client/main/editors/transformeditor.js:381
 #: jamovi/client/main/editors/transformeditor.js:438
@@ -725,7 +725,7 @@ msgstr "יש להכניס את שם הקובץ כאן"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
 msgid "Enter label..."
-msgstr "הכנסת תווית..."
+msgstr "הכנסת תווית…"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
 msgid "Enter level value"
@@ -1073,7 +1073,7 @@ msgstr "כמה שורות להכניס?"
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
-msgstr "הכנסת שורה..."
+msgstr "הכנסת שורה…"
 
 #: jamovi/client/main/store/pagemodules.js:199
 msgid "Install"
@@ -1288,7 +1288,7 @@ msgstr "מודולים"
 
 #: jamovi/client/main/main.js:460
 msgid "More info ..."
-msgstr "מידע נוסף..."
+msgstr "מידע נוסף…"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:340
@@ -1832,7 +1832,7 @@ msgstr "תצורה"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
 msgid "Setup..."
-msgstr "תצורה..."
+msgstr "תצורה…"
 
 #: jamovi/client/main/store/pagemodules.js:221
 msgid "Show"
@@ -2117,7 +2117,7 @@ msgstr "טרנספורמציה: כלום"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr "טרנספורמציה..."
+msgstr "טרנספורמציה…"
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
