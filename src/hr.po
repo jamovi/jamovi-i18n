@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-11-10 12:00+0000\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"PO-Revision-Date: 2024-12-24 14:00+0000\n"
+"Last-Translator: dex girl <saraciric73@gmail.com>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
 "Language: hr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.8.2\n"
+"X-Generator: Weblate 5.10-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -65,15 +65,16 @@ msgstr "{r} nije cijeli broj"
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Za promjenu jezika potrebno je ponovno pokrenuti jamovi"
+msgstr "Za promenu jezika potrebno je ponovo pokrenuti jamove"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr "Potrebna je novija verzija jamovi programa"
+msgstr "Potrebna je novija verzija jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "Accent"
-msgstr "Naglasak"
+msgstr "Naglasak je ime šarene teme."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
