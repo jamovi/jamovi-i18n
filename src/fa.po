@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2025-03-11 20:02+0000\n"
+"Last-Translator: Amirhosein <amirmirabizade@proton.me>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fa/>\n"
 "Language: fa\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.10.3-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -480,7 +480,7 @@ msgstr ""
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Data"
-msgstr ""
+msgstr "داده"
 
 #: jamovi/client/main/backstage.ts:110
 msgid "Data files"
@@ -732,7 +732,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr "اکتشاف"
+msgstr "جست و جو"
 
 #: jamovi/client/main/backstage.ts:417
 #: jamovi/client/main/backstage.ts:508
