@@ -594,11 +594,11 @@ msgid "Desktop"
 msgstr "டெச்க்டாப்"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use __CONTAINS(needle, haystack)__."
 msgstr ""
 "IN1, IN2, IN3, இல் ஏதேனும் உருப்படிகள் தோன்றினையா என்பதை தீர்மானிக்கிறது .... இந்த "
-"வாதங்களில் பெரும்பாலானவை விருப்பமானவை என்பதை நினைவில் கொள்க - <strong> ஐக் கொண்டுள்ளது "
-"(ஊசி, ஏச்டாக்) </strong> ஆகியவற்றைப் பயன்படுத்த முடியும்."
+"வாதங்களில் பெரும்பாலானவை விருப்பமானவை என்பதை நினைவில் கொள்க - __ ஐக் கொண்டுள்ளது "
+"(ஊசி, ஏச்டாக்) __ ஆகியவற்றைப் பயன்படுத்த முடியும்."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
 msgid "Developer mode"
@@ -1854,9 +1854,9 @@ msgid "Special Import"
 msgstr "சிறப்பு இறக்குமதி"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid "Splits text into pieces based on a separator. _piece_ specifies the desired piece by index."
 msgstr ""
-"ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். <i> துண்டு </it> விரும்பி"
+"ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். _துண்டு_ விரும்பி"
 "ய பகுதியை குறியீட்டால் குறிப்பிடுகிறது."
 
 #: jamovi/client/main/tableview.js:62

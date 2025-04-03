@@ -602,11 +602,11 @@ msgstr "жұмыс үстелі"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "элементтердің кез келгенінің in1, in2, in3, ... ішінде пайда болуын "
 "анықтайды. Бұл аргументтердің көпшілігі міндетті емес екенін ескеріңіз -- "
-"жай ғана <strong>CONTAINS(объект, массив)</strong> пайдалануға болады."
+"жай ғана __CONTAINS(объект, массив)__ пайдалануға болады."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"
@@ -1876,10 +1876,10 @@ msgstr "арнайы импорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"мәтінді бөлгіш негізінде бөліктерге бөледі. <i>дана</i> қажетті бөлікті "
+"мәтінді бөлгіш негізінде бөліктерге бөледі. _дана_ қажетті бөлікті "
 "индекс бойынша нақтылайды."
 
 #: jamovi/client/main/tableview.js:62

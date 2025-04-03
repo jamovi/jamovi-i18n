@@ -603,11 +603,11 @@ msgstr "Робітниця стіл"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Визначає, з'являються чи будь-якіелементи у in1, in2, in3, .... Обратите "
 "увага, що більшість цихаргументів являються необязательными — можна просто "
-"використати <strong>CONTAINS(об'єкт, масив)</strong>."
+"використати __CONTAINS(об'єкт, масив)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -1876,10 +1876,10 @@ msgstr "Специальный імпорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Разбивает текст на частини на основі разделителя. <i>piece</i> вказує бажати "
+"Разбивает текст на частини на основі разделителя. _piece_ вказує бажати "
 "частину по індексу."
 
 #: jamovi/client/main/tableview.js:62

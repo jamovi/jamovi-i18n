@@ -602,11 +602,11 @@ msgstr "Desktop"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Beschreibt, ob eines der Elemente in in1, in2, in3, ... vorkommt. Bitte "
 "beachten Sie, dass die meisten dieser Argumente optional sind - es ist "
-"möglich, einfach <strong>CONTAINS(needle, haystack)</strong> zu verwenden."
+"möglich, einfach __CONTAINS(needle, haystack)__ zu verwenden."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -1871,10 +1871,10 @@ msgstr "Spezieller Import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Teilt Text basierend auf einem Trennzeichen. <i>piece</i> den Index gibt des "
+"Teilt Text basierend auf einem Trennzeichen. _piece_ den Index gibt des "
 "gewünschten Stücks an."
 
 #: jamovi/client/main/tableview.js:62
