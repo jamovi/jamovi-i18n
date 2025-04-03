@@ -1313,7 +1313,7 @@ msgstr "Renk yok"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Bu işlev hakkında hiçbir bilgi mevcut değil"
 
 #: jamovi/server/jamovi/server/downloader.py

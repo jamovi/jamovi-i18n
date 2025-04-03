@@ -1300,7 +1300,7 @@ msgstr "Pas de couleur"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Aucune information disponible sur cette fonction"
 
 #: jamovi/server/jamovi/server/downloader.py

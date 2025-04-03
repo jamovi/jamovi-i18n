@@ -1303,7 +1303,7 @@ msgstr "நிறம் இல்லை"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:218
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "இந்த செயல்பாடு குறித்த எந்த தகவலும் கிடைக்கவில்லை"
 
 #: jamovi/server/jamovi/server/downloader.py
