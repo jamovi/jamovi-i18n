@@ -592,11 +592,11 @@ msgstr "桌面"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "确定是否有任何项目出现在 in1, in2, in3, .... "
-"请注意，这些参数中的大多数是可选的——可以简单地使用 <strong>CONTAINS(needle, "
-"haystack)</strong>。"
+"请注意，这些参数中的大多数是可选的——可以简单地使用 __CONTAINS(needle, "
+"haystack)__。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -1289,7 +1289,7 @@ msgstr "无颜色"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "没有关于此功能的可用信息"
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1821,9 +1821,9 @@ msgstr "特殊导入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
-msgstr "根据分隔符将文本拆分为多个部分。 <i>piece</i> 按索引指定所需的片段。"
+msgstr "根据分隔符将文本拆分为多个部分。 _piece_ 按索引指定所需的片段。"
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"

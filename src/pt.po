@@ -595,11 +595,11 @@ msgstr "Desktop"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Determina se algum dos itens aparece em in1, in2, in3, .... Note que a "
 "maioria destes argumentos são opcionais - é possível simplesmente usar "
-"<strong>CONTAINS (agulha, palheiro) </strong>."
+"__CONTAINS (agulha, palheiro)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -1303,7 +1303,7 @@ msgstr "Sem cor"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Não há informação disponível sobre esta função"
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1836,10 +1836,10 @@ msgstr "Importar especial"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Divide o texto em partes com base num separador. <i>peça</i> especifica a "
+"Divide o texto em partes com base num separador. _peça_ especifica a "
 "parte desejada pelo índice."
 
 #: jamovi/client/main/tableview.js:62

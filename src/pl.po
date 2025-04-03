@@ -601,11 +601,11 @@ msgstr "Pulpit"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Określa, czy którykolwiek z elementów pojawia się w in1, in2, in3, .... "
 "Większość tych argumentów jest opcjonalna -- można po prostu użyć "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -1322,7 +1322,7 @@ msgstr "Bez koloru"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Informacje na temat tej funkcji są niedostępne"
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1876,10 +1876,10 @@ msgstr "Importuj"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Dzieli tekst na fragmenty na podstawie separatora. <i>piece</i> określa "
+"Dzieli tekst na fragmenty na podstawie separatora. _piece_ określa "
 "żądany fragment według indeksu."
 
 #: jamovi/client/main/tableview.js:62

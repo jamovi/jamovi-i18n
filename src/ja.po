@@ -590,11 +590,11 @@ msgstr "デスクトップ"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "「対象（in1, in2, …）」の中に「項目（item1, item2, …）」があるかどうか（真・"
-"偽）を判定します。引数のほとんどはオプションなので、<strong>CONTAINS(針, "
-"干し草)</strong>のようにシンプルに記述できます。"
+"偽）を判定します。引数のほとんどはオプションなので、__CONTAINS(針, "
+"干し草)__のようにシンプルに記述できます。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -1289,7 +1289,7 @@ msgstr "色なし"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "この関数についての情報がありません"
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1823,9 +1823,9 @@ msgstr "拡張読み込み"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
-msgstr "変数に含まれる文字列を区切り文字で分割します。<i>piece</i>で何番目の要素を取"
+msgstr "変数に含まれる文字列を区切り文字で分割します。_piece_で何番目の要素を取"
 "り出すかを指定します。"
 
 #: jamovi/client/main/tableview.js:62

@@ -599,11 +599,11 @@ msgstr "Skrivebord"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Bestemmer, om nogen af elementerne vises i in1, in2, in3, .... Bemærk, at de "
 "fleste af disse argumenter er valgfrie - det er muligt blot at bruge "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -1312,7 +1312,7 @@ msgstr "Ingen farve"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Ingen information om denne funktion er tilgængelig"
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1864,10 +1864,10 @@ msgstr "Specialimport"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Opdeler tekst baseret på en afgrænser. <i>piece</i> angiver det ønskede "
+"Opdeler tekst baseret på en afgrænser. _piece_ angiver det ønskede "
 "stykke efter indeks."
 
 #: jamovi/client/main/tableview.js:62
