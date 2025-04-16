@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-14 20:16+0000\n"
-"Last-Translator: \"game.crash\" <game.crash534@gmail.com>\n"
+"PO-Revision-Date: 2025-04-16 21:13+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
 "Language: de\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-rc\n"
+"X-Generator: Weblate 5.11.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -750,7 +750,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr "Erforschung"
+msgstr "Exploration"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
