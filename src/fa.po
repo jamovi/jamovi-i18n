@@ -590,7 +590,7 @@ msgid "Desktop"
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use __CONTAINS(needle, haystack)__."
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:181
@@ -1289,7 +1289,7 @@ msgstr ""
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:218
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr ""
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1834,7 +1834,7 @@ msgid "Special Import"
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid "Splits text into pieces based on a separator. _piece_ specifies the desired piece by index."
 msgstr ""
 
 #: jamovi/client/main/tableview.js:62

@@ -597,11 +597,11 @@ msgstr "Рабочий стол"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Определяет, появляются ли какие-либо элементы в in1, in2, in3, .... Обратите "
 "внимание, что большинство этих аргументов являются необязательными — можно "
-"просто использовать <strong>CONTAINS(объект, массив)</strong>."
+"просто использовать __CONTAINS(объект, массив)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -1303,7 +1303,7 @@ msgstr "Нет цвета"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Информация об этой функции отсутствует"
 
 #: jamovi/server/jamovi/server/downloader.py
@@ -1840,10 +1840,10 @@ msgstr "Специальный импорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Разбивает текст на части на основе разделителя. <i>piece</i> указывает "
+"Разбивает текст на части на основе разделителя. _piece_ указывает "
 "желаемую часть по индексу."
 
 #: jamovi/client/main/tableview.js:62
