@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2025-05-11 20:01+0000\n"
+"Last-Translator: Corentin Thibaud <corentin.thibaud@akkodis.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.12-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1340,7 +1340,6 @@ msgid "Note"
 msgstr "Note"
 
 #: jamovi/client/resultsview/notice.js:44
-#, fuzzy
 msgid "Notice"
 msgstr "Avis"
 
