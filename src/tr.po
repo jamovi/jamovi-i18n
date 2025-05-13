@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2025-05-13 07:01+0000\n"
+"Last-Translator: kawasashock <kawasashock@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -484,7 +484,7 @@ msgstr "Koyu2"
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr "Veri"
+msgstr "veri"
 
 #: jamovi/client/main/backstage.js:970
 msgid "Data files"
