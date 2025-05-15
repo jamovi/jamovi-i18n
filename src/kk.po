@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-15 17:03+0000\n"
+"PO-Revision-Date: 2025-05-15 18:01+0000\n"
 "Last-Translator: Akhmetkhan <ashulgauov@gmail.com>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
@@ -170,7 +170,7 @@ msgstr "және"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "Дисперсиялық талдау (ДТ)"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:107
@@ -2144,10 +2144,9 @@ msgid "Unable to access library"
 msgstr "кітапханаға кіру мүмкін емес"
 
 #: jamovi/server/jamovi/server/downloader.py
-#, fuzzy
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
-"Интернетке қосылу мүмкін емес (бәлкім, кіру шектеулі порталға байланысты)."
+"Интернетке қосылу мүмкін емес (бәлкім, кіруі шектеулі порталға байланысты)."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
