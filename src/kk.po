@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-06 07:16+0000\n"
-"Last-Translator: Damian Dropmann <damiandropmann@gmail.com>\n"
+"PO-Revision-Date: 2025-05-15 17:03+0000\n"
+"Last-Translator: Akhmetkhan <ashulgauov@gmail.com>\n"
 "Language-Team: Kazakh <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/kk/>\n"
 "Language: kk\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -489,7 +489,7 @@ msgstr "қараңғы2"
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:12
 msgid "Data"
-msgstr "деректер"
+msgstr "Деректер"
 
 #: jamovi/client/main/backstage.js:1085
 msgid "Data files"
@@ -497,7 +497,7 @@ msgstr "деректер файлдары"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Деректер салмақсыз"
 
 #: jamovi/client/main/backstage.js:1319
 #: jamovi/client/main/backstage.js:1399
@@ -507,7 +507,7 @@ msgstr "деректер кітапханасы"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
 msgid "Data status bar"
-msgstr ""
+msgstr "Деректер күй жолағы"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Data type"
@@ -700,12 +700,12 @@ msgstr "рұқсат ету"
 
 #: jamovi/client/main/ribbon.js:131
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Толық экран режимін қосу/өшіру"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr ""
+msgstr "Кіру"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -750,7 +750,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr ""
+msgstr "Барлау"
 
 #: jamovi/client/main/backstage.js:1355
 #: jamovi/client/main/backstage.js:1452
@@ -779,7 +779,7 @@ msgstr "\"{filename}\" файлына экспортталды"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr ""
+msgstr "Фактор"
 
 #: jamovi/client/main/main.js:183
 msgid "File"
@@ -807,7 +807,7 @@ msgstr "файл бүлінген (манифест — бүлінген)"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr ""
+msgstr "Файл мәзірінің элементтері"
 
 #: jamovi/client/main/instance.js:479
 msgid "File Saved"
@@ -884,7 +884,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr ""
+msgstr "жиіліктер"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1086,7 +1086,7 @@ msgstr "орнатылған модульдер"
 
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "Орнатылған нұсқаны жаңарту қажет"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1328,7 +1328,7 @@ msgstr "бұл функция туралы ақпарат қолжетімді �
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
-msgstr ""
+msgstr "Интернет байланысы жоқ"
 
 #: jamovi/client/main/backstage.js:675
 msgid "No recognised data files were found."
@@ -1366,7 +1366,7 @@ msgstr "ескертпе"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr ""
+msgstr "ескерту"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "Number format"
@@ -1495,7 +1495,7 @@ msgstr "PNG кескіні {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
-msgstr ""
+msgstr "бағдарлама параметрлері"
 
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
@@ -1557,7 +1557,7 @@ msgstr "жаңарту"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Regression"
-msgstr ""
+msgstr "регрессия"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:577
@@ -1638,7 +1638,7 @@ msgstr "сандар жиынының орташа мәнін береді."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Айнымалының медианалық абсолюттік ауытқуын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
@@ -1675,7 +1675,7 @@ msgstr "айнымалының жалпы қосындысын береді."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Айнымалының сенімді медианалық абсолюттік ауытқуын қайтарады."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1799,7 +1799,7 @@ msgstr "іздеу"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr ""
+msgstr "Файлдарды іздеу"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1884,7 +1884,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Электрондық кесте"
 
 #: jamovi/client/main/backstage.js:1095
 msgid "SPSS files {ext}"
@@ -1942,7 +1942,7 @@ msgstr "жүйе әдепкі"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "t-тесттер"
 
 #: jamovi/client/resultsview/table.js:171
 msgid "Table"
@@ -1979,17 +1979,21 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
+"Деректер {} айнымалысы бойынша өлшенген, алайда бұл талдау бүтін емес "
+"сандарды қолдамайды. Салмақтар ең жақын бүтін санға дейін дөңгелектелді."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Деректер {} айнымалысы бойынша өлшенген."
 
 #: jamovi/client/main/strings.ts:5
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
 msgstr ""
+"Деректер өлшенген, алайда бұл талдау салмақтарды қолдамайды. Бұл талдау "
+"деректерді өлшеусіз қолданды."
 
 #: jamovi/client/main/instance.js:494
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2140,8 +2144,10 @@ msgid "Unable to access library"
 msgstr "кітапханаға кіру мүмкін емес"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to access the internet (likely due to a captive portal)"
 msgstr ""
+"Интернетке қосылу мүмкін емес (бәлкім, кіру шектеулі порталға байланысты)."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2184,7 +2190,7 @@ msgstr "өтінішті орындау мүмкін емес"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Кітапханаға қосылу мүмкін емес."
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2289,7 +2295,7 @@ msgstr "айнымалы: {v}"
 #: jamovi/client/main/vareditor/formulatoolbar.js:224
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
-msgstr "айнымалылар"
+msgstr "Айнымалылар"
 
 #: jamovi/client/main/ribbon/appmenu.js:182
 msgid "Version {v}"
@@ -2310,7 +2316,7 @@ msgstr "веб-бет {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "салмақтар"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2354,7 +2360,7 @@ msgstr "байланысыңыз жоғалды. Жалғастыру үшін �
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "Сіздің веб-браузеріңіз jamovi-ге жаңа қойынды ашқызбады."
 
 #: jamovi/client/main/ribbon/appmenu.js:57
 msgid "Zoom"
@@ -2362,8 +2368,8 @@ msgstr "масштабтау"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "Жақындату/үлкейту"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "Алыстату/ кішірейту"
