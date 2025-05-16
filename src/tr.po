@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-16 08:01+0000\n"
+"PO-Revision-Date: 2025-05-16 17:01+0000\n"
 "Last-Translator: Ertuğrul Uyar <ertugruluyar.academic@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' hatalı"
+msgstr "'{}' hatalıdır"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -613,11 +613,11 @@ msgstr "Belgeler"
 
 #: jamovi/client/main/main.js:365
 msgid "Don't enable"
-msgstr "Etkinleştirme!"
+msgstr "Etkinleştirmeyin"
 
 #: jamovi/client/main/main.js:637
 msgid "Don't Save"
-msgstr "Kaydetme!"
+msgstr "Kaydetmeyin"
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
