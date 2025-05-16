@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-13 07:01+0000\n"
-"Last-Translator: kawasashock <kawasashock@users.noreply.hosted.weblate.org>\n"
+"PO-Revision-Date: 2025-05-16 08:01+0000\n"
+"Last-Translator: Ertuğrul Uyar <ertugruluyar.academic@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -773,7 +773,7 @@ msgstr "'{filename}' olarak dışa aktarıldı"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr "Faktör"
+msgstr "Faktör (Etmen)"
 
 #: jamovi/client/main/main.js:170
 msgid "File"
