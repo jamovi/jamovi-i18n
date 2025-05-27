@@ -646,11 +646,11 @@ msgstr "Επιφάνεια εργασίας"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Καθορίζει εάν κάποιο από τα στοιχεία εμφανίζεται στα in1, in2, in3, .... "
 "Σημειώστε ότι τα περισσότερα από αυτά τα ορίσματα είναι προαιρετικά -- είναι "
-"δυνατόν να χρησιμοποιήσετε απλώς <strong>CONTAINS(needle, haystack)</strong>."
+"δυνατόν να χρησιμοποιήσετε απλώς __CONTAINS(needle, haystack)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 #, fuzzy

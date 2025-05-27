@@ -599,11 +599,11 @@ msgstr "Skrivebord"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Bestemmer, om nogen af elementerne vises i in1, in2, in3, .... Bemærk, at de "
 "fleste af disse argumenter er valgfrie - det er muligt blot at bruge "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"

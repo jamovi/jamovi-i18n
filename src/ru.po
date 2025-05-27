@@ -597,11 +597,11 @@ msgstr "Рабочий стол"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Определяет, появляются ли какие-либо элементы в in1, in2, in3, .... Обратите "
 "внимание, что большинство этих аргументов являются необязательными — можно "
-"просто использовать <strong>CONTAINS(объект, массив)</strong>."
+"просто использовать __CONTAINS(объект, массив)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"

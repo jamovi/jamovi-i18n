@@ -596,11 +596,11 @@ msgstr "Masaüstü"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Öğelerden herhangi birinin in1, in2, in3, ...'de görünüp görünmediğini "
 "belirler. Bu argümanların çoğunun isteğe bağlı olduğunu unutmayın -- basitçe "
-"<strong>CONTAINS(needle, haystack)</strong> kullanmak mümkündür."
+"__CONTAINS(needle, haystack)__ kullanmak mümkündür."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"

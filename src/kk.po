@@ -602,11 +602,11 @@ msgstr "жұмыс үстелі"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "элементтердің кез келгенінің in1, in2, in3, ... ішінде пайда болуын "
 "анықтайды. Бұл аргументтердің көпшілігі міндетті емес екенін ескеріңіз -- "
-"жай ғана <strong>CONTAINS(объект, массив)</strong> пайдалануға болады."
+"жай ғана __CONTAINS(объект, массив)__ пайдалануға болады."
 
 #: jamovi/client/main/ribbon/appmenu.js:167
 msgid "Developer mode"

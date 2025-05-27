@@ -597,11 +597,11 @@ msgstr "Escriptori"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Determina si cap dels elements apareix en in1, in2, in3, .... Compte que la "
 "major part d'aquests arguments son opcionals; es possible simplement "
-"utilitzar <strong> CONTAINS(agulla, paller) </strong>."
+"utilitzar __ CONTAINS(agulla, paller) __."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"

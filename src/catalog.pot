@@ -585,7 +585,7 @@ msgid "Desktop"
 msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <strong>CONTAINS(needle, haystack)</strong>."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use __CONTAINS(needle, haystack)__."
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:181

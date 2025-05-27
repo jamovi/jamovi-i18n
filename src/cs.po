@@ -604,11 +604,11 @@ msgstr "Plocha"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "Určuje, zda se některá z položek objeví v in1, in2, in3, .... Všimněte si, "
 "že většina těchto argumentů je volitelná -- je možné jednoduše použít "
-"<strong>CONTAINS(jehla, kupka sena)</strong>."
+"__CONTAINS(jehla, kupka sena)__."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"

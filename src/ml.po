@@ -600,10 +600,10 @@ msgstr "ഡെസ്ക്ടോപ്പ്"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"<strong>CONTAINS(needle, haystack)</strong>."
+"__CONTAINS(needle, haystack)__."
 msgstr ""
 "ഏതെങ്കിലും ഇനങ്ങൾ in1, in2, in3, തുടങ്ങിയവയിൽ വരുന്നുണ്ടോ എന്ന് നോക്കുന്നു. ഈ ആർഗ്യുമെന്റുകളിൽ ഭൂരിഭാഗവും ഓപ്"
-"ഷണൽ ആണെന്നത് ശ്രദ്ധിക്കുക -- <strong>CONTAINS(needle, haystack)</strong> എന്ന് ലളിതമായി "
+"ഷണൽ ആണെന്നത് ശ്രദ്ധിക്കുക -- __CONTAINS(needle, haystack)__ എന്ന് ലളിതമായി "
 "ഉപയോഗിക്കാനും കഴിയും."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
