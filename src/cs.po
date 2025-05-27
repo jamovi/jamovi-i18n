@@ -1324,7 +1324,7 @@ msgstr "Žádná barva"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "Nejsou k dispozici žádné informace o této funkci"
 
 #: jamovi/server/jamovi/server/downloader.py

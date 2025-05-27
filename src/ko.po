@@ -1306,7 +1306,7 @@ msgstr "색상 없음"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
-msgid "No information about this function is avaliable"
+msgid "No information about this function is available"
 msgstr "이 기능에 대한 정보가 없습니다"
 
 #: jamovi/server/jamovi/server/downloader.py
