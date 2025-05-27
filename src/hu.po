@@ -286,7 +286,7 @@ msgid "Cannot assign to these columns."
 msgstr "Nem lehet hozzárendelni ezekhez az oszlopokhoz."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "A cellák szerkesztve "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

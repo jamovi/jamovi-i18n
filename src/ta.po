@@ -282,7 +282,7 @@ msgid "Cannot assign to these columns."
 msgstr "இந்த நெடுவரிசைகளுக்கு ஒதுக்க முடியாது."
 
 #: jamovi/client/main/tableview.js:96
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "செல்கள் திருத்தப்பட்டன "
 
 #: jamovi/client/main/ribbon/annotationtab.js:145

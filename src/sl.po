@@ -283,7 +283,7 @@ msgid "Cannot assign to these columns."
 msgstr "Vrednosti ni mogoče dodeliti navedenim stolpcem."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "Urejanje celic "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

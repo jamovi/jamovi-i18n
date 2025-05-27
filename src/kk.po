@@ -287,7 +287,7 @@ msgid "Cannot assign to these columns."
 msgstr "бұл бағандарға тағайындау мүмкін емес."
 
 #: jamovi/client/main/tableview.js:95
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "ұяшықтар өңделді "
 
 #: jamovi/client/main/ribbon/annotationtab.js:130

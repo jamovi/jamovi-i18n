@@ -283,7 +283,7 @@ msgid "Cannot assign to these columns."
 msgstr "无法分配给这些列。"
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "已编辑的单元格 "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

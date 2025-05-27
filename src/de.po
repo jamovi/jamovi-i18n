@@ -288,7 +288,7 @@ msgid "Cannot assign to these columns."
 msgstr "Kann diesen Spalten nicht zugewiesen werden."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "Zellen bearbeitet "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

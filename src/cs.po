@@ -284,7 +284,7 @@ msgid "Cannot assign to these columns."
 msgstr "K těmto sloupcům nelze přiřadit."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "Upraveno buněk "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

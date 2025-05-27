@@ -282,7 +282,7 @@ msgid "Cannot assign to these columns."
 msgstr "Bu sütunlara uygulanamaz."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "Hücre değiştirildi "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

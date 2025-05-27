@@ -294,7 +294,7 @@ msgid "Cannot assign to these columns."
 msgstr "Δεν είναι δυνατή η αντιστοίχιση σε αυτές τις στήλες."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "Τα κελιά έχουν επεξεργαστεί "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

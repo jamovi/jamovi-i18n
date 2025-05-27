@@ -283,7 +283,7 @@ msgid "Cannot assign to these columns."
 msgstr "אי אפשר לשייך לעמודות אלה."
 
 #: jamovi/client/main/tableview.js:96
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "תאים שנערכו "
 
 #: jamovi/client/main/ribbon/annotationtab.js:145

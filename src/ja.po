@@ -281,7 +281,7 @@ msgid "Cannot assign to these columns."
 msgstr "これらの列に割り当てることはできません。"
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "編集済 "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

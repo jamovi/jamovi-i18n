@@ -282,7 +282,7 @@ msgid "Cannot assign to these columns."
 msgstr "無法指派到這些欄位。"
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "已編輯的儲存格 "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138

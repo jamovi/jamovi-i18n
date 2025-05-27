@@ -283,7 +283,7 @@ msgid "Cannot assign to these columns."
 msgstr "ഈ നിരകളിലേക്ക് അസൈൻ ചെയ്യാനാവില്ല."
 
 #: jamovi/client/main/tableview.js:75
-msgid "Cells edited "
+msgid "Cells edited"
 msgstr "കളങ്ങൾ എഡിറ്റ് ചെയ്തു. "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
