@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-09-11 05:09+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
-"Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ml/>\n"
+"Language-Team: Malayalam "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ml/>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,13 +35,33 @@ msgstr "(നിലവിലുള്ളത്)"
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(ഇത് സഫാരിയുടെയും ഐപാഡുകളുടെയും ഒരു പ്രശ്നമാണ്)"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:448
+msgid "{0} directory contents"
+msgstr ""
+
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
 msgstr "{columnType} നിരകൾ എഡിറ്റ് ചെയ്യാൻ പാടില്ല."
 
+#: jamovi/client/analysisui/formatdef.js:116
+#: jamovi/client/analysisui/formatdef.js:271
+#: jamovi/client/analysisui/gridtargetcontrol.js:596
+msgid "{list} and {lastItem}"
+msgstr ""
+
+#: jamovi/client/analysisui/formatdef.js:112
+#: jamovi/client/analysisui/formatdef.js:267
+#: jamovi/client/analysisui/gridtargetcontrol.js:592
+msgid "{list}, {nextItem}"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
 msgstr "{m} വിജയകരമായി അൺഇൻസ്റ്റാൾ ചെയ്തു"
+
+#: jamovi/client/main/store/pagemodules.js:369
+msgid "{module} was installed successfully"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -58,9 +78,38 @@ msgstr "{n} ഒരു പോസിറ്റീവ് പൂർണ്ണസംഖ
 msgid "{n} sf"
 msgstr "{n} എസ്എഫ്"
 
+#: jamovi/client/analysisui/formatdef.js:164
+msgid "{name} variable"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
 msgstr "{r} ഒരു പൂർണ്ണസംഖ്യയല്ല"
+
+#: jamovi/client/resultsview/array.js:182
+#: jamovi/client/resultsview/group.js:129
+msgid "{title} Initial Annotation"
+msgstr ""
+
+#: jamovi/client/analysisui/variableslistbox.js:174
+msgid "{var} not permitted. Incorrect measure or data type."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:842
+msgid "{vars} added to {list}."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:844
+msgid "{vars} items added to {list}."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:890
+msgid "{vars} items removed from {list}."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:888
+msgid "{vars} removed from {list}."
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
@@ -79,7 +128,8 @@ msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
 msgstr ""
-"പ്രവേശനം നിഷേധിക്കപ്പെട്ടിരിക്കുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് അനുമതികൾ ഇല്ലായിരിക്കാം."
+"പ്രവേശനം നിഷേധിക്കപ്പെട്ടിരിക്കുന്നു. ഈ വിഭവം ഉപയോഗിക്കുന്നതിന് നിങ്ങൾക്ക് "
+"അനുമതികൾ ഇല്ലായിരിക്കാം."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -93,10 +143,22 @@ msgstr "സജീവം"
 msgid "Add"
 msgstr "ചേർക്കുക"
 
+#: jamovi/client/analysisui/gridtargetcontrol.js:612
+msgid "Add {1} items to {0}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
 msgstr "മറ്റൊരു നെസ്റ്റഡ് ഫിൽട്ടർ ചേർക്കുക"
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:610
+msgid "Add item {1} to {0}"
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:608
+msgid "Add items to {0}"
+msgstr ""
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -109,6 +171,14 @@ msgstr "പുതിയ ഫിൽട്ടർ ചേർക്കുക"
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
 msgstr "പുതിയ ലെവൽ ചേർക്കുക"
+
+#: jamovi/client/main/ribbon/datatab.js:70
+msgid "Add new rows"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:43
+msgid "Add new variable"
+msgstr ""
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -145,9 +215,9 @@ msgstr "{hostname} ഹോസ്റ്റ് ചെയ്ത ഒരു ഓൺല�
 msgid "An unexpected error has occured, and jamovi must now close."
 msgstr "ഒരു അപ്രതീക്ഷിത പിശക് സംഭവിച്ചു, ജമോവി ഇപ്പോൾ അടയ്ക്കണം."
 
-#: jamovi/client/main/ribbon/appmenu.js:133
-msgid "An update is available"
-msgstr "ഒരു അപ്ഡേറ്റ് ലഭ്യമാണ്"
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "An unexpected error occurred"
+msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -162,9 +232,43 @@ msgstr "arbitrary കോഡ് നടപ്പിലാക്കുന്ന വ
 msgid "Analysis"
 msgstr "വിശകലനം"
 
+#: jamovi/client/resultsview/heading.js:164
+#: jamovi/client/resultsview/heading.js:17
+msgid "Analysis Heading - {title}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "ഒപ്പം"
+
+#: jamovi/client/resultsview/annotation.js:168
+msgid "Annotation"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:276
+#: jamovi/client/resultsview/group.js:181
+msgid "Annotation for group {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:280
+#: jamovi/client/resultsview/group.js:185
+msgid "Annotation for image {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:282
+#: jamovi/client/resultsview/group.js:187
+msgid "Annotation for item {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:278
+#: jamovi/client/resultsview/group.js:183
+msgid "Annotation for list {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:274
+#: jamovi/client/resultsview/group.js:179
+msgid "Annotation for table {name}"
+msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -220,14 +324,14 @@ msgstr "സ്വയം"
 msgid "Automatic"
 msgstr "സ്വയംപ്രേരിതനായ"
 
-#: jamovi/client/main/ribbon/appmenu.js:145
-msgid "Automatically install updates"
-msgstr "അപ്ഡേറ്റുകൾ സ്വയം ഇൻസ്റ്റാൾ ചെയ്യുക"
-
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
 msgid "Available"
 msgstr "ലഭ്യമാണ്"
+
+#: jamovi/client/analysisui/layoutsupplierview.js:147
+msgid "Available items"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -257,6 +361,10 @@ msgstr "ബുള്ളറ്റ് ലിസ്റ്റ്"
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
 msgstr "റദ്ദാക്കുക"
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign non-integer value to column '{}'"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -294,14 +402,6 @@ msgstr "സെന്റർ അലൈൻ ചെയ്യുക"
 msgid "change label..."
 msgstr "ലേബൽ മാറ്റുക..."
 
-#: jamovi/client/main/ribbon/appmenu.js:130
-msgid "Check again"
-msgstr "ഒന്നുകൂടി പരിശോധിക്കുക"
-
-#: jamovi/client/main/ribbon/appmenu.js:131
-msgid "Checking for updates"
-msgstr "അപ്ഡേറ്റുകൾക്കായി പരതുന്നു"
-
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
 msgstr "സർക്കുലർ റഫറൻസ് കാണുന്നു"
@@ -319,6 +419,14 @@ msgstr "ക്ലിപ്പ്ബോർഡ്"
 msgid "Close"
 msgstr "അടയ്ക്കുക"
 
+#: jamovi/client/main/main.ts:311
+msgid "Close jamovi window"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:49
+msgid "Close preferences"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
 msgstr "കോഡ്-ബ്ലോക്ക്"
@@ -331,6 +439,12 @@ msgstr "കളർ പാലറ്റ്"
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
 msgstr "'{}' എന്ന നിര ഡാറ്റാസെറ്റിൽ ഇല്ല"
+
+#: jamovi/client/main/viewcontroller.js:294
+msgid "Column {columnName} deleted"
+msgid_plural "{n} columns deleted"
+msgstr[0] ""
+msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -392,13 +506,11 @@ msgstr "ABS(IQR( variable)-നുള്ള കൺവീനിയൻസ് ഷോ
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
-"MAX(ABSIQR( variable 1, variable 2, ... )- നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
+msgstr "MAX(ABSIQR( variable 1, variable 2, ... )- നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
-"MAX(ABSIQR( variable 1, variable 2, ... )- നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
+msgstr "MAX(ABSIQR( variable 1, variable 2, ... )- നുള്ള കൺവീനിയൻസ് ഷോർട്ട്-ഹാൻഡ്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -463,6 +575,10 @@ msgstr "ട്രാൻസ്ഫോം മോഡിഫൈ ചെയ്യാൻ 
 msgid "Could not perform operation"
 msgstr "ഓപ്പറേഷൻ ചെയ്യാൻ കഴിഞ്ഞില്ല"
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:179
+msgid "Counts the number of non-missing values"
+msgstr ""
+
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
 msgstr "പുതിയ ട്രാൻസ്ഫോം ഉണ്ടാക്കുക..."
@@ -521,6 +637,14 @@ msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] "ഡാറ്റ വേരിയബിൾ"
 msgstr[1] "ഡാറ്റ വേരിയബിളുകൾ"
 
+#: jamovi/client/main/ribbon/datatab.js:41
+msgid "Data weights"
+msgstr ""
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:158
+msgid "Date / Time"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "ദശാംശം"
@@ -570,9 +694,17 @@ msgstr[1] "{n} വരികൾ ഡിലീറ്റ് ചെയ്യണോ?"
 msgid "Delete Rows"
 msgstr "വരികൾ ഡിലീറ്റ് ചെയ്യുക"
 
-#: jamovi/client/main/vareditor/transformlistitem.js:40
-msgid "Delete transform"
-msgstr "ട്രാൻസ്ഫോം ഡിലീറ്റ് ചെയ്യുക"
+#: jamovi/client/main/ribbon/datatab.js:74
+msgid "Delete selected rows"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:63
+msgid "Delete selected variables"
+msgstr ""
+
+#: jamovi/client/main/vareditor/transformlistitem.js:30
+msgid "Delete transform  - {transformName}"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -602,9 +734,9 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "__CONTAINS(needle, haystack)__."
 msgstr ""
-"ഏതെങ്കിലും ഇനങ്ങൾ in1, in2, in3, തുടങ്ങിയവയിൽ വരുന്നുണ്ടോ എന്ന് നോക്കുന്നു. ഈ ആർഗ്യുമെന്റുകളിൽ ഭൂരിഭാഗവും ഓപ്"
-"ഷണൽ ആണെന്നത് ശ്രദ്ധിക്കുക -- __CONTAINS(needle, haystack)__ എന്ന് ലളിതമായി "
-"ഉപയോഗിക്കാനും കഴിയും."
+"ഏതെങ്കിലും ഇനങ്ങൾ in1, in2, in3, തുടങ്ങിയവയിൽ വരുന്നുണ്ടോ എന്ന് നോക്കുന്നു. "
+"ഈ ആർഗ്യുമെന്റുകളിൽ ഭൂരിഭാഗവും ഓപ്ഷണൽ ആണെന്നത് ശ്രദ്ധിക്കുക -- "
+"__CONTAINS(needle, haystack)__ എന്ന് ലളിതമായി ഉപയോഗിക്കാനും കഴിയും."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -639,8 +771,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"വേരിയബിളിൽ നിന്ന് n-എണ്ണം സാമ്പിൾ എടുക്കുന്നു. അതായത്, SAMPLE(var, 20), i.e. SAMPLE(1, 20), "
-"i.e. SAMPLE('training', 20, 'test')"
+"വേരിയബിളിൽ നിന്ന് n-എണ്ണം സാമ്പിൾ എടുക്കുന്നു. അതായത്, SAMPLE(var, 20), i.e. "
+"SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -662,9 +794,9 @@ msgstr "ഒരു യൂണിഫോം ഡിസ്ട്രിബ്യുഷ�
 msgid "Duplicate"
 msgstr "ഡ്യൂപ്ലിക്കേറ്റ്"
 
-#: jamovi/client/main/vareditor/transformlistitem.js:39
-msgid "Duplicate transform"
-msgstr "ഡ്യൂപ്ലിക്കേറ്റ് ട്രാൻസ്ഫോം"
+#: jamovi/client/main/vareditor/transformlistitem.js:29
+msgid "Duplicate transform  - {transformName}"
+msgstr ""
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -677,9 +809,13 @@ msgstr "ഡ്യൂപ്ലിക്കേറ്റ് ട്രാൻസ്�
 msgid "Edit"
 msgstr "എഡിറ്റ്"
 
-#: jamovi/client/main/vareditor/transformlistitem.js:38
-msgid "Edit transform"
-msgstr "ട്രാൻസ്ഫോം എഡിറ്റ് ചെയ്യുക"
+#: jamovi/client/main/tableview.js:104
+msgid "Edit filters"
+msgstr ""
+
+#: jamovi/client/main/vareditor/transformlistitem.js:28
+msgid "Edit transform - {transformName}"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -803,6 +939,10 @@ msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is 
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is corrupt)"
 
+#: jamovi/client/main/ribbon.js:174
+msgid "File menu"
+msgstr ""
+
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
 msgstr "ഫയൽ മെനു ഐറ്റങ്ങൾ"
@@ -810,6 +950,10 @@ msgstr "ഫയൽ മെനു ഐറ്റങ്ങൾ"
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
 msgstr "ഫയൽ സേവ് ചെയ്തു"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:212
+msgid "File type"
+msgstr ""
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -852,11 +996,24 @@ msgstr "ഫിൽട്ടർ എക്സ്പ്രഷൻ ഉപയോഗി�
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
-"'V' അല്ലെങ്കിൽ കോളം ഫങ്ഷനുകൾ ഉപയോഗിച്ച് ഫിൽട്ടറുകൾ കോളങ്ങളെ റഫറൻസ് ചെയ്തേക്കില്ല"
+"'V' അല്ലെങ്കിൽ കോളം ഫങ്ഷനുകൾ ഉപയോഗിച്ച് ഫിൽട്ടറുകൾ കോളങ്ങളെ റഫറൻസ് "
+"ചെയ്തേക്കില്ല"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
 msgstr "ഫിൽട്ടറുകൾ ഔട്ട്പുട്ട് വേരിയബിളുകളെ റഫറൻസ് ചെയ്തേക്കില്ല"
+
+#: jamovi/client/main/main.ts:243
+msgid "Focus on spreadsheet"
+msgstr ""
+
+#: jamovi/client/main/main.ts:262
+msgid "Focus on the variable setup"
+msgstr ""
+
+#: jamovi/client/main/main.ts:248
+msgid "Focus on variable list"
+msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -876,7 +1033,8 @@ msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
 msgstr ""
-"ഫോർമുല തെറ്റായി സ്പെസിഫൈ ചെയ്തിരിക്കുന്നു (തുല്യത പരീക്ഷിക്കാനാണെങ്കിൽ, രണ്ട് തുല്യ ചിഹ്നങ്ങൾ '==' ഉപയോഗിക്കുക)"
+"ഫോർമുല തെറ്റായി സ്പെസിഫൈ ചെയ്തിരിക്കുന്നു (തുല്യത പരീക്ഷിക്കാനാണെങ്കിൽ, "
+"രണ്ട് തുല്യ ചിഹ്നങ്ങൾ '==' ഉപയോഗിക്കുക)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -951,6 +1109,10 @@ msgstr "മറഞ്ഞിരിക്കുന്നത്"
 msgid "Hide"
 msgstr "മറയ്ക്കുക"
 
+#: jamovi/client/main/main.ts:238
+msgid "Hide analysis options"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
 msgstr "ഫിൽട്ടർ നിരകൾ മറയ്ക്കുക"
@@ -959,13 +1121,17 @@ msgstr "ഫിൽട്ടർ നിരകൾ മറയ്ക്കുക"
 msgid "Hide library"
 msgstr "ലൈബ്രറി മറയ്ക്കുക"
 
+#: jamovi/client/main/store/pagemodules.js:271
+msgid "Hide module {moduleName} from the Analyses ribbon"
+msgstr ""
+
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
 msgstr "ഓപ്ഷനുകൾ മറയ്ക്കുക"
 
-#: jamovi/client/main/ribbon/appmenu.js:39
-msgid "Hide settings"
-msgstr "സെറ്റിങ്ങ്സ് മറയ്ക്കുക"
+#: jamovi/client/main/variableeditor.js:52
+msgid "Hide variable setup"
+msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1002,7 +1168,8 @@ msgstr "എങ്കിൽ"
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
-"എക്സ്പ്രഷൻ ശരിയായാൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ 'അല്ലെങ്കിൽ' എന്നതിലെ മൂല്യം ഉപയോഗിക്കുക."
+"എക്സ്പ്രഷൻ ശരിയായാൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ 'അല്ലെങ്കിൽ' എന്നതിലെ "
+"മൂല്യം ഉപയോഗിക്കുക."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1063,6 +1230,14 @@ msgstr "കൂട്ടിച്ചേര്ക്കുക"
 msgid "Insert how many rows?"
 msgstr "എത്ര വരികൾ ചേർക്കണം?"
 
+#: jamovi/client/main/ribbon/datatab.js:39
+msgid "Insert new computed variable"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:40
+msgid "Insert new transformed variable"
+msgstr ""
+
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
@@ -1071,6 +1246,10 @@ msgstr "വരി ചേർക്കുക..."
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
 msgstr "ഇൻസ്റ്റാൾ ചെയ്യുക"
+
+#: jamovi/client/main/store/pagemodules.js:240
+msgid "Install module {moduleName} version {version}"
+msgstr ""
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1084,6 +1263,10 @@ msgstr "ഇൻസ്റ്റാൾ ചെയ്ത മൊഡ്യൂളുക�
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
 msgstr "ഇൻസ്റ്റാൾ ചെയ്ത വേർഷൻ അപ്ഡേറ്റ് ചെയ്യേണ്ടതുണ്ട്"
+
+#: jamovi/client/main/store/pagemodules.js:364
+msgid "Installing {module}"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1137,12 +1320,9 @@ msgid ""
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 msgstr ""
-"ജമോവി ഇപ്പോൾ {പരിഭാഷാ ഭാഷ ചേർക്കുക } ഭാഷയിൽ ലഭ്യമാണ്! (വളരെ നന്ദി, @{ നിങ്ങളുടെ ട്വിറ്റർ ഹാൻഡിൽ ഇവിടെ ചേർക്കു"
-"ക (നിങ്ങൾക്ക് ക്രെഡിറ്റ് ആവശ്യമില്ലെങ്കിൽ, \"ജമോവി പരിഭാഷാ ടീം\" എന്ന് ചേർക്കുക ) })"
-
-#: jamovi/client/main/ribbon/appmenu.js:130
-msgid "jamovi is up-to-date"
-msgstr "ജമോവി അപ്-ടു-ഡേറ്റ് ആണ്"
+"ജമോവി ഇപ്പോൾ {പരിഭാഷാ ഭാഷ ചേർക്കുക } ഭാഷയിൽ ലഭ്യമാണ്! (വളരെ നന്ദി, @{ "
+"നിങ്ങളുടെ ട്വിറ്റർ ഹാൻഡിൽ ഇവിടെ ചേർക്കുക (നിങ്ങൾക്ക് ക്രെഡിറ്റ് "
+"ആവശ്യമില്ലെങ്കിൽ, \"ജമോവി പരിഭാഷാ ടീം\" എന്ന് ചേർക്കുക ) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1215,6 +1395,10 @@ msgstr "ലെവൽ മൂല്യം"
 msgid "Levels"
 msgstr "ലെവലുകൾ"
 
+#: jamovi/client/main/store/pagemodules.js:98
+msgid "Library error"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
 msgstr "ലിങ്ക്"
@@ -1260,6 +1444,10 @@ msgstr "ഇല്ലാത്ത മൂല്യങ്ങൾ"
 msgid "Missing Values"
 msgstr "ഇല്ലാത്ത മൂല്യങ്ങൾ"
 
+#: jamovi/client/main/store/pagemodules.js:244
+msgid "Module {moduleName} is installed"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
 msgstr "മൊഡ്യൂൾ ഇൻസ്റ്റാൾ ചെയ്തു"
@@ -1272,10 +1460,6 @@ msgstr "മൊഡ്യൂൾ വിജയകരമായി ഇൻസ്റ്�
 msgid "Module uninstalled"
 msgstr "മൊഡ്യൂൾ അൺഇൻസ്റ്റാൾ ചെയ്തു"
 
-#: jamovi/client/main/store/pagemodules.js:193
-msgid "Module was installed successfully"
-msgstr "മൊഡ്യൂൾ വിജയകരമായി അൺഇൻസ്റ്റാൾ ചെയ്തു"
-
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
 msgstr "മൊഡ്യൂളുകൾ"
@@ -1283,6 +1467,14 @@ msgstr "മൊഡ്യൂളുകൾ"
 #: jamovi/client/main/main.js:370
 msgid "More info ..."
 msgstr "കൂടുതൽ വിവരങ്ങൾ..."
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:316
+msgid "Move back directory"
+msgstr ""
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:446
+msgid "Move back from directory {0}"
+msgstr ""
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1292,6 +1484,12 @@ msgstr "പേര്"
 #: jamovi/client/main/backstage.js:1255
 msgid "New"
 msgstr "പുതിയത്"
+
+#: jamovi/client/main/tableview.js:2479
+#: jamovi/client/main/tableview.js:603
+#: jamovi/client/main/tableview.js:660
+msgid "New column {0}"
+msgstr ""
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1391,8 +1589,22 @@ msgid ""
 "                    source."
 msgstr ""
 "ഈ ഡാറ്റാ സെറ്റിലെ ഒന്നോ അതിലധികമോ വിശകലനങ്ങളെ ഡിസേബിൾ ചെയ്തിട്ടുണ്ട്\n"
-"                    കാരണം അവർ തോന്നിയ പോലെ ചില കോഡ് നടപ്പിലാക്കാൻ അനുവദിക്കുന്നു. നിങ്ങൾ\n"
-"                    ഈ ഡാറ്റാ സെറ്റിന്റെ ഉറവിടത്തെ നിങ്ങൾ വിശ്വസിക്കുന്നുവെങ്കിൽ മാത്രം അവ  എനേബിൾ ചെയ്യുക."
+"                    കാരണം അവർ തോന്നിയ പോലെ ചില കോഡ് നടപ്പിലാക്കാൻ "
+"അനുവദിക്കുന്നു. നിങ്ങൾ\n"
+"                    ഈ ഡാറ്റാ സെറ്റിന്റെ ഉറവിടത്തെ നിങ്ങൾ "
+"വിശ്വസിക്കുന്നുവെങ്കിൽ മാത്രം അവ  എനേബിൾ ചെയ്യുക."
+
+#: jamovi/client/main/viewcontroller.js:678
+msgid "One row appended."
+msgid_plural "{n} rows appended."
+msgstr[0] ""
+msgstr[1] ""
+
+#: jamovi/client/main/viewcontroller.js:641
+msgid "One row inserted."
+msgid_plural "{n} rows inserted."
+msgstr[0] ""
+msgstr[1] ""
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1403,9 +1615,25 @@ msgstr "ഓൺലൈൻ ഡാറ്റ സെറ്റ്"
 msgid "Open"
 msgstr "തുറക്കുക"
 
+#: jamovi/client/main/main.ts:266
+msgid "Open application menu"
+msgstr ""
+
+#: jamovi/client/main/main.ts:234
+msgid "Open data file"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
 msgstr "ഡോക്യുമെന്റ് തുറക്കുക (LibreOffice) {ext}"
+
+#: jamovi/client/main/main.ts:270
+msgid "Open the jamovi module library"
+msgstr ""
+
+#: jamovi/client/main/main.ts:253
+msgid "Open the main menu"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
@@ -1444,6 +1672,12 @@ msgstr "p-മൂല്യ ഫോർമാറ്റ്"
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
 msgstr "പാരഗ്രാഫ്"
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:161
+msgid ""
+"Parses a date, and converts it to the number of days since the 1st of "
+"January, 1970."
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1485,6 +1719,10 @@ msgstr "PNG ചിത്രം {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
+msgstr ""
+
+#: jamovi/client/resultsview/annotation.js:79
+msgid "Press enter to edit"
 msgstr ""
 
 #: jamovi/client/main/variableeditor.js:51
@@ -1556,17 +1794,33 @@ msgstr ""
 msgid "Remove"
 msgstr "നീക്കുക"
 
+#: jamovi/client/analysisui/gridtargetcontrol.js:620
+msgid "Remove {1} from {0}"
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:623
+msgid "Remove {1} items from {0}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
 msgstr "ഫിൽട്ടർ നീക്കുക"
 
+#: jamovi/client/analysisui/gridtargetcontrol.js:617
+msgid "Remove items from {0}"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:234
+msgid "Remove module {moduleName}"
+msgstr ""
+
+#: jamovi/client/main/vareditor/filterwidget.js:403
+msgid "Remove nested filter"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
 msgstr "ജമോവിയുടെ ഒരു പുതിയ പതിപ്പ് വേണം"
-
-#: jamovi/client/main/ribbon/appmenu.js:136
-msgid "Restart and Install"
-msgstr "റീസ്റ്റാർട്ട് ചെയ്ത് ഇൻസ്റ്റാൾ ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 msgid "Restart required"
@@ -1583,11 +1837,6 @@ msgstr "റിസൾട്ടുകൾ"
 msgid "Retain unused levels in analyses"
 msgstr "ഉപയോഗിക്കാത്ത ലെവലുകൾ വിശകലനങ്ങളിൽ നിലനിർത്തുക"
 
-#: jamovi/client/main/ribbon/appmenu.js:132
-#: jamovi/client/main/ribbon/appmenu.js:135
-msgid "Retry"
-msgstr "വീണ്ടും ശ്രമിക്കുക"
-
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
 msgstr "വേരിയബിളിന്റെ ഒരു Box Cox ട്രാൻസ്ഫോർമേഷൻ തരുന്നു."
@@ -1598,8 +1847,9 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"IQR പ്രകാരം വേരിയബിൾ ഒരു ഔട്ട്‌ലൈയർ ആണോ എന്ന് പറഞ്ഞു തരുന്നു: മൂല്യം ഒരു Boxplot ബോക്സിനുള്ളിലാണെങ്കിൽ 0 കാണിക്കും"
-", 1.5-നേക്കാൾ കൂടിയ കേവല മൂല്യങ്ങൾ വിസ്‌ക്കറുകൾക്ക് പുറത്തായിരിക്കും."
+"IQR പ്രകാരം വേരിയബിൾ ഒരു ഔട്ട്‌ലൈയർ ആണോ എന്ന് പറഞ്ഞു തരുന്നു: മൂല്യം ഒരു "
+"Boxplot ബോക്സിനുള്ളിലാണെങ്കിൽ 0 കാണിക്കും, 1.5-നേക്കാൾ കൂടിയ കേവല മൂല്യങ്ങൾ "
+"വിസ്‌ക്കറുകൾക്ക് പുറത്തായിരിക്കും."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1706,6 +1956,25 @@ msgstr "ഒരു സെറ്റ് സംഖ്യകളുടെ വേരി
 msgid "Returns the variance of a variable."
 msgstr "ഒരു വേരിയബിളിന്റെ വേരിയൻസ് തരുന്നു."
 
+#: jamovi/client/main/main.ts:286
+msgid ""
+"Returns to the previously selected analysis and opens the options panel, "
+"with focus set in the options panel."
+msgstr ""
+
+#: jamovi/client/main/main.ts:302
+msgid ""
+"Returns to the previously selected analysis and shifts focus into the "
+"results output."
+msgstr ""
+
+#: jamovi/client/main/main.ts:291
+#: jamovi/client/main/main.ts:307
+msgid ""
+"Returns to the previously selected analysis and shifts focus to the results "
+"output."
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
 msgstr "വലത് അലൈൻ ചെയ്യുക"
@@ -1721,6 +1990,12 @@ msgstr "ഓരോ മൂല്യവും തൊട്ടുമുകളില�
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
 msgstr "ഓരോ മൂല്യവും തൊട്ടുതാഴെയുള്ള പൂർണ്ണസംഖ്യയിലേക്ക് റൌണ്ട് ചെയ്യുന്നു"
+
+#: jamovi/client/main/viewcontroller.js:345
+msgid "row {index} deleted."
+msgid_plural "{n} rows deleted."
+msgstr[0] ""
+msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1769,6 +2044,10 @@ msgstr "'{title}' എന്നതിലെ മാറ്റങ്ങൾ സേവ
 msgid "Save failed"
 msgstr "സേവ് ചെയ്യാൻ പറ്റിയില്ല"
 
+#: jamovi/client/main/main.ts:233
+msgid "Save project"
+msgstr ""
+
 #: jamovi/client/main/instance.js:475
 msgid "Saved to '{filename}'"
 msgstr "'{filename}' എന്നതിലേക്ക് സേവ് ചെയ്‌തു"
@@ -1786,8 +2065,24 @@ msgstr "ഷെഡ്യൂൾ ചെയ്ത അറ്റകുറ്റപ്�
 msgid "Search"
 msgstr ""
 
+#: jamovi/client/main/store/pagemodules.js:42
+msgid "Search available modules"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
+msgstr ""
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+msgid "Search for file in directory {0}"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:42
+msgid "Search installed modules"
+msgstr ""
+
+#: jamovi/client/analysisui/layoutsupplierview.js:172
+msgid "Search list items"
 msgstr ""
 
 #: jamovi/client/main/variablesview.js:48
@@ -1838,6 +2133,10 @@ msgstr "ഫോർമുല എഡിറ്റർ കാണിക്കുക"
 msgid "Show in main menu"
 msgstr "മെയിൻ മെനുവിൽ കാണിക്കുക"
 
+#: jamovi/client/main/store/pagemodules.js:265
+msgid "Show module {moduleName} in the Analyses ribbon"
+msgstr ""
+
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
 msgstr ""
@@ -1865,10 +2164,11 @@ msgstr "പ്രത്യേക ഇംപോർട്ട്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the "
-"desired piece by index."
+"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"piece by index."
 msgstr ""
-"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള കഷണത്തെ _piece_ സൂചിപ്പിക്കുന്നു."
+"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള "
+"കഷണത്തെ _piece_ സൂചിപ്പിക്കുന്നു."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -1936,6 +2236,12 @@ msgstr ""
 msgid "Table"
 msgstr "പട്ടിക"
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:163
+msgid ""
+"Takes a number representing the number of days since the 1st of January "
+"1970, and produces a formatted date."
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Text"
@@ -1955,7 +2261,8 @@ msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
 msgstr ""
-"ഉള്ളടക്കം തയ്യാറായി. താഴെയുള്ള ബട്ടൺ ഉപയോഗിച്ചോ, നിങ്ങളുടെ കീബോർഡിൽ <em>{k}+C</em> അമർത്തിയോ അത് കോപ്പി ചെയ്യാം"
+"ഉള്ളടക്കം തയ്യാറായി. താഴെയുള്ള ബട്ടൺ ഉപയോഗിച്ചോ, നിങ്ങളുടെ കീബോർഡിൽ "
+"<em>{k}+C</em> അമർത്തിയോ അത് കോപ്പി ചെയ്യാം"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
@@ -1981,7 +2288,8 @@ msgstr ""
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
 msgstr ""
-"'{filename}' എന്ന ഫയൽ ഇപ്പോൾത്തന്നെ നിലവിലുണ്ട്. അതിനു മുകളിൽ ഓവർറൈറ്റ് ചെയ്യണോ?"
+"'{filename}' എന്ന ഫയൽ ഇപ്പോൾത്തന്നെ നിലവിലുണ്ട്. അതിനു മുകളിൽ ഓവർറൈറ്റ് "
+"ചെയ്യണോ?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
@@ -1990,6 +2298,14 @@ msgstr "ഫോർമുല തെറ്റായി സ്പെസിഫൈ ച
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "The index of value in the provided values."
 msgstr "തന്നിട്ടുള്ള മൂല്യങ്ങളിലെ ഈ മൂല്യത്തിന്റെ ഇൻഡക്സ്."
+
+#: jamovi/client/resultsview/table.js:754
+msgid "The interaction of {0} and {1}"
+msgstr ""
+
+#: jamovi/client/analysisui/formatdef.js:272
+msgid "The interaction of {list}"
+msgstr ""
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
@@ -2011,6 +2327,26 @@ msgstr "ലൈബ്രറി പ്രവർത്തനരഹിതമാണ�
 msgid "The module for this analysis is not installed, or is unavailable"
 msgstr ""
 
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server could not be reached"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server rejected the request"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server reported an error"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server sent an unexpected response"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The resource doesn't exist, or has moved (404)"
+msgstr ""
+
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
 msgstr "തിരഞ്ഞെടുത്ത ട്രാൻസ്‌ഫോമിൽ തെറ്റുള്ളതിനാൽ അത് എഡിറ്റ് ചെയ്യണം."
@@ -2025,6 +2361,10 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
+msgstr ""
+
+#: jamovi/client/main/main.ts:912
+msgid "This data set could not be opened"
 msgstr ""
 
 #: jamovi/server/jamovi/server/server.py
@@ -2073,6 +2413,18 @@ msgstr "ഈ സെഷൻ ഏകദേശം ഒരു മിനിറ്റി�
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
 msgstr "ഈ ട്രാൻസ്‌ഫോമിൽ തെറ്റുണ്ട്, അത് എഡിറ്റ് ചെയ്യണം."
+
+#: jamovi/client/main/tableview.js:105
+msgid "Toggle filters visibility"
+msgstr ""
+
+#: jamovi/client/main/ribbon.js:199
+msgid "Toggle screen state"
+msgstr ""
+
+#: jamovi/client/main/main.ts:256
+msgid "Toggle variable setup"
+msgstr ""
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2141,6 +2493,10 @@ msgstr "സെർവറിലേക്ക് കണക്റ്റുചെയ�
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
 msgstr "{} ഇംപോർട്ട് ചെയ്യാൻ പറ്റിയില്ല"
+
+#: jamovi/client/main/store/pagemodules.js:376
+msgid "Unable to install {module}"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2215,25 +2571,9 @@ msgstr "തിരിച്ചറിയാത്ത ഫയൽ ഫോർമാറ�
 msgid "Update"
 msgstr "അപ്ഡേറ്റ്"
 
-#: jamovi/client/main/ribbon/appmenu.js:135
-msgid "Update did not complete"
-msgstr "അപ്ഡേറ്റ് പൂർത്തിയായില്ല"
-
-#: jamovi/client/main/ribbon/appmenu.js:134
-msgid "Update is being downloaded"
-msgstr "അപ്‌ഡേറ്റ് ഡൗൺലോഡ് ചെയ്തുകൊണ്ടിരിക്കുന്നു"
-
-#: jamovi/client/main/ribbon/appmenu.js:136
-msgid "Update is ready"
-msgstr "അപ്ഡേറ്റ് തയ്യാറാണ്"
-
-#: jamovi/client/main/ribbon/appmenu.js:132
-msgid "Update not found"
-msgstr "അപ്ഡേറ്റ് കാണുന്നില്ല"
-
-#: jamovi/client/main/ribbon/appmenu.js:127
-msgid "Updates"
-msgstr "അപ്‌ഡേറ്റുകൾ"
+#: jamovi/client/main/store/pagemodules.js:253
+msgid "Update module {moduleName} to version {version}"
+msgstr ""
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
@@ -2262,6 +2602,22 @@ msgstr "ട്രാൻസ്ഫോം ഉപയോഗിച്ച്"
 msgid "Value is too large for column '{}' of type integer"
 msgstr "പൂർണ്ണസംഖ്യ വേണ്ട '{}' നിരയ്ക്ക് ഈ വില വളരെ വലുതാണ്"
 
+#: jamovi/client/analysisui/formatdef.js:107
+msgid "Variable {0}"
+msgstr ""
+
+#: jamovi/client/main/vareditor/editorwidget.js:67
+msgid "Variable Description"
+msgstr ""
+
+#: jamovi/client/main/vareditor/editorwidget.js:53
+msgid "Variable Name"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:38
+msgid "Variable setup"
+msgstr ""
+
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
 msgstr "വേരിയബിൾ സഫിക്സ്"
@@ -2277,6 +2633,18 @@ msgstr "വേരിയബിൾ: {v}"
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
 msgstr "വേരിയബിളുകൾ"
+
+#: jamovi/client/analysisui/formatdef.js:117
+msgid "Variables {list}"
+msgstr ""
+
+#: jamovi/client/main/variablesview.js:41
+msgid "Variables List View"
+msgstr ""
+
+#: jamovi/client/main/variablesview.js:111
+msgid "Variables View"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
@@ -2308,7 +2676,8 @@ msgid ""
 "When the variable contains a missing value, use the value, otherwise the "
 "else."
 msgstr ""
-"വേരിയബിളിൽ ശൂന്യമായ ഒരു മൂല്യം ഉണ്ടെങ്കിൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ 'അല്ലെങ്കിൽ' എന്നതിലെ മൂല്യം ഉപയോഗിക്കുക."
+"വേരിയബിളിൽ ശൂന്യമായ ഒരു മൂല്യം ഉണ്ടെങ്കിൽ ഈ മൂല്യം ഉപയോഗിക്കുക, മറിച്ചായാൽ "
+"'അല്ലെങ്കിൽ' എന്നതിലെ മൂല്യം ഉപയോഗിക്കുക."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2325,14 +2694,20 @@ msgstr "ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചി
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
 msgstr ""
-"ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ ഫിൽട്ടറുകളെ ബാധിക്കുന്ന നിരകൾക്ക് മാറ്റം വരുത്താൻ പറ്റില്ല"
+"ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ ഫിൽട്ടറുകളെ ബാധിക്കുന്ന നിരകൾക്ക് "
+"മാറ്റം വരുത്താൻ പറ്റില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
 msgstr ""
-"ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ ഫിൽട്ടറുകളെ ബാധിക്കുന്ന ട്രാൻസ്‌ഫോമുകൾക്ക് മാറ്റം വരുത്താൻ പറ്റില്ല"
+"ഫിൽട്ടർ ചെയ്ത വരികൾ മറച്ചിരിക്കുമ്പോൾ ഫിൽട്ടറുകളെ ബാധിക്കുന്ന "
+"ട്രാൻസ്‌ഫോമുകൾക്ക് മാറ്റം വരുത്താൻ പറ്റില്ല"
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "You do not have appropriate permissions (403)"
+msgstr ""
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."

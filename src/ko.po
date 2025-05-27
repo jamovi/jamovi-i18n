@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2024-08-15 17:36+0000\n"
 "Last-Translator: 박종현 <tgpjh0815@ajou.ac.kr>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ko/>\n"
+"Language-Team: Korean "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,13 +35,33 @@ msgstr "(현재의)"
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(이것은 Safari와 iPad의 특징입니다)"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:448
+msgid "{0} directory contents"
+msgstr ""
+
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
 msgstr "{columnType} 이 열들은 편집할 수 없습니다."
 
+#: jamovi/client/analysisui/formatdef.js:116
+#: jamovi/client/analysisui/formatdef.js:271
+#: jamovi/client/analysisui/gridtargetcontrol.js:596
+msgid "{list} and {lastItem}"
+msgstr ""
+
+#: jamovi/client/analysisui/formatdef.js:112
+#: jamovi/client/analysisui/formatdef.js:267
+#: jamovi/client/analysisui/gridtargetcontrol.js:592
+msgid "{list}, {nextItem}"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
 msgstr "{m} 이(가) 성공적으로 제거되었습니다"
+
+#: jamovi/client/main/store/pagemodules.js:369
+msgid "{module} was installed successfully"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -58,9 +78,38 @@ msgstr "{n} 은(는) 양의 정수가 아닙니다"
 msgid "{n} sf"
 msgstr "{n} sf"
 
+#: jamovi/client/analysisui/formatdef.js:164
+msgid "{name} variable"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
 msgstr "{r} 은(는) 정수가 아닙니다"
+
+#: jamovi/client/resultsview/array.js:182
+#: jamovi/client/resultsview/group.js:129
+msgid "{title} Initial Annotation"
+msgstr ""
+
+#: jamovi/client/analysisui/variableslistbox.js:174
+msgid "{var} not permitted. Incorrect measure or data type."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:842
+msgid "{vars} added to {list}."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:844
+msgid "{vars} items added to {list}."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:890
+msgid "{vars} items removed from {list}."
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:888
+msgid "{vars} removed from {list}."
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
@@ -78,8 +127,7 @@ msgstr "강조"
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "접근이 불가능합니다. 이 리소스에 액세스할 수 있는 적절한 권한이 없을 수 "
-"있습니다."
+msgstr "접근이 불가능합니다. 이 리소스에 액세스할 수 있는 적절한 권한이 없을 수 있습니다."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -93,10 +141,22 @@ msgstr "활성"
 msgid "Add"
 msgstr "추가"
 
+#: jamovi/client/analysisui/gridtargetcontrol.js:612
+msgid "Add {1} items to {0}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
 msgid "Add another nested filter"
 msgstr "다른 중첩된 필터 추가"
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:610
+msgid "Add item {1} to {0}"
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:608
+msgid "Add items to {0}"
+msgstr ""
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -109,6 +169,14 @@ msgstr "새 필터 추가"
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
 msgstr "새 레벨 추가"
+
+#: jamovi/client/main/ribbon/datatab.js:70
+msgid "Add new rows"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:43
+msgid "Add new variable"
+msgstr ""
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -145,9 +213,9 @@ msgstr "{hostname} 에서 제공하는 온라인 데이터셋"
 msgid "An unexpected error has occured, and jamovi must now close."
 msgstr "예기치 않은 오류가 발생했고 jamovi 프로그램을 닫아야 합니다."
 
-#: jamovi/client/main/ribbon/appmenu.js:133
-msgid "An update is available"
-msgstr "업데이트가 있습니다"
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "An unexpected error occurred"
+msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -162,9 +230,43 @@ msgstr "임의 코드를 실행하는 분석은 이 세션에서 허용되지 �
 msgid "Analysis"
 msgstr "분석"
 
+#: jamovi/client/resultsview/heading.js:164
+#: jamovi/client/resultsview/heading.js:17
+msgid "Analysis Heading - {title}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "그리고"
+
+#: jamovi/client/resultsview/annotation.js:168
+msgid "Annotation"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:276
+#: jamovi/client/resultsview/group.js:181
+msgid "Annotation for group {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:280
+#: jamovi/client/resultsview/group.js:185
+msgid "Annotation for image {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:282
+#: jamovi/client/resultsview/group.js:187
+msgid "Annotation for item {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:278
+#: jamovi/client/resultsview/group.js:183
+msgid "Annotation for list {name}"
+msgstr ""
+
+#: jamovi/client/resultsview/array.js:274
+#: jamovi/client/resultsview/group.js:179
+msgid "Annotation for table {name}"
+msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -220,14 +322,14 @@ msgstr "자동"
 msgid "Automatic"
 msgstr "자동"
 
-#: jamovi/client/main/ribbon/appmenu.js:145
-msgid "Automatically install updates"
-msgstr "자동으로 업데이트 설치"
-
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
 msgid "Available"
 msgstr "사용가능"
+
+#: jamovi/client/analysisui/layoutsupplierview.js:147
+msgid "Available items"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -257,6 +359,10 @@ msgstr "글머리 기호 목록"
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
 msgstr "취소"
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "Cannot assign non-integer value to column '{}'"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -294,14 +400,6 @@ msgstr "가운데 정렬"
 msgid "change label..."
 msgstr "라벨 변경…"
 
-#: jamovi/client/main/ribbon/appmenu.js:130
-msgid "Check again"
-msgstr "다시 확인"
-
-#: jamovi/client/main/ribbon/appmenu.js:131
-msgid "Checking for updates"
-msgstr "업데이트 확인중"
-
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
 msgstr "순환 참조 감지됨"
@@ -319,6 +417,14 @@ msgstr "클립보드"
 msgid "Close"
 msgstr "종료"
 
+#: jamovi/client/main/main.ts:311
+msgid "Close jamovi window"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.js:49
+msgid "Close preferences"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
 msgstr "코드블록"
@@ -331,6 +437,12 @@ msgstr "색상 팔레트"
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
 msgstr "데이터셋에 ’{}’ 열이 없습니다"
+
+#: jamovi/client/main/viewcontroller.js:294
+msgid "Column {columnName} deleted"
+msgid_plural "{n} columns deleted"
+msgstr[0] ""
+msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -460,6 +572,10 @@ msgstr "변환을 수정할 수 없습니다"
 msgid "Could not perform operation"
 msgstr "작업을 수행할 수 없습니다"
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:179
+msgid "Counts the number of non-missing values"
+msgstr ""
+
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
 msgstr "새 변환 만들기…"
@@ -517,6 +633,14 @@ msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] "데이터 변수"
 
+#: jamovi/client/main/ribbon/datatab.js:41
+msgid "Data weights"
+msgstr ""
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:158
+msgid "Date / Time"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "소수"
@@ -564,9 +688,17 @@ msgstr[0] "{index}행을 삭제하시겠습니까?"
 msgid "Delete Rows"
 msgstr "행 삭제"
 
-#: jamovi/client/main/vareditor/transformlistitem.js:40
-msgid "Delete transform"
-msgstr "변환 삭제"
+#: jamovi/client/main/ribbon/datatab.js:74
+msgid "Delete selected rows"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:63
+msgid "Delete selected variables"
+msgstr ""
+
+#: jamovi/client/main/vareditor/transformlistitem.js:30
+msgid "Delete transform  - {transformName}"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -595,9 +727,8 @@ msgid ""
 "of these arguments are optional -- it is possible to simply use "
 "__CONTAINS(needle, haystack)__."
 msgstr ""
-"항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 "
-"사항입니다. 간단히 __CONTAINS(needle, haystack)__를 사용할 수 "
-"있습니다."
+"항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 사항입니다. 간단히 "
+"__CONTAINS(needle, haystack)__를 사용할 수 있습니다."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -632,8 +763,8 @@ msgid ""
 "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
 "20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"변수에서 n의 샘플을 뽑아냅니다. 예를 들어 SAMPLE(var, 20), 또는 SAMPLE(1, 20)"
-", 또는 SAMPLE(‘training’, 20, ‘test’)"
+"변수에서 n의 샘플을 뽑아냅니다. 예를 들어 SAMPLE(var, 20), 또는 SAMPLE(1, 20), 또는 "
+"SAMPLE(‘training’, 20, ‘test’)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -655,9 +786,9 @@ msgstr "균일 분포에서 표본을 뽑아냅니다."
 msgid "Duplicate"
 msgstr "복제하다"
 
-#: jamovi/client/main/vareditor/transformlistitem.js:39
-msgid "Duplicate transform"
-msgstr "복제 변환"
+#: jamovi/client/main/vareditor/transformlistitem.js:29
+msgid "Duplicate transform  - {transformName}"
+msgstr ""
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -670,9 +801,13 @@ msgstr "복제 변환"
 msgid "Edit"
 msgstr "편집"
 
-#: jamovi/client/main/vareditor/transformlistitem.js:38
-msgid "Edit transform"
-msgstr "변환"
+#: jamovi/client/main/tableview.js:104
+msgid "Edit filters"
+msgstr ""
+
+#: jamovi/client/main/vareditor/transformlistitem.js:28
+msgid "Edit transform - {transformName}"
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -796,6 +931,10 @@ msgstr "파일이 손상되었습니다 (명세서가 손상되었거나 누락�
 msgid "File is corrupt (manifest is corrupt)"
 msgstr "파일이 손상되었습니다 (명세서가 손상됨)"
 
+#: jamovi/client/main/ribbon.js:174
+msgid "File menu"
+msgstr ""
+
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
 msgstr "파일 메뉴 항목"
@@ -803,6 +942,10 @@ msgstr "파일 메뉴 항목"
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
 msgstr "파일이 저장됨"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:212
+msgid "File type"
+msgstr ""
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -850,6 +993,18 @@ msgstr "필터는 ‘V’ 또는 열 함수를 사용하여 열을 참조할 수
 msgid "Filters may not reference output variables"
 msgstr "필터는 출력 변수를 참조하지 않을 수 있습니다"
 
+#: jamovi/client/main/main.ts:243
+msgid "Focus on spreadsheet"
+msgstr ""
+
+#: jamovi/client/main/main.ts:262
+msgid "Focus on the variable setup"
+msgstr ""
+
+#: jamovi/client/main/main.ts:248
+msgid "Focus on variable list"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
 msgstr "폰트"
@@ -867,8 +1022,7 @@ msgstr "수식에 잘못된 노드가 있습니다"
 msgid ""
 "Formula is mis-specified (If you're wanting to test equality, use two equals "
 "signs '==')"
-msgstr "수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 "
-"사용하세요)"
+msgstr "수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 사용하세요)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -943,6 +1097,10 @@ msgstr "숨김"
 msgid "Hide"
 msgstr "숨김"
 
+#: jamovi/client/main/main.ts:238
+msgid "Hide analysis options"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
 msgstr "필터 열 숨기기"
@@ -951,13 +1109,17 @@ msgstr "필터 열 숨기기"
 msgid "Hide library"
 msgstr "라이브러리 숨기기"
 
+#: jamovi/client/main/store/pagemodules.js:271
+msgid "Hide module {moduleName} from the Analyses ribbon"
+msgstr ""
+
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
 msgstr "옵션 숨기기"
 
-#: jamovi/client/main/ribbon/appmenu.js:39
-msgid "Hide settings"
-msgstr "설정 숨기기"
+#: jamovi/client/main/variableeditor.js:52
+msgid "Hide variable setup"
+msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -993,8 +1155,7 @@ msgstr "만약"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "표현식이 참으로 확인되면 확인된 값을 사용하고 그렇지 않으면 다른 값을 "
-"사용합니다."
+msgstr "표현식이 참으로 확인되면 확인된 값을 사용하고 그렇지 않으면 다른 값을 사용합니다."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1055,6 +1216,14 @@ msgstr "삽입하기"
 msgid "Insert how many rows?"
 msgstr "몇 개의 행을 삽입합니까?"
 
+#: jamovi/client/main/ribbon/datatab.js:39
+msgid "Insert new computed variable"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:40
+msgid "Insert new transformed variable"
+msgstr ""
+
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
@@ -1063,6 +1232,10 @@ msgstr "행 삽입…"
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
 msgstr "설치"
+
+#: jamovi/client/main/store/pagemodules.js:240
+msgid "Install module {moduleName} version {version}"
+msgstr ""
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1076,6 +1249,10 @@ msgstr "설치된 모듈"
 #: jamovi/client/main/store/pagemodules.js:216
 msgid "Installed version needs to be updated"
 msgstr "설치된 버전을 업데이트해야 합니다"
+
+#: jamovi/client/main/store/pagemodules.js:364
+msgid "Installing {module}"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1128,12 +1305,7 @@ msgid ""
 "jamovi is now available in { insert translation language }! (Many thanks to "
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
-msgstr "jamovi는 이제 { 한국어 }를 제공합니다! (@{MarongHappy (Junghee Lee)}님 "
-"감사합니다)"
-
-#: jamovi/client/main/ribbon/appmenu.js:130
-msgid "jamovi is up-to-date"
-msgstr "자모비가 최신 상태입니다"
+msgstr "jamovi는 이제 { 한국어 }를 제공합니다! (@{MarongHappy (Junghee Lee)}님 감사합니다)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1206,6 +1378,10 @@ msgstr "레벨 값"
 msgid "Levels"
 msgstr "레벨"
 
+#: jamovi/client/main/store/pagemodules.js:98
+msgid "Library error"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
 msgstr "링크"
@@ -1251,6 +1427,10 @@ msgstr "결측 값"
 msgid "Missing Values"
 msgstr "결측 값"
 
+#: jamovi/client/main/store/pagemodules.js:244
+msgid "Module {moduleName} is installed"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
 msgstr "설치된 모듈"
@@ -1263,10 +1443,6 @@ msgstr "모듈이 성공적으로 설치되었습니다"
 msgid "Module uninstalled"
 msgstr "모듈이 제거됨"
 
-#: jamovi/client/main/store/pagemodules.js:193
-msgid "Module was installed successfully"
-msgstr "모듈이 성공적으로 설치되었었습니다"
-
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
 msgstr "모듈"
@@ -1274,6 +1450,14 @@ msgstr "모듈"
 #: jamovi/client/main/main.js:370
 msgid "More info ..."
 msgstr "더 많은 정보 …"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:316
+msgid "Move back directory"
+msgstr ""
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:446
+msgid "Move back from directory {0}"
+msgstr ""
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1283,6 +1467,12 @@ msgstr "이름"
 #: jamovi/client/main/backstage.js:1255
 msgid "New"
 msgstr "새로운"
+
+#: jamovi/client/main/tableview.js:2479
+#: jamovi/client/main/tableview.js:603
+#: jamovi/client/main/tableview.js:660
+msgid "New column {0}"
+msgstr ""
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1386,6 +1576,18 @@ msgstr ""
 "                    이 데이터 세트의 소스를 신뢰하는 경우에만\n"
 "                    활성화해야 합니다."
 
+#: jamovi/client/main/viewcontroller.js:678
+msgid "One row appended."
+msgid_plural "{n} rows appended."
+msgstr[0] ""
+msgstr[1] ""
+
+#: jamovi/client/main/viewcontroller.js:641
+msgid "One row inserted."
+msgid_plural "{n} rows inserted."
+msgstr[0] ""
+msgstr[1] ""
+
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
 msgstr "온라인 데이터셋"
@@ -1395,9 +1597,25 @@ msgstr "온라인 데이터셋"
 msgid "Open"
 msgstr "열기"
 
+#: jamovi/client/main/main.ts:266
+msgid "Open application menu"
+msgstr ""
+
+#: jamovi/client/main/main.ts:234
+msgid "Open data file"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
 msgstr "문서 열기(LibreOffice) {ext}"
+
+#: jamovi/client/main/main.ts:270
+msgid "Open the jamovi module library"
+msgstr ""
+
+#: jamovi/client/main/main.ts:253
+msgid "Open the main menu"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
@@ -1435,6 +1653,12 @@ msgstr "p-value 형식"
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
 msgstr "문단"
+
+#: jamovi/client/main/vareditor/formulatoolbar.js:161
+msgid ""
+"Parses a date, and converts it to the number of days since the 1st of "
+"January, 1970."
+msgstr ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1477,6 +1701,10 @@ msgstr "PNG 이미지 {ext}"
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "환경설정"
+
+#: jamovi/client/resultsview/annotation.js:79
+msgid "Press enter to edit"
+msgstr ""
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1547,17 +1775,33 @@ msgstr "회귀"
 msgid "Remove"
 msgstr "제거"
 
+#: jamovi/client/analysisui/gridtargetcontrol.js:620
+msgid "Remove {1} from {0}"
+msgstr ""
+
+#: jamovi/client/analysisui/gridtargetcontrol.js:623
+msgid "Remove {1} items from {0}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
 msgstr "필터제거"
 
+#: jamovi/client/analysisui/gridtargetcontrol.js:617
+msgid "Remove items from {0}"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:234
+msgid "Remove module {moduleName}"
+msgstr ""
+
+#: jamovi/client/main/vareditor/filterwidget.js:403
+msgid "Remove nested filter"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
 msgstr "최신 버전의 jamovi가 필요합니다"
-
-#: jamovi/client/main/ribbon/appmenu.js:136
-msgid "Restart and Install"
-msgstr "재시작 및 설치"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 msgid "Restart required"
@@ -1574,11 +1818,6 @@ msgstr "결과"
 msgid "Retain unused levels in analyses"
 msgstr "분석에서 사용되지 않은 수준 유지"
 
-#: jamovi/client/main/ribbon/appmenu.js:132
-#: jamovi/client/main/ribbon/appmenu.js:135
-msgid "Retry"
-msgstr "재시도"
-
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
 msgstr "변수에 대한 Box-Cox 변환을 반환합니다."
@@ -1589,8 +1828,8 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"IQR값을 바탕으로 아웃라이어 여부를 결정합니다: 상자그림 0 이내의 값을 "
-"반환하며, 절대값이 1.5 이상인 값들은 수염에서 벗어나 있습니다."
+"IQR값을 바탕으로 아웃라이어 여부를 결정합니다: 상자그림 0 이내의 값을 반환하며, 절대값이 1.5 이상인 값들은 수염에서 벗어나 "
+"있습니다."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1697,6 +1936,25 @@ msgstr "숫자 집합의 분산을 반환합니다."
 msgid "Returns the variance of a variable."
 msgstr "변수의 분산을 반환합니다."
 
+#: jamovi/client/main/main.ts:286
+msgid ""
+"Returns to the previously selected analysis and opens the options panel, "
+"with focus set in the options panel."
+msgstr ""
+
+#: jamovi/client/main/main.ts:302
+msgid ""
+"Returns to the previously selected analysis and shifts focus into the "
+"results output."
+msgstr ""
+
+#: jamovi/client/main/main.ts:291
+#: jamovi/client/main/main.ts:307
+msgid ""
+"Returns to the previously selected analysis and shifts focus to the results "
+"output."
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
 msgstr "오른쪽 정렬"
@@ -1712,6 +1970,12 @@ msgstr "각 값을 정수로 올림합니다"
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
 msgstr "각 값을 정수로 내림합니다"
+
+#: jamovi/client/main/viewcontroller.js:345
+msgid "row {index} deleted."
+msgid_plural "{n} rows deleted."
+msgstr[0] ""
+msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -1760,6 +2024,10 @@ msgstr "‘{title}’의 변경 사항을 저장하시겠습니까?"
 msgid "Save failed"
 msgstr "저장 실패"
 
+#: jamovi/client/main/main.ts:233
+msgid "Save project"
+msgstr ""
+
 #: jamovi/client/main/instance.js:475
 msgid "Saved to '{filename}'"
 msgstr "‘{filename}’에 저장됨"
@@ -1777,9 +2045,25 @@ msgstr "정기 점검"
 msgid "Search"
 msgstr "검색하기"
 
+#: jamovi/client/main/store/pagemodules.js:42
+msgid "Search available modules"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
 msgstr "파일 검색하기"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+msgid "Search for file in directory {0}"
+msgstr ""
+
+#: jamovi/client/main/store/pagemodules.js:42
+msgid "Search installed modules"
+msgstr ""
+
+#: jamovi/client/analysisui/layoutsupplierview.js:172
+msgid "Search list items"
+msgstr ""
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -1829,6 +2113,10 @@ msgstr "수식 편집기 표시"
 msgid "Show in main menu"
 msgstr "메인 메뉴에 표시"
 
+#: jamovi/client/main/store/pagemodules.js:265
+msgid "Show module {moduleName} in the Analyses ribbon"
+msgstr ""
+
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
 msgstr "사이드 로딩 모듈은 사용할 수 없습니다."
@@ -1856,10 +2144,9 @@ msgstr "특수 파일 불러오기"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the "
-"desired piece by index."
-msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. _조각_은 인덱스별로 원하는 "
-"조각을 지정합니다."
+"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"piece by index."
+msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. _조각_은 인덱스별로 원하는 조각을 지정합니다."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -1927,6 +2214,12 @@ msgstr "T-테스트"
 msgid "Table"
 msgstr "테이블"
 
+#: jamovi/client/main/vareditor/formulatoolbar.js:163
+msgid ""
+"Takes a number representing the number of days since the 1st of January "
+"1970, and produces a formatted date."
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Text"
@@ -1945,8 +2238,7 @@ msgstr "콘텐츠가 클립보드에 복사되었습니다"
 msgid ""
 "The content has been prepared, and can be copied with the button below, or "
 "by pressing <em>{k}+C</em> on your keyboard"
-msgstr "콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보드에서 <em>{k}+C</em>를 "
-"눌러 복사할 수 있습니다"
+msgstr "콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보드에서 <em>{k}+C</em>를 눌러 복사할 수 있습니다"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
@@ -1957,8 +2249,8 @@ msgid ""
 "The data is weighted by the variable {}, however this analysis does not "
 "support non-integer weights. The weights were rounded to the nearest integer."
 msgstr ""
-"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 "
-"지원하지 않습니다. 가중치는 가장 가까운 정수로 반올림되었습니다."
+"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 지원하지 않습니다. 가중치는 가장 가까운 정수로 "
+"반올림되었습니다."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -1969,8 +2261,7 @@ msgstr "데이터는 변수 {}에 의해 가중치가 부여됩니다."
 msgid ""
 "The data is weighted, however this analysis does not support weights. This "
 "analysis used the data unweighted."
-msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 "
-"분석에서는 비가중 데이터를 사용했습니다."
+msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 분석에서는 비가중 데이터를 사용했습니다."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -1983,6 +2274,14 @@ msgstr "공식이 잘못 지정되었습니다"
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
 msgid "The index of value in the provided values."
 msgstr "제공된 값의 값 인덱스입니다."
+
+#: jamovi/client/resultsview/table.js:754
+msgid "The interaction of {0} and {1}"
+msgstr ""
+
+#: jamovi/client/analysisui/formatdef.js:272
+msgid "The interaction of {list}"
+msgstr ""
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
@@ -2004,6 +2303,26 @@ msgstr "라이브러리가 비활성화되었습니다"
 msgid "The module for this analysis is not installed, or is unavailable"
 msgstr "이 분석을 위한 모듈이 설치되지 않았거나, 사용할 수 없습니다"
 
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server could not be reached"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server rejected the request"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server reported an error"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The remote server sent an unexpected response"
+msgstr ""
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "The resource doesn't exist, or has moved (404)"
+msgstr ""
+
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
 msgstr "선택한 변환에 오류가 있으므로 수정해야 합니다."
@@ -2019,6 +2338,10 @@ msgstr "이 분석은 현재 시간 제한을 초과하여 종료되었습니다
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr "이 분석은 리소스 제한에 도달하여 종료되었습니다."
+
+#: jamovi/client/main/main.ts:912
+msgid "This data set could not be opened"
+msgstr ""
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2066,6 +2389,18 @@ msgstr "이 세션은 약 1분 후에 종료됩니다"
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
 msgid "This transform is in error and should be edited."
 msgstr "이 변환은 오류이며 수정해야 합니다."
+
+#: jamovi/client/main/tableview.js:105
+msgid "Toggle filters visibility"
+msgstr ""
+
+#: jamovi/client/main/ribbon.js:199
+msgid "Toggle screen state"
+msgstr ""
+
+#: jamovi/client/main/main.ts:256
+msgid "Toggle variable setup"
+msgstr ""
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2133,6 +2468,10 @@ msgstr "서버에 연결할 수 없습니다"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
 msgstr "{}을(를) 가져올 수 없습니다"
+
+#: jamovi/client/main/store/pagemodules.js:376
+msgid "Unable to install {module}"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2207,25 +2546,9 @@ msgstr "인식할 수 없는 파일 형식"
 msgid "Update"
 msgstr "업데이트"
 
-#: jamovi/client/main/ribbon/appmenu.js:135
-msgid "Update did not complete"
-msgstr "업데이트가 완료되지 않았습니다"
-
-#: jamovi/client/main/ribbon/appmenu.js:134
-msgid "Update is being downloaded"
-msgstr "업데이트 다운로드 중"
-
-#: jamovi/client/main/ribbon/appmenu.js:136
-msgid "Update is ready"
-msgstr "업데이트가 준비되었습니다"
-
-#: jamovi/client/main/ribbon/appmenu.js:132
-msgid "Update not found"
-msgstr "새로운 업데이트가 없습니다"
-
-#: jamovi/client/main/ribbon/appmenu.js:127
-msgid "Updates"
-msgstr "업데이트"
+#: jamovi/client/main/store/pagemodules.js:253
+msgid "Update module {moduleName} to version {version}"
+msgstr ""
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
@@ -2254,6 +2577,22 @@ msgstr "변환 사용"
 msgid "Value is too large for column '{}' of type integer"
 msgstr "값이 정수 유형의 열 ‘{}’에 대해 너무 큽니다"
 
+#: jamovi/client/analysisui/formatdef.js:107
+msgid "Variable {0}"
+msgstr ""
+
+#: jamovi/client/main/vareditor/editorwidget.js:67
+msgid "Variable Description"
+msgstr ""
+
+#: jamovi/client/main/vareditor/editorwidget.js:53
+msgid "Variable Name"
+msgstr ""
+
+#: jamovi/client/main/ribbon/datatab.js:38
+msgid "Variable setup"
+msgstr ""
+
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
 msgstr "변수 접미사"
@@ -2269,6 +2608,18 @@ msgstr "변수: {v}"
 #: jamovi/client/main/variablesview.js:62
 msgid "Variables"
 msgstr "변수"
+
+#: jamovi/client/analysisui/formatdef.js:117
+msgid "Variables {list}"
+msgstr ""
+
+#: jamovi/client/main/variablesview.js:41
+msgid "Variables List View"
+msgstr ""
+
+#: jamovi/client/main/variablesview.js:111
+msgid "Variables View"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
@@ -2322,6 +2673,10 @@ msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
 msgstr "필터링된 행이 숨겨지면 필터에 영향을 주는 변환을 수정할 수 없습니다"
+
+#: jamovi/server/jamovi/server/syncs/http.py
+msgid "You do not have appropriate permissions (403)"
+msgstr ""
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
