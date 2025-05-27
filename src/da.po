@@ -1864,10 +1864,10 @@ msgstr "Specialimport"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Opdeler tekst baseret på en afgrænser. <i>piece</i> angiver det ønskede "
+"Opdeler tekst baseret på en afgrænser. _piece_ angiver det ønskede "
 "stykke efter indeks."
 
 #: jamovi/client/main/tableview.js:62

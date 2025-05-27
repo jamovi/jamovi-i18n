@@ -1868,10 +1868,10 @@ msgstr "Importació especial"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Divideix el text en porcions en base a un separador. <i> porció </i> "
+"Divideix el text en porcions en base a un separador. _ porció _ "
 "especifica la part desitjada segons l'índex."
 
 #: jamovi/client/main/tableview.js:62

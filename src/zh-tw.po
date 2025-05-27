@@ -1864,9 +1864,9 @@ msgstr "特殊匯入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
-msgstr "依照分隔符號(sep)分割文字。<i>piece</i> "
+msgstr "依照分隔符號(sep)分割文字。_piece_ "
 "是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
 
 #: jamovi/client/main/tableview.js:62

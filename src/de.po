@@ -1871,10 +1871,10 @@ msgstr "Spezieller Import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Teilt Text basierend auf einem Trennzeichen. <i>piece</i> den Index gibt des "
+"Teilt Text basierend auf einem Trennzeichen. _piece_ den Index gibt des "
 "gewünschten Stücks an."
 
 #: jamovi/client/main/tableview.js:62

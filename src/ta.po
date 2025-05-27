@@ -1854,9 +1854,9 @@ msgid "Special Import"
 msgstr "சிறப்பு இறக்குமதி"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgid "Splits text into pieces based on a separator. _piece_ specifies the desired piece by index."
 msgstr ""
-"ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். <i> துண்டு </it> விரும்பி"
+"ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். _ துண்டு </it> விரும்பி"
 "ய பகுதியை குறியீட்டால் குறிப்பிடுகிறது."
 
 #: jamovi/client/main/tableview.js:62

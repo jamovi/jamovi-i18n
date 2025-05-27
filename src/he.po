@@ -1880,10 +1880,10 @@ msgstr "ייבוא מיוחד"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט <i>piece</i> מצביע על החתיכה "
+"מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט _piece_ מצביע על החתיכה "
 "הרצויה לפי מיקום."
 
 #: jamovi/client/main/tableview.js:62

@@ -1876,10 +1876,10 @@ msgstr "арнайы импорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"мәтінді бөлгіш негізінде бөліктерге бөледі. <i>дана</i> қажетті бөлікті "
+"мәтінді бөлгіш негізінде бөліктерге бөледі. _дана_ қажетті бөлікті "
 "индекс бойынша нақтылайды."
 
 #: jamovi/client/main/tableview.js:62

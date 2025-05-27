@@ -1876,10 +1876,10 @@ msgstr "Importuj"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Dzieli tekst na fragmenty na podstawie separatora. <i>piece</i> określa "
+"Dzieli tekst na fragmenty na podstawie separatora. _piece_ określa "
 "żądany fragment według indeksu."
 
 #: jamovi/client/main/tableview.js:62

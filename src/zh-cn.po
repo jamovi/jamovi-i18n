@@ -1821,9 +1821,9 @@ msgstr "特殊导入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
-msgstr "根据分隔符将文本拆分为多个部分。 <i>piece</i> 按索引指定所需的片段。"
+msgstr "根据分隔符将文本拆分为多个部分。 _piece_ 按索引指定所需的片段。"
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"

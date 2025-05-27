@@ -1865,10 +1865,10 @@ msgstr "പ്രത്യേക ഇംപോർട്ട്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
+"ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള കഷണത്തെ _piece_ സൂചിപ്പിക്കുന്നു."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"

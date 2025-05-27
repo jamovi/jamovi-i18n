@@ -1877,10 +1877,10 @@ msgstr "Speciální import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"Splits text into pieces based on a separator. _piece_ specifies the "
 "desired piece by index."
 msgstr ""
-"Rozdělí text na kusy dle separátoru. <i>kus</i> specifikuje žádaný kus "
+"Rozdělí text na kusy dle separátoru. _kus_ specifikuje žádaný kus "
 "pomocí indexu."
 
 #: jamovi/client/main/tableview.js:62
