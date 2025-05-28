@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-28 12:05+0000\n"
+"PO-Revision-Date: 2025-05-28 13:01+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ja/>\n"
@@ -81,7 +81,7 @@ msgstr "{n}桁"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "{name} 変数"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -440,8 +440,8 @@ msgstr "「{}」列はデータセットに含まれていません"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{columnName} 列を削除しました"
+msgstr[1] "{n} 列を削除しました"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -630,11 +630,11 @@ msgstr[1] "{n}個のデータ変数"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "データの重みづけ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "日付／時刻"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -687,15 +687,15 @@ msgstr "配列を削除する"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "選択行を削除"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "選択変数を削除"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "変換 {transformName} を削除"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -785,7 +785,7 @@ msgstr "複製"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "変換 {transformName} を複製"
 
 #: jamovi/client/main/main.js:175
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -799,11 +799,11 @@ msgstr "編集"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "フィルタを編集"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "変換 {transformName} を編集"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -926,7 +926,7 @@ msgstr "ファイルが破損しています（マニフェストが破損して
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "ファイルメニュー"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -938,7 +938,7 @@ msgstr "保存しました"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "ファイルタイプ"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -987,15 +987,15 @@ msgstr "フィルタでは結果変数の参照はできません"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "スプレッドシートにフォーカス"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "変数設定にフォーカス"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
-msgstr ""
+msgstr "変数リストにフォーカス"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1090,7 +1090,7 @@ msgstr "隠す"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "分析オプションを隠す"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1102,7 +1102,7 @@ msgstr "ライブラリを隠す"
 
 #: jamovi/client/main/store/pagemodules.js:271
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "{moduleName} モジュールを分析リボンから隠す"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
@@ -1110,7 +1110,7 @@ msgstr "オプションを非表示"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Hide variable setup"
-msgstr ""
+msgstr "変数設定を隠す"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1209,11 +1209,11 @@ msgstr "何行を挿入しますか？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "計算変数を挿入"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "変換変数を挿入"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1226,7 +1226,7 @@ msgstr "インストール"
 
 #: jamovi/client/main/store/pagemodules.js:240
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "{moduleName} モジュールのバージョン {version} をインストール"
 
 #: jamovi/client/main/store.js:35 jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
@@ -1242,7 +1242,7 @@ msgstr "バージョンの更新が必要です"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
-msgstr ""
+msgstr "{module}をインストール"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1366,7 +1366,7 @@ msgstr "水準"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "ライブラリエラー"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1415,7 +1415,7 @@ msgstr "欠損値"
 
 #: jamovi/client/main/store/pagemodules.js:244
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "{moduleName} モジュールをインストールしました"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1439,11 +1439,11 @@ msgstr "詳細を見る…"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
 msgid "Move back directory"
-msgstr ""
+msgstr "ディレクトリを戻る"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "ディレクトリ {0} から戻る"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1457,7 +1457,7 @@ msgstr "新規"
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
 msgid "New column {0}"
-msgstr ""
+msgstr "新規列 {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1561,14 +1561,14 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1行追加しました。"
+msgstr[1] "{n}行追加しました。"
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "1行挿入しました。"
+msgstr[1] "{n}行挿入しました。"
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
@@ -1580,11 +1580,11 @@ msgstr "開く"
 
 #: jamovi/client/main/main.ts:266
 msgid "Open application menu"
-msgstr ""
+msgstr "アプリケーションメニューを開く"
 
 #: jamovi/client/main/main.ts:234
 msgid "Open data file"
-msgstr ""
+msgstr "データファイルを開く"
 
 #: jamovi/client/main/backstage.js:977
 msgid "Open Document (LibreOffice) {ext}"
@@ -1592,11 +1592,11 @@ msgstr "オープンドキュメント形式（LibreOffice）{ext}"
 
 #: jamovi/client/main/main.ts:270
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "jamoviモジュールライブラリを開く"
 
 #: jamovi/client/main/main.ts:253
 msgid "Open the main menu"
-msgstr ""
+msgstr "メニュー項目を開く"
 
 #: jamovi/client/main/backstage.js:1704 jamovi/client/main/instance.js:236
 #: jamovi/client/main/main.js:656
@@ -1639,7 +1639,7 @@ msgstr "段落"
 msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
-msgstr ""
+msgstr "日付を解析し、1970年1月1日からの日数に変換します。"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1684,7 +1684,7 @@ msgstr "設定"
 
 #: jamovi/client/resultsview/annotation.js:79
 msgid "Press enter to edit"
-msgstr ""
+msgstr "Enterキーで編集"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1752,11 +1752,11 @@ msgstr "削除"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "{0}から{1}を削除"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "{0}から{1}項目を削除"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1764,7 +1764,7 @@ msgstr "フィルタを削除"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "{0}から項目を削除"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
