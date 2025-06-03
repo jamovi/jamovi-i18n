@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-01 20:01+0000\n"
-"Last-Translator: Maksim_220 Кабанов <law820314@gmail.com>\n"
+"PO-Revision-Date: 2025-06-03 14:04+0000\n"
+"Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
 "Language: ru\n"
@@ -392,7 +392,7 @@ msgstr "Невозможно назначить этим столбцам."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "Ячейки изменены "
+msgstr "Измененных ячеек"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -1945,8 +1945,7 @@ msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
 msgstr ""
-"Возврат к ранее выбранному анализу и переключение внимания на вывод "
-"результатов."
+"Возврат к ранее выбранному анализу и смещение фокуса на вывод результатов."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
@@ -1954,7 +1953,7 @@ msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
 msgstr ""
-"Возврат к ранее выбранному анализу и переключение внимания на вывод "
+"Возврат к ранее выбранному анализу и переключение фокуса на вывод "
 "результатов."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
