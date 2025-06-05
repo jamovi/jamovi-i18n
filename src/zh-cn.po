@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2025-05-27 04:01+0000\n"
+"PO-Revision-Date: 2025-06-05 03:01+0000\n"
 "Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hans/>\n"
@@ -56,7 +56,7 @@ msgstr "{list} 以及 {lastItem}"
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -442,8 +442,8 @@ msgstr "列 '{}' 不在此数据集中"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "列 {columnName} 已删除"
+msgstr[1] "已删除列 {n}"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -573,7 +573,7 @@ msgstr "无法执行操作"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "对非缺失值计数"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -632,11 +632,11 @@ msgstr[1] "多个数据变量({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "数据权重"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "日期 / 时间"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -689,15 +689,15 @@ msgstr "删除多行"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "删除所选行"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "删除所选变量"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "删除转换  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -787,7 +787,7 @@ msgstr "重建"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "复制转换   - {transformName}"
 
 #: jamovi/client/main/main.js:175
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -801,11 +801,11 @@ msgstr "编辑"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "编辑筛选器"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "编辑转换 - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -928,7 +928,7 @@ msgstr "文件已损坏 (manifest 已损坏)"
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "文件菜单"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -940,7 +940,7 @@ msgstr "文件已保存"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "文件类型"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -989,15 +989,15 @@ msgstr "筛选器可能不会引用输出变量"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "焦点导航到表格上"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "焦点导航到变量设置"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
-msgstr ""
+msgstr "焦点导航到变量列表"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1092,7 +1092,7 @@ msgstr "隐藏"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "隐藏分析选项"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1104,7 +1104,7 @@ msgstr "隐藏库"
 
 #: jamovi/client/main/store/pagemodules.js:271
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "从分析菜单隐藏 {moduleName} 模块"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
@@ -1112,7 +1112,7 @@ msgstr "隐藏选项"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Hide variable setup"
-msgstr ""
+msgstr "隐藏变量设置"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1211,11 +1211,11 @@ msgstr "插入多少行？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "插入新的计算变量"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "插入新的转换变量"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1228,7 +1228,7 @@ msgstr "安装"
 
 #: jamovi/client/main/store/pagemodules.js:240
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "安装模块 {moduleName} 版本 {version}"
 
 #: jamovi/client/main/store.js:35 jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
@@ -1244,7 +1244,7 @@ msgstr "已安装版本需要更新"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
-msgstr ""
+msgstr "正在安装 {module} 模块"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1368,7 +1368,7 @@ msgstr "水平"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "库有错误"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
