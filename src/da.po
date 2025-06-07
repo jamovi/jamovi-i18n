@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-04-16 21:01+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Danish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/da/>\n"
+"PO-Revision-Date: 2025-06-07 08:01+0000\n"
+"Last-Translator: Tim sørensen <lang2fte@gmail.com>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.11.1-dev\n"
+"X-Generator: Weblate 5.12-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -38,7 +38,7 @@ msgstr "(Dette er et problem i Safari og på iPads)"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "Indhold"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -48,7 +48,7 @@ msgstr "{columnType}-kolonner kan ikke redigeres."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} og {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
@@ -62,7 +62,7 @@ msgstr "{m} blev afinstalleret"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module}  blev installeret"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -81,7 +81,7 @@ msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "{name} variabel"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -98,19 +98,19 @@ msgstr ""
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} blev tilføjet til {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} ting tilføjet til {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} ting fjernet fra {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} fjernet fra {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
@@ -146,7 +146,7 @@ msgstr "Tilføj"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Tilføj {1} thing til {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -175,15 +175,15 @@ msgstr "Tilføj et nyt niveau"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Tilføj ny række"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Tilføj ny variabel"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr "Tilføj en note"
+msgstr "Tilføj notat"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
@@ -218,7 +218,7 @@ msgstr "Der er opstået en uventet fejl, og jamovi skal nu lukkes."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Det skete en uventet fejl"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -236,7 +236,7 @@ msgstr "Analyse"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Analyse overskrift - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -331,7 +331,7 @@ msgstr "Tilgængelig på"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "Tilgængelige ting"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -363,7 +363,7 @@ msgstr "Annuller"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "Kan ikke tilskrive en ikke-heltalsværdi til kolonnen '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -420,11 +420,11 @@ msgstr "Luk"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Luk jamovi vindue"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Luk præferencer"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -442,8 +442,8 @@ msgstr "Kolonnen »{}« findes ikke i datasættet"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Kolonne {columnName} slettet"
+msgstr[1] "{n} kolonner slettet"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -474,7 +474,7 @@ msgstr[1] "Beregnede variabler ({n})"
 
 #: jamovi/client/main/instance.js:421
 msgid "Confirm overwite"
-msgstr "Bekræft overskridelse"
+msgstr "Bekræft overskrivelse"
 
 #: jamovi/client/main/store/pagemodules.js:209
 msgid "Confirm uninstall"
@@ -576,7 +576,7 @@ msgstr "Ude af stand til at udføre en operation"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Tæl antal ikke-manglende værdier"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -638,11 +638,11 @@ msgstr[1] "Datavariabler ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "Data vægte"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "Dato/ Tid"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -694,15 +694,15 @@ msgstr "Slet rækker"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Slæt valgte rækker"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Slet valgte variabler"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Slet transformation  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
