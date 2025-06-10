@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-27 06:01+0000\n"
-"Last-Translator: Максим Горпиніч <maksimgorpinic4@gmail.com>\n"
+"PO-Revision-Date: 2025-06-10 14:01+0000\n"
+"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
 "Language: uk\n"
@@ -392,7 +392,7 @@ msgstr "Неможливо призначити цим шпальтам."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "Осередки змінені "
+msgstr "Осередки змінені"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
