@@ -1,12 +1,15 @@
 msgid ""
 msgstr ""
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2025-06-11 01:01+0000\n"
+"Last-Translator: RoboDoc <theonlyrobodoc@gmail.com>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 5.12-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -594,7 +597,7 @@ msgstr ""
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:15
 msgid "Data"
-msgstr ""
+msgstr "Data"
 
 #: jamovi/client/main/backstage.ts:110
 msgid "Data files"
@@ -866,7 +869,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/analysetab.js:189
 msgid "Exploration"
-msgstr ""
+msgstr "Tutkiminen"
 
 #: jamovi/client/main/backstage.ts:417
 #: jamovi/client/main/backstage.ts:508
@@ -2566,7 +2569,7 @@ msgstr ""
 #: jamovi/client/main/vareditor/formulatoolbar.js:351
 #: jamovi/client/main/variablesview.js:61
 msgid "Variables"
-msgstr ""
+msgstr "Muuttujat"
 
 #: jamovi/client/analysisui/formatdef.js:117
 msgid "Variables {list}"
