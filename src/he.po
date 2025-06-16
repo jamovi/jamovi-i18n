@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-16 11:01+0000\n"
+"PO-Revision-Date: 2025-06-16 15:04+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -38,7 +38,7 @@ msgstr "(זאת בעיה בספארי ובאייפדים)"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "תוכן {0} של תיקיית הקבצים"
 
 #: jamovi/client/main/tableview.js:1413
 msgid "{columnType} columns may not be edited."
@@ -48,13 +48,13 @@ msgstr "אי אפשר לערוך עמודות {columType}."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} וגם {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
@@ -62,7 +62,7 @@ msgstr "התקנת {m} בוצעה בהצלחה"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} הותקן בהצלחה"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -81,7 +81,7 @@ msgstr "{n} ספרות"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "המשתנה {name}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -94,23 +94,23 @@ msgstr ""
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} אינו מורשה. המדד או סוג הנתונים אינו נכון."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} התווספו ל־{list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "הפריטים {vars} התווספו ל־{list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "הפריטים {vars} הוסרו מ־{list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} הוסרו מ־{list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:284
 msgid "A change of language requires jamovi to be restarted"
@@ -144,7 +144,7 @@ msgstr "הוספה"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "הוספת הפריטים {1} ל־{0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
@@ -153,11 +153,11 @@ msgstr "הוספת מסנן מקונן נוסף"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "הוספת הפריט {1} ל־{0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "הוספת פריטים ל־{0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -173,11 +173,11 @@ msgstr "הוספת רמה חדשה"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "הוספת שורות חדשות"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "הוספת משתנים חדשים"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -216,7 +216,7 @@ msgstr "אירעה שגיאה בלתי צפויה וכעת על jamovi להיס�
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "אירעה תקלה בלתי צפויה"
 
 #: jamovi/client/main/ribbon/analysetab.js:14
 #: jamovi/client/main/ribbon/analysetab.js:97
@@ -234,7 +234,7 @@ msgstr "ניתוח"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "כותרת הניתוח – {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:402
 msgid "and"
@@ -242,32 +242,32 @@ msgstr "וגם"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "הערה"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "הערה לקבוצה {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "הערה לתמונה {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "הערה לפריט {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "הערה לרשימה {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "הערה לטבלה {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -330,7 +330,7 @@ msgstr "זמין"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "פריטים זמינים"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -363,7 +363,7 @@ msgstr "ביטול"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "אי אפשר להזין ערך שאינו מספר שלם לעמודה ”{}“"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -420,11 +420,11 @@ msgstr "סגירה"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "סגירת חלון jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "סגירת ההעדפות"
 
 #: jamovi/client/main/ribbon/annotationtab.js:170
 msgid "Code-Block"
@@ -442,8 +442,10 @@ msgstr "העמודה ”{}“ אינה קיימת במערך הנתונים"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "נמחקה העמודה {columName}"
+msgstr[1] "נמחקו {n} עמודות"
+msgstr[2] "נמחקו {n} עמודות"
+msgstr[3] "נמחקו {n} עמודות"
 
 #: jamovi/client/main/tableview.js:1412
 msgid "Column is not editable"
@@ -578,7 +580,7 @@ msgstr "לא ניתן היה לבצע את הפעולה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "ספירת הערכים שאינם חסרים"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -642,11 +644,11 @@ msgstr[3] "משתני נתונים מרובים ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "משקלי הנתונים"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "תאריך/זמן"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
@@ -703,15 +705,15 @@ msgstr "מחיקת שורות"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "מחיקת השורות שנבחרו"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "מחיקת המשתנים שנבחרו"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "מחיקת הטרנספורמציה – {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -804,7 +806,7 @@ msgstr "שכפול"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "שכפול הטרנספורמציה – {transformName}"
 
 #: jamovi/client/main/main.js:190
 #: jamovi/client/main/ribbon/annotationtab.js:112
@@ -820,11 +822,11 @@ msgstr "עריכה"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "עריכת הסננים"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "עריכת הטרנספורמציה – {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:126
 #: jamovi/client/main/contextmenu/contextmenus.js:141
@@ -951,7 +953,7 @@ msgstr "הקובץ פגום (קובץ המניפסט פגום)"
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "תפריט הקובץ"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -963,7 +965,7 @@ msgstr "הקובץ נשמר"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "סוג הקובץ"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1013,15 +1015,15 @@ msgstr "מסננים לא יכולים להפנות למשתני פלט"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "התמקדות בגיליונות אלקטרוניים"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "התמקדות בתצורת המשתנה"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
-msgstr ""
+msgstr "התמקדות ברשימת המשתנה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1117,7 +1119,7 @@ msgstr "הסתרה"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "הסתרת אפשרויות הניתוח"
 
 #: jamovi/client/main/vareditor/filterwidget.js:70
 msgid "Hide filter columns"
@@ -1129,7 +1131,7 @@ msgstr "הסתרת ספרייה"
 
 #: jamovi/client/main/store/pagemodules.js:271
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "הסתרת המודול {moduleName} מרצועת הניתוחים"
 
 #: jamovi/client/analysisui/main.js:235
 msgid "Hide options"
@@ -1137,7 +1139,7 @@ msgstr "הסתרת האפשרויות"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Hide variable setup"
-msgstr ""
+msgstr "הסתרת תצורת המשתנה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:133
 msgid "Highlight Color"
@@ -1236,11 +1238,11 @@ msgstr "כמה שורות להכניס?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "הכנסת משתנה מחושב חדש"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "הכנסת משתנה טרנספורמציה חדש"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1253,7 +1255,7 @@ msgstr "התקנה"
 
 #: jamovi/client/main/store/pagemodules.js:240
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "התקנת המודול {moduleName} גרסה {version}"
 
 #: jamovi/client/main/store.js:50
 #: jamovi/client/main/store/pagemodules.js:202
@@ -1270,7 +1272,7 @@ msgstr "יש לעדכן את הגרסה המותקנת"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
-msgstr ""
+msgstr "מתקין {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1399,7 +1401,7 @@ msgstr "רמות"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "שגיאה בספרייה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:173
 msgid "Link"
@@ -1448,7 +1450,7 @@ msgstr "ערכים חסרים"
 
 #: jamovi/client/main/store/pagemodules.js:244
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "המודול {moduleName} מותקן"
 
 #: jamovi/client/main/store/pagemodules.js:286
 msgid "Module installed"
@@ -1472,11 +1474,11 @@ msgstr "מידע נוסף…"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
 msgid "Move back directory"
-msgstr ""
+msgstr "חזרה לתיקיית הקבצים"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "חזרה מתיקיית הקבצים {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:340
@@ -1492,7 +1494,7 @@ msgstr "חדש"
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
 msgid "New column {0}"
-msgstr ""
+msgstr "עמודה חדשה {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:25
 msgid "New computed variable"
@@ -1599,14 +1601,18 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "שורה אחת סופחה."
+msgstr[1] "{n} סופחו שורות."
+msgstr[2] "{n} סופחו שורות."
+msgstr[3] "{n} סופחו שורות."
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "הוכנסה שורה אחת."
+msgstr[1] "{n} שורות הוכנסו."
+msgstr[2] "{n} שורות הוכנסו."
+msgstr[3] "{n} שורות הוכנסו."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:472
 msgid "Online data set"
@@ -1619,11 +1625,11 @@ msgstr "פתיחה"
 
 #: jamovi/client/main/main.ts:266
 msgid "Open application menu"
-msgstr ""
+msgstr "פתיחת תפריט היישומונים"
 
 #: jamovi/client/main/main.ts:234
 msgid "Open data file"
-msgstr ""
+msgstr "פתיחת קובץ נתונים"
 
 #: jamovi/client/main/backstage.ts:118
 msgid "Open Document (LibreOffice) {ext}"
@@ -1631,11 +1637,11 @@ msgstr "OpenDocument (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "פתיחת ספריית המודולים של jamovi"
 
 #: jamovi/client/main/main.ts:253
 msgid "Open the main menu"
-msgstr ""
+msgstr "פתיחת התפריט הראשי"
 
 #: jamovi/client/main/backstage.ts:903
 #: jamovi/client/main/instance.ts:336
