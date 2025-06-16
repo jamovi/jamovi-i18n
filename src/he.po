@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-16 15:04+0000\n"
+"PO-Revision-Date: 2025-06-16 16:01+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -1687,7 +1687,7 @@ msgstr "פסקה"
 msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
-msgstr ""
+msgstr "פירוק תאריך והמרתו למספר הימים מאז 1 בינואר, 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1733,7 +1733,7 @@ msgstr "העדפות"
 
 #: jamovi/client/resultsview/annotation.js:79
 msgid "Press enter to edit"
-msgstr ""
+msgstr "לחיצה על Enter לעריכה"
 
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
@@ -1807,11 +1807,11 @@ msgstr "הסרה"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "הסרת {1} מ־{0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "הסרת הפריטים {1} מתוך {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:501
 msgid "Remove filter"
@@ -1819,15 +1819,15 @@ msgstr "הסרת המסנן"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "הסרת פריטים מתוך {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "הסרת המודול {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
-msgstr ""
+msgstr "הסרת סננים מקוננים"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
@@ -2005,8 +2005,10 @@ msgstr "מעגלת כל ערך למספר השלם הקטן הקרוב ביות�
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "שורה {index} נמחקה."
+msgstr[1] "{n} שורות נמחקו."
+msgstr[2] "{n} שורות נמחקו."
+msgstr[3] "{n} שורות נמחקו."
 
 #: jamovi/client/main/tableview.js:100
 msgid "Row count"
@@ -2059,7 +2061,7 @@ msgstr "השמירה נכשלה"
 
 #: jamovi/client/main/main.ts:233
 msgid "Save project"
-msgstr ""
+msgstr "שמירת הפרויקט"
 
 #: jamovi/client/main/instance.ts:419
 msgid "Saved to '{filename}'"
@@ -2081,7 +2083,7 @@ msgstr "חיפוש"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search available modules"
-msgstr ""
+msgstr "חיפוש מודולים זמינים"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
@@ -2089,15 +2091,15 @@ msgstr "חיפוש קבצים"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "חיפוש קובץ בתיקיית הקבצים {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search installed modules"
-msgstr ""
+msgstr "חיפוש מודול מותקן"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
 msgid "Search list items"
-msgstr ""
+msgstr "חיפוש פריטי רשימה"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2149,7 +2151,7 @@ msgstr "הצגה בתפריט הראשי"
 
 #: jamovi/client/main/store/pagemodules.js:265
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "הצגת המודול {moduleName} ברצועת הניתוחים"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
