@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-18 11:06+0000\n"
+"PO-Revision-Date: 2025-06-20 03:01+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ru/>\n"
@@ -596,7 +596,7 @@ msgstr "Вырезать"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr "Темная2"
+msgstr "Темная 2"
 
 #: jamovi/client/main/dataset.js:1313 jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
@@ -2081,7 +2081,7 @@ msgstr "последовательный"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr "Набор1"
+msgstr "Набор 1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
