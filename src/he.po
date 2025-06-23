@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-16 17:01+0000\n"
+"PO-Revision-Date: 2025-06-23 06:07+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -90,7 +90,7 @@ msgstr "{r} הוא לא מספר שלם"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} הערה ראשונית"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
@@ -391,7 +391,7 @@ msgstr "אי אפשר לשייך לעמודות אלה."
 
 #: jamovi/client/main/tableview.js:96
 msgid "Cells edited"
-msgstr "תאים שנערכו "
+msgstr "תאים שנערכו"
 
 #: jamovi/client/main/ribbon/annotationtab.js:145
 msgid "Center Align"
@@ -1972,19 +1972,21 @@ msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
 msgstr ""
+"מחזירה את הניתוח האחרון שנבחר ופותחת את סרגל האפשרויות תוך התמקדות בסרגל "
+"האפשרויות."
 
 #: jamovi/client/main/main.ts:302
 msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
-msgstr ""
+msgstr "מחזירה את הניתוח האחרון שנבחר ומזיזה את ההתמקדות לתוך פלט התוצאות."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
-msgstr ""
+msgstr "מחזירה את הניתוח האחרון שנבחר ומזיזה את ההתמקדות לפלט התוצאות."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Right Align"
@@ -2256,7 +2258,7 @@ msgstr "טבלה"
 msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
-msgstr ""
+msgstr "לוקחת מספר המייצג את מספר הימים מאז 1 בינואר 1970 ומפיקה תאריך בתבנית."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
