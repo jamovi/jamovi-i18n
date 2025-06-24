@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-23 06:07+0000\n"
+"PO-Revision-Date: 2025-06-24 22:05+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -1876,7 +1876,7 @@ msgstr "מחזירה את הפונקצייה המעריכית בבסיס ℯ ש�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "מחזירה את הערך הגדול ביותר בסט מספרים."
+msgstr "מחזירה את הערך הגדול ביותר במערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the largest value of a variable."
@@ -1884,7 +1884,7 @@ msgstr "מחזירה את הערך הגדול ביותר של משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr "מחזירה את הממוצע של סט מספרים."
+msgstr "מחזירה את הממוצע של מערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
@@ -1905,7 +1905,7 @@ msgstr "מחזירה את הלוגריתם הטבעי של מספר."
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr "מחזירה את הערכים המנורמלים (z) של סט מספרים."
+msgstr "מחזירה את הערכים המנורמלים (z) של מערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the number of cases in a variable."
@@ -1933,7 +1933,7 @@ msgstr "מחזירה את מספר השורות."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
 msgid "Returns the smallest value of a set of numbers."
-msgstr "מחזירה את הערך הקטן ביותר בסט מספרים."
+msgstr "מחזירה את הערך הקטן ביותר במערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the smallest value of a variable."
@@ -1945,7 +1945,7 @@ msgstr "מחזירה את השורש הריבועי של מספר."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
-msgstr "מחזירה את סטיית התקן של סט מספרים."
+msgstr "מחזירה את סטיית התקן של מערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the standard deviation of a variable."
@@ -1957,11 +1957,11 @@ msgstr "מחזירה את טעות התקן של ממוצע משתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
-msgstr "מחזירה את הסכום של סט מספרים."
+msgstr "מחזירה את הסכום של מערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "Returns the variance of a set of numbers."
-msgstr "מחזירה את השונות של סט מספרים."
+msgstr "מחזירה את השונות של מערך מספרים."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "Returns the variance of a variable."
