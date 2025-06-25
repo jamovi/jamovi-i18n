@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-25 02:01+0000\n"
+"PO-Revision-Date: 2025-06-25 03:01+0000\n"
 "Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pl/>\n"
@@ -1548,7 +1548,7 @@ msgstr "Nominalna"
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
 msgid "None"
-msgstr "Brak"
+msgstr "Żadne"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
