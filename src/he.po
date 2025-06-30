@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-24 22:05+0000\n"
+"PO-Revision-Date: 2025-06-30 09:01+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -933,7 +933,7 @@ msgstr "קובץ"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
 msgid "File format is not supported"
-msgstr "אין תמיכה בתבנית קובץ זו"
+msgstr "אין תמיכה בסוג קובץ זה"
 
 #: jamovi/client/main/instance.ts:150
 msgid "File imported"
@@ -1565,7 +1565,7 @@ msgstr "הערה"
 
 #: jamovi/client/main/ribbon/appmenu.js:75
 msgid "Number format"
-msgstr "פורמט המספר"
+msgstr "תבנית המספר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Offsets the values up or down."
@@ -1677,7 +1677,7 @@ msgstr[3] "({n}) משתני פלט"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "p-value format"
-msgstr "פורמט ערך p"
+msgstr "תבנית הערך p"
 
 #: jamovi/client/main/ribbon/annotationtab.js:141
 msgid "Paragraph"
