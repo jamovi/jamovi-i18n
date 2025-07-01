@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-07-01 12:01+0000\n"
+"PO-Revision-Date: 2025-07-01 13:08+0000\n"
 "Last-Translator: André Pessina <andre.pessina@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
@@ -1771,7 +1771,7 @@ msgstr "Remover {1} de {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "Remover {1} itens de {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1779,11 +1779,11 @@ msgstr "Remover filtro"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "Remover itens de {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "Remover módulo {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
@@ -1964,8 +1964,8 @@ msgstr "Arredondar cada valor para o inteiro abaixo"
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "linha {index} excluída."
+msgstr[1] "{n} linhas excluídas."
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -2011,7 +2011,7 @@ msgstr "Gravação falhou"
 
 #: jamovi/client/main/main.ts:233
 msgid "Save project"
-msgstr ""
+msgstr "Salvar projeto"
 
 #: jamovi/client/main/instance.js:404
 msgid "Saved to '{filename}'"
@@ -2032,7 +2032,7 @@ msgstr "Pesquisar"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search available modules"
-msgstr ""
+msgstr "Procurar módulos disponíveis"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
@@ -2044,7 +2044,7 @@ msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search installed modules"
-msgstr ""
+msgstr "Procurar módulos instalados"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
 msgid "Search list items"
@@ -2099,7 +2099,7 @@ msgstr "Mostrar no menu principal"
 
 #: jamovi/client/main/store/pagemodules.js:265
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "Exibir módulo {moduleName} na guia Análises"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
@@ -2266,11 +2266,11 @@ msgstr "O índice do valor nos valores fornecidos."
 
 #: jamovi/client/resultsview/table.js:754
 msgid "The interaction of {0} and {1}"
-msgstr ""
+msgstr "A interação entre {0} e {1}"
 
 #: jamovi/client/analysisui/formatdef.js:272
 msgid "The interaction of {list}"
-msgstr ""
+msgstr "A interação entre {list}"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
