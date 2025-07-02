@@ -1770,7 +1770,7 @@ msgstr "从 {0} 中删除项目"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
-msgstr "删除模块 {moduleName}"
+msgstr "移除模块 {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
@@ -1914,20 +1914,20 @@ msgstr "返回变量的方差。"
 msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
-msgstr ""
+msgstr "返回到之前选择的分析并打开选项面板，焦点设置在选项面板中。"
 
 #: jamovi/client/main/main.ts:302
 msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
-msgstr ""
+msgstr "返回到先前选择的分析并将焦点转移到结果输出。"
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
-msgstr ""
+msgstr "返回到先前选择的分析并将焦点转移到结果输出。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -1948,8 +1948,8 @@ msgstr "将每个值向下取整"
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "已删除行 {index}"
+msgstr[1] "已删除 {n} 行"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
