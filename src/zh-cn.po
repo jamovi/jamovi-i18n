@@ -1563,14 +1563,14 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] "追加了一行"
-msgstr[1] "追加了 {n} 行"
+msgstr[0] "追加了一行。"
+msgstr[1] "追加了 {n} 行。"
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "插入了一行。"
+msgstr[1] "追加了{n} 行。"
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
@@ -1582,11 +1582,11 @@ msgstr "打开"
 
 #: jamovi/client/main/main.ts:266
 msgid "Open application menu"
-msgstr ""
+msgstr "打开应用程序菜单"
 
 #: jamovi/client/main/main.ts:234
 msgid "Open data file"
-msgstr ""
+msgstr "打开数据文件"
 
 #: jamovi/client/main/backstage.js:977
 msgid "Open Document (LibreOffice) {ext}"
@@ -1594,11 +1594,11 @@ msgstr "打开文档 (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "打开 jamovi 模块库"
 
 #: jamovi/client/main/main.ts:253
 msgid "Open the main menu"
-msgstr ""
+msgstr "打开主菜单"
 
 #: jamovi/client/main/backstage.js:1704 jamovi/client/main/instance.js:236
 #: jamovi/client/main/main.js:656
@@ -1641,7 +1641,7 @@ msgstr "段落"
 msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
-msgstr ""
+msgstr "解析日期格式，并将其转换为自 1970 年 1 月 1 日以来的天数。"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1686,7 +1686,7 @@ msgstr "首选项"
 
 #: jamovi/client/resultsview/annotation.js:79
 msgid "Press enter to edit"
-msgstr ""
+msgstr "按 Enter 键进行编辑"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1754,11 +1754,11 @@ msgstr "移除"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "从 {0} 中删除 {1}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "从 {0} 中删除 {1} 个项目"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1766,15 +1766,15 @@ msgstr "移除筛选器"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "从 {0} 中删除项目"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "删除模块 {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
-msgstr ""
+msgstr "移除嵌套过滤器"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
