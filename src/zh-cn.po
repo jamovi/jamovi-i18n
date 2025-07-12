@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2025-07-02 03:16+0000\n"
-"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"PO-Revision-Date: 2025-07-12 07:01+0000\n"
+"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
@@ -391,7 +391,7 @@ msgstr "无法分配给这些列。"
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "已编辑的单元格 "
+msgstr "已编辑的单元格"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
