@@ -2,16 +2,16 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2024-11-17 05:06+0000\n"
-"Last-Translator: Diego Huamantica Vilches <diegohv_25@hotmail.com>\n"
-"Language-Team: Spanish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/es/>\n"
+"PO-Revision-Date: 2025-07-12 16:01+0000\n"
+"Last-Translator: Luis Mendoza <lmendozatr17@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.9-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -50,7 +50,7 @@ msgstr "Las columnas {columnType} no se pueden editar."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} y {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
