@@ -1277,7 +1277,7 @@ msgstr "Установлення модулів недоступне у вашо
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Integer"
-msgstr "Ціла кількість"
+msgstr "Ціла число"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1019
 msgid "Interaction"
@@ -1289,7 +1289,7 @@ msgstr "Взаємодії"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "Inverts the value."
-msgstr "Инвертирует значення."
+msgstr "Інвертує значення."
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
@@ -1308,7 +1308,7 @@ msgstr "Файл Jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:974
 msgid "jamovi files {ext}"
-msgstr "Файлы Jamovi {ext}"
+msgstr "Файли Jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid ""
@@ -1343,11 +1343,11 @@ msgstr "Шаблон Jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:975
 msgid "jamovi templates {ext}"
-msgstr "Шаблоны Jamovi {ext}"
+msgstr "Шаблони Jamovi {ext}"
 
 #: jamovi/client/main/backstage.js:983
 msgid "JASP files {ext}"
-msgstr "Файлы JASP {ext}"
+msgstr "Файли JASP {ext}"
 
 #: jamovi/client/main/backstage.js:1092
 msgid "JSON files {ext}"
@@ -1355,11 +1355,11 @@ msgstr "Файли JSON {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
 msgid "Justify"
-msgstr "Выровнять"
+msgstr "Вирівняти"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:237
 msgid "Keyword: {v}"
-msgstr "Ключове слово: {v}"
+msgstr "Ключові слова: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
 msgid "Language"
@@ -1373,7 +1373,7 @@ msgstr "Комплект LaTeX {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
-msgstr "Выровнять по левому краєві"
+msgstr "Вирівняти по лівому краєві"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
@@ -1405,7 +1405,7 @@ msgstr "Помилка бібліотеки"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
-msgstr "Заслання"
+msgstr "Посилання"
 
 #: jamovi/client/main/progressbar.js:24
 msgid "Loading"
@@ -1417,7 +1417,7 @@ msgstr "Логічні"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
-msgstr "Основные ефекти"
+msgstr "Основні ефекти"
 
 #: jamovi/client/main/ribbon/analysetab.js:79
 msgid "Manage installed"
@@ -1425,7 +1425,7 @@ msgstr "Управління установленным"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:48
 msgid "Math"
-msgstr "Математические"
+msgstr "Математичні"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
