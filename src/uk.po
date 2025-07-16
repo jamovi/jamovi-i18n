@@ -2195,7 +2195,7 @@ msgstr "Файли SPSS {ext}"
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
-msgstr "збереженняSPSS {ext}"
+msgstr "збереження SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
