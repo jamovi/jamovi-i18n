@@ -2017,7 +2017,7 @@ msgstr "Кількість рядків"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr "Фільтри терміну"
+msgstr "Фільтри рядків"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
@@ -2056,7 +2056,7 @@ msgstr "Зберегти изменения у '{title}'?"
 
 #: jamovi/client/main/instance.js:438
 msgid "Save failed"
-msgstr "Не удалось зберегти"
+msgstr "Збереження не вдалося"
 
 #: jamovi/client/main/main.ts:233
 msgid "Save project"
@@ -2072,7 +2072,7 @@ msgstr "Збереження"
 
 #: jamovi/client/main/notification.js:77
 msgid "Scheduled maintenance"
-msgstr "Планове технічне обслуговування"
+msgstr "Плани технічне обслуговування"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
@@ -2101,7 +2101,7 @@ msgstr "Пошук елементів списку"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr "Переменные пошуку"
+msgstr "Пошук змінних"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
@@ -2114,7 +2114,7 @@ msgstr "Вибране"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr "последовательный"
+msgstr "послідовний"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
@@ -2166,23 +2166,23 @@ msgstr "значити цифри"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
-msgstr "Симуляция"
+msgstr "Симуляція"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
-msgstr "Исходная переменная"
+msgstr "Початкова змінна"
 
 #: jamovi/client/main/backstage.js:1277
 msgid "Special Import"
-msgstr "Специальный імпорт"
+msgstr "Спеціальний імпорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
 "Splits text into pieces based on a separator. _piece_ specifies the desired "
 "piece by index."
 msgstr ""
-"Разбивает текст на частини на основі разделителя. _piece_ вказує бажати "
-"частину по індексу."
+"Розбиває текст на частини на основі роздільника. _piece_ вказує потрібну "
+"частину за індексом."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2190,12 +2190,12 @@ msgstr "Електронна таблиця"
 
 #: jamovi/client/main/backstage.js:979
 msgid "SPSS files {ext}"
-msgstr "Файлы SPSS {ext}"
+msgstr "Файли SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
-msgstr "Сховище SPSS {ext}"
+msgstr "SPSS збереження {ext}"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
