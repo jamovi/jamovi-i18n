@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-16 08:01+0000\n"
+"PO-Revision-Date: 2025-07-16 09:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -2452,23 +2452,23 @@ msgstr "Забагато даних, використайте імпорт"
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr "Трансформ"
+msgstr "Перетворити"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr "Трансформ{}"
+msgstr "Перетворити {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "Преобразовать: {name}"
+msgstr "Перетворити: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "Преобразовать: Нi"
+msgstr "Перетворити: Нi"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr "Преобразовать..."
+msgstr "Перетворити..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
@@ -2481,9 +2481,9 @@ msgstr "Преобразовано"
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] "Перетворення переменной"
-msgstr[1] "Перетворення декількох переменных ({n})"
-msgstr[2] "Перетворення декількох переменных ({n})"
+msgstr[0] "Перетворення змінної"
+msgstr[1] "Перетворення декількох змінних ({n})"
+msgstr[2] "Перетворення декількох змінних ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
@@ -2491,11 +2491,11 @@ msgstr "Спробувати знову"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
-msgstr "Не удается отримати доступ к аналізу"
+msgstr "Немає доступу до аналізу"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access library"
-msgstr "Не удается отримати доступ к бібліотеці"
+msgstr "Немає доступу до бібліотеки"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
@@ -2507,11 +2507,11 @@ msgstr "Неможливо переглянути {}"
 
 #: jamovi/client/main/main.js:753
 msgid "Unable to connect to the server"
-msgstr "Не удается подключиться к серверу"
+msgstr "Не вдається підключитися до сервера"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
-msgstr "Не удалось імпортувати {}"
+msgstr "Не вдалося імпортувати {}"
 
 #: jamovi/client/main/store/pagemodules.js:376
 msgid "Unable to install {module}"
@@ -2521,7 +2521,7 @@ msgstr "Не вдалося встановити {module}"
 #: jamovi/client/main/store/pagesideload.js:54
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to install module"
-msgstr "Не удалось установить модуль"
+msgstr "Не вдалося встановити модуль"
 
 #: jamovi/client/main/backstage.js:1743
 #: jamovi/client/main/instance.js:207
@@ -2534,11 +2534,11 @@ msgstr "Неможливо відкрити"
 
 #: jamovi/client/main/viewcontroller.js:356
 msgid "Unable to paste"
-msgstr "Не удалось вставить"
+msgstr "Не вдалося вставити"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform import"
-msgstr "Не удается виконати імпорт"
+msgstr "Не вдається виконати імпорт"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
