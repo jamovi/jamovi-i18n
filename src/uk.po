@@ -2736,7 +2736,7 @@ msgstr "Ваш веб-браузер не дозволив jamovi відкрит
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr "Збільшити"
+msgstr "Масштаб"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
