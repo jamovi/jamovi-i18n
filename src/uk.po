@@ -1994,15 +1994,15 @@ msgstr "Вирівнювання по правому краю"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
-msgstr "Округлює кожнезначення"
+msgstr "Округлює кожне значення"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr "Округляет кожнезначення до целого вгору"
+msgstr "Округлює кожне значення до цілого числа, зазначеного вище"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr "Округляет кожнезначення до целого вниз"
+msgstr "Округлює кожне значення до цілого числа, наведеного нижче"
 
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
@@ -2013,16 +2013,16 @@ msgstr[2] "Видалено рядків: {n}."
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
-msgstr "Строк"
+msgstr "Кількість рядків"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr "Фільтри строк"
+msgstr "Фільтри терміну"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
 msgid "Rows"
-msgstr "Строки"
+msgstr "Рядки"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
@@ -2031,7 +2031,7 @@ msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "SAS files {ext}"
-msgstr "Файлы SAS {ext}"
+msgstr "Файли SAS {ext}"
 
 #: jamovi/client/main/backstage.js:1036
 #: jamovi/client/main/backstage.js:1059
