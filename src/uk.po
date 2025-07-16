@@ -2452,11 +2452,11 @@ msgstr "Забагато даних, використайте імпорт"
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr "Трансформувати"
+msgstr "Трансформ"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr "Преобразовать {}"
+msgstr "Трансформ{}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
