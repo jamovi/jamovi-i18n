@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-16 09:01+0000\n"
+"PO-Revision-Date: 2025-07-16 10:09+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -2558,7 +2558,7 @@ msgstr "Не удалось зберегти {}"
 
 #: jamovi/client/main/store/pagemodules.js:224
 msgid "Unable to uninstall module"
-msgstr "Не можу удалить модуль"
+msgstr "Не вдалося видалити модуль"
 
 #: jamovi/client/main/store/pagemodules.js:124
 msgid "Unavailable"
@@ -2578,11 +2578,11 @@ msgstr "Скасувати изменения"
 #: jamovi/client/main/instance.js:256
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Unexpected error"
-msgstr "Непредвиденная помилка"
+msgstr "Неочікувана помилка"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
-msgstr "Неизвестный формат файла"
+msgstr "Нерозпізнаний формат файлу"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
@@ -2601,7 +2601,7 @@ msgstr "Помилка відвантаження"
 
 #: jamovi/client/main/instance.js:165
 msgid "Uploading"
-msgstr "Загружается"
+msgstr "Завантажується"
 
 #: jamovi/client/main/editors/transformeditor.js:389
 msgid "use"
@@ -2617,7 +2617,7 @@ msgstr "використовуючи перетворення"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr "Значення занадто велике для шпальти '{}' целочисленного типа"
+msgstr "Значення занадто велике для стовпця '{}' цілочисельного типу"
 
 #: jamovi/client/analysisui/formatdef.js:107
 msgid "Variable {0}"
@@ -2637,11 +2637,11 @@ msgstr "Налаштування змінених"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr "Суффикс переменной"
+msgstr "Змінний суфікс"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
 msgid "Variable: {v}"
-msgstr "Переменная: {v}"
+msgstr "Змінна: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2702,11 +2702,11 @@ msgstr "Нащо потрібний цей додатковий крок?"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr "Ви не можете удалять строки, поки отфильтрованные строки приховані"
+msgstr "Не можна видаляти рядки, поки відфільтровані рядки приховані"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr "Ви не можете вставлять строки, поки отфильтрованные строки приховані"
+msgstr "Не можна вставляти рядки, якщо відфільтровані рядки приховані"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
@@ -2728,7 +2728,7 @@ msgstr "У вас немає відповідних дозволів (403)"
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr "Зв'язок потеряна. Пожалуйста, оновите сторінку, щоб продовжити."
+msgstr "Ваше з’єднання втрачено. Будь ласка, оновіть сторінку, щоб продовжити."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
@@ -2736,7 +2736,7 @@ msgstr "Ваш веб-браузер не дозволив jamovi відкрит
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
-msgstr "Масштаб"
+msgstr "Збільшити"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
