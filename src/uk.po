@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-14 21:02+0000\n"
+"PO-Revision-Date: 2025-07-16 06:01+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
 "Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/uk/>\n"
@@ -1434,7 +1434,7 @@ msgstr "Вимір"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr "Минимальный"
+msgstr "Мінімальний"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "Misc"
@@ -1458,11 +1458,11 @@ msgstr "Модуль установлен"
 
 #: jamovi/client/main/store/pagesideload.js:44
 msgid "Module installed successfully"
-msgstr "Модуль успішно установлен"
+msgstr "Модуль успішно встановлений"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
-msgstr "Модуль удален"
+msgstr "Модуль видалено"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
 msgid "Modules"
@@ -1497,15 +1497,15 @@ msgstr "Новий стовпець {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "Нова вычисляемая переменная"
+msgstr "Нова змінна, що обчислюється"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
-msgstr "Нова переменная даних"
+msgstr "Нова змінна даних"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr "Нове перетворення переменной"
+msgstr "Нова трансформована змінна"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
@@ -1518,7 +1518,7 @@ msgstr "Нi квіту"
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:210
 msgid "No information about this function is available"
-msgstr "Інформація о ційфункції отсутствует"
+msgstr "Інформація про цю функцію недоступна"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
@@ -1526,7 +1526,7 @@ msgstr "Немає підключення до Інтернету"
 
 #: jamovi/client/main/backstage.js:567
 msgid "No recognised data files were found."
-msgstr "Распознаваемые файлы даних не знайдені."
+msgstr "No recognised data files were found."
 
 #: jamovi/client/main/variablesview.js:357
 msgid "No variables match your query."
