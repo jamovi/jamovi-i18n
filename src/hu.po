@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:37+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Hungarian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/hu/>\n"
+"PO-Revision-Date: 2025-07-21 19:02+0000\n"
+"Last-Translator: mitle <mitnyik.levente@gmail.com>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 #, fuzzy
@@ -60,7 +60,7 @@ msgstr "{m} eltávolítása sikeres volt"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} sikeresen telepítve"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -96,19 +96,19 @@ msgstr ""
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} a következő listához adva: {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} elemei a következő listához adva: {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} elemei eltávolítva a következő listából: {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} eltávolítva a következő listából: {list} ."
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
@@ -173,11 +173,11 @@ msgstr "Új szint hozzáadása"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Új sorok hozzáadása"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Új változó hozzáadása"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -217,7 +217,7 @@ msgstr "Váratlan hiba történt, a jamovinak most be kell zárnia."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Váratlan hiba történt"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -227,6 +227,8 @@ msgstr "Elemzések"
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
 msgstr ""
+"Tetszőleges kódot futtató elemzések nem engedélyezettek ebben a "
+"munkamenetben."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -235,7 +237,7 @@ msgstr "Elemzések"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Elemzés címe - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
