@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-02 08:01+0000\n"
+"PO-Revision-Date: 2025-07-22 18:05+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/he/>\n"
@@ -2371,7 +2371,7 @@ msgstr "הטרנספורמציה שנבחרה מכילה שגיאה ויש לע�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 msgid "The value in the provided values at index."
-msgstr "ערכם של הערכים הנמצאים באינדקס."
+msgstr "ערכם של הערכים הנתונים הנמצאים במיקום."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
