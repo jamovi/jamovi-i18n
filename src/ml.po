@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-26 13:04+0000\n"
+"PO-Revision-Date: 2025-07-26 18:13+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' തെറ്റാണ്"
+msgstr "'{}' എറർ ആണ്"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -396,7 +396,7 @@ msgstr "കളങ്ങൾ എഡിറ്റ് ചെയ്തു. "
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "സെന്റർ അലൈൻ ചെയ്യുക"
+msgstr "മധ്യ അലൈൻമെൻ്റ്"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -483,7 +483,7 @@ msgstr "അൺഇൻസ്റ്റാൾ ഉറപ്പിക്കുക"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
-msgstr "കണക്ഷൻ നടന്നില്ല"
+msgstr "കണക്ഷൻ കിട്ടിയില്ല"
 
 #: jamovi/client/main/main.js:134
 #: jamovi/client/main/main.js:141
@@ -2310,7 +2310,7 @@ msgstr ""
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "നിങ്ങളുടെ സെഷനിൽ ജമോവി ലൈബ്രറി ലഭ്യമല്ല."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
@@ -2326,27 +2326,27 @@ msgstr "ലൈബ്രറി പ്രവർത്തനരഹിതമാണ�
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "ഈ വിശകലനത്തിനുള്ള മൊഡ്യൂൾ ഇൻസ്റ്റാൾ ചെയ്തിട്ടില്ല, അല്ലെങ്കിൽ ലഭ്യമല്ല."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "റിമോട്ട് സെർവർ ലഭ്യമല്ല."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "റിമോട്ട് സെർവർ ഈ അഭ്യർത്ഥന നിരസിച്ചു"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "റിമോട്ട് സെർവർ എറർ റിപ്പോർട്ട് ചെയ്തു"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server sent an unexpected response"
-msgstr ""
+msgstr "റിമോട്ട് സെർവറിൽ നിന്ന് അപ്രതീക്ഷിത പ്രതികരണം"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr ""
+msgstr "ഉറവിടം നിലവിലില്ല, അല്ലെങ്കിൽ മാറ്റപ്പെട്ടിരിക്കുന്നു (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -2358,15 +2358,15 @@ msgstr "നൽകിയിട്ടുള്ള മൂല്യങ്ങളി�
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "ഈ വിശകലനം സമയ പരിധി കവിഞ്ഞതിനാൽ അവസാനിപ്പിച്ചു."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "ഈ വിശകലനം അവസാനിപ്പിച്ചു, ഒരുപക്ഷേ റിസോഴ്‌സ് പരിധി എത്തിയതിനാലാകാം."
 
 #: jamovi/client/main/main.ts:912
 msgid "This data set could not be opened"
-msgstr ""
+msgstr "ഈ ഡേറ്റാ സെറ്റ് തുറക്കാൻ കഴിഞ്ഞില്ല"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2417,15 +2417,15 @@ msgstr "ഈ ട്രാൻസ്‌ഫോമിൽ തെറ്റുണ്ട�
 
 #: jamovi/client/main/tableview.js:105
 msgid "Toggle filters visibility"
-msgstr ""
+msgstr "ഫിൽട്ടറുകളുടെ ദൃശ്യത മാറ്റുക"
 
 #: jamovi/client/main/ribbon.js:199
 msgid "Toggle screen state"
-msgstr ""
+msgstr "സ്ക്രീൻ നില മാറ്റുക"
 
 #: jamovi/client/main/main.ts:256
 msgid "Toggle variable setup"
-msgstr ""
+msgstr "വേരിയബിൾ സജ്ജീകരണം മാറ്റുക"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2469,7 +2469,7 @@ msgstr[1] "ട്രാൻസ്‌ഫോം ചെയ്ത വേരിയബ�
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
-msgstr ""
+msgstr "വീണ്ടും ശ്രമിക്കുക"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to access analysis"
@@ -2481,7 +2481,7 @@ msgstr "ലൈബ്രറി ആക്സസ് ചെയ്യാനായി�
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "ഇന്റർനെറ്റ് ആക്‌സസ് ഇല്ല (ഒരുപക്ഷേ ഒരു ക്യാപ്‌റ്റീവ് പോർട്ടൽ കാരണം)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2497,7 +2497,7 @@ msgstr "{} ഇംപോർട്ട് ചെയ്യാൻ പറ്റിയ�
 
 #: jamovi/client/main/store/pagemodules.js:376
 msgid "Unable to install {module}"
-msgstr ""
+msgstr "{module} ഇൻസ്റ്റാൾ ചെയ്യാൻ കഴിയുന്നില്ല"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2528,7 +2528,7 @@ msgstr "ആവശ്യം നിർവഹിക്കാൻ പറ്റിയ�
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "ലൈബ്രറി കിട്ടുന്നില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to save"
@@ -2574,7 +2574,7 @@ msgstr "അപ്ഡേറ്റ്"
 
 #: jamovi/client/main/store/pagemodules.js:253
 msgid "Update module {moduleName} to version {version}"
-msgstr ""
+msgstr "{moduleName} മൊഡ്യൂൾ {version} പതിപ്പിലേക്ക് അപ്ഡേറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
@@ -2605,19 +2605,19 @@ msgstr "പൂർണ്ണസംഖ്യ വേണ്ട '{}' നിരയ്�
 
 #: jamovi/client/analysisui/formatdef.js:107
 msgid "Variable {0}"
-msgstr ""
+msgstr "വേരിയബിൾ {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
 msgid "Variable Description"
-msgstr ""
+msgstr "വേരിയബിൾ വിവരണം"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 msgid "Variable Name"
-msgstr ""
+msgstr "വേരിയബിളിന്റെ പേര്"
 
 #: jamovi/client/main/ribbon/datatab.js:38
 msgid "Variable setup"
-msgstr ""
+msgstr "വേരിയബിൾ സെറ്റപ്പ്"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
@@ -2637,15 +2637,15 @@ msgstr "വേരിയബിളുകൾ"
 
 #: jamovi/client/analysisui/formatdef.js:117
 msgid "Variables {list}"
-msgstr ""
+msgstr "വേരിയബിളുകൾ {list}"
 
 #: jamovi/client/main/variablesview.js:41
 msgid "Variables List View"
-msgstr ""
+msgstr "വേരിയബിളുകളുടെ പട്ടിക വ്യൂ"
 
 #: jamovi/client/main/variablesview.js:111
 msgid "Variables View"
-msgstr ""
+msgstr "വേരിയബിളുകളുടെ വ്യൂ"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
@@ -2666,7 +2666,7 @@ msgstr "വെബ് പേജ് {ext}"
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Weights"
-msgstr ""
+msgstr "വെയ്റ്റുകൾ"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
 msgid "when"
@@ -2708,7 +2708,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"
-msgstr ""
+msgstr "നിങ്ങൾക്ക് ശരിയായ അനുമതികളില്ല (403)"
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
@@ -2716,7 +2716,7 @@ msgstr "നിങ്ങളുടെ കണക്ഷൻ പോയി. തുട�
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "നിങ്ങളുടെ ബ്രൗസർ ജമോവിയെ പുതിയ ടാബ് തുറക്കാൻ സമ്മതിച്ചില്ല"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
@@ -2724,8 +2724,8 @@ msgstr "സൂം"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
 msgid "Zoom in"
-msgstr ""
+msgstr "സൂം ഇൻ"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 msgid "Zoom out"
-msgstr ""
+msgstr "സൂം ഔട്ട്"
