@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-26 12:05+0000\n"
+"PO-Revision-Date: 2025-07-26 13:04+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -2135,11 +2135,11 @@ msgstr "മെയിൻ മെനുവിൽ കാണിക്കുക"
 
 #: jamovi/client/main/store/pagemodules.js:265
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "Analyses റിബണിൽ {moduleName} മൊഡ്യൂൾ കാണിക്കുക"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "മൊഡ്യൂൾ side-loading ലഭ്യമല്ല."
 
 #: jamovi/client/main/store.js:37
 msgid "Sideload"
@@ -2172,7 +2172,7 @@ msgstr ""
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr ""
+msgstr "സ്പ്രെഡ്ഷീറ്റ്"
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
@@ -2230,7 +2230,7 @@ msgstr "സിസ്റ്റം ഡിഫോൾട്ട്"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
 msgid "T-Tests"
-msgstr ""
+msgstr "ടി-ടെസ്റ്റുകൾ"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
@@ -2241,6 +2241,7 @@ msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
 msgstr ""
+"1970 ജനുവരി 1 മുതലുള്ള ദിവസങ്ങളുടെ സംഖ്യ എടുത്ത് അതിനെ ഫോർമാറ്റ് ചെയ്ത് തീയതിയാക്കി മാറ്റുന്നു."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
