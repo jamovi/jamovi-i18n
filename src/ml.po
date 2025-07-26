@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-26 11:03+0000\n"
+"PO-Revision-Date: 2025-07-26 12:05+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -145,7 +145,7 @@ msgstr "ചേർക്കുക"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "{0} ലേക്ക് {1} ഐറ്റം ചേർത്തു"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -154,11 +154,11 @@ msgstr "മറ്റൊരു നെസ്റ്റഡ് ഫിൽട്ടർ 
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "{0}ലേക്ക് {1} ഐറ്റം ചേർക്കുക"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "{0} ലേക്ക് ഐറ്റങ്ങൾ ചേർക്കുക"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -174,11 +174,11 @@ msgstr "പുതിയ ലെവൽ ചേർക്കുക"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "പുതിയ റോകൾ ചേർക്കുക"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "പുതിയ വേരിയബിൾ ചേർക്കുക"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -217,7 +217,7 @@ msgstr "ഒരു അപ്രതീക്ഷിത പിശക് സംഭവ
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "പ്രതീക്ഷിക്കാത്ത എറർ ഉണ്ടായി"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -235,7 +235,7 @@ msgstr "വിശകലനം"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "അനാലിസിസ് ഹെഡിംഗ്- {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -243,32 +243,32 @@ msgstr "ഒപ്പം"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "അനൊട്ടേഷൻ"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "{name} ഗ്രൂപ്പിനുള്ള അനൊട്ടേഷൻ"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "{name} ചിത്രത്തിൻ്റെ അനൊട്ടേഷൻ"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "{name} അനൊട്ടേഷൻ"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "{name} ലിസ്റ്റിന്റെ അനൊട്ടേഷൻ"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "{name} ടേബിൾ അനൊട്ടേഷൻ"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -331,7 +331,7 @@ msgstr "ലഭ്യമാണ്"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "ലഭ്യമായ ഐറ്റങ്ങൾ"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -364,7 +364,7 @@ msgstr "റദ്ദാക്കുക"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "'{}' കോളത്തിന് Integer അല്ലാത്ത മൂല്യം നൽകാനാവില്ല"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -421,11 +421,11 @@ msgstr "അടയ്ക്കുക"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "ജമോവി വിൻഡോ ക്ലോസ് ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Preferences ക്ലോസ് ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -443,8 +443,8 @@ msgstr "'{}' എന്ന നിര ഡാറ്റാസെറ്റിൽ ഇ�
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "{columnName} നിര ഡിലീറ്റ് ചെയ്തു"
+msgstr[1] "{n} നിരകൾ ഡിലീറ്റ് ചെയ്തു"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -577,7 +577,7 @@ msgstr "ഓപ്പറേഷൻ ചെയ്യാൻ കഴിഞ്ഞില�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "മിസ്സിങ്ങ് അല്ലാത്ത മൂല്യങ്ങളുടെ എണ്ണം എടുക്കുന്നു"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -639,11 +639,11 @@ msgstr[1] "ഡാറ്റ വേരിയബിളുകൾ"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "ഡേറ്റ വെയ്റ്റുകൾ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "തീയതി / സമയം"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -696,15 +696,15 @@ msgstr "വരികൾ ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "സെലക്ട് ചെയ്ത വരികൾ ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "തെരഞ്ഞെടുത്ത വേരിയബിളുകൾ ഡിലീറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "ട്രാൻസ്ഫോം ഡിലീറ്റ് ചെയ്യുക  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -796,7 +796,7 @@ msgstr "ഡ്യൂപ്ലിക്കേറ്റ്"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "ഡ്യൂപ്ലിക്കേറ്റ് ട്രാൻസ്ഫോം  - {transformName}"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -811,11 +811,11 @@ msgstr "എഡിറ്റ്"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "ഫിൽട്ടറുകൾ എഡിറ്റ് ചെയ്യുക"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "ട്രാൻസ്ഫോം എഡിറ്റ് ചെയ്യുക - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -941,7 +941,7 @@ msgstr "ഫയൽ കേടായിരിക്കുന്നു (manifest is 
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "File മെനു"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -953,7 +953,7 @@ msgstr "ഫയൽ സേവ് ചെയ്തു"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "File ടൈപ്പ്"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1005,15 +1005,15 @@ msgstr "ഫിൽട്ടറുകൾ ഔട്ട്പുട്ട് വേ�
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Spreadsheet ഫോക്കസ് ചെയ്യുക"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "വേരിയബിൾ സെറ്റപ്പ് ഫോക്കസ് ചെയ്യുക"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
-msgstr ""
+msgstr "വേരിയബിൾ ലിസ്റ്റ് ഫോക്കസ് ചെയ്യുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1111,7 +1111,7 @@ msgstr "മറയ്ക്കുക"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "അനാലിസിസ് ഓപ്ഷനുകൾ മറയ്ക്കുക"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
