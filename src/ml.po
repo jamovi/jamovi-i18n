@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-26 18:13+0000\n"
+"PO-Revision-Date: 2025-07-27 06:03+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -318,7 +318,7 @@ msgstr "Authentication വേണം"
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr "സ്വയം"
+msgstr "ഓട്ടോ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
