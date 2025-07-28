@@ -1,19 +1,19 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-17 10:01+0000\n"
-"Last-Translator: sayyed ali hashmy nezhad <0x7fe8@protonmail.com>\n"
-"Language-Team: Persian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/fa/>\n"
+"PO-Revision-Date: 2025-07-28 08:03+0000\n"
+"Last-Translator: Ramineezaei <ramrezaei3@gmail.com>\n"
+"Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr ""
+msgstr "خطا دارد'{}'"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -479,7 +479,7 @@ msgstr ""
 
 #: jamovi/client/main/main.js:889
 msgid "Connection failed"
-msgstr ""
+msgstr "اتصل ناموفق بود"
 
 #: jamovi/client/main/main.js:143
 #: jamovi/client/main/main.js:150
