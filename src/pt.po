@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
 "PO-Revision-Date: 2025-07-31 19:01+0000\n"
-"Last-Translator: Bernardo Gomes <bernardopgomes@hotmail.com>\n"
+"Last-Translator: André Pessina <andre.pessina@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
 "Language: pt\n"
@@ -1459,7 +1459,7 @@ msgstr "Volte um diretório"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr "Volte do diretório {0}"
+msgstr "Voltar do diretório {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
