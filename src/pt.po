@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-07-31 18:02+0000\n"
-"Last-Translator: Bernardo Gomes <bernardopgomes@hotmail.com>\n"
+"PO-Revision-Date: 2025-07-31 19:01+0000\n"
+"Last-Translator: André Pessina <andre.pessina@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
 "Language: pt\n"
@@ -1101,7 +1101,7 @@ msgstr "Esconder"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr "Esconda as opções de análise"
+msgstr "Opções de ocultar análises"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
