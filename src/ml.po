@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-31 13:02+0000\n"
+"PO-Revision-Date: 2025-07-31 17:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1397,7 +1397,7 @@ msgstr "ലെവലുകൾ"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "ലൈബ്രറി എറർ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1446,7 +1446,7 @@ msgstr "ഇല്ലാത്ത മൂല്യങ്ങൾ"
 
 #: jamovi/client/main/store/pagemodules.js:244
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "{moduleName} മൊഡ്യൂൾ ഇൻസ്റ്റാൾ ചെയ്തു"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
