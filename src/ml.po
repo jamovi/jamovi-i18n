@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-29 05:06+0000\n"
+"PO-Revision-Date: 2025-07-31 13:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -1131,7 +1131,7 @@ msgstr "ഓപ്ഷനുകൾ മറയ്ക്കുക"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Hide variable setup"
-msgstr ""
+msgstr "വേരിയബിൾ സെറ്റപ്പ് മറയ്ക്കുക"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1232,11 +1232,11 @@ msgstr "എത്ര വരികൾ ചേർക്കണം?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "പുതിയ കമ്പ്യൂട്ടഡ് വേരിയബിൾ ചേർക്കുക"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "ട്രാൻസ്ഫോം ചെയ്ത പുതിയ വേരിയബിൾ ചേർക്കുക"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
