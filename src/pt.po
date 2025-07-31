@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jmv_app\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-07-01 13:08+0000\n"
-"Last-Translator: André Pessina <andre.pessina@hotmail.com>\n"
+"PO-Revision-Date: 2025-07-31 18:02+0000\n"
+"Last-Translator: Bernardo Gomes <bernardopgomes@hotmail.com>\n"
 "Language-Team: Portuguese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/pt/>\n"
 "Language: pt\n"
@@ -997,8 +997,9 @@ msgid "Focus on spreadsheet"
 msgstr "Focar na planilha"
 
 #: jamovi/client/main/main.ts:262
+#, fuzzy
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "Foque na configuração das variáveis"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
@@ -1100,7 +1101,7 @@ msgstr "Esconder"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Esconda as opções de análise"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1120,7 +1121,7 @@ msgstr "Opções de ocultação"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Hide variable setup"
-msgstr ""
+msgstr "Oculte a configuração das variáveis"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1382,7 +1383,7 @@ msgstr "Níveis"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "Biblioteca de erros"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1455,11 +1456,11 @@ msgstr "Mais informação..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
 msgid "Move back directory"
-msgstr ""
+msgstr "Volte um diretório"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Volte do diretório {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1595,7 +1596,7 @@ msgstr "Abrir"
 
 #: jamovi/client/main/main.ts:266
 msgid "Open application menu"
-msgstr ""
+msgstr "Abrir menu"
 
 #: jamovi/client/main/main.ts:234
 msgid "Open data file"
@@ -1655,6 +1656,8 @@ msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
 msgstr ""
+"Analisa uma data e a converte para o número de dias desde 1º de janeiro de "
+"1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1787,7 +1790,7 @@ msgstr "Remover módulo {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
-msgstr ""
+msgstr "Remova o filtro aninhado"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
@@ -1931,12 +1934,16 @@ msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
 msgstr ""
+"Retorna à análise selecionada anteriormente e abre o painel de opções, com o "
+"foco definido no painel de opções."
 
 #: jamovi/client/main/main.ts:302
 msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
 msgstr ""
+"Retorna à análise selecionada anteriormente e move o foco para a exibição "
+"dos resultados."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
@@ -1944,6 +1951,8 @@ msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
 msgstr ""
+"Retorna à análise selecionada anteriormente e direciona o foco para a saída "
+"de resultados."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2040,7 +2049,7 @@ msgstr "Pesquisar ficheiros"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "Pesquisar arquivo no diretório {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search installed modules"
@@ -2048,7 +2057,7 @@ msgstr "Procurar módulos instalados"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
 msgid "Search list items"
-msgstr ""
+msgstr "Pesquisar itens da lista"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2203,6 +2212,8 @@ msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
 msgstr ""
+"Recebe um número representando a quantidade de dias desde 1º de janeiro de "
+"1970 e gera uma data formatada."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2294,15 +2305,15 @@ msgstr "O módulo para esta análise não está instalado ou não está disponí
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "Não foi possível conectar ao servidor remoto"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "O servidor remoto rejeitou a solicitação"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "O servidor remoto relatou um erro"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server sent an unexpected response"
@@ -2599,11 +2610,11 @@ msgstr ""
 
 #: jamovi/client/main/variablesview.js:41
 msgid "Variables List View"
-msgstr ""
+msgstr "Visualização da Lista de Variáveis"
 
 #: jamovi/client/main/variablesview.js:111
 msgid "Variables View"
-msgstr ""
+msgstr "Visualizar Variáveis"
 
 #: jamovi/client/main/ribbon/appmenu.js:168
 msgid "Version {v}"
@@ -2663,7 +2674,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"
-msgstr ""
+msgstr "Você não tem permissões adequadas (403)"
 
 #: jamovi/client/main/main.js:135
 msgid "Your connection has been lost. Please refresh the page to continue."
