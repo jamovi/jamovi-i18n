@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-31 17:02+0000\n"
+"PO-Revision-Date: 2025-08-01 08:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
 "Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ml/>\n"
@@ -392,7 +392,7 @@ msgstr "ഈ നിരകളിലേക്ക് അസൈൻ ചെയ്യാ
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "കളങ്ങൾ എഡിറ്റ് ചെയ്തു. "
+msgstr "കളങ്ങൾ എഡിറ്റ് ചെയ്തു"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -603,7 +603,7 @@ msgstr "Dark2"
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr "ഡാറ്റ"
+msgstr "ഡേറ്റ"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
