@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-06-10 15:01+0000\n"
-"Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
+"PO-Revision-Date: 2025-08-06 14:02+0000\n"
+"Last-Translator: Fritz Blümke <fritzbluemke@gmail.com>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
 "Language: de\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.13-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -394,7 +394,7 @@ msgstr "Kann diesen Spalten nicht zugewiesen werden."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "Zellen bearbeitet "
+msgstr "Zellen bearbeitet"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
