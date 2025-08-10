@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-10 20:01+0000\n"
+"PO-Revision-Date: 2025-08-10 21:01+0000\n"
 "Last-Translator: Antoine <antoineduval810@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
@@ -94,11 +94,11 @@ msgstr "{title} Annotation initiale"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} non autorisé. Mesure ou type de données incorrect."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} ajouté à {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
