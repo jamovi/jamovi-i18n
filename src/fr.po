@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-10 21:01+0000\n"
-"Last-Translator: Antoine <antoineduval810@gmail.com>\n"
+"PO-Revision-Date: 2025-08-11 11:01+0000\n"
+"Last-Translator: Simeon Tthhuueett <simeontthhuueett@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -48,13 +48,13 @@ msgstr "les colonnes {columnType} ne peuvent pas être modifiées."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} et {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -62,7 +62,7 @@ msgstr "{m} a été désinstallé avec succès"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} a été installé correctement"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -81,7 +81,7 @@ msgstr "{n} chiffres significatifs"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "{name} variable"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -102,15 +102,15 @@ msgstr "{vars} ajouté à {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} objets ont été ajoutés a {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} objets on été retirés de {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} retiré de {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
@@ -146,7 +146,7 @@ msgstr "Ajouter"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Ajouter {1}objet a {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -155,11 +155,11 @@ msgstr "Ajouter un autre filtre imbriqué"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Ajouter l'objet {1} a {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Ajouter l'objet a {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -175,11 +175,11 @@ msgstr "Ajouter une nouvelle modalité"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Ajouter des nouvelles lignes"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Ajouter une nouvelle variable"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -218,7 +218,7 @@ msgstr "Une erreur inattendue s'est produite et jamovi doit se fermer."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Une erreur inopinée c'est produite"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -246,32 +246,32 @@ msgstr "et"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "Annotation"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Annotation pour le groupe {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Annotation pour l'image {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Annotation pour l'objet {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Annotation pour la liste {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Annotation pour la table {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -295,7 +295,7 @@ msgstr "Ajouter"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "Ajouter combien de lignes ?"
+msgstr "Ajouter combien de lignes ?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -333,7 +333,7 @@ msgstr "Disponible"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "Objets disponibles"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -366,6 +366,7 @@ msgstr "Annuler"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
 msgstr ""
+"Impossible d'assigner une valeur différente a un entier dans la column '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -393,7 +394,7 @@ msgstr "Impossible à assigner à ces colonnes."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "Cellules modifiées "
+msgstr "Cellules modifiées"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -422,11 +423,11 @@ msgstr "Fermer"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Fermer la fenêtre de jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Former les paramètres"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -634,11 +635,11 @@ msgstr[1] "Variables de données"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "Poids des données"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "Date / Heure"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -690,11 +691,11 @@ msgstr "Supprimer les lignes"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Suprimer les lignes sélectionnées"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Suprimer les variables sélectionnées"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
@@ -803,7 +804,7 @@ msgstr "Editer"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "Modifier les filtres"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
@@ -930,7 +931,7 @@ msgstr "Ce fichier est corrompu (le manifeste est corrompu)"
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "Menu des fichiers"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -942,7 +943,7 @@ msgstr "Fichier sauvegardé"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "Type de fichier"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1098,7 +1099,7 @@ msgstr "Cacher"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Cacher les options d'analyses"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1110,7 +1111,7 @@ msgstr "Cacher la bibliothèque"
 
 #: jamovi/client/main/store/pagemodules.js:271
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "Cacher le module {moduleName} du ruban d'analyses"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
@@ -1218,11 +1219,11 @@ msgstr "Insérer combien de lignes ?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "Inserer une nouvelle variable calculée"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "Insérer une nouvelle variable transformée"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1235,7 +1236,7 @@ msgstr "Installer"
 
 #: jamovi/client/main/store/pagemodules.js:240
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "Installer le module {moduleName} version {version}"
 
 #: jamovi/client/main/store.js:35 jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
@@ -1251,7 +1252,7 @@ msgstr "La version installée doit être mise à jour"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
-msgstr ""
+msgstr "Instalation du module {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1379,7 +1380,7 @@ msgstr "Modalités"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "Erreur de librairie"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1428,7 +1429,7 @@ msgstr "Valeurs manquantes"
 
 #: jamovi/client/main/store/pagemodules.js:244
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "Le module {moduleName} est installé"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1470,7 +1471,7 @@ msgstr "Nouveau"
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
 msgid "New column {0}"
-msgstr ""
+msgstr "Nouvelle colonne {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1599,7 +1600,7 @@ msgstr ""
 
 #: jamovi/client/main/main.ts:234
 msgid "Open data file"
-msgstr ""
+msgstr "Ouvrir le fichier de données"
 
 #: jamovi/client/main/backstage.js:977
 msgid "Open Document (LibreOffice) {ext}"
@@ -1607,11 +1608,11 @@ msgstr "Ouvrir un document (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "Ouvrir le module de librairie jamovi"
 
 #: jamovi/client/main/main.ts:253
 msgid "Open the main menu"
-msgstr ""
+msgstr "Ouvrir le menu principal"
 
 #: jamovi/client/main/backstage.js:1704 jamovi/client/main/instance.js:236
 #: jamovi/client/main/main.js:657
@@ -1699,7 +1700,7 @@ msgstr "Préférences"
 
 #: jamovi/client/resultsview/annotation.js:79
 msgid "Press enter to edit"
-msgstr ""
+msgstr "Pressez ENTRER pour modifier"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
@@ -1767,11 +1768,11 @@ msgstr "Retirer"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "Retirer {1} de {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "Remove {1} objets de {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1779,11 +1780,11 @@ msgstr "Retirer le filtre"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "Retirer les objets de {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "Retirer le module {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
@@ -1964,8 +1965,8 @@ msgstr "Arrondir chaque valeur à l'entier inférieur"
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "ligne {index} supprimé."
+msgstr[1] "{n} lignes supprimés."
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -2011,7 +2012,7 @@ msgstr "Sauvegarde échouée"
 
 #: jamovi/client/main/main.ts:233
 msgid "Save project"
-msgstr ""
+msgstr "Sauvegarder le project"
 
 #: jamovi/client/main/instance.js:407
 msgid "Saved to '{filename}'"
@@ -2032,23 +2033,25 @@ msgstr "Rechercher"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search available modules"
-msgstr ""
+msgstr "Rechercher les modules disponibles"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
 msgstr "Rechercher des fichiers"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "Rechercher le fichier dans le dossier {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search installed modules"
 msgstr ""
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
+#, fuzzy
 msgid "Search list items"
-msgstr ""
+msgstr "Rechercher la liste des objets"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2100,7 +2103,7 @@ msgstr "Afficher dans le menu principal"
 
 #: jamovi/client/main/store/pagemodules.js:265
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "Monster le module {moduleName} dans le ruban d'analyses"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
@@ -2267,11 +2270,11 @@ msgstr "L'index des valeurs dans les valeurs fournies."
 
 #: jamovi/client/resultsview/table.js:754
 msgid "The interaction of {0} and {1}"
-msgstr ""
+msgstr "L'interaction entre {0} et {1}"
 
 #: jamovi/client/analysisui/formatdef.js:272
 msgid "The interaction of {list}"
-msgstr ""
+msgstr "L'interaction de {list}"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
@@ -2295,23 +2298,24 @@ msgstr "Le module pour cette analyse n'est pas installé ou n'est pas disponible
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "Le serveur distant ne peut pas être contacté"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "Le serveur distant a rejeté la demande"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "Le serveur distant a rencontré une erreur"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server sent an unexpected response"
-msgstr ""
+msgstr "Le serveur distant a envoyé une réponse inopinée"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr ""
+msgstr "La resource n'existe pas, ou a été déplacé (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -2333,7 +2337,7 @@ msgstr ""
 
 #: jamovi/client/main/main.ts:912
 msgid "This data set could not be opened"
-msgstr ""
+msgstr "Ce jeu de données est impossible a ouvrir"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2462,7 +2466,7 @@ msgstr "Impossible d'importer {}"
 
 #: jamovi/client/main/store/pagemodules.js:376
 msgid "Unable to install {module}"
-msgstr ""
+msgstr "Impossible d'installer {module}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
