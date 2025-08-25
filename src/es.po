@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-25 18:01+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
+"PO-Revision-Date: 2025-08-25 19:01+0000\n"
+"Last-Translator: Luis Mendoza <lmendozatr17@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/es/>\n"
 "Language: es\n"
@@ -16,7 +16,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "«{}» es incorrecto"
+msgstr "'{}' no es válido"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
