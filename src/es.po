@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-19 19:02+0000\n"
+"PO-Revision-Date: 2025-08-25 17:02+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/es/>\n"
@@ -92,27 +92,27 @@ msgstr "{r} no es un número entero"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} Anotación Inicial"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} no permitida. Tipo incorrect de medida o de datos."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} añadidas a {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} items añadidos a {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} items eliminados de {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} eliminadas de {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
@@ -157,11 +157,11 @@ msgstr "Añadir otro filtro anidado"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Añade elemento {1} a {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Añade elementos a {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
