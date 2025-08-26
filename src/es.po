@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-25 19:01+0000\n"
-"Last-Translator: Luis Mendoza <lmendozatr17@gmail.com>\n"
+"PO-Revision-Date: 2025-08-26 11:02+0000\n"
+"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/es/>\n"
 "Language: es\n"
@@ -365,7 +365,7 @@ msgstr "Cancelar"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr "No se puede assignar un valor no-entero a la columna '{}'"
+msgstr "No se puede asignar un valor no-entero a la columna '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
