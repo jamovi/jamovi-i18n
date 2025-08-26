@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-26 12:02+0000\n"
+"PO-Revision-Date: 2025-08-26 13:02+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -1813,7 +1813,7 @@ msgstr "Elimina el mòdul {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
-msgstr ""
+msgstr "Elimina filtre imbricat"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
@@ -1958,6 +1958,8 @@ msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
 msgstr ""
+"Retorna a l'anàlisi seleccionat anteriorment i obre el panel d'opcions, amb "
+"el focus definit pel panel d'opcions."
 
 #: jamovi/client/main/main.ts:302
 msgid ""
