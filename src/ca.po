@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-25 19:01+0000\n"
+"PO-Revision-Date: 2025-08-26 11:02+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -80,7 +80,6 @@ msgid "{n} sf"
 msgstr "{n} x.s"
 
 #: jamovi/client/analysisui/formatdef.js:164
-#, fuzzy
 msgid "{name} variable"
 msgstr "Variable {name}"
 
@@ -180,7 +179,7 @@ msgstr "Afegeix files noves"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Afegir variable nova"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -219,7 +218,7 @@ msgstr "S'ha produït un error inesperat i jamovi ha de tancar-se ara."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "S'ha produït un error no esperat"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -237,7 +236,7 @@ msgstr "Anàlisi"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Encapçalament d'Anàlisi - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -245,32 +244,32 @@ msgstr "y"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "Anotació"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Anotació pel grup {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Anotació per la imatge {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Anotació per l'element {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Anotació per la llista {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Anotació per la taula {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -332,7 +331,7 @@ msgstr "Disponible"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "Elements disponibles"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -364,7 +363,7 @@ msgstr "Cancela"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "No es pot assignar un valor no-enter a la columna '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -421,11 +420,11 @@ msgstr "Tancar"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Tanca finestra de jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Tanca preferències"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -443,8 +442,8 @@ msgstr "La columna '{}' no existeix a les dades"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "S'ha eliminat la columna {columnName}"
+msgstr[1] "S'han eliminat {n} columnes"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -577,7 +576,7 @@ msgstr "No s'han pogut realitzar la operació"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Recompte del nombre de valores no-perduts"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -639,11 +638,11 @@ msgstr[1] "Múltiples Variables de Dades ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "Ponderacions de dades"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "Data/hora"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -695,15 +694,15 @@ msgstr "Elimina Files"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Eliminar files seleccionades"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Eliminar variables seleccionades"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Elimina la transformació  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -795,7 +794,7 @@ msgstr "Duplicar"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "Duplica la transformació  - {transformName}"
 
 #: jamovi/client/main/main.js:176
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -810,11 +809,11 @@ msgstr "Editar"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "Editar filtres"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "Edita la transformació - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -940,7 +939,7 @@ msgstr "Arxiu corrupte (el manifest està danyat)"
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "Menú Arxiu"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -952,7 +951,7 @@ msgstr "Arxiu Desat"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "Tipus d'arxiu"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1002,15 +1001,15 @@ msgstr "Els filtres no poden fer referència a variables de sortida"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Centrar-se a la fulla de dades"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "Centrar-se a la configuració de variables"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
-msgstr ""
+msgstr "Centrar-se al llistat de variables"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1108,7 +1107,7 @@ msgstr "Ocultar"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Amaga les opcions d'anàlisi"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
