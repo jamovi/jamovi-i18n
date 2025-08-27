@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-27 08:02+0000\n"
+"PO-Revision-Date: 2025-08-27 10:02+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -1708,7 +1708,7 @@ msgstr "Tema del gràfic"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "Gràfics"
+msgstr "Gràfiques"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
@@ -2105,7 +2105,7 @@ msgstr "seqüencial"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr "Conjunt1"
+msgstr "Set1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
