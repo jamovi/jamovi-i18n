@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-26 19:02+0000\n"
+"PO-Revision-Date: 2025-08-27 08:02+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -391,7 +391,7 @@ msgstr "No es pot assignar a aquestes columnes."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "Cel·les editades "
+msgstr "Cel·les editades"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
