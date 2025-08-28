@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-11 12:02+0000\n"
-"Last-Translator: Simeon Tthhuueett <simeontthhuueett@gmail.com>\n"
+"PO-Revision-Date: 2025-08-28 09:02+0000\n"
+"Last-Translator: lolly76 <thelolly76@gmail.com>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
 "Language: fr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.13\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -38,7 +38,7 @@ msgstr "(C'est une bizarrerie de Safari et des iPads)"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "{0} contenu du répertoire"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -238,7 +238,7 @@ msgstr "Analyses"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Titre de l'analyse - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -445,8 +445,8 @@ msgstr "La colonne '{}' n'existe pas dans le jeu de données"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Colonne {nom de la colonne} supprimée"
+msgstr[1] "{n} colonnes supprimées"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -576,7 +576,7 @@ msgstr "Opération impossible à réaliser"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Compte le nombre de valeurs non manquantes"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -699,7 +699,7 @@ msgstr "Suprimer les variables sélectionnées"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Supprimer la transformation  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -790,7 +790,7 @@ msgstr "Dupliquer"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "Transformation en double - {transformName}"
 
 #: jamovi/client/main/main.js:176
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -808,7 +808,7 @@ msgstr "Modifier les filtres"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "Modifier la transformation - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -994,11 +994,11 @@ msgstr "Les filtres ne peuvent pas référencer les variables de résultat"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Se concentrer sur la feuille de calcul"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "Se concentrer sur la configuration des variables"
 
 #: jamovi/client/main/main.ts:248
 msgid "Focus on variable list"
