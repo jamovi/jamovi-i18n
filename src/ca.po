@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-27 10:02+0000\n"
+"PO-Revision-Date: 2025-09-03 09:01+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ca/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.13.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1547,7 +1547,7 @@ msgstr "No igual a"
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr "Anotació"
+msgstr "Nota"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
