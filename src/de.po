@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-08 13:01+0000\n"
+"PO-Revision-Date: 2025-09-08 14:01+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
@@ -2338,19 +2338,19 @@ msgstr "Das Modul für diese Analyse ist nicht installiert oder nicht verfügbar
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server could not be reached"
-msgstr "Der Remote-Server konnte nicht erreicht werden"
+msgstr "Der externe Server konnte nicht erreicht werden"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server rejected the request"
-msgstr "Der Remote-Server lehnte die Anfrage ab"
+msgstr "Der externe Server lehnte die Anfrage ab"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server reported an error"
-msgstr "Der Remote-Server meldete einen Fehler"
+msgstr "Der externe Server meldete einen Fehler"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server sent an unexpected response"
-msgstr "Der Remote-Server hat eine unerwartete Antwort gesendet"
+msgstr "Der externe Server hat eine unerwartete Antwort gesendet"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The resource doesn't exist, or has moved (404)"
