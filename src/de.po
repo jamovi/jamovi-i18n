@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-08 05:01+0000\n"
+"PO-Revision-Date: 2025-09-08 13:01+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/de/>\n"
@@ -63,7 +63,7 @@ msgstr "{m} wurde erfolgreich deinstalliert"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr "Modul wurde erfolgreich installiert"
+msgstr "{module} wurde erfolgreich installiert"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
