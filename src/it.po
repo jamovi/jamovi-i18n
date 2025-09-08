@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-08 11:02+0000\n"
+"PO-Revision-Date: 2025-09-08 12:02+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
 "Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/it/>\n"
@@ -38,7 +38,7 @@ msgstr "(Si tratta di una caratteristica di Safari e degli iPad)"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "contenuti della cartella {0}"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -48,13 +48,14 @@ msgstr "Impossibile modificare le colonne {columnType}."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} e {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
+#, fuzzy
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -81,7 +82,7 @@ msgstr "{n} cf"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "variabile {name}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -90,27 +91,27 @@ msgstr "{r} non è un numero intero"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} Annotazione iniziale"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} non consentito. Misura o tipo di dato non corretto."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} aggiunto a {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} sono stati aggiunti a {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} sono stati rimossi da {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} rimossi da {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
@@ -146,7 +147,7 @@ msgstr "Aggiungere"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Aggiunto {1} a {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -155,11 +156,11 @@ msgstr "Aggiungere un altro filtro annidato"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Aggiunto {1} a {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Aggiunti elementi a {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -175,11 +176,11 @@ msgstr "Aggiungere un nuovo livello"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Aggiungere nuove righe"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Aggiungere una nuova variabile"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -218,7 +219,7 @@ msgstr "Si è verificato un errore imprevisto e jamovi dovrebbe chiudersi."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "C'è un errore inatteso"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -238,7 +239,7 @@ msgstr "Analisi"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Titolo Analisi - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -246,36 +247,36 @@ msgstr "e"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "Annotazione"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Annotazione per il gruppo {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Annotazione per l'immagine {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Annotazione per l'oggetto {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Annotazione per la lista {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Annotazione per la tabella {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "ANOVA"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -333,7 +334,7 @@ msgstr "Disponibile"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "Elementi disponibili"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -366,6 +367,7 @@ msgstr "Annulla"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
 msgstr ""
+"Impossibile assegnare un valore differente a un intero nella colonna '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -422,11 +424,11 @@ msgstr "Chiudi"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Chiedere la finestra di jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Chiudi le preferenze"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -444,8 +446,8 @@ msgstr "La colonna '{}' non esiste nei dati"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Colonna {columnName} eliminata"
+msgstr[1] "{n} colonne eliminate"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -578,7 +580,7 @@ msgstr "Impossibile eseguire l'operazione"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Conta il numero dei valori non mancanti"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -612,7 +614,7 @@ msgstr "File di dati"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr ""
+msgstr "I dati non sono ponderati"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
@@ -640,11 +642,11 @@ msgstr[1] "Più variabili dati ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "Pesi dei dati"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "Data / Ora"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -696,15 +698,15 @@ msgstr "ELimina Righe"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Elimina le righe selezionate"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Eliminare le variabili selezionate"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Eliminare la  transformazione  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
