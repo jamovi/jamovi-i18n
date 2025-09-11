@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-12-24 14:00+0000\n"
-"Last-Translator: dex girl <saraciric73@gmail.com>\n"
-"Language-Team: Croatian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/hr/>\n"
+"PO-Revision-Date: 2025-09-11 16:01+0000\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/hr/>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.10-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -114,16 +114,15 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Za promenu jezika potrebno je ponovo pokrenuti jamove"
+msgstr "Promjena jezika zahtijeva da se jamovi ponovo pokrene"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr "Potrebna je novija verzija jamovi"
+msgstr "Potrebna je novija jamovi verzija"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
-#, fuzzy
 msgid "Accent"
-msgstr "Naglasak je ime šarene teme."
+msgstr "Istaknuto"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
@@ -1472,11 +1471,11 @@ msgstr "Više informacija ..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
 msgid "Move back directory"
-msgstr ""
+msgstr "Pomakni direktorij natrag"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Pomakni natrag iz direktorija {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
