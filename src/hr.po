@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 16:45+0000\n"
+"PO-Revision-Date: 2025-09-12 17:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -1109,7 +1109,7 @@ msgstr "Skriveno"
 #: jamovi/client/main/variableeditor.js:175
 #: jamovi/client/main/variableeditor.js:49
 msgid "Hide"
-msgstr "Sakriti"
+msgstr "Sakrij"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
