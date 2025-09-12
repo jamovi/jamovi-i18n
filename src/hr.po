@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 20:01+0000\n"
+"PO-Revision-Date: 2025-09-12 23:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -494,7 +494,7 @@ msgstr "Veza izgubljena"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "Stalni"
+msgstr "Kontinuirano"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -1711,7 +1711,7 @@ msgstr "Koristi ctrl-v za lijepljenje u proračunsku tablicu."
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
-msgstr "Tema grafičkih podataka"
+msgstr "Tema dijagrama"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
@@ -1851,9 +1851,8 @@ msgid ""
 "value is within the box of a Boxplot 0 is returned, absolute values larger "
 "than 1.5 are outside the whiskers."
 msgstr ""
-"Opisuje je li varijabla extremna varijednost prema IQR: Ako je vrijednost "
-"unutar kutije kutijastog dijagrama 0, apsolutne vrijednosti veće od 1,5 su "
-"izvan granica."
+"Opisuje je li varijabla odstupa prema IQR-u: Ako je vrijednost unutar kutije "
+"box dijagrama vraća se 0, apsolutne vrijednosti veće od 1,5 su izvan kutije."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -2125,26 +2124,26 @@ msgstr "Postavljanje …"
 
 #: jamovi/client/main/store/pagemodules.js:136
 msgid "Show"
-msgstr "Pokaži"
+msgstr "Prikaži"
 
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
 msgid "Show filter columns"
-msgstr "Pokaži stupce filtra"
+msgstr "Prikaži stupce filtra"
 
 #: jamovi/client/main/editors/transformeditor.js:634
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
 msgid "Show formula editor"
-msgstr "Pokaži uređivač formula"
+msgstr "Prikaži uređivač formula"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
-msgstr "Pokaži u glavnom izborniku"
+msgstr "Prikaži u glavnom izborniku"
 
 #: jamovi/client/main/store/pagemodules.js:265
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr "Pokaži modul {moduleName} u vrpci analize"
+msgstr "Prikaži modul {moduleName} u vrpci analize"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
