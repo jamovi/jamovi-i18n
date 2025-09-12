@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 19:01+0000\n"
+"PO-Revision-Date: 2025-09-12 20:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -318,7 +318,7 @@ msgstr "Potrebna je autentifikacija"
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr "Auto"
+msgstr "Automatski"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
@@ -1715,7 +1715,7 @@ msgstr "Tema grafičkih podataka"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "Grafikoni"
+msgstr "Dijagrami"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
