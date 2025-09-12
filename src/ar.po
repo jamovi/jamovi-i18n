@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 01:01+0000\n"
+"PO-Revision-Date: 2025-09-12 04:01+0000\n"
 "Last-Translator: Py- Droid <droidpy587@gmail.com>\n"
 "Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ar/>\n"
@@ -609,7 +609,7 @@ msgstr ""
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr ""
+msgstr "بيانات"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
@@ -701,12 +701,12 @@ msgstr "حذف الصف"
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] ""
-msgstr[1] ""
-msgstr[2] ""
-msgstr[3] ""
-msgstr[4] ""
-msgstr[5] ""
+msgstr[0] "هل تريد حذف أي صف؟"
+msgstr[1] "هل تريد حذف الصف {index}؟"
+msgstr[2] "هل تريد حذف الصفين {n} ؟"
+msgstr[3] "هل تريد حذف {n} صفوف ؟"
+msgstr[4] "هل تريد حذف {n} صفًا ؟"
+msgstr[5] "هل تريد حذف {n} صف ؟"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
