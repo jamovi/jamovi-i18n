@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-13 13:01+0000\n"
+"PO-Revision-Date: 2025-09-13 15:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -565,11 +565,11 @@ msgstr "Nije moguće umetnuti redove"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
-msgstr "Nije moguće izmijeniti stupce"
+msgstr "Nije bilo moguće promijeniti stupce"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify transform"
-msgstr "Nije moguće izmjeniti pretvorbu"
+msgstr "Nije bilo moguće promijeniti transformaciju"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
@@ -1656,7 +1656,7 @@ msgstr "Poredana lista"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "Redni broj"
+msgstr "Ordinal"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
