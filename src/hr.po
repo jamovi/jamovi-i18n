@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-13 12:01+0000\n"
+"PO-Revision-Date: 2025-09-13 13:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -887,7 +887,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr "Eksploracija"
+msgstr "Istraživanje"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
