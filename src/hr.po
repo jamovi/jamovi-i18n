@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-18 21:01+0000\n"
+"PO-Revision-Date: 2025-09-19 13:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -625,7 +625,7 @@ msgstr "Traka stanja podataka"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
-msgstr "Tip podataka"
+msgstr "Vrsta podataka"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:108
 #: jamovi/client/main/contextmenu/contextmenus.js:58
@@ -1993,11 +1993,11 @@ msgstr "Zaokružuje svaku vrijednost"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
 msgid "Rounds each value to the integer above"
-msgstr "Zaokružuje svaku vrijednost na gornju znamenku"
+msgstr "Zaokružuje svaku vrijednost na cijeli broj iznad"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
 msgid "Rounds each value to the integer below"
-msgstr "Zaokružuje svaku vrijednost na donju znamenku"
+msgstr "Zaokružuje svaku vrijednost na cijeli broj ispod"
 
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
@@ -2616,7 +2616,7 @@ msgstr "koristiti transformaciju"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr "Vrijednost je prevelika za stupac '{}' tipa cijelih brojeva"
+msgstr "Vrijednost je prevelika za stupac '{}' vrste cijelih brojeva"
 
 #: jamovi/client/analysisui/formatdef.js:107
 msgid "Variable {0}"
