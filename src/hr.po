@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-19 13:01+0000\n"
+"PO-Revision-Date: 2025-09-20 14:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -338,11 +338,11 @@ msgstr "Loša definicija funkcije"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Black & white"
-msgstr "Crno i bijelo"
+msgstr "Crno-bijelo"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr "Plavo"
+msgstr "Nijanse plave"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
@@ -488,7 +488,7 @@ msgstr "Povezivanje nije uspjelo"
 #: jamovi/client/main/main.js:128
 #: jamovi/client/main/main.js:135
 msgid "Connection lost"
-msgstr "Veza izgubljena"
+msgstr "Veza je izgubljena"
 
 #: jamovi/client/main/editors/transformeditor.js:228
 #: jamovi/client/main/vareditor/datavarwidget.js:276
@@ -2727,7 +2727,7 @@ msgstr "Nemaš odgovarajuće dozvole (403)"
 
 #: jamovi/client/main/main.js:136
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr "Tvoja veza je prekinuta. Osvježi stranicu za nastavljanje."
+msgstr "Tvoja veza je izgubljena. Osvježi stranicu za nastavljanje."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
