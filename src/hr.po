@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-20 21:01+0000\n"
+"PO-Revision-Date: 2025-09-21 14:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -573,7 +573,7 @@ msgstr "Nije bilo moguće promijeniti transformaciju"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not perform operation"
-msgstr "Nije moguće izvesti operaciju"
+msgstr "Nije moguće izvršiti operaciju"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
@@ -2537,11 +2537,11 @@ msgstr "Nije moguće zalijepiti"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform import"
-msgstr "Nije moguće izvesti uvoz"
+msgstr "Nije moguće izvršiti uvoz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to perform request"
-msgstr "Nije moguće izvesti zahtjev"
+msgstr "Nije moguće izvršiti zahtjev"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to reach the library"
