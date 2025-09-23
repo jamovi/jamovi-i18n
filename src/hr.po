@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 14:01+0000\n"
+"PO-Revision-Date: 2025-09-23 17:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -1535,7 +1535,7 @@ msgstr "Nijedna varijabla ne odgovara upitu."
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "Nominalna"
+msgstr "Nominalni"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
