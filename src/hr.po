@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-21 14:01+0000\n"
+"PO-Revision-Date: 2025-09-23 14:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -402,7 +402,7 @@ msgstr "promijeni oznaku …"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "Circular reference detected"
-msgstr "Otkrivena je kružna naredba"
+msgstr "Otkrivena je kružna referenca"
 
 #: jamovi/client/main/resultspanel.js:438
 msgid "Clear selection"
@@ -598,7 +598,7 @@ msgstr "Izreži"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr "Tamno2"
+msgstr "Tamna2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
@@ -999,11 +999,12 @@ msgstr "Filtrira varijeblu koristeći izraz filtra."
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
 msgstr ""
-"Filtri se možda ne odnose na stupce koji koriste 'V' ili stupčane funkcije"
+"Filtri ne smiju referencirati na stupce koji koriste „V” ili stupčane "
+"funkcije"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr "Filtri se možda ne odnose na izlazne varijable"
+msgstr "Filtri ne smiju referencirati na izlazne varijable"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
