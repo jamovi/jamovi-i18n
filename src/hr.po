@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-23 17:01+0000\n"
+"PO-Revision-Date: 2025-09-24 11:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -2312,7 +2312,7 @@ msgstr "Formula je pogrešno navedena"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
 msgid "The index of value in the provided values."
-msgstr "Indeks vrijednosti u danim vrijednostima."
+msgstr "Indeks vrijednosti u priloženim vrijednostima."
 
 #: jamovi/client/resultsview/table.js:754
 msgid "The interaction of {0} and {1}"
@@ -2368,7 +2368,7 @@ msgstr "Odabrana transformacija je pogrešna i treba je urediti."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
-msgstr "Vrijednost danih vrijednosti na indeksu."
+msgstr "Vrijednost priloženih vrijednosti na indeksu."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
