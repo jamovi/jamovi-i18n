@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-07-30 11:01+0000\n"
-"Last-Translator: Musab Ustun <musabyusufustun@outlook.com>\n"
+"PO-Revision-Date: 2025-09-26 00:01+0000\n"
+"Last-Translator: Bai <bai@baturax.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.14-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -38,7 +38,7 @@ msgstr "Bu Safari ve iPad'lerin bir tuhaflığı"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "{0} dizin içeriği"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -48,13 +48,13 @@ msgstr "{columnType} sütunlar değiştirilemeyebilirler."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} ve {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -81,7 +81,7 @@ msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "{name} değişkeni"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -90,7 +90,7 @@ msgstr "{r} bir tam sayı değildir"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} İlk Açıklama"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
@@ -98,19 +98,19 @@ msgstr ""
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} eklendi: {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} öğe listeye eklendi: {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} öğe kaldırıldı: {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} kaldırıld: {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
@@ -144,7 +144,7 @@ msgstr "Ekle"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Add {1} öğreyi ekle: {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -157,7 +157,7 @@ msgstr ""
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Öğeleri ekle: {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -173,11 +173,11 @@ msgstr "Yeni seviye ekle"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Yeni satır ekle"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Yeni değişken ekle"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -216,7 +216,7 @@ msgstr "Beklenmedik bir hata oluştu ve jamovi şimdi kapanmak zorunda."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Beklenmedik bir hata oluştu"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -242,12 +242,12 @@ msgstr "ve"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "Açıklama"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "{name} grubu için açıklamalar"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
