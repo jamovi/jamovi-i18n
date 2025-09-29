@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-29 15:01+0000\n"
+"PO-Revision-Date: 2025-09-29 16:01+0000\n"
 "Last-Translator: \"David D.\" <dadu042@users.noreply.hosted.weblate.org>\n"
 "Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/fr/>\n"
@@ -1577,14 +1577,14 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Une rangée ajoutée."
+msgstr[1] "{n} rangées ajoutées."
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Une rangée insérée."
+msgstr[1] "{n} rangées insérées."
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
@@ -1596,7 +1596,7 @@ msgstr "Ouvrir"
 
 #: jamovi/client/main/main.ts:266
 msgid "Open application menu"
-msgstr ""
+msgstr "Ouvrir menu application"
 
 #: jamovi/client/main/main.ts:234
 msgid "Open data file"
@@ -1656,6 +1656,8 @@ msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
 msgstr ""
+"Analyse une date, et la convertit en nombre de jours depuis le 1er janvier "
+"1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1932,6 +1934,8 @@ msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
 msgstr ""
+"Revient à l’analyse précédemment sélectionnée et ouvre le panneau d’options, "
+"avec le focus défini dans le panneau d’options."
 
 #: jamovi/client/main/main.ts:302
 msgid ""
@@ -1945,6 +1949,8 @@ msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
 msgstr ""
+"Revient à l’analyse précédemment sélectionnée et se concentre sur la sortie "
+"des résultats."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2046,12 +2052,11 @@ msgstr "Rechercher le fichier dans le dossier {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search installed modules"
-msgstr ""
+msgstr "Rechercher modules installés"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
-#, fuzzy
 msgid "Search list items"
-msgstr "Rechercher la liste des objets"
+msgstr "Rechercher liste d'objets"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2207,6 +2212,8 @@ msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
 msgstr ""
+"Prend un nombre représentant le nombre de jours depuis le 1er janvier 1970, "
+"et produit une date formatée."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2305,9 +2312,8 @@ msgid "The remote server rejected the request"
 msgstr "Le serveur distant a rejeté la demande"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server reported an error"
-msgstr "Le serveur distant a rencontré une erreur"
+msgstr "Le serveur distant a signalé une erreur"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "The remote server sent an unexpected response"
@@ -2386,15 +2392,15 @@ msgstr "Cette transformation comporte une erreur et devrait être modifiée."
 
 #: jamovi/client/main/tableview.js:105
 msgid "Toggle filters visibility"
-msgstr ""
+msgstr "Basculer visibilité filtres"
 
 #: jamovi/client/main/ribbon.js:199
 msgid "Toggle screen state"
-msgstr ""
+msgstr "Basculer état écran"
 
 #: jamovi/client/main/main.ts:256
 msgid "Toggle variable setup"
-msgstr ""
+msgstr "Basculer configuration variables"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2580,7 +2586,7 @@ msgstr "Nom de la variable"
 
 #: jamovi/client/main/ribbon/datatab.js:38
 msgid "Variable setup"
-msgstr ""
+msgstr "Configuration variable"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
@@ -2604,11 +2610,11 @@ msgstr "Variables {list}"
 
 #: jamovi/client/main/variablesview.js:41
 msgid "Variables List View"
-msgstr ""
+msgstr "Vue liste variables"
 
 #: jamovi/client/main/variablesview.js:111
 msgid "Variables View"
-msgstr ""
+msgstr "Vue variables"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
