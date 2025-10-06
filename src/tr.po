@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-26 00:01+0000\n"
-"Last-Translator: Bai <bai@baturax.com>\n"
+"PO-Revision-Date: 2025-10-06 21:02+0000\n"
+"Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
 "Language: tr\n"
@@ -122,7 +122,7 @@ msgstr "Daha yeni bir jamovi sürümü gerekiyor"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr "Aksan"
+msgstr "Vurgu"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
@@ -595,7 +595,7 @@ msgstr "Kes"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Dark2"
-msgstr "Koyu2"
+msgstr "Karanlık2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
@@ -1704,7 +1704,7 @@ msgstr "Şekil teması"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "Şekiller"
+msgstr "Grafikler"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
