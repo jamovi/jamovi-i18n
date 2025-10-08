@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-10-06 22:01+0000\n"
+"PO-Revision-Date: 2025-10-08 17:07+0000\n"
 "Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/tr/>\n"
@@ -13,7 +13,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' hatalıdır"
+msgstr "'{}' hatalı"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
@@ -389,7 +389,7 @@ msgstr "Bu sütunlara uygulanamaz."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "Hücre değiştirildi "
+msgstr "Hücre değiştirildi"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -1989,7 +1989,6 @@ msgid "Rounds each value to the integer below"
 msgstr "Her değeri altındaki tam sayıya yuvarlar"
 
 #: jamovi/client/main/viewcontroller.js:345
-#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
 msgstr[0] "satır {index} silindi."
