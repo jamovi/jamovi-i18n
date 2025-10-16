@@ -11,6 +11,7 @@ msgstr ""
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
 "X-Generator: Weblate 5.13-dev\n"
+"X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
