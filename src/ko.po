@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-08-15 17:36+0000\n"
-"Last-Translator: 박종현 <tgpjh0815@ajou.ac.kr>\n"
-"Language-Team: Korean "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
+"PO-Revision-Date: 2025-10-26 03:02+0000\n"
+"Last-Translator: 안세훈 <on9686@gmail.com>\n"
+"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
+"jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.7\n"
+"X-Generator: Weblate 5.14.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -390,7 +390,7 @@ msgstr "이 열에 할당할 수 없습니다."
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "편집된 셀 "
+msgstr "편집된 셀"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
