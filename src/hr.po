@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 19:51+0000\n"
+"PO-Revision-Date: 2025-11-06 20:51+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -355,7 +355,7 @@ msgstr "Pretraži"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr "Lista"
+msgstr "Popis s predznakom"
 
 #: jamovi/client/main/main.js:637
 msgid "Cancel"
@@ -395,7 +395,7 @@ msgstr "Uređene ćelije"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
-msgstr "Poravnaj po sredini"
+msgstr "Poravnaj centrirano"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:95
 msgid "change label..."
@@ -673,7 +673,7 @@ msgstr "Izbriši"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "Izbrisati strupac '{columnName}'?"
+msgstr[0] "Izbrisati stupac „{columnName}”?"
 msgstr[1] "Izbrisati {n} stupca?"
 msgstr[2] "Izbrisati {n} stupaca?"
 
@@ -744,7 +744,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
-msgstr "Razvijački način"
+msgstr "Modus programera"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
@@ -1373,7 +1373,7 @@ msgstr "LaTeX skup {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
 msgid "Left Align"
-msgstr "Lijevo poravnanje"
+msgstr "Poravnaj lijevo"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
 msgid "Less than"
@@ -1652,7 +1652,7 @@ msgstr "Operatori"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr "Poredana lista"
+msgstr "Poredan popis"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
@@ -1673,7 +1673,7 @@ msgstr[2] "Varijable rezultata ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "format p-vrijednosti"
+msgstr "Format p-vrijednosti"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
@@ -1987,7 +1987,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
-msgstr "Desno poravnanje"
+msgstr "Poravnaj desno"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
 msgid "Rounds each value"
@@ -2459,11 +2459,11 @@ msgstr "Transformiraj {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "Transformacija: {name}"
+msgstr "Transformiraj: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "Transformacija: Nijedna"
+msgstr "Transformiraj: Ništa"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
@@ -2614,7 +2614,7 @@ msgstr "korišteno od"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr "koristiti transformaciju"
+msgstr "korištenje transformacije"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
