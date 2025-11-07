@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 11:51+0000\n"
+"PO-Revision-Date: 2025-11-07 12:51+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -2078,11 +2078,11 @@ msgstr "Pretraga"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search available modules"
-msgstr "Pretraži dostupne module"
+msgstr "Traži dostupne module"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
-msgstr "Pretraži datoteke"
+msgstr "Traži datoteke"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
 msgid "Search for file in directory {0}"
@@ -2090,15 +2090,15 @@ msgstr "Traži datoteku u direktoriju {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
 msgid "Search installed modules"
-msgstr "Pretraži instalirane module"
+msgstr "Traži instalirane module"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
 msgid "Search list items"
-msgstr "Pretraži stavke popisa"
+msgstr "Traži stavke popisa"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr "Pretraži varijable"
+msgstr "Traži varijable"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
