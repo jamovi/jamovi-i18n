@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-07 12:51+0000\n"
+"PO-Revision-Date: 2025-11-07 13:51+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -2504,7 +2504,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
-msgstr "Nije moguće pretraživati {}"
+msgstr "Nije moguće pretražiti mapu {}"
 
 #: jamovi/client/main/main.js:753
 msgid "Unable to connect to the server"
