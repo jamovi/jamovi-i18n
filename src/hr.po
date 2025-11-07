@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-11-06 20:51+0000\n"
+"PO-Revision-Date: 2025-11-07 11:51+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/hr/>\n"
@@ -897,15 +897,15 @@ msgstr "Istraživanje"
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:215
 msgid "Export"
-msgstr "Izvoz"
+msgstr "Izvezi"
 
 #: jamovi/client/main/resultspanel.js:713
 msgid "Export image"
-msgstr "Izvoz slike"
+msgstr "Izvezi slike"
 
 #: jamovi/client/main/resultspanel.js:740
 msgid "Export results"
-msgstr "Izvoz rezultata"
+msgstr "Izvezi rezultate"
 
 #: jamovi/client/main/instance.js:392
 msgid "Exported"
@@ -1075,11 +1075,11 @@ msgstr "Veće nego ili jednako"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr "Zelene"
+msgstr "Nijanse zelene"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr "Sive"
+msgstr "Nijanse sive"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1413,7 +1413,7 @@ msgstr "Učitavanje"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Logical"
-msgstr "Logički"
+msgstr "Logika"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
@@ -2205,7 +2205,7 @@ msgstr "Stata datoteke Stata {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:60
 msgid "Statistical"
-msgstr "Statistički"
+msgstr "Statistika"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
