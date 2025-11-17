@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-05-29 06:01+0000\n"
+"PO-Revision-Date: 2025-11-17 10:51+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
 "jamovi-i18n/ja/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 5.15-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1518,7 +1518,7 @@ msgstr "この値以外"
 
 #: jamovi/client/resultsview/main.js:108 jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr "注"
+msgstr "ノート"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
