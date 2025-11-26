@@ -730,11 +730,11 @@ msgstr "Skrivebord"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "Bestemmer om noen av elementene vises i in1, in2, in3, .... Merk at de "
 "fleste av disse argumentene er valgfrie – det er mulig å ganske enkelt bruke "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -2166,10 +2166,10 @@ msgstr "Spesiell import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
 "piece by index."
 msgstr ""
-"Deler opp tekst basert på en skilletegn. _piece_ spesifiserer ønsket brikke "
+"Deler opp tekst basert på en skilletegn. <i>piece</i> spesifiserer ønsket brikke "
 "etter indeks."
 
 #: jamovi/client/main/tableview.js:62

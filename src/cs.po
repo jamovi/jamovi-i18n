@@ -737,11 +737,11 @@ msgstr "Plocha"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "Určuje, zda se některá z položek objeví v in1, in2, in3, .... Všimněte si, "
 "že většina těchto argumentů je volitelná -- je možné jednoduše použít "
-"__CONTAINS(jehla, kupka sena)__."
+"<b>CONTAINS(jehla, kupka sena)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -2170,10 +2170,10 @@ msgstr "Speciální import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
 "piece by index."
 msgstr ""
-"Rozdělí text na kusy dle separátoru. _kus_ specifikuje žádaný kus pomocí "
+"Rozdělí text na kusy dle separátoru. <i>piece</i> specifikuje žádaný kus pomocí "
 "indexu."
 
 #: jamovi/client/main/tableview.js:62

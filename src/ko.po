@@ -725,10 +725,10 @@ msgstr "데스크탑"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 사항입니다. 간단히 "
-"__CONTAINS(needle, haystack)__를 사용할 수 있습니다."
+"<b>CONTAINS(needle, haystack)</b>를 사용할 수 있습니다."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -2144,9 +2144,9 @@ msgstr "특수 파일 불러오기"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
 "piece by index."
-msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. _조각_은 인덱스별로 원하는 조각을 지정합니다."
+msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>piece</i>은 인덱스별로 원하는 조각을 지정합니다."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"

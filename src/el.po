@@ -709,7 +709,7 @@ msgstr "Διαγραφή"
 #, fuzzy
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "Διαγραφή στήλης '{όνομα_στήλης}';"
+msgstr[0] "Διαγραφή στήλης '{columnName}';"
 msgstr[1] "Διαγραφή {n} στηλών;"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
@@ -778,11 +778,11 @@ msgstr "Επιφάνεια εργασίας"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "Καθορίζει εάν κάποιο από τα στοιχεία εμφανίζεται στα in1, in2, in3, .... "
 "Σημειώστε ότι τα περισσότερα από αυτά τα ορίσματα είναι προαιρετικά -- είναι "
-"δυνατόν να χρησιμοποιήσετε απλώς __CONTAINS(needle, haystack)__."
+"δυνατόν να χρησιμοποιήσετε απλώς <b>CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 #, fuzzy
@@ -982,7 +982,7 @@ msgstr "Εξάγονται"
 #: jamovi/client/main/instance.js:461
 #, fuzzy
 msgid "Exported to '{filename}'"
-msgstr "Εξαγωγή σε '{όνομα_αρχείου}'"
+msgstr "Εξαγωγή σε '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
@@ -2291,7 +2291,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
 "piece by index."
 msgstr ""
 

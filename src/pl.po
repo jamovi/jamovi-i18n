@@ -735,11 +735,11 @@ msgstr "Pulpit"
 msgid ""
 "Determines if any of the items appear in in1, in2, in3, .... Note that most "
 "of these arguments are optional -- it is possible to simply use "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "Określa, czy którykolwiek z elementów pojawia się w in1, in2, in3, .... "
 "Większość tych argumentów jest opcjonalna -- można po prostu użyć "
-"__CONTAINS(needle, haystack)__."
+"<b>CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -1171,8 +1171,8 @@ msgstr "jeżeli"
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
 msgstr ""
-"Jeżeli wyrażenie zwraca *true* użyj podanej wartości, w przeciwnych razie "
-"wykonaj *else*."
+"Jeżeli wyrażenie zwraca <i>true</i> użyj podanej wartości, w przeciwnych razie "
+"wykonaj <i>else</i>."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -2175,10 +2175,10 @@ msgstr "Importuj"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. _piece_ specifies the desired "
+"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
 "piece by index."
 msgstr ""
-"Dzieli tekst na fragmenty na podstawie separatora. _piece_ określa żądany "
+"Dzieli tekst na fragmenty na podstawie separatora. <i>piece</i> określa żądany "
 "fragment według indeksu."
 
 #: jamovi/client/main/tableview.js:62
@@ -2697,7 +2697,7 @@ msgid ""
 "else."
 msgstr ""
 "Gdy zmienna zawiera braki danych użyj podanej wartości, w przeciwnym razie "
-"wykonaj *else*."
+"wykonaj <i>else</i>."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
