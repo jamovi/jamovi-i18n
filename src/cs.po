@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-29 09:00+0000\n"
-"Last-Translator: Jiří Podhorecký <j.podhorecky@volny.cz>\n"
-"Language-Team: Czech "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/cs/>\n"
+"PO-Revision-Date: 2025-12-15 17:00+0000\n"
+"Last-Translator: Filip Dechterenko <filip.dechterenko@gmail.com>\n"
+"Language-Team: Czech <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
+"cs/>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=((n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2);\n"
-"X-Generator: Weblate 5.8.2-dev\n"
+"X-Generator: Weblate 5.15.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1718,7 +1718,7 @@ msgstr "Téma spiknutí"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "Pozemky"
+msgstr "Grafy"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
@@ -1734,7 +1734,7 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
-msgstr "Předchozí variabilní"
+msgstr "Předchozí proměnná"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
