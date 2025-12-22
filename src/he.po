@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-08-07 12:02+0000\n"
+"PO-Revision-Date: 2025-12-22 17:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/he/>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -2712,13 +2712,13 @@ msgstr "אי אפשר להכניס שורות כשמוסתרות שורות מס
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "לא ניתן לשנות עמודות שמשפיעות על מסננים כשמוסתרות שורות מסוננות"
+msgstr "לא ניתן לשנות עמודות המשפיעות על מסננים כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
 "You cannot modify transforms that affect filters when filtered rows are "
 "hidden"
-msgstr "לא ניתן לשנות טרנספורמציות שמשפיעות על מסננים כשמוסתרות שורות מסוננות"
+msgstr "לא ניתן לשנות טרנספורמציות המשפיעות על מסננים כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"
