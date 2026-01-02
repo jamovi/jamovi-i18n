@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-02 14:01+0000\n"
+"PO-Revision-Date: 2026-01-02 15:01+0000\n"
 "Last-Translator: Amir <amearb@duck.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/fa/>\n"
@@ -45,21 +45,21 @@ msgstr ""
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} و {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}، {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
-msgstr ""
+msgstr "{m} با موفقیت حذف شد"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} با موفقیت نصب شد"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -69,7 +69,7 @@ msgstr ""
 #: jamovi/client/main/viewcontroller.js:600
 #: jamovi/client/main/viewcontroller.js:641
 msgid "{n} is not a positive integer"
-msgstr ""
+msgstr "{n} عدد صحیح مثبت نیست"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -78,11 +78,11 @@ msgstr ""
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "متغیر {name}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
-msgstr ""
+msgstr "{r} عدد صحیح نیست"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
@@ -122,10 +122,11 @@ msgid "Accent"
 msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr ""
+msgstr "دسترسی رد شد. احتمالا اجازهٔ دسترسی به این منبع را ندارید."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -145,16 +146,17 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
+#, fuzzy
 msgid "Add another nested filter"
-msgstr ""
+msgstr "پالایهٔ تودرتوی دیگری اضافه کنید"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "افزودن مورد {1} به {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "افزودن موارد به {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -162,7 +164,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/filterwidget.js:40
 msgid "Add new filter"
-msgstr ""
+msgstr "افزودن پالایهٔ جدید"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:44
 msgid "Add new level"
@@ -170,7 +172,7 @@ msgstr ""
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "افزودن ردیف جدید"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
