@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-02 15:01+0000\n"
+"PO-Revision-Date: 2026-01-02 16:01+0000\n"
 "Last-Translator: Amir <amearb@duck.com>\n"
 "Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/fa/>\n"
@@ -176,11 +176,11 @@ msgstr "افزودن ردیف جدید"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "افزودن متغیر جدید"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr ""
+msgstr "افزودن یادداشت"
 
 #: jamovi/client/main/editors/transformeditor.js:144
 msgid "Add recode condition"
@@ -196,7 +196,7 @@ msgstr "افزوده شد"
 
 #: jamovi/client/main/resultspanel.js:596
 msgid "All"
-msgstr ""
+msgstr "همه"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1033
 #: jamovi/client/analysisui/gridtargetcontrol.js:1034
@@ -211,11 +211,11 @@ msgstr ""
 
 #: jamovi/client/main/main.js:144
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr ""
+msgstr "خطایی غیرمنتظره رخ داده و jamovi باید حالا بسته شود."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "خطایی غیرمنتظره رخ داد"
 
 #: jamovi/client/main/ribbon/analysetab.js:14
 #: jamovi/client/main/ribbon/analysetab.js:97
@@ -286,20 +286,20 @@ msgstr "تحلیل واریانس"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:39
 msgid "Append"
-msgstr ""
+msgstr "افزودن"
 
 #: jamovi/client/main/viewcontroller.js:634
 msgid "Append how many rows?"
-msgstr ""
+msgstr "چند ردیف افزوده شود؟"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr ""
+msgstr "افزودن ردیف..."
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
-msgstr ""
+msgstr "اعمال تغییرات"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
@@ -307,7 +307,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "ناتوانی در تصدیق"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
@@ -316,20 +316,20 @@ msgstr ""
 #: jamovi/client/main/editors/transformeditor.js:246
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr ""
+msgstr "خودکار"
 
 #: jamovi/client/main/ribbon/annotationtab.js:134
 msgid "Automatic"
-msgstr ""
+msgstr "خودکار"
 
 #: jamovi/client/main/ribbon/appmenu.js:226
 #: jamovi/client/main/store.js:51
 msgid "Available"
-msgstr ""
+msgstr "در دسترس"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "موارد در دسترس"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -345,7 +345,7 @@ msgstr "آبی‌ها"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Bold"
-msgstr ""
+msgstr "پررنگ"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:323
 msgid "Browse"
@@ -358,7 +358,7 @@ msgstr ""
 #: jamovi/client/main/main.js:749
 #: jamovi/client/main/notifications.js:33
 msgid "Cancel"
-msgstr ""
+msgstr "لغو"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
