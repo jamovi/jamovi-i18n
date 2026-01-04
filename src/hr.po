@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 15:01+0000\n"
+"PO-Revision-Date: 2026-01-04 16:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -58,7 +58,7 @@ msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
-msgstr "{m} uspješno deinstaliran"
+msgstr "{m} je uspješno deinstaliran"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
@@ -648,12 +648,12 @@ msgstr "Datum / vrijeme"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
-msgstr "Decimala"
+msgstr "Decimalni broj"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
-msgstr "decimalna mjesta"
+msgstr "broj decimala"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
