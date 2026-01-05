@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-05 12:01+0000\n"
+"PO-Revision-Date: 2026-01-05 13:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -587,7 +587,7 @@ msgstr "Stvori novu transformaciju …"
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/backstage.js:976
 msgid "CSV (Comma delimited) {ext}"
-msgstr "CSV (Odvojeno zarezom) {ext}"
+msgstr "CSV (zarezom odvojene vrijednosti) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -611,7 +611,7 @@ msgstr "Datoteke s podacima"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr "Podaci su neponderirani"
+msgstr "Podaci nisu ponderirani"
 
 #: jamovi/client/main/backstage.js:1195
 #: jamovi/client/main/backstage.js:1272
