@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-05 11:01+0000\n"
+"PO-Revision-Date: 2026-01-05 12:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -77,7 +77,7 @@ msgstr "{n} nije pozitivan cijeli broj"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr "{n} d.b."
+msgstr "{n} z.z."
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
@@ -2158,7 +2158,7 @@ msgstr "Ručno učitavanje"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "significant figures"
-msgstr "značajne brojke"
+msgstr "značajne znamenke"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Simulation"
@@ -2450,19 +2450,19 @@ msgstr "Previše podataka, umjesto toga koristi uvoz"
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr "Transformiraj"
+msgstr "Transformacija"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr "Transformiraj {}"
+msgstr "Transformacija {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "Transformiraj: {name}"
+msgstr "Transformacija: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "Transformiraj: Ništa"
+msgstr "Transformacija: Ništa"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
@@ -2613,7 +2613,7 @@ msgstr "korišteno od"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr "koristi transformacije"
+msgstr "Transformacije"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
