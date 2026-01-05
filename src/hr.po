@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-04 23:01+0000\n"
+"PO-Revision-Date: 2026-01-05 11:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -77,7 +77,7 @@ msgstr "{n} nije pozitivan cijeli broj"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr "{n} z.b."
+msgstr "{n} d.b."
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
