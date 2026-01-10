@@ -1,16 +1,16 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-12 05:01+0000\n"
-"Last-Translator: Py- Droid <droidpy587@gmail.com>\n"
-"Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ar/>\n"
+"PO-Revision-Date: 2026-01-10 21:01+0000\n"
+"Last-Translator: Lahoucine Boumahdy <lahoucineboumahdy99@gmail.com>\n"
+"Language-Team: Arabic <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/ar/>\n"
 "Language: ar\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
 "&& n%100<=10 ? 3 : n%100>=11 ? 4 : 5;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -92,7 +92,7 @@ msgstr "{r} ليس عددا صحيحا"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} تعليق توضيحي أولي"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 #, fuzzy
@@ -274,7 +274,7 @@ msgstr "تعليق على الجدول {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr ""
+msgstr "‎تحليل التباين"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -307,11 +307,11 @@ msgstr "تطبيق التعديلات"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "‎ الاقتراب من الحد الزمني الأقصى  للخطة"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
-msgstr ""
+msgstr "‎فشل المصادقة"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication required"
