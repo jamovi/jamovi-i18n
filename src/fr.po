@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2025-09-29 16:01+0000\n"
-"Last-Translator: \"David D.\" <dadu042@users.noreply.hosted.weblate.org>\n"
-"Language-Team: French <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/fr/>\n"
+"PO-Revision-Date: 2026-01-11 13:01+0000\n"
+"Last-Translator: \"Jean MANOURY (Jean)\" <outlook75012@gmail.com>\n"
+"Language-Team: French <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/fr/>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: Weblate 5.14-dev\n"
+"X-Generator: Weblate 5.15.1\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1119,7 +1119,7 @@ msgstr "Cacher les options"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Hide variable setup"
-msgstr ""
+msgstr "Cacher le réglage des variables"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1453,11 +1453,11 @@ msgstr "Plus d'infos..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
 msgid "Move back directory"
-msgstr ""
+msgstr "Remonter le dossier"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Remonter du dossier {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1790,7 +1790,7 @@ msgstr "Retirer le module {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "Remove nested filter"
-msgstr ""
+msgstr "Enlever le filtre imbriqué"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
@@ -1942,6 +1942,8 @@ msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
 msgstr ""
+"Retourne à l'analyse précédente et déplace la focalisation vers la sortie "
+"des résultats."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
@@ -2046,7 +2048,6 @@ msgid "Search files"
 msgstr "Rechercher des fichiers"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
-#, fuzzy
 msgid "Search for file in directory {0}"
 msgstr "Rechercher le fichier dans le dossier {0}"
 
