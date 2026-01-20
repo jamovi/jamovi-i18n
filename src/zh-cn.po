@@ -1397,7 +1397,7 @@ msgstr "数学"
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
 msgid "Measure type"
-msgstr "测量类型"
+msgstr "变量类型"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Minimal"
@@ -1502,7 +1502,7 @@ msgstr "没有与您查询匹配的变量。"
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "名义"
+msgstr "无序"
 
 #: jamovi/client/main/dataset.js:1328 jamovi/client/main/dataset.js:1330
 #: jamovi/client/main/vareditor/recodedvarwidget.js:255
@@ -1617,7 +1617,7 @@ msgstr "编号列表"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "定序"
+msgstr "有序"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
