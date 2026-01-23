@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-05 13:01+0000\n"
+"PO-Revision-Date: 2026-01-23 12:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.16-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1189,7 +1189,7 @@ msgstr "Uvoz je uspio"
 
 #: jamovi/client/main/vareditor/editorwidget.js:43
 msgid "Imported as"
-msgstr "Uvezi kao"
+msgstr "Uvezeno kao"
 
 #: jamovi/client/main/instance.js:116
 msgid "Importing"
@@ -1206,7 +1206,7 @@ msgstr "neaktivno"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr "Uvlaka -1"
+msgstr "Uvlaka −1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
@@ -1231,7 +1231,7 @@ msgstr "Umetni"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
-msgstr "Umetni koliko redaka?"
+msgstr "Koliko redaka umetnuti?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
