@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-01-23 12:01+0000\n"
+"PO-Revision-Date: 2026-02-06 14:01+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -123,7 +123,7 @@ msgstr "Potrebna je novija jamovi verzija"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
-msgstr "Istaknuto"
+msgstr "Isticanje"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid ""
@@ -343,7 +343,7 @@ msgstr "Crno-bijelo"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr "Nijanse plave"
+msgstr "Plave"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
@@ -495,7 +495,7 @@ msgstr "Veza je izgubljena"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "Kontinuirano"
+msgstr "Neprekidno"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -1075,11 +1075,11 @@ msgstr "Veće nego ili jednako"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr "Nijanse zelene"
+msgstr "Zelene"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr "Nijanse sive"
+msgstr "Sive"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1299,7 +1299,7 @@ msgstr "Problem s formulom"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
-msgstr "Kurziv"
+msgstr "Ukošeno"
 
 #: jamovi/client/main/backstage.js:1005
 #: jamovi/client/main/backstage.js:1016
