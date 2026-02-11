@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-06 01:01+0000\n"
+"PO-Revision-Date: 2026-02-11 02:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ru/>\n"
@@ -1693,7 +1693,7 @@ msgstr "Тема графиков"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "Участки"
+msgstr "Графики"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
