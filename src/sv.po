@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2024-10-08 01:36+0000\n"
-"Last-Translator: Damian Dropmann <damiandropmann@gmail.com>\n"
-"Language-Team: Swedish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/sv/>\n"
+"PO-Revision-Date: 2026-02-12 22:09+0000\n"
+"Last-Translator: Daniel Wiik <d.wiik@outlook.com>\n"
+"Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/sv/>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.16-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -38,7 +38,7 @@ msgstr "(Detta är ett problem i Safari och på iPads)"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "{0} kataloginnehåll"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -48,13 +48,13 @@ msgstr "{columnType} kolumner kan inte redigeras."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} och {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -62,7 +62,7 @@ msgstr "{m} avinstallerades"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} installerades framgångsrikt"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -81,7 +81,7 @@ msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "{namn} variabel"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -90,27 +90,27 @@ msgstr "{r} är inte ett heltal"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "Inledande anteckning"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} inte tillåtet. Felaktig mätning eller datatyp."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} läggs till {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} objekt som läggs till {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} objekt borttagna från {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} borttagna från {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
@@ -146,7 +146,7 @@ msgstr "Lägg till"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Lägg till {1} objekt till {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -155,11 +155,11 @@ msgstr "Lägg till ytterligare ett nästlat filter"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Lägg till artikel {1} till {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Lägg till objekt till {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -175,11 +175,11 @@ msgstr "Lägg till en ny nivå"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Lägg till nya rader"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Lägg till ny variabel"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -218,7 +218,7 @@ msgstr "Ett oväntat fel har inträffat och jamovi måste nu stängas."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Ett oväntat fel inträffade"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -236,7 +236,7 @@ msgstr "Analys"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Analysrubrik - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -244,32 +244,32 @@ msgstr "och"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "Annotering"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Annotering för grupp {namn}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Annotering för bild {namn}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Annotering för objekt {namn}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Annotering för lista {namn}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Annotering för tabell {namn}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -331,7 +331,7 @@ msgstr "Tillgänglig"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "Tillgängliga objekt"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -363,7 +363,7 @@ msgstr "Avbryt"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "Kan inte tilldela icke-heltalsvärde till kolumn '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -422,11 +422,11 @@ msgstr "Stäng"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Stäng Jamovifönster"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Stäng preferenser"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -444,8 +444,8 @@ msgstr "Kolumnen ”{}” finns inte i datasetet"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "kolumn raderad"
+msgstr[1] "kolumner raderade"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -578,7 +578,7 @@ msgstr "Kan inte utföra operation"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Räknar antalet icke-saknade värden"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -644,7 +644,7 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "Datum / Tid"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -696,11 +696,11 @@ msgstr "Ta bort rader"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Ta bort valda rader"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Ta bort valda variabler"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
@@ -811,7 +811,7 @@ msgstr "Redigera"
 
 #: jamovi/client/main/tableview.js:104
 msgid "Edit filters"
-msgstr ""
+msgstr "Redigera filter"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
 msgid "Edit transform - {transformName}"
@@ -941,7 +941,7 @@ msgstr "Filen är skadad (manifestet är skadat)"
 
 #: jamovi/client/main/ribbon.js:174
 msgid "File menu"
-msgstr ""
+msgstr "Filmeny"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -953,7 +953,7 @@ msgstr "Filen är sparad"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
-msgstr ""
+msgstr "Filtyp"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1005,7 +1005,7 @@ msgstr "Filter kan inte hänvisa till utfallsvariabler"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Fokusera på kalkylblad"
 
 #: jamovi/client/main/main.ts:262
 msgid "Focus on the variable setup"
@@ -1111,7 +1111,7 @@ msgstr "Göm"
 
 #: jamovi/client/main/main.ts:238
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Dölj analysalternativ"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1230,11 +1230,11 @@ msgstr "Hur många rader ska infogas?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "Infoga ny beräknad variabel"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "Infoga ny transformerad variabel"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1247,7 +1247,7 @@ msgstr "Installera"
 
 #: jamovi/client/main/store/pagemodules.js:240
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "Installera modul {moduleName} version {version}"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1264,7 +1264,7 @@ msgstr "Installerad version måste uppdateras"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
-msgstr ""
+msgstr "Installerar {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1392,7 +1392,7 @@ msgstr "Nivåer"
 
 #: jamovi/client/main/store/pagemodules.js:98
 msgid "Library error"
-msgstr ""
+msgstr "Biblioteksfel"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1441,7 +1441,7 @@ msgstr "Saknade värden"
 
 #: jamovi/client/main/store/pagemodules.js:244
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "Modul {moduleName} är installerad"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1465,11 +1465,11 @@ msgstr "Mer information ..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
 msgid "Move back directory"
-msgstr ""
+msgstr "Flytta tillbaka katalogen"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Flytta tillbaka från katalogen {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1484,7 +1484,7 @@ msgstr "Ny"
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
 msgid "New column {0}"
-msgstr ""
+msgstr "Ny kolumn {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
