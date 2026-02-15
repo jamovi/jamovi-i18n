@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-11 02:09+0000\n"
+"PO-Revision-Date: 2026-02-15 13:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ru/>\n"
@@ -103,11 +103,11 @@ msgstr "{vars} добавлены в {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr "Элементы {vars} добавлены в {list}."
+msgstr "{vars} элементов добавлено в {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr "Элементы {vars} удалены из {list}."
+msgstr "{vars} элементов удалено из {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
@@ -160,7 +160,7 @@ msgstr "Добавьте элемент {1} к {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr "Добавьте элементы в {0}"
+msgstr "Добавить элементы в {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -1785,7 +1785,7 @@ msgstr "Удалить фильтр"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
 msgid "Remove items from {0}"
-msgstr "Удалите элементы из {0}"
+msgstr "Удалить элементы из {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
 msgid "Remove module {moduleName}"
