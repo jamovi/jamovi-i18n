@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-15 13:41+0000\n"
+"PO-Revision-Date: 2026-02-15 14:10+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ru/>\n"
@@ -68,7 +68,7 @@ msgstr "{module} был успешно установлен"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} dp"
-msgstr "{n} др"
+msgstr "{n} дес. зн."
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -78,7 +78,7 @@ msgstr "{n} не является положительным целым числ
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr "{n} зц"
+msgstr "{n} знач. цифр"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
@@ -86,7 +86,7 @@ msgstr "{name} переменная"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
-msgstr "\"{r} не является целым числом"
+msgstr "{r} не является целым числом"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
@@ -425,7 +425,7 @@ msgstr "Закрыть окно jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr "Закрыть предпочтения"
+msgstr "Закрыть настройки"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -2157,7 +2157,7 @@ msgstr "Файлы SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1033 jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
-msgstr "Хранилище SPSS {ext}"
+msgstr "Файл SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1037 jamovi/client/main/backstage.js:1060
 msgid "Stata {ext}"
@@ -2181,11 +2181,11 @@ msgstr "Стили"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
 msgid "Sub Script"
-msgstr "жолма жол"
+msgstr "Подстрочный"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
 msgid "Super Script"
-msgstr "суперскрипт"
+msgstr "Надстрочный"
 
 #: jamovi/client/main/resultspanel.js:717
 msgid "SVG Image {ext}"
@@ -2209,7 +2209,7 @@ msgstr "Т-тесты"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
-msgstr "Стол"
+msgstr "Таблица"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid ""
@@ -2401,7 +2401,7 @@ msgstr "Переключение состояния экрана"
 
 #: jamovi/client/main/main.ts:256
 msgid "Toggle variable setup"
-msgstr "Настройка переменных"
+msgstr "Показать/скрыть настройки переменных"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2528,7 +2528,7 @@ msgstr "Подчеркнутый"
 #: jamovi/client/main/ribbon/datatab.js:24
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Undo Edit"
-msgstr "Отменить изменения"
+msgstr "Отменить правку"
 
 #: jamovi/client/main/instance.js:249 jamovi/client/main/instance.js:256
 #: jamovi/server/jamovi/server/compute/messages.py
@@ -2686,7 +2686,7 @@ msgstr "Связь потеряна. Пожалуйста, обновите ст
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr "Ваш веб-браузер не позволил джемови открыть новую вкладку"
+msgstr "Ваш веб-браузер не позволил jzmovi открыть новую вкладку"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
 msgid "Zoom"
