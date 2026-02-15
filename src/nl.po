@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-11 21:09+0000\n"
+"PO-Revision-Date: 2026-02-15 14:10+0000\n"
 "Last-Translator: Jasin Khazhikhanov <khazhikhanovjasin@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
@@ -37,7 +37,7 @@ msgstr "(Dit is een eigenaardigheid van Safari en iPads)"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
-msgstr ""
+msgstr "Inhoud van de map {0}"
 
 #: jamovi/client/main/tableview.js:1403
 msgid "{columnType} columns may not be edited."
@@ -47,13 +47,13 @@ msgstr "Kan {columnType}-kolommen niet bewerken."
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} en {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{lijst}, {volgendItem}"
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
@@ -61,7 +61,7 @@ msgstr "{m} geïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} is succesvol geïnstalleerd"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
@@ -80,7 +80,7 @@ msgstr "{n} significante cijfers"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
-msgstr ""
+msgstr "{name}-variabele"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -89,27 +89,27 @@ msgstr "{r} is geen geheel getal"
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} Eerste Annotatie"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} niet toegestaan. Onjuiste maat of gegevenstype."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} toegevoegd aan {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} items toegevoegd aan {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} items verwijderd uit {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} verwijderd uit {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:268
 msgid "A change of language requires jamovi to be restarted"
@@ -145,7 +145,7 @@ msgstr "Toevoegen"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Voeg {1} items toe aan {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -154,11 +154,11 @@ msgstr "Nog een filter toevoegen"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Voeg item {1} toe aan {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Items toevoegen aan {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -174,11 +174,11 @@ msgstr "Nieuw niveau"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr ""
+msgstr "Nieuwe rijen toevoegen"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
-msgstr ""
+msgstr "Nieuwe variabele toevoegen"
 
 #: jamovi/client/resultsview/element.js:132
 msgid "Add Note"
@@ -217,7 +217,7 @@ msgstr "Er is een onverwachte fout opgetreden waardoor jamovi moet afsluiten."
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Er is een onverwachte fout opgetreden"
 
 #: jamovi/client/main/ribbon/analysetab.js:13
 #: jamovi/client/main/ribbon/analysetab.js:95
@@ -235,7 +235,7 @@ msgstr "Analyse"
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Analysekop - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
@@ -243,32 +243,32 @@ msgstr "en"
 
 #: jamovi/client/resultsview/annotation.js:168
 msgid "Annotation"
-msgstr ""
+msgstr "Aantekening"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Annotatie voor groep {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Annotatie voor afbeelding {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Annotatie voor item {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Annotatie voor lijst {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Annotatie voor tabel {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -331,7 +331,7 @@ msgstr "Beschikbaar"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
 msgid "Available items"
-msgstr ""
+msgstr "Beschikbare items"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -364,7 +364,7 @@ msgstr "Annuleren"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "Kan geen niet-integer waarde toewijzen aan kolom '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -421,11 +421,11 @@ msgstr "Sluiten"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Sluit het jamovi-venster"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
 msgid "Close preferences"
-msgstr ""
+msgstr "Sluit voorkeuren"
 
 #: jamovi/client/main/ribbon/annotationtab.js:148
 msgid "Code-Block"
@@ -443,8 +443,8 @@ msgstr "Kolom '{}' bestaat niet in de dataset"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Kolom {columnName} verwijderd"
+msgstr[1] "{n} kolommen verwijderd"
 
 #: jamovi/client/main/tableview.js:1402
 msgid "Column is not editable"
@@ -577,7 +577,7 @@ msgstr "Kan bewerking niet uitvoeren"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Telt het aantal niet-ontbrekende waarden"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -639,11 +639,11 @@ msgstr[1] "Gegevensvariabelen ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
-msgstr ""
+msgstr "Gegevensgewichten"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Date / Time"
-msgstr ""
+msgstr "Datum / Tijd"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
@@ -696,11 +696,11 @@ msgstr "Rijen verwijderen"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Geselecteerde rijen verwijderen"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Geselecteerde variabelen verwijderen"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
