@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-15 13:09+0000\n"
+"PO-Revision-Date: 2026-02-15 13:41+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ru/>\n"
@@ -348,7 +348,7 @@ msgstr "Блюз"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
-msgstr "Смелый"
+msgstr "Жирный"
 
 #: jamovi/client/main/backstage.js:339
 msgid "Browse"
