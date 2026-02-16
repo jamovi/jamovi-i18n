@@ -1,7 +1,7 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-12 22:09+0000\n"
-"Last-Translator: Daniel Wiik <d.wiik@outlook.com>\n"
+"PO-Revision-Date: 2026-02-16 03:09+0000\n"
+"Last-Translator: Kristoffer Grundström <swedishsailfishosuser@tutanota.com>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/sv/>\n"
 "Language: sv\n"
@@ -884,7 +884,7 @@ msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
 msgid "Exploration"
-msgstr "Exploration"
+msgstr "Utforskning"
 
 #: jamovi/client/main/backstage.js:1231
 #: jamovi/client/main/backstage.js:1323
