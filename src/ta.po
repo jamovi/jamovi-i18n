@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-21 03:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
-"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
-"ta/>\n"
+"Language-Team: Tamil "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,6 +35,10 @@ msgstr "(மின்னோட்டம்)"
 #: jamovi/client/main/utils/headeralert.js:36
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(இது சஃபாரி மற்றும் ஐபாட்களின் நகைச்சுவை)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -422,6 +426,10 @@ msgstr "இடைநிலைப் பலகை"
 msgid "Close"
 msgstr "மூடு"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr "சாமோவி சாளரத்தை மூடு"
@@ -453,6 +461,10 @@ msgstr[1] "{n} நெடுவரிசைகள் நீக்கப்பட�
 msgid "Column is not editable"
 msgstr "நெடுவரிசை திருத்தக்கூடியது அல்ல"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:39
 #: jamovi/client/main/ribbon/variablestab.js:23
 msgid "Compute"
@@ -475,14 +487,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "கணக்கிடப்பட்ட மாறி"
 msgstr[1] "பல கணக்கிடப்பட்ட மாறிகள் ({n})"
-
-#: jamovi/client/main/instance.ts:431
-msgid "Confirm overwite"
-msgstr "மேலெழுதலை உறுதிப்படுத்தவும்"
-
-#: jamovi/client/main/store/pagemodules.js:303
-msgid "Confirm uninstall"
-msgstr "நிறுவல் நீக்குவதை உறுதிப்படுத்தவும்"
 
 #: jamovi/client/main/main.js:889
 msgid "Connection failed"
@@ -548,6 +552,11 @@ msgstr "நகலெடுக்கப்பட்டது"
 #: jamovi/client/resultsview/group.js:212
 msgid "Copy"
 msgstr "நகலெடு"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1484
 #: jamovi/server/jamovi/server/instance.py
@@ -644,10 +653,6 @@ msgstr[1] "பல தரவு மாறிகள் ({n})"
 msgid "Data weights"
 msgstr "தரவு எடைகள்"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr "தேதி / நேரம்"
-
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
 msgstr "தசம"
@@ -656,6 +661,10 @@ msgstr "தசம"
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "decimal places"
 msgstr "தசம இடங்கள்"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Default"
@@ -757,6 +766,10 @@ msgstr "இயக்க வேண்டாம்"
 #: jamovi/client/main/main.js:749
 msgid "Don't Save"
 msgstr "சேமிக்க வேண்டாம்"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.ts:303
 #: jamovi/client/main/backstage.ts:408
@@ -1008,6 +1021,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr "வடிப்பான்கள் வெளியீட்டு மாறிகளைக் குறிப்பிடக்கூடாது"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "விரிதாளில் கவனம் செலுத்துங்கள்"
@@ -1178,6 +1195,10 @@ msgstr "வெளிப்பாடு உண்மையை தீர்த்�
 msgid "Image"
 msgstr "படம்"
 
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
 msgid "Import"
@@ -1317,9 +1338,10 @@ msgid ""
 "{ insert your name here (or put a more generic \"the jamovi translation "
 "team\", if you don't want credit) })"
 msgstr ""
-"சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! ({ உங்கள் பெயரை "
-"இங்கே செருகவும் (அல்லது உங்களுக்குப் பெயர் தேவையில்லை என்றால், "
-"\"சாமோவி மொழிபெயர்ப்புக் குழு\" என்று பொதுவான ஒன்றைச் சேர்க்கவும்) } க்கு மிக்க நன்றி)"
+"சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! ({ "
+"உங்கள் பெயரை இங்கே செருகவும் (அல்லது உங்களுக்குப் பெயர் தேவையில்லை என்றால், "
+"\"சாமோவி மொழிபெயர்ப்புக் குழு\" என்று பொதுவான ஒன்றைச் சேர்க்கவும்) } க்கு "
+"மிக்க நன்றி)"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid ""
@@ -1327,9 +1349,10 @@ msgid ""
 "@{ insert your twitter handle here (or put a more generic \"the jamovi "
 "translation team\", if you don't want credit) })"
 msgstr ""
-"சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! (@{ க்கு மிக்க "
-"நன்றி உங்கள் ட்விட்டர் கைப்பிடியை இங்கே செருகவும் (அல்லது உங்களுக்குக் கிரெடிட் தேவையில்லை "
-"என்றால், மிகவும் பொதுவான \"சாமோவி மொழிபெயர்ப்புக் குழு\" என்று வைக்கவும்) })"
+"சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! (@{ "
+"க்கு மிக்க நன்றி உங்கள் ட்விட்டர் கைப்பிடியை இங்கே செருகவும் (அல்லது "
+"உங்களுக்குக் கிரெடிட் தேவையில்லை என்றால், மிகவும் பொதுவான \"சாமோவி "
+"மொழிபெயர்ப்புக் குழு\" என்று வைக்கவும்) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:117
 msgid "jamovi library"
@@ -1410,14 +1433,6 @@ msgstr "நூலக பிழை"
 msgid "Link"
 msgstr "இணைப்பு"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "ஏற்றுகிறது"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid "Logical"
-msgstr "தர்க்கரீதியான"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
 msgid "Main Effects"
 msgstr "முக்கிய விளைவுகள்"
@@ -1426,9 +1441,9 @@ msgstr "முக்கிய விளைவுகள்"
 msgid "Manage installed"
 msgstr "நிறுவப்பட்ட நிர்வகிக்கவும்"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "கணிதம்"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1439,9 +1454,9 @@ msgstr "அளவீட்டு வகை"
 msgid "Minimal"
 msgstr "குறைந்தபட்ச"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:146
-msgid "Misc"
-msgstr "இதர"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
@@ -1686,7 +1701,8 @@ msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
 msgstr ""
-"ஒரு தேதியை பாகுபடுத்தி, அதை 1970 சனவரி 1 முதல் நாட்களின் எண்ணிக்கையாக மாற்றுகிறது."
+"ஒரு தேதியை பாகுபடுத்தி, அதை 1970 சனவரி 1 முதல் நாட்களின் எண்ணிக்கையாக "
+"மாற்றுகிறது."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1710,9 +1726,17 @@ msgstr "PDF ஆவணம் {ext}"
 msgid "Pin level"
 msgstr "முள் நிலை"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "விரிதாளில் ஒட்ட ctrl-V ஐப் பயன்படுத்தவும்."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Plot theme"
@@ -1726,6 +1750,10 @@ msgstr "அடுக்கு"
 msgid "PNG Image {ext}"
 msgstr "Png படம் {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "விருப்பத்தேர்வுகள்"
@@ -1737,6 +1765,10 @@ msgstr "திருத்த Enter ஐ அழுத்தவும்"
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
 msgstr "முந்தைய மாறி"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
@@ -1777,10 +1809,6 @@ msgstr "அண்மைக் கால"
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Redo Edit"
 msgstr "மீண்டும் திருத்து"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:140
-msgid "Reference"
-msgstr "குறிப்பு"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:430
@@ -1971,16 +1999,16 @@ msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
 msgstr ""
-"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பி, விருப்பங்கள் குழுவில் கவனம் "
-"செலுத்தப்படுவதோடு, விருப்பங்கள் குழுவைத் திறக்கிறது."
+"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பி, விருப்பங்கள் "
+"குழுவில் கவனம் செலுத்தப்படுவதோடு, விருப்பங்கள் குழுவைத் திறக்கிறது."
 
 #: jamovi/client/main/main.ts:302
 msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
 msgstr ""
-"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் வெளியீட்டில் கவனம் "
-"செலுத்துகிறது."
+"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் "
+"வெளியீட்டில் கவனம் செலுத்துகிறது."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
@@ -1988,8 +2016,8 @@ msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
 msgstr ""
-"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் வெளியீட்டில் கவனம் "
-"செலுத்துகிறது."
+"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் "
+"வெளியீட்டில் கவனம் செலுத்துகிறது."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Right Align"
@@ -2169,10 +2197,6 @@ msgstr "பக்கவாட்டு"
 msgid "significant figures"
 msgstr "குறிப்பிடத்தக்க புள்ளிவிவரங்கள்"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:160
-msgid "Simulation"
-msgstr "பாவனை"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
 msgstr "மூல மாறி"
@@ -2183,8 +2207,8 @@ msgstr "சிறப்பு இறக்குமதி"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 "ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். <i>piece</i> "
 "விரும்பிய பகுதியை குறியீட்டால் குறிப்பிடுகிறது."
@@ -2210,10 +2234,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.ts:122
 msgid "Stata files {ext}"
 msgstr "ச்டேட்டா கோப்புகள் {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "புள்ளிவிவர"
 
 #: jamovi/client/main/ribbon/annotationtab.js:125
 msgid "Strike"
@@ -2260,8 +2280,8 @@ msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
 msgstr ""
-"1970 சனவரி 1 ஆம் தேதி முதல் பல நாட்களைக் குறிக்கும் எண்ணை எடுத்துக்கொள்கிறது, மேலும் "
-"வடிவமைக்கப்பட்ட தேதியை உருவாக்குகிறது."
+"1970 சனவரி 1 ஆம் தேதி முதல் பல நாட்களைக் குறிக்கும் எண்ணை "
+"எடுத்துக்கொள்கிறது, மேலும் வடிவமைக்கப்பட்ட தேதியை உருவாக்குகிறது."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
@@ -2403,6 +2423,12 @@ msgstr "இந்த சாதனம்"
 #: jamovi/client/main/vareditor/formulatoolbar.js:250
 msgid "This is a data variable."
 msgstr "இது தரவு மாறி."
+
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
@@ -2589,6 +2615,10 @@ msgstr "எதிர்பாராத பிழை"
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "Unrecognised file format"
 msgstr "அங்கீகரிக்கப்படாத கோப்பு வடிவம்"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 #: jamovi/client/main/store/pagemodules.js:210

@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-10-26 03:02+0000\n"
 "Last-Translator: 안세훈 <on9686@gmail.com>\n"
-"Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ko/>\n"
+"Language-Team: Korean "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ko/>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -34,6 +34,10 @@ msgstr "(현재의)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(이것은 Safari와 iPad의 특징입니다)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -417,6 +421,10 @@ msgstr "클립보드"
 msgid "Close"
 msgstr "종료"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr ""
@@ -448,6 +456,10 @@ msgstr[1] ""
 msgid "Column is not editable"
 msgstr "열을 수정할 수 없습니다"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -469,14 +481,6 @@ msgstr "계산된 변수"
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "다중 계산 변수 ({n})"
-
-#: jamovi/client/main/instance.js:489
-msgid "Confirm overwite"
-msgstr "덮어쓰기 확인"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "설치제거 확인"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -542,6 +546,11 @@ msgstr "복사됨"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "복사"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -637,10 +646,6 @@ msgstr[0] "데이터 변수"
 msgid "Data weights"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr ""
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "소수"
@@ -649,6 +654,10 @@ msgstr "소수"
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
 msgstr "소숫점 자리"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -746,6 +755,10 @@ msgstr "활성화하지 않음"
 #: jamovi/client/main/main.js:643
 msgid "Don't Save"
 msgstr "저장하지 않음"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -993,6 +1006,10 @@ msgstr "필터는 ‘V’ 또는 열 함수를 사용하여 열을 참조할 수
 msgid "Filters may not reference output variables"
 msgstr "필터는 출력 변수를 참조하지 않을 수 있습니다"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr ""
@@ -1160,6 +1177,10 @@ msgstr "표현식이 참으로 확인되면 확인된 값을 사용하고 그렇
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "이미지"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1386,14 +1407,6 @@ msgstr ""
 msgid "Link"
 msgstr "링크"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "로딩중"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid "Logical"
-msgstr "논리"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "주 효과"
@@ -1402,9 +1415,9 @@ msgstr "주 효과"
 msgid "Manage installed"
 msgstr "설치모듈 관리"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "수학"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1415,9 +1428,9 @@ msgstr "척도 유형"
 msgid "Minimal"
 msgstr "최소한"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:142
-msgid "Misc"
-msgstr "기타"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1682,9 +1695,17 @@ msgstr "PDF 문서 {ext}"
 msgid "Pin level"
 msgstr "상위 고정"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "스프레드시트에 붙여넣으려면 ctrl-v를 사용하십시오."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1698,6 +1719,10 @@ msgstr "도표"
 msgid "PNG Image {ext}"
 msgstr "PNG 이미지 {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "환경설정"
@@ -1709,6 +1734,10 @@ msgstr ""
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "이전 변수"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1748,10 +1777,6 @@ msgstr "최근"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "편집 되돌리기(앞으로)"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:136
-msgid "Reference"
-msgstr "참고문헌"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2130,10 +2155,6 @@ msgstr "모듈 프로그램 설치"
 msgid "significant figures"
 msgstr "유의 숫자"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid "Simulation"
-msgstr "시뮬레이션"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "소스 변수"
@@ -2144,8 +2165,8 @@ msgstr "특수 파일 불러오기"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>piece</i>은 인덱스별로 원하는 조각을 지정합니다."
 
 #: jamovi/client/main/tableview.js:62
@@ -2169,10 +2190,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.js:983
 msgid "Stata files {ext}"
 msgstr "Stata 파일 {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "통계 정보"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2355,6 +2372,12 @@ msgstr "이 기기"
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
 msgstr "이것은 데이터 변수입니다."
+
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -2540,6 +2563,10 @@ msgstr "예상치 못한 에러"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "인식할 수 없는 파일 형식"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127

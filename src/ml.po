@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-08-09 18:02+0000\n"
 "Last-Translator: \"Dr. Chinchu C.\" <chinchu.c@gmail.com>\n"
-"Language-Team: Malayalam <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ml/>\n"
+"Language-Team: Malayalam "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ml/>\n"
 "Language: ml\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -34,6 +34,10 @@ msgstr "(നിലവിലുള്ളത്)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(ഇത് സഫാരിയുടെയും ഐപാഡുകളുടെയും ഒരു പ്രശ്നമാണ്)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -419,6 +423,10 @@ msgstr "ക്ലിപ്പ്ബോർഡ്"
 msgid "Close"
 msgstr "അടയ്ക്കുക"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr "ജമോവി വിൻഡോ ക്ലോസ് ചെയ്യുക"
@@ -450,6 +458,10 @@ msgstr[1] "{n} നിരകൾ ഡിലീറ്റ് ചെയ്തു"
 msgid "Column is not editable"
 msgstr "നിര എഡിറ്റ് ചെയ്യാനാകില്ല"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -472,14 +484,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "കമ്പ്യൂട്ട്ചെയ്ത വേരിയബിൾ"
 msgstr[1] "കമ്പ്യൂട്ട്ചെയ്ത വേരിയബിളുകൾ"
-
-#: jamovi/client/main/instance.js:489
-msgid "Confirm overwite"
-msgstr "ഓവർറൈറ്റ് ഉറപ്പിക്കുക"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "അൺഇൻസ്റ്റാൾ ഉറപ്പിക്കുക"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -545,6 +549,11 @@ msgstr "കോപ്പി ചെയ്തു"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "കോപ്പി"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -641,10 +650,6 @@ msgstr[1] "ഡാറ്റ വേരിയബിളുകൾ"
 msgid "Data weights"
 msgstr "ഡേറ്റ വെയ്റ്റുകൾ"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr "തീയതി / സമയം"
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "ദശാംശം"
@@ -653,6 +658,10 @@ msgstr "ദശാംശം"
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
 msgstr "ദശാംശ സ്ഥാനങ്ങൾ"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -754,6 +763,10 @@ msgstr "എനേബിൾ ചെയ്യണ്ടാ"
 #: jamovi/client/main/main.js:643
 msgid "Don't Save"
 msgstr "സേവ് ചെയ്യണ്ടാ"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -1003,6 +1016,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr "ഫിൽട്ടറുകൾ ഔട്ട്പുട്ട് വേരിയബിളുകളെ റഫറൻസ് ചെയ്തേക്കില്ല"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "Spreadsheet ഫോക്കസ് ചെയ്യുക"
@@ -1174,6 +1191,10 @@ msgstr ""
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "ചിത്രം"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1403,14 +1424,6 @@ msgstr "ലൈബ്രറി എറർ"
 msgid "Link"
 msgstr "ലിങ്ക്"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "ലോഡിംഗ്"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid "Logical"
-msgstr "ലോജിക്കൽ"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "മെയിൻ ഇഫക്റ്റുകൾ"
@@ -1419,9 +1432,9 @@ msgstr "മെയിൻ ഇഫക്റ്റുകൾ"
 msgid "Manage installed"
 msgstr "ഇൻസ്റ്റാൾ ചെയ്തവയെ മാനേജു ചെയ്യുക"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "ഗണിതം"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1432,9 +1445,9 @@ msgstr "അളവ് തരം"
 msgid "Minimal"
 msgstr "മിനിമൽ"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:142
-msgid "Misc"
-msgstr "മറ്റുള്ളവ"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1701,8 +1714,16 @@ msgstr "PDF ഡോക്യുമെന്റ് {ext}"
 msgid "Pin level"
 msgstr "പിൻ ചെയ്യേണ്ട ലെവൽ"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
+msgstr ""
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
@@ -1717,6 +1738,10 @@ msgstr "പ്ലോട്ടുകൾ"
 msgid "PNG Image {ext}"
 msgstr "PNG ചിത്രം {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr ""
@@ -1728,6 +1753,10 @@ msgstr ""
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "തൊട്ടു മുമ്പത്തെ വേരിയബിൾ"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1767,10 +1796,6 @@ msgstr "അടുത്തിടെ ഉള്ളവ"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "എഡിറ്റ് വീണ്ടും ചെയ്യുക"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:136
-msgid "Reference"
-msgstr "റഫറൻസ്"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2150,10 +2175,6 @@ msgstr "സൈഡ് ലോഡ്"
 msgid "significant figures"
 msgstr "പ്രധാനപ്പെട്ട അക്കങ്ങൾ"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid "Simulation"
-msgstr "സിമുലേഷൻ"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "ഉറവിട വേരിയബിൾ"
@@ -2164,8 +2185,8 @@ msgstr "പ്രത്യേക ഇംപോർട്ട്"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 "ഒരു വിഭാജിയേ അടിസ്ഥാനമാക്കി വാചകത്തേ വിഭജിക്കുന്നു.സൂചിക പ്രകാരം ആവശ്യമുള്ള "
 "കഷണത്തെ <i>piece</i> സൂചിപ്പിക്കുന്നു."
@@ -2191,10 +2212,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.js:983
 msgid "Stata files {ext}"
 msgstr "Stata ഫയലുകൾ {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "സ്റ്റാറ്റിസ്റ്റിക്കൽ"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2241,7 +2258,8 @@ msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
 msgstr ""
-"1970 ജനുവരി 1 മുതലുള്ള ദിവസങ്ങളുടെ സംഖ്യ എടുത്ത് അതിനെ ഫോർമാറ്റ് ചെയ്ത് തീയതിയാക്കി മാറ്റുന്നു."
+"1970 ജനുവരി 1 മുതലുള്ള ദിവസങ്ങളുടെ സംഖ്യ എടുത്ത് അതിനെ ഫോർമാറ്റ് ചെയ്ത് "
+"തീയതിയാക്കി മാറ്റുന്നു."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
@@ -2380,6 +2398,12 @@ msgstr "ഈ ഡിവൈസ്"
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
 msgstr "ഇതൊരു ഡാറ്റാ വേരിയബിളാണ്."
+
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -2566,6 +2590,10 @@ msgstr "അപ്രതീക്ഷിത എറർ"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "തിരിച്ചറിയാത്ത ഫയൽ ഫോർമാറ്റ്"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127

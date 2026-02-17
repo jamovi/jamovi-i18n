@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-08 13:01+0000\n"
 "Last-Translator: Maurizio Agosti <magosti@gmail.com>\n"
-"Language-Team: Italian <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/it/>\n"
+"Language-Team: Italian "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/it/>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,6 +35,10 @@ msgstr "(attuale)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Si tratta di una caratteristica di Safari e degli iPad)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -365,8 +369,7 @@ msgstr "Annulla"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
-"Impossibile assegnare un valore differente a un intero nella colonna '{}'"
+msgstr "Impossibile assegnare un valore differente a un intero nella colonna '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -421,6 +424,10 @@ msgstr "Appunti"
 msgid "Close"
 msgstr "Chiudi"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr "Chiudere la finestra di jamovi"
@@ -452,6 +459,10 @@ msgstr[1] "{n} colonne eliminate"
 msgid "Column is not editable"
 msgstr "La colonna non è modificabile"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -474,14 +485,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "Variabile Calcolata"
 msgstr[1] "Più Variabili Calcolate ({n})"
-
-#: jamovi/client/main/instance.js:421
-msgid "Confirm overwite"
-msgstr "Conferma la sovrascrittura"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "Conferma la disinstallazione"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
@@ -547,6 +550,11 @@ msgstr "Copiato"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "Copia"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -643,10 +651,6 @@ msgstr[1] "Più variabili dati ({n})"
 msgid "Data weights"
 msgstr "Pesi dei dati"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr "Data / Ora"
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "Decimale"
@@ -655,6 +659,10 @@ msgstr "Decimale"
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
 msgstr "cifre decimali"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -755,6 +763,10 @@ msgstr "Non abilitare"
 #: jamovi/client/main/main.js:637
 msgid "Don't Save"
 msgstr "Non Salvare"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
@@ -1004,6 +1016,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr "I filtri non possono essere variabili di output"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "Focus sul foglio di calcolo"
@@ -1175,6 +1191,10 @@ msgstr ""
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "Immagine"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1277
 #: jamovi/client/main/backstage.js:278
@@ -1408,14 +1428,6 @@ msgstr "Errore della libreria"
 msgid "Link"
 msgstr "Collegamento"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "Caricamento in corso"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:114
-msgid "Logical"
-msgstr "Logiche"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "Effetti Principali"
@@ -1424,9 +1436,9 @@ msgstr "Effetti Principali"
 msgid "Manage installed"
 msgstr "Gestione dei moduli installati"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "Matematiche"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1437,9 +1449,9 @@ msgstr "Tipo di misura"
 msgid "Minimal"
 msgstr "Minimo"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:138
-msgid "Misc"
-msgstr "Varie"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1682,8 +1694,7 @@ msgstr "Paragrafo"
 msgid ""
 "Parses a date, and converts it to the number of days since the 1st of "
 "January, 1970."
-msgstr ""
-"COntrolla una data e la converte nel numero di giorni dal 1° gennaio 1970."
+msgstr "COntrolla una data e la converte nel numero di giorni dal 1° gennaio 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1707,9 +1718,17 @@ msgstr "Documento PDF {ext}"
 msgid "Pin level"
 msgstr "Livello del pin"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Si prega di utilizzare ctrl-v per incollare nel foglio di calcolo."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1723,6 +1742,10 @@ msgstr "Grafici"
 msgid "PNG Image {ext}"
 msgstr "Immagine PNG {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "Preferenze"
@@ -1734,6 +1757,10 @@ msgstr "Premere invio per modificare"
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Variabile precedente"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1773,10 +1800,6 @@ msgstr "Recenti"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "Rifare la Modifica"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Reference"
-msgstr "Riferimento"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2162,10 +2185,6 @@ msgstr "Caricamento Ausiliario Moduli"
 msgid "significant figures"
 msgstr "valori significativi"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Simulation"
-msgstr "Simulazione"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "Variabile di origine"
@@ -2176,11 +2195,11 @@ msgstr "Importazione speciale"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
-"Divide il testo in parti in base a un separatore. <i>piece</i> specifica la parte "
-"desiderata per indice."
+"Divide il testo in parti in base a un separatore. <i>piece</i> specifica la "
+"parte desiderata per indice."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2203,10 +2222,6 @@ msgstr "Files Stata {ext}"
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
 msgstr "Files Stata {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "Statistiche"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2401,6 +2416,12 @@ msgstr "Questo Dispositivo"
 msgid "This is a data variable."
 msgstr "Questa è una variabile dati."
 
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
 #: jamovi/client/main/backstage.js:1290
@@ -2587,6 +2608,10 @@ msgstr "Errore imprevisto"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "Formato del file non riconosciuto"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127

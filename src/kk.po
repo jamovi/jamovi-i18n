@@ -36,6 +36,10 @@ msgstr "(ағымдағы)"
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(бұл Safari және iPad құрылғыларының ерекшелігі)"
 
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
 msgstr ""
@@ -422,6 +426,10 @@ msgstr "айырбастау буфері"
 msgid "Close"
 msgstr "жабу"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr ""
@@ -453,6 +461,10 @@ msgstr[1] ""
 msgid "Column is not editable"
 msgstr "баған өңдеуге жатпайды"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:32
 #: jamovi/client/main/ribbon/variablestab.js:23
 msgid "Compute"
@@ -475,14 +487,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "есептелген айнымалы"
 msgstr[1] "бірнеше есептелген айнымалылар ({n})"
-
-#: jamovi/client/main/instance.js:494
-msgid "Confirm overwite"
-msgstr "қайта жазуды растау"
-
-#: jamovi/client/main/store/pagemodules.js:303
-msgid "Confirm uninstall"
-msgstr "жоюды растау"
 
 #: jamovi/client/main/main.js:858
 msgid "Connection failed"
@@ -548,6 +552,11 @@ msgstr "көшірілген"
 #: jamovi/client/resultsview/group.js:212
 msgid "Copy"
 msgstr "көшіру"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1465
 #: jamovi/server/jamovi/server/instance.py
@@ -644,10 +653,6 @@ msgstr[1] "бірнеше деректер айнымалылары ({n})"
 msgid "Data weights"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr ""
-
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
 msgstr "ондық бөлшек"
@@ -656,6 +661,10 @@ msgstr "ондық бөлшек"
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "decimal places"
 msgstr "ондық бөлшектер"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Default"
@@ -757,6 +766,10 @@ msgstr "рұқсат етпеу"
 #: jamovi/client/main/main.js:735
 msgid "Don't Save"
 msgstr "сақтамау"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1238
 #: jamovi/client/main/backstage.js:1346
@@ -1006,6 +1019,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr "сүзгілер нәтиже айнымалыларына сілтеме жасай алмайды"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr ""
@@ -1175,6 +1192,10 @@ msgstr "егер өрнек ақиқат болса, мәнді пайдалан
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "кескін"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:334
 #: jamovi/client/main/ribbon/appmenu.js:115
@@ -1407,14 +1428,6 @@ msgstr ""
 msgid "Link"
 msgstr "сілтеме"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "жүктелуде"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid "Logical"
-msgstr "логикалық"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1029
 msgid "Main Effects"
 msgstr "негізгі әсерлер"
@@ -1423,9 +1436,9 @@ msgstr "негізгі әсерлер"
 msgid "Manage installed"
 msgstr "орнатылғанды басқару"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "математика"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1436,9 +1449,9 @@ msgstr "өлшем түрі"
 msgid "Minimal"
 msgstr "минималды"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:142
-msgid "Misc"
-msgstr "әртүрлі"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
@@ -1706,9 +1719,17 @@ msgstr "PDF құжаты {ext}"
 msgid "Pin level"
 msgstr "байланыс деңгейі"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "электрондық кестеге қою үшін ctrl-v пернесін пайдалануыңызды сұраймыз."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Plot theme"
@@ -1722,6 +1743,10 @@ msgstr "графиктер"
 msgid "PNG Image {ext}"
 msgstr "PNG кескіні {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "бағдарлама параметрлері"
@@ -1733,6 +1758,10 @@ msgstr ""
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
 msgstr "алдыңғы айнымалы"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "qualitative"
@@ -1772,10 +1801,6 @@ msgstr "соңғы"
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Redo Edit"
 msgstr "өңдеуді қайталау"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:136
-msgid "Reference"
-msgstr "сілтеме"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:427
@@ -2155,10 +2180,6 @@ msgstr "үшінші тарап жүктеулері"
 msgid "significant figures"
 msgstr "маңызды сандар"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid "Simulation"
-msgstr "модельдеу"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
 msgstr "бастапқы айнымалы"
@@ -2169,11 +2190,11 @@ msgstr "арнайы импорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
-"мәтінді бөлгіш негізінде бөліктерге бөледі. <i>piece</i> қажетті бөлікті индекс "
-"бойынша нақтылайды."
+"мәтінді бөлгіш негізінде бөліктерге бөледі. <i>piece</i> қажетті бөлікті "
+"индекс бойынша нақтылайды."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2196,10 +2217,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.js:1097
 msgid "Stata files {ext}"
 msgstr "стата файлдары {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "статистикалық"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 msgid "Strike"
@@ -2387,6 +2404,12 @@ msgstr "бұл құрылғы"
 msgid "This is a data variable."
 msgstr "бұл деректер айнымалысы."
 
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1255
 #: jamovi/client/main/backstage.js:1398
 #: jamovi/client/main/backstage.js:1418
@@ -2572,6 +2595,10 @@ msgstr "күтпеген қате"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "танылмаған файл форматы"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:139
 #: jamovi/client/main/store/pagemodules.js:210

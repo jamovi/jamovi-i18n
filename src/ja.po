@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-11-17 10:51+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/ja/>\n"
+"Language-Team: Japanese "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,6 +35,10 @@ msgstr "(この変数)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "（これはSafariとiPadに特異な現象です）"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -416,6 +420,10 @@ msgstr "クリップボード"
 msgid "Close"
 msgstr "閉じる"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr "jamoviウィンドウを閉じる"
@@ -447,6 +455,10 @@ msgstr[1] "{n} 列を削除しました"
 msgid "Column is not editable"
 msgstr "列の編集不可"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -469,14 +481,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "計算変数"
 msgstr[1] "{n}個の計算変数"
-
-#: jamovi/client/main/instance.js:418
-msgid "Confirm overwite"
-msgstr "上書きを承認"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "アンインストールを承認"
 
 #: jamovi/client/main/main.js:744
 msgid "Connection failed"
@@ -540,6 +544,11 @@ msgstr "コピーしました"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "コピー"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218 jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
@@ -632,10 +641,6 @@ msgstr[1] "{n}個のデータ変数"
 msgid "Data weights"
 msgstr "データの重みづけ"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr "日付／時刻"
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "小数"
@@ -644,6 +649,10 @@ msgstr "小数"
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "decimal places"
 msgstr "小数位"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Default"
@@ -726,7 +735,8 @@ msgid ""
 "<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "「対象（in1, in2, …）」の中に「項目（item1, item2, "
-"…）」があるかどうか（真・偽）を判定します。引数のほとんどはオプションなので、<b>CONTAINS(針, 干し草)</b>のようにシンプルに記述できます。"
+"…）」があるかどうか（真・偽）を判定します。引数のほとんどはオプションなので、<b>CONTAINS(針, "
+"干し草)</b>のようにシンプルに記述できます。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -744,6 +754,10 @@ msgstr "有効化しない"
 #: jamovi/client/main/main.js:636
 msgid "Don't Save"
 msgstr "保存しない"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1120 jamovi/client/main/backstage.js:1222
 #: jamovi/client/main/backstage.js:1240
@@ -985,6 +999,10 @@ msgstr "フィルタでは「V」や列関数を使用した列の参照はで�
 msgid "Filters may not reference output variables"
 msgstr "フィルタでは結果変数の参照はできません"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "スプレッドシートにフォーカス"
@@ -1151,6 +1169,10 @@ msgstr "条件式（expression）が「真」の場合は「真の場合（value
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "画像"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1277 jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:107
@@ -1372,14 +1394,6 @@ msgstr "ライブラリエラー"
 msgid "Link"
 msgstr "リンク"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "読込中"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:114
-msgid "Logical"
-msgstr "論理関数"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "主効果"
@@ -1388,9 +1402,9 @@ msgstr "主効果"
 msgid "Manage installed"
 msgstr "モジュール管理"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "数学関数"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1401,9 +1415,9 @@ msgstr "測定値型"
 msgid "Minimal"
 msgstr "ミニマル"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:138
-msgid "Misc"
-msgstr "その他の関数"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1662,9 +1676,17 @@ msgstr "PDF書類 {ext}"
 msgid "Pin level"
 msgstr "水準をピン留め"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "スプレッドシートへの貼り付けにはctrl-vを使用してください。"
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
@@ -1678,6 +1700,10 @@ msgstr "グラフ"
 msgid "PNG Image {ext}"
 msgstr "PNG画像 {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "設定"
@@ -1689,6 +1715,10 @@ msgstr "Enterキーで編集"
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "前の変数"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "qualitative"
@@ -1725,10 +1755,6 @@ msgstr "最近のファイル"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "やり直し"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Reference"
-msgstr "参照関数"
 
 #: jamovi/client/main/references.js:20 jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423
@@ -1914,8 +1940,7 @@ msgstr "変数値の分散（不偏分散）を返します。"
 msgid ""
 "Returns to the previously selected analysis and opens the options panel, "
 "with focus set in the options panel."
-msgstr "前回選択した分析に戻り、オプションパネルを開いて、フォーカスをオプションパネ"
-"ルに設定します。"
+msgstr "前回選択した分析に戻り、オプションパネルを開いて、フォーカスをオプションパネルに設定します。"
 
 #: jamovi/client/main/main.ts:302
 msgid ""
@@ -2099,10 +2124,6 @@ msgstr "外部モジュール"
 msgid "significant figures"
 msgstr "有効桁数"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Simulation"
-msgstr "シミュレーション"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "変換元の変数"
@@ -2113,8 +2134,8 @@ msgstr "拡張読み込み"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr "変数に含まれる文字列を区切り文字で分割します。<i>piece</i>で何番目の要素を取り出すかを指定します。"
 
 #: jamovi/client/main/tableview.js:62
@@ -2136,10 +2157,6 @@ msgstr "Stata形式 {ext}"
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
 msgstr "Stataファイル {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "統計関数"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2185,8 +2202,7 @@ msgstr "表"
 msgid ""
 "Takes a number representing the number of days since the 1st of January "
 "1970, and produces a formatted date."
-msgstr "1970年1月1日からの経過日数を表す数値を受け取り、フォーマットされた日付を生成"
-"します。"
+msgstr "1970年1月1日からの経過日数を表す数値を受け取り、フォーマットされた日付を生成します。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2321,6 +2337,12 @@ msgstr "このデバイス"
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "This is a data variable."
 msgstr "これはデータ変数です。"
+
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1136 jamovi/client/main/backstage.js:1271
 #: jamovi/client/main/backstage.js:1290 jamovi/client/main/backstage.js:1318
@@ -2500,6 +2522,10 @@ msgstr "予期しないエラーです"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "認識できないファイル形式"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 #: jamovi/client/main/store/pagemodules.js:127

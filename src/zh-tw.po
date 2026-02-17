@@ -35,6 +35,10 @@ msgstr "(目前的)"
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(此為Safari和iPad的異常狀況)"
 
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
 msgstr ""
@@ -417,6 +421,10 @@ msgstr "剪貼簿"
 msgid "Close"
 msgstr "關閉"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr ""
@@ -448,6 +456,10 @@ msgstr[1] ""
 msgid "Column is not editable"
 msgstr "欄位無法編輯"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -469,14 +481,6 @@ msgstr "計算變數"
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "({n})個計算變數"
-
-#: jamovi/client/main/instance.js:489
-msgid "Confirm overwite"
-msgstr "確認複寫"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "確認解除安裝"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -542,6 +546,11 @@ msgstr "已複製"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "複製"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -637,10 +646,6 @@ msgstr[0] "資料變數 ({n})"
 msgid "Data weights"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr ""
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "小數"
@@ -649,6 +654,10 @@ msgstr "小數"
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
 msgstr "小數位數"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -746,6 +755,10 @@ msgstr "不啟用"
 #: jamovi/client/main/main.js:643
 msgid "Don't Save"
 msgstr "不要儲存"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -991,6 +1004,10 @@ msgstr "篩選條件可能無法使用'V'或欄位函數來查閱資料欄位"
 msgid "Filters may not reference output variables"
 msgstr "篩選條件可能無法參照輸出變項"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr ""
@@ -1158,6 +1175,10 @@ msgstr "如果判斷條件(expression)為真，則指派value，反之則指派e
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "影像"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1384,14 +1405,6 @@ msgstr ""
 msgid "Link"
 msgstr "連結"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "載入中"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid "Logical"
-msgstr "邏輯運算"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "主要效果"
@@ -1400,9 +1413,9 @@ msgstr "主要效果"
 msgid "Manage installed"
 msgstr "管理已安裝"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "數學運算"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1413,9 +1426,9 @@ msgstr "量尺種類"
 msgid "Minimal"
 msgstr "極簡"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:142
-msgid "Misc"
-msgstr "其它"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1680,9 +1693,17 @@ msgstr "PDF檔 {ext}"
 msgid "Pin level"
 msgstr "釘選水準"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "請使用ctrl-v來貼至試算表。"
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1696,6 +1717,10 @@ msgstr "統計圖型"
 msgid "PNG Image {ext}"
 msgstr "PNG檔 {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "偏好"
@@ -1707,6 +1732,10 @@ msgstr ""
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "前一個變數"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1746,10 +1775,6 @@ msgstr "最近使用"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "重做編輯"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:136
-msgid "Reference"
-msgstr "參照"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2128,10 +2153,6 @@ msgstr "側載的模組"
 msgid "significant figures"
 msgstr "有效數字"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid "Simulation"
-msgstr "模擬抽樣"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "來源變數"
@@ -2142,8 +2163,8 @@ msgstr "特殊匯入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
 
 #: jamovi/client/main/tableview.js:62
@@ -2167,10 +2188,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.js:983
 msgid "Stata files {ext}"
 msgstr "Stata檔 {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "統計運算"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2351,6 +2368,12 @@ msgstr "此裝置"
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
 msgstr "此為資料變數。"
+
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -2536,6 +2559,10 @@ msgstr "未預期的錯誤"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "無法辨識的檔案格式"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127

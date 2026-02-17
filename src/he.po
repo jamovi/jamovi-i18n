@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-12-22 17:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jamovi-"
-"i18n/he/>\n"
+"Language-Team: Hebrew "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -36,6 +36,10 @@ msgstr "(נוכחי)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(זאת בעיה בספארי ובאייפדים)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -419,6 +423,10 @@ msgstr "לוח"
 msgid "Close"
 msgstr "סגירה"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr "סגירת חלון jamovi"
@@ -452,6 +460,10 @@ msgstr[3] "נמחקו {n} עמודות"
 msgid "Column is not editable"
 msgstr "לא ניתן לערוך את העמודה"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:39
 #: jamovi/client/main/ribbon/variablestab.js:23
 msgid "Compute"
@@ -476,14 +488,6 @@ msgstr[0] "משתנה חישוב"
 msgstr[1] "משתני חשוב מרובים ({n})"
 msgstr[2] "משתני חישוב מרובים ({n})"
 msgstr[3] "משתני חישוב מרובים ({n})"
-
-#: jamovi/client/main/instance.ts:431
-msgid "Confirm overwite"
-msgstr "אישור השינוי"
-
-#: jamovi/client/main/store/pagemodules.js:303
-msgid "Confirm uninstall"
-msgstr "אישור הסרת ההתקנה"
 
 #: jamovi/client/main/main.js:885
 msgid "Connection failed"
@@ -549,6 +553,11 @@ msgstr "הועתק"
 #: jamovi/client/resultsview/group.js:212
 msgid "Copy"
 msgstr "העתקה"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1470
 #: jamovi/server/jamovi/server/instance.py
@@ -647,10 +656,6 @@ msgstr[3] "משתני נתונים מרובים ({n})"
 msgid "Data weights"
 msgstr "משקלי הנתונים"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr "תאריך/זמן"
-
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "Decimal"
 msgstr "עשרוני"
@@ -659,6 +664,10 @@ msgstr "עשרוני"
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "decimal places"
 msgstr "ספרות אחרי הנקודה"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Default"
@@ -765,6 +774,10 @@ msgstr "לא לאפשר"
 #: jamovi/client/main/main.js:748
 msgid "Don't Save"
 msgstr "לא לשמור"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.ts:303
 #: jamovi/client/main/backstage.ts:408
@@ -1014,6 +1027,10 @@ msgstr "מסננים לא יכולים להפנות לעמודות המכילו�
 msgid "Filters may not reference output variables"
 msgstr "מסננים לא יכולים להפנות למשתני פלט"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "התמקדות בגיליונות אלקטרוניים"
@@ -1181,6 +1198,10 @@ msgstr "אם הפסוק אמת, הערך ייבחר. אם לא, ה”אחרת“
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "תמונה"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
@@ -1408,14 +1429,6 @@ msgstr "שגיאה בספרייה"
 msgid "Link"
 msgstr "קישור"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "טוען"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid "Logical"
-msgstr "לוגיקה"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
 msgid "Main Effects"
 msgstr "אפקטים עיקריים"
@@ -1424,9 +1437,9 @@ msgstr "אפקטים עיקריים"
 msgid "Manage installed"
 msgstr "ניהול המותקנים"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "מתמטיקה"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1437,9 +1450,9 @@ msgstr "סולם מדידה"
 msgid "Minimal"
 msgstr "מינימלי"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:146
-msgid "Misc"
-msgstr "שונות"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
@@ -1712,9 +1725,17 @@ msgstr "מסמך PDF {ext}"
 msgid "Pin level"
 msgstr "הצמדת הרמה"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "אנא השתמשו בקיצור ctrl-v כדי להדביק לתוך גיליון הנתונים."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Plot theme"
@@ -1728,6 +1749,10 @@ msgstr "תרשימים"
 msgid "PNG Image {ext}"
 msgstr "תמונת PNG {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "העדפות"
@@ -1739,6 +1764,10 @@ msgstr "לחיצה על Enter לעריכה"
 #: jamovi/client/main/variableeditor.js:66
 msgid "Previous variable"
 msgstr "המשתנה הקודם"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
@@ -1779,10 +1808,6 @@ msgstr "אחרונים"
 #: jamovi/client/main/ribbon/variablestab.js:18
 msgid "Redo Edit"
 msgstr "שחזור עריכה"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:140
-msgid "Reference"
-msgstr "הפניה"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:430
@@ -2169,10 +2194,6 @@ msgstr "התקנה חיצונית"
 msgid "significant figures"
 msgstr "ספרות משמעותיות"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:160
-msgid "Simulation"
-msgstr "סימולציה"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
 msgstr "משתנה המקור"
@@ -2183,11 +2204,11 @@ msgstr "ייבוא מיוחד"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
-"מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט <i>piece</i> מצביע על החתיכה הרצויה "
-"לפי מיקום."
+"מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט <i>piece</i> מצביע על החתיכה "
+"הרצויה לפי מיקום."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2210,10 +2231,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.ts:122
 msgid "Stata files {ext}"
 msgstr "קובצי Stata {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "סטטיסטיקה"
 
 #: jamovi/client/main/ribbon/annotationtab.js:125
 msgid "Strike"
@@ -2398,6 +2415,12 @@ msgstr "מכשיר זה"
 #: jamovi/client/main/vareditor/formulatoolbar.js:250
 msgid "This is a data variable."
 msgstr "זהו משתנה נתונים."
+
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
@@ -2586,6 +2609,10 @@ msgstr "שגיאה בלתי צפויה"
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "Unrecognised file format"
 msgstr "סוג הקובץ אינו מוכר"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 #: jamovi/client/main/store/pagemodules.js:210

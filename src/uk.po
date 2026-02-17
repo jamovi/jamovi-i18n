@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-07-16 10:09+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
-"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/uk/>\n"
+"Language-Team: Ukrainian "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -36,6 +36,10 @@ msgstr "(теперішній)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Це примха Safari та iPad)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -419,6 +423,10 @@ msgstr "Буфер обміну"
 msgid "Close"
 msgstr "Закрити"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr "Закрити вікно jamovi"
@@ -451,6 +459,10 @@ msgstr[2] "Видалено {n} стовпців"
 msgid "Column is not editable"
 msgstr "Шпальта не доступний для редактирования"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -474,14 +486,6 @@ msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "Вычисляемая переменная"
 msgstr[1] "Кілька вычисляемых переменных ({n})"
 msgstr[2] "Кілька вычисляемых переменных ({n})"
-
-#: jamovi/client/main/instance.js:421
-msgid "Confirm overwite"
-msgstr "Підтвердити перезапись"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "Підтвердити видалення"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
@@ -547,6 +551,11 @@ msgstr "Скопировано"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "Копировать"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -644,10 +653,6 @@ msgstr[2] "Кілька переменных даних ({n})"
 msgid "Data weights"
 msgstr "Ваги даних"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr "Дата / Час"
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "Десятичная дробь"
@@ -656,6 +661,10 @@ msgstr "Десятичная дробь"
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
 msgstr "десятичных розрядів"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -759,6 +768,10 @@ msgstr "Не вмикати"
 #: jamovi/client/main/main.js:637
 msgid "Don't Save"
 msgstr "Не зберігати"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
@@ -1008,6 +1021,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr "Фільтри не можуть посилатися на вихідні переменные"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "Зосередьтеся на електронній таблиці"
@@ -1177,6 +1194,10 @@ msgstr "Якщо вираз має значення true, використову
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "Зображення"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1407,14 +1428,6 @@ msgstr "Помилка бібліотеки"
 msgid "Link"
 msgstr "Посилання"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "Завантаження"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:114
-msgid "Logical"
-msgstr "Логічні"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "Основні ефекти"
@@ -1423,9 +1436,9 @@ msgstr "Основні ефекти"
 msgid "Manage installed"
 msgstr "Управління установленным"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "Математичні"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1436,9 +1449,9 @@ msgstr "Вимір"
 msgid "Minimal"
 msgstr "Мінімальний"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:138
-msgid "Misc"
-msgstr "Різне"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1707,9 +1720,17 @@ msgstr "PDF-документ {ext}"
 msgid "Pin level"
 msgstr "Рівень контакту"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Використовуйте натомість ctrl-v для вставки в електронну таблицю."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1723,6 +1744,10 @@ msgstr "Ділянки"
 msgid "PNG Image {ext}"
 msgstr "Зображення PNG {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "Уподобання"
@@ -1734,6 +1759,10 @@ msgstr "Натисніть Enter, щоб редагувати"
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Попередня змінна"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1773,10 +1802,6 @@ msgstr "Недавні"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "Повторити правку"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Reference"
-msgstr "Заслання"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2164,10 +2189,6 @@ msgstr "Сторонние завантаження"
 msgid "significant figures"
 msgstr "значити цифри"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Simulation"
-msgstr "Симуляція"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "Початкова змінна"
@@ -2178,11 +2199,11 @@ msgstr "Спеціальний імпорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
-"Розбиває текст на частини на основі роздільника. <i>piece</i> вказує потрібну "
-"частину за індексом."
+"Розбиває текст на частини на основі роздільника. <i>piece</i> вказує "
+"потрібну частину за індексом."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2205,10 +2226,6 @@ msgstr "Stata {ext}"
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
 msgstr "Файли Stata {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "Статистичні"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2398,6 +2415,12 @@ msgstr "Це устрій"
 msgid "This is a data variable."
 msgstr "Це змінна даних."
 
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
 #: jamovi/client/main/backstage.js:1290
@@ -2583,6 +2606,10 @@ msgstr "Неочікувана помилка"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "Нерозпізнаний формат файлу"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127

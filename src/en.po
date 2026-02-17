@@ -29,6 +29,10 @@ msgstr ""
 msgid "(This is a quirk of Safari and iPads)"
 msgstr ""
 
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
 msgstr ""
@@ -409,6 +413,10 @@ msgstr ""
 msgid "Close"
 msgstr ""
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr ""
@@ -440,6 +448,10 @@ msgstr[1] ""
 msgid "Column is not editable"
 msgstr ""
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -462,14 +474,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
-
-#: jamovi/client/main/instance.js:394
-msgid "Confirm overwite"
-msgstr ""
-
-#: jamovi/client/main/store/pagemodules.js:178
-msgid "Confirm uninstall"
-msgstr ""
 
 #: jamovi/client/main/main.js:742
 msgid "Connection failed"
@@ -531,6 +535,11 @@ msgstr ""
 #: jamovi/client/main/utils/clipboardprompt.js:19
 #: jamovi/client/main/utils/clipboardprompt.js:21
 msgid "Copy"
+msgstr ""
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
 msgstr ""
 
 #: jamovi/client/main/tableview.js:1180
@@ -627,10 +636,6 @@ msgstr[1] ""
 msgid "Data weights"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr ""
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr ""
@@ -638,6 +643,10 @@ msgstr ""
 #: jamovi/client/main/ribbon/appmenu.js:62
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "decimal places"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
@@ -734,6 +743,10 @@ msgstr ""
 
 #: jamovi/client/main/main.js:634
 msgid "Don't Save"
+msgstr ""
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
 msgstr ""
 
 #: jamovi/client/main/backstage.js:1120
@@ -975,6 +988,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr ""
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr ""
@@ -1137,6 +1154,10 @@ msgstr ""
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
+msgstr ""
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
 msgstr ""
 
 #: jamovi/client/main/backstage.js:1277
@@ -1363,14 +1384,6 @@ msgstr ""
 msgid "Link"
 msgstr ""
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr ""
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:114
-msgid "Logical"
-msgstr ""
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr ""
@@ -1379,8 +1392,8 @@ msgstr ""
 msgid "Manage installed"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
 msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
@@ -1392,8 +1405,8 @@ msgstr ""
 msgid "Minimal"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:138
-msgid "Misc"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
 msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:238
@@ -1654,8 +1667,16 @@ msgstr ""
 msgid "Pin level"
 msgstr ""
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
+msgstr ""
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:91
@@ -1670,6 +1691,10 @@ msgstr ""
 msgid "PNG Image {ext}"
 msgstr ""
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr ""
@@ -1680,6 +1705,10 @@ msgstr ""
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
+msgstr ""
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:99
@@ -1719,10 +1748,6 @@ msgstr ""
 #: jamovi/client/main/ribbon/datatab.js:25
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
-msgstr ""
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Reference"
 msgstr ""
 
 #: jamovi/client/main/references.js:20
@@ -2095,10 +2120,6 @@ msgstr ""
 msgid "significant figures"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Simulation"
-msgstr ""
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr ""
@@ -2109,8 +2130,8 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 
 #: jamovi/client/main/tableview.js:62
@@ -2133,10 +2154,6 @@ msgstr ""
 
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
-msgstr ""
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
 msgstr ""
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
@@ -2319,6 +2336,12 @@ msgstr ""
 msgid "This is a data variable."
 msgstr ""
 
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
 #: jamovi/client/main/backstage.js:1290
@@ -2495,6 +2518,10 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
+msgstr ""
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
 msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:132

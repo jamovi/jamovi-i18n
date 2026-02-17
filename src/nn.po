@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "PO-Revision-Date: 2025-09-08 06:02+0000\n"
 "Last-Translator: Sebastian Jentschke <sebastian.jentschke@uib.no>\n"
-"Language-Team: Norwegian Nynorsk <https://hosted.weblate.org/projects/jamovi/"
-"jamovi-i18n/nn/>\n"
+"Language-Team: Norwegian Nynorsk "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nn/>\n"
 "Language: nn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -35,6 +35,10 @@ msgstr "(nåværend)"
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Dette er eit problem i Safari og på iPad-er)"
+
+#: jamovi/client/main/contextmenu/contextmenus.ts:189
+msgid "{} Options:"
+msgstr ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -418,6 +422,10 @@ msgstr "Utklippstavle"
 msgid "Close"
 msgstr "Lukk"
 
+#: jamovi/client/main/backstage.ts:1305
+msgid "Close file menu"
+msgstr ""
+
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
 msgstr ""
@@ -449,6 +457,10 @@ msgstr[1] ""
 msgid "Column is not editable"
 msgstr "Kolonnen kan ikkje redigerast"
 
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Comma"
+msgstr ""
+
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
 msgid "Compute"
@@ -471,14 +483,6 @@ msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] "Berekna variabel"
 msgstr[1] "Berekna variablar ({n})"
-
-#: jamovi/client/main/instance.js:421
-msgid "Confirm overwite"
-msgstr "Stadfest overkøyring"
-
-#: jamovi/client/main/store/pagemodules.js:209
-msgid "Confirm uninstall"
-msgstr "Bekreft avinstallasjon"
 
 #: jamovi/client/main/main.js:752
 msgid "Connection failed"
@@ -544,6 +548,11 @@ msgstr "Kopiert"
 #: jamovi/client/resultsview/group.js:215
 msgid "Copy"
 msgstr "Kopiar"
+
+#: jamovi/client/resultsview/element.ts:206
+#: jamovi/client/resultsview/group.ts:268
+msgid "Copy Latex"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -640,10 +649,6 @@ msgstr[1] "Datavariablar ({n})"
 msgid "Data weights"
 msgstr ""
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:158
-msgid "Date / Time"
-msgstr ""
-
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
 msgstr "Desimal"
@@ -652,6 +657,10 @@ msgstr "Desimal"
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "decimal places"
 msgstr "Desimalar"
+
+#: jamovi/client/main/ribbon/appmenu.ts:133
+msgid "Decimal symbol"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -752,6 +761,10 @@ msgstr "Ikkje aktiver"
 #: jamovi/client/main/main.js:637
 msgid "Don't Save"
 msgstr "Ikkje lager"
+
+#: jamovi/client/main/ribbon/appmenu.ts:134
+msgid "Dot"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
@@ -1001,6 +1014,10 @@ msgstr ""
 msgid "Filters may not reference output variables"
 msgstr "Filter kan ikkje referera til resultatvariablar"
 
+#: jamovi/client/analysisui/main.ts:333
+msgid "Find module in jamovi library"
+msgstr ""
+
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr ""
@@ -1170,6 +1187,10 @@ msgstr "Viss uttrykket blir sant, bruk verdien, elles det andre."
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "Bilete"
+
+#: jamovi/client/resultsview/image.ts:233
+msgid "Image resized to {width} by {height}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1400,14 +1421,6 @@ msgstr ""
 msgid "Link"
 msgstr "Lenkje"
 
-#: jamovi/client/main/progressbar.js:24
-msgid "Loading"
-msgstr "Laster"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:114
-msgid "Logical"
-msgstr "Logisk"
-
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
 msgid "Main Effects"
 msgstr "Hovudeffektar"
@@ -1416,9 +1429,9 @@ msgstr "Hovudeffektar"
 msgid "Manage installed"
 msgstr "Administrer installerte"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:48
-msgid "Math"
-msgstr "Matte"
+#: jamovi/client/analysisui/variableslistbox.ts:119
+msgid "Max: {count}"
+msgstr ""
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1429,9 +1442,9 @@ msgstr "Målenivå"
 msgid "Minimal"
 msgstr "Minimal"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:138
-msgid "Misc"
-msgstr "Diverse"
+#: jamovi/client/main/optionspanel.ts:175
+msgid "Missing or incompatible module"
+msgstr ""
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1697,9 +1710,17 @@ msgstr "PDF-dokument {ext}"
 msgid "Pin level"
 msgstr "Feste nivå"
 
+#: jamovi/client/analysisui/main.ts:331
+msgid "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Bruk Ctrl+V for å lima inn i reknearket."
+
+#: jamovi/client/resultsview/main.ts:221
+msgid "Plot"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1713,6 +1734,10 @@ msgstr "Figurar"
 msgid "PNG Image {ext}"
 msgstr "PNG-bilete {ext}"
 
+#: jamovi/client/main/resultspanel.ts:954
+msgid "PowerPoint Slide {ext}"
+msgstr ""
+
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "Innstillingar"
@@ -1724,6 +1749,10 @@ msgstr ""
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Førre variabel"
+
+#: jamovi/client/main/main.ts:274
+msgid "Project Save As"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1763,10 +1792,6 @@ msgstr "Siste filer"
 #: jamovi/client/main/ribbon/variablestab.js:19
 msgid "Redo Edit"
 msgstr "Gjenta redigering"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid "Reference"
-msgstr "Slå opp"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -2146,10 +2171,6 @@ msgstr "Legg til manuelt"
 msgid "significant figures"
 msgstr "gjeldande siffer"
 
-#: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Simulation"
-msgstr "Simulering"
-
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
 msgstr "Kjeldevariabel"
@@ -2160,8 +2181,8 @@ msgstr "Spesiell import"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the desired "
-"piece by index."
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
 msgstr ""
 "Deler opp tekst basert på eit skiljeteikn. <i>piece</i> spesifiserer ønsket "
 "brikke etter indeks."
@@ -2187,10 +2208,6 @@ msgstr "Stata-fil {ext}"
 #: jamovi/client/main/backstage.js:981
 msgid "Stata files {ext}"
 msgstr "Stata-filer {ext}"
-
-#: jamovi/client/main/vareditor/formulatoolbar.js:60
-msgid "Statistical"
-msgstr "Statistisk"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
 msgid "Strike"
@@ -2380,6 +2397,12 @@ msgstr "Denne PCen"
 msgid "This is a data variable."
 msgstr "Dette er ein datavariabel."
 
+#: jamovi/client/analysisui/main.ts:330
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
 #: jamovi/client/main/backstage.js:1290
@@ -2566,6 +2589,10 @@ msgstr "Uventa feil"
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
 msgstr "Ukjent filformat"
+
+#: jamovi/server/jamovi/server/formatio/blank.py
+msgid "Untitled"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
