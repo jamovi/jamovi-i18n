@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-02-17 13:09+0000\n"
+"PO-Revision-Date: 2026-02-17 14:09+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -1698,7 +1698,7 @@ msgstr "Tema del gráfico"
 
 #: jamovi/client/main/ribbon/appmenu.js:88
 msgid "Plots"
-msgstr "Gráficos"
+msgstr "Tramas"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
@@ -2083,7 +2083,7 @@ msgstr "secuencial"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Set1"
-msgstr "Set1"
+msgstr "Conjunto1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
