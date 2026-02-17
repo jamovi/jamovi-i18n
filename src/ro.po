@@ -1,15 +1,13 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-10-20 14:16+0000\n"
+msgstr "PO-Revision-Date: 2024-10-20 14:16+0000\n"
 "Last-Translator: Are4 <are4.yt@gmail.com>\n"
-"Language-Team: Romanian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ro/>\n"
+"Language-Team: Romanian <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ro/>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < "
-"20)) ? 1 : 2;\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : (n==0 || (n%100 > 0 && n%100 < 20)) ? 1 : 2;\n"
 "X-Generator: Weblate 5.8-rc\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -17,11 +15,9 @@ msgid "'{}' is in error"
 msgstr "'{}' dă eroare"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"'{}' nu este un argument pentru {}()\n"
+msgstr "'{}' nu este un argument pentru {}()\n"
 "(Dacă dorești să testezi egalitatea, folosește două semne de egalitate '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
@@ -37,12 +33,14 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Aceasta este o problemă a Safari și iPad-urilor)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "Opțiuni {}:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
+#, fuzzy
 msgid "{0} directory contents"
-msgstr ""
+msgstr "Conținutul dosarului {0}"
 
 #: jamovi/client/main/tableview.js:1413
 msgid "{columnType} columns may not be edited."
@@ -51,22 +49,25 @@ msgstr "Coloanele de tipul {columnType} nu pot fi editate."
 #: jamovi/client/analysisui/formatdef.js:116
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
+#, fuzzy
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} și {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
+#, fuzzy
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
 msgstr "{m} a fost dezinstalat cu succes"
 
 #: jamovi/client/main/store/pagemodules.js:369
+#, fuzzy
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} a fost instalat cu succes"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
@@ -84,8 +85,9 @@ msgid "{n} sf"
 msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
+#, fuzzy
 msgid "{name} variable"
-msgstr ""
+msgstr "Variabilă {name}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -93,28 +95,34 @@ msgstr "{r} nu este un număr întreg"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
+#, fuzzy
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "Annotare inițială {title}"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
+#, fuzzy
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} nu este permis. Măsură sau tip de date incorect."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
+#, fuzzy
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} adăugat la {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
+#, fuzzy
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} elemente adăugate în {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
+#, fuzzy
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} elemente au fost eliminate din {list}."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
+#, fuzzy
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} eliminate din {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:284
 msgid "A change of language requires jamovi to be restarted"
@@ -129,12 +137,8 @@ msgid "Accent"
 msgstr "Accentuat"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
-msgstr ""
-"Accesul refuzat. Este posibil să nu ai permisiunile corespunzătoare pentru a "
-"accesa această resursă."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgstr "Accesul refuzat. Este posibil să nu ai permisiunile corespunzătoare pentru a accesa această resursă."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -149,21 +153,25 @@ msgid "Add"
 msgstr "Adaugă"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
+#, fuzzy
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Adaugă {1} elemente la {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:264
 #: jamovi/client/main/vareditor/filterwidget.js:408
+#, fuzzy
 msgid "Add another nested filter"
-msgstr ""
+msgstr "Adaugă un alt filtru încorporat"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
+#, fuzzy
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Adaugă elementul {1} la {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
+#, fuzzy
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Adăugați elemente la {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -178,12 +186,14 @@ msgid "Add new level"
 msgstr "Adaugă un nivel nou"
 
 #: jamovi/client/main/ribbon/datatab.js:70
+#, fuzzy
 msgid "Add new rows"
-msgstr ""
+msgstr "Adaugă rânduri noi"
 
 #: jamovi/client/main/ribbon/datatab.js:43
+#, fuzzy
 msgid "Add new variable"
-msgstr ""
+msgstr "Adaugă o variabilă nouă"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -209,8 +219,9 @@ msgstr "Toate"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1034
 #: jamovi/client/analysisui/gridtargetcontrol.js:1035
 #: jamovi/client/analysisui/gridtargetcontrol.js:1036
+#, fuzzy
 msgid "All {n} way"
-msgstr ""
+msgstr "Toate {n} moduri"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:465
 msgid "An online data set hosted by {hostname}"
@@ -221,8 +232,9 @@ msgid "An unexpected error has occured, and jamovi must now close."
 msgstr "A apărut o eroare neașteptată, iar jamovi trebuie să se închidă acum."
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "A apărut o eroare neașteptată"
 
 #: jamovi/client/main/ribbon/analysetab.js:14
 #: jamovi/client/main/ribbon/analysetab.js:97
@@ -239,41 +251,48 @@ msgstr "Analiză"
 
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
+#, fuzzy
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Antet de analiză - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:402
 msgid "and"
 msgstr "și"
 
 #: jamovi/client/resultsview/annotation.js:168
+#, fuzzy
 msgid "Annotation"
-msgstr ""
+msgstr "Annotare"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
+#, fuzzy
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Annotație pentru grupul {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
+#, fuzzy
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Annotare pentru imagine {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
+#, fuzzy
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Annotare pentru elementul {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
+#, fuzzy
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Annotare pentru listă {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
+#, fuzzy
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Annotare pentru tabel {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -301,8 +320,9 @@ msgstr "Câte rânduri să fie adăugate?"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
+#, fuzzy
 msgid "Append Row..."
-msgstr ""
+msgstr "Adaugă rând..."
 
 #: jamovi/client/main/variableeditor.js:191
 msgid "Apply changes"
@@ -335,8 +355,9 @@ msgid "Available"
 msgstr "Valabil"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
+#, fuzzy
 msgid "Available items"
-msgstr ""
+msgstr "Elemente disponibile"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -347,8 +368,9 @@ msgid "Black & white"
 msgstr "Alb și negru"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Blues"
-msgstr ""
+msgstr "Blues"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Bold"
@@ -359,128 +381,157 @@ msgid "Browse"
 msgstr "Navigare"
 
 #: jamovi/client/main/ribbon/annotationtab.js:153
+#, fuzzy
 msgid "Bullet List"
-msgstr ""
+msgstr "Listă cu puncte"
 
 #: jamovi/client/main/main.js:748
 #: jamovi/client/main/notifications.js:33
+#, fuzzy
 msgid "Cancel"
-msgstr ""
+msgstr "Anulează"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "Nu se poate atribui o valoare non-integer coloanei '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr ""
+msgstr "Nu se poate atribui o valoare non-numerică coloanei '{}'"
 
 #: jamovi/client/main/tableview.js:1471
+#, fuzzy
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr ""
+msgstr "Nu se poate atribui o valoare non-numerică coloanei '{columnName}'"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign to computed column '{}'"
-msgstr ""
+msgstr "Nu se poate atribui coloanei calculate '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign to filter column '{}'"
-msgstr ""
+msgstr "Nu se poate atribui coloanei de filtrare '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign to recoded column '{}'"
-msgstr ""
+msgstr "Nu se poate atribui coloanei recodificate '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign to these columns."
-msgstr ""
+msgstr "Nu se poate atribui acestor coloane."
 
 #: jamovi/client/main/tableview.js:96
+#, fuzzy
 msgid "Cells edited"
-msgstr ""
+msgstr "Celule editate"
 
 #: jamovi/client/main/ribbon/annotationtab.js:145
+#, fuzzy
 msgid "Center Align"
-msgstr ""
+msgstr "Aliniere la centru"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:92
+#, fuzzy
 msgid "change label..."
-msgstr ""
+msgstr "schimbați eticheta..."
 
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "Circular reference detected"
-msgstr ""
+msgstr "Referinț circulară detectată"
 
 #: jamovi/client/main/resultspanel.js:447
+#, fuzzy
 msgid "Clear selection"
-msgstr ""
+msgstr "Șterge selecția"
 
 #: jamovi/client/main/ribbon/annotationtab.js:100
 #: jamovi/client/main/ribbon/datatab.js:24
+#, fuzzy
 msgid "Clipboard"
-msgstr ""
+msgstr "Clipboard"
 
 #: jamovi/client/main/infobox.js:277
+#, fuzzy
 msgid "Close"
-msgstr ""
+msgstr "Închide"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "Închide meniul fișierului"
 
 #: jamovi/client/main/main.ts:311
+#, fuzzy
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Închide fereastra jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
+#, fuzzy
 msgid "Close preferences"
-msgstr ""
+msgstr "Închide preferințele"
 
 #: jamovi/client/main/ribbon/annotationtab.js:170
+#, fuzzy
 msgid "Code-Block"
-msgstr ""
+msgstr "Bloc de cod"
 
 #: jamovi/client/main/ribbon/appmenu.js:118
+#, fuzzy
 msgid "Color palette"
-msgstr ""
+msgstr "Paletă de culori"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
+#, fuzzy
 msgid "Column '{}' does not exist in the dataset"
-msgstr ""
+msgstr "Coloana '{}' nu există în setul de date"
 
 #: jamovi/client/main/viewcontroller.js:294
+#, fuzzy
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:1412
+#, fuzzy
 msgid "Column is not editable"
-msgstr ""
+msgstr "Coloana nu este editabilă"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "Virgulă"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 #: jamovi/client/main/ribbon/variablestab.js:23
+#, fuzzy
 msgid "Compute"
-msgstr ""
+msgstr "Calculează"
 
 #: jamovi/client/main/dataset.js:1316
+#, fuzzy
 msgid "Computed"
-msgstr ""
+msgstr "Calculat"
 
 #: jamovi/client/main/tableview.js:307
+#, fuzzy
 msgid "Computed variable"
-msgstr ""
+msgstr "Variabilă calculată"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:105
 #: jamovi/client/main/contextmenu/contextmenus.js:62
 #: jamovi/client/main/ribbon/datatab.js:49
 #: jamovi/client/main/ribbon/variablestab.js:32
 #: jamovi/client/main/vareditor/editorwidget.js:246
+#, fuzzy
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
 msgstr[0] ""
@@ -488,52 +539,63 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: jamovi/client/main/main.js:885
+#, fuzzy
 msgid "Connection failed"
-msgstr ""
+msgstr "Conexiunea a eșuat"
 
 #: jamovi/client/main/main.js:142
 #: jamovi/client/main/main.js:149
+#, fuzzy
 msgid "Connection lost"
-msgstr ""
+msgstr "Conexiunea a fost ștearsă"
 
 #: jamovi/client/main/editors/transformeditor.js:249
 #: jamovi/client/main/vareditor/datavarwidget.js:288
 #: jamovi/client/main/vareditor/measurelist.js:57
+#, fuzzy
 msgid "Continuous"
-msgstr ""
+msgstr "Continuu"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
+#, fuzzy
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr ""
+msgstr "Scurtătură convenabilă pentru ABS(IQR( variabil ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
+#, fuzzy
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr ""
+msgstr "Scurtătură convenabilă pentru ABS(Z( variabilă ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
+#, fuzzy
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Scurtătură convenabilă pentru MAX(ABSIQR( variabilă 1, variabilă 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
+#, fuzzy
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
+msgstr "Scurtătură de conveniență pentru MAX(ABSZ( variabilă 1, variabilă 2, … ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
+#, fuzzy
 msgid "Converts a number to an integer."
-msgstr ""
+msgstr "Convertește un număr într-un întreg."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
+#, fuzzy
 msgid "Converts text to a number (if possible)."
-msgstr ""
+msgstr "Convertește textul într-un număr (dacă este posibil)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:136
+#, fuzzy
 msgid "Converts the value to text."
-msgstr ""
+msgstr "Convertește valoarea în text."
 
 #: jamovi/client/main/resultspanel.js:690
 #: jamovi/client/main/resultspanel.js:796
+#, fuzzy
 msgid "Copied"
-msgstr ""
+msgstr "Copiat"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:133
 #: jamovi/client/main/contextmenu/contextmenus.js:14
@@ -549,100 +611,121 @@ msgstr ""
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:210
 #: jamovi/client/resultsview/group.js:212
+#, fuzzy
 msgid "Copy"
-msgstr ""
+msgstr "Copiază"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "Copiază Latex"
 
 #: jamovi/client/main/tableview.js:1470
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not assign data"
-msgstr ""
+msgstr "Nu s-a putut atribui datele"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not delete rows"
-msgstr ""
+msgstr "Nu s-au putut șterge rândurile"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not insert columns"
-msgstr ""
+msgstr "Nu s-au putut insera coloane"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not insert rows"
-msgstr ""
+msgstr "Nu s-a putut insera rânduri"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not modify columns"
-msgstr ""
+msgstr "Nu s-a putut modifica coloanele"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not modify transform"
-msgstr ""
+msgstr "Nu s-a putut modifica transformarea"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Could not perform operation"
-msgstr ""
+msgstr "Nu s-a putut efectua operația"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
+#, fuzzy
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Numără valorile lipsă"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
+#, fuzzy
 msgid "Create New Transform..."
-msgstr ""
+msgstr "Creați o nouă transformare..."
 
 #: jamovi/client/main/backstage.ts:116
 #: jamovi/client/main/backstage.ts:173
 #: jamovi/client/main/backstage.ts:195
+#, fuzzy
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
+msgstr "CSV (delimitat de virgulă) {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
 #: jamovi/client/main/ribbon/annotationtab.js:104
 #: jamovi/client/main/ribbon/datatab.js:27
+#, fuzzy
 msgid "Cut"
-msgstr ""
+msgstr "Taie"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Dark2"
-msgstr ""
+msgstr "Dark2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:15
+#, fuzzy
 msgid "Data"
-msgstr ""
+msgstr "Date"
 
 #: jamovi/client/main/backstage.ts:110
+#, fuzzy
 msgid "Data files"
-msgstr ""
+msgstr "Fișiere de date"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Datele sunt neponderate"
 
 #: jamovi/client/main/backstage.ts:368
 #: jamovi/client/main/backstage.ts:455
 #: jamovi/client/main/utils/pathtools.js:17
+#, fuzzy
 msgid "Data Library"
-msgstr ""
+msgstr "Bibliotecă de date"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
+#, fuzzy
 msgid "Data status bar"
-msgstr ""
+msgstr "Bară de stare a datelor"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
+#, fuzzy
 msgid "Data type"
-msgstr ""
+msgstr "Tip de date"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:110
 #: jamovi/client/main/contextmenu/contextmenus.js:58
 #: jamovi/client/main/ribbon/datatab.js:44
 #: jamovi/client/main/ribbon/variablestab.js:27
 #: jamovi/client/main/vareditor/editorwidget.js:244
+#, fuzzy
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] ""
@@ -650,37 +733,45 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: jamovi/client/main/ribbon/datatab.js:41
+#, fuzzy
 msgid "Data weights"
-msgstr ""
+msgstr "Greutăţi ale datelor"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
+#, fuzzy
 msgid "Decimal"
-msgstr ""
+msgstr "Zecimal"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
+#, fuzzy
 msgid "decimal places"
-msgstr ""
+msgstr "zecimale"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "Simbol zecimal"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
+#, fuzzy
 msgid "Default"
-msgstr ""
+msgstr "Implicit"
 
 #: jamovi/client/main/ribbon/appmenu.js:130
+#, fuzzy
 msgid "Default missings"
-msgstr ""
+msgstr "Lipsuri implicite"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 #: jamovi/client/main/ribbon/datatab.js:74
 #: jamovi/client/main/ribbon/variablestab.js:42
+#, fuzzy
 msgid "Delete"
-msgstr ""
+msgstr "Șterge"
 
 #: jamovi/client/main/viewcontroller.js:275
+#, fuzzy
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
 msgstr[0] ""
@@ -689,15 +780,18 @@ msgstr[2] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:122
 #: jamovi/client/main/contextmenu/contextmenus.js:137
+#, fuzzy
 msgid "Delete Filter"
-msgstr ""
+msgstr "Șterge filtru"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
+#, fuzzy
 msgid "Delete Row"
-msgstr ""
+msgstr "Șterge rând"
 
 #: jamovi/client/main/viewcontroller.js:325
+#, fuzzy
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
 msgstr[0] ""
@@ -705,22 +799,27 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
+#, fuzzy
 msgid "Delete Rows"
-msgstr ""
+msgstr "Ȗtergeți răndurile"
 
 #: jamovi/client/main/ribbon/datatab.js:74
+#, fuzzy
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Șterge rândurile selectate"
 
 #: jamovi/client/main/ribbon/datatab.js:63
+#, fuzzy
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Ȗterge variabilele selectate"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
+#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Șterge transformarea - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
+#, fuzzy
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
 msgstr[0] ""
@@ -728,89 +827,102 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: jamovi/client/main/tableview.js:98
+#, fuzzy
 msgid "Deleted"
-msgstr ""
+msgstr "Șters"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 #: jamovi/client/main/vareditor/editorwidget.js:67
 #: jamovi/client/main/vareditor/filterwidget.js:506
 #: jamovi/client/main/variablesview.js:341
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "Descriere"
 
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
+#, fuzzy
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "Determină dacă oricare dintre elemente apar și și și in1, in2, in3, .... Notați că majoritatea acestor argumente sunt optionale -- este posibil să se utilizeze <b>CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
+#, fuzzy
 msgid "Developer mode"
-msgstr ""
+msgstr "Modul dezvoltator"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Documents"
-msgstr ""
+msgstr "Documente"
 
 #: jamovi/client/main/main.js:461
+#, fuzzy
 msgid "Don't enable"
-msgstr ""
+msgstr "Nu activa"
 
 #: jamovi/client/main/main.js:748
+#, fuzzy
 msgid "Don't Save"
-msgstr ""
+msgstr "Nu salvați"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "Punct"
 
 #: jamovi/client/main/backstage.ts:303
 #: jamovi/client/main/backstage.ts:408
 #: jamovi/client/main/backstage.ts:421
+#, fuzzy
 msgid "Download"
-msgstr ""
+msgstr "Descărcare"
 
 #: jamovi/client/main/utils/pathtools.js:9
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Downloads"
-msgstr ""
+msgstr "Descărcări"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
+#, fuzzy
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "Trage un eșantion de n din variabilă. de ex. SAMPLE(var, 20), de ex. SAMPLE(1, 20), de ex. SAMPLE('antrenament', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
+#, fuzzy
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "Extrage mostre dintr-o distribuție Beta."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
+#, fuzzy
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "Extrage mostre dintr-o distribuție Gamma."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:166
+#, fuzzy
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Trage mostre dintr-o distribuție normală (Gaussian)."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:168
+#, fuzzy
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Trage mostre dintr-o distribuție uniformă."
 
 #: jamovi/client/resultsview/group.js:212
+#, fuzzy
 msgid "Duplicate"
-msgstr ""
+msgstr "Duplică"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
+#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "Duplică transformarea - {transformName}"
 
 #: jamovi/client/main/main.js:190
 #: jamovi/client/main/ribbon/annotationtab.js:112
@@ -821,85 +933,104 @@ msgstr ""
 #: jamovi/client/main/tableview.js:1184
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1613
+#, fuzzy
 msgid "Edit"
-msgstr ""
+msgstr "Editează"
 
 #: jamovi/client/main/tableview.js:104
+#, fuzzy
 msgid "Edit filters"
-msgstr ""
+msgstr "Editează filtre"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
+#, fuzzy
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "Editează transformare - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:126
 #: jamovi/client/main/contextmenu/contextmenus.js:141
 #: jamovi/client/main/vareditor/recodedvarwidget.js:38
+#, fuzzy
 msgid "Edit..."
-msgstr ""
+msgstr "Editează..."
 
 #: jamovi/client/main/editors/transformeditor.js:381
 #: jamovi/client/main/editors/transformeditor.js:438
+#, fuzzy
 msgid "else use"
-msgstr ""
+msgstr "altfel utilizează"
 
 #: jamovi/client/main/main.js:462
+#, fuzzy
 msgid "Enable"
-msgstr ""
+msgstr "Activează"
 
 #: jamovi/client/main/ribbon.js:131
+#, fuzzy
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Activează/dezactivează modul de ecran complet"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
+#, fuzzy
 msgid "Enter"
-msgstr ""
+msgstr "Introduceți"
 
 #: jamovi/client/main/variablesview.js:153
+#, fuzzy
 msgid "Enter description"
-msgstr ""
+msgstr "Introduceți descrierea"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:238
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:296
+#, fuzzy
 msgid "Enter file name here"
-msgstr ""
+msgstr "Introduceți numele fișierului aici"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:90
+#, fuzzy
 msgid "Enter label..."
-msgstr ""
+msgstr "Introduceți etichetă..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:86
+#, fuzzy
 msgid "Enter level value"
-msgstr ""
+msgstr "Introdu valoarea nivelului"
 
 #: jamovi/client/main/variablesview.js:152
+#, fuzzy
 msgid "Enter name"
-msgstr ""
+msgstr "Introdu nume"
 
 #: jamovi/client/resultsview/annotation.js:149
+#, fuzzy
 msgid "Enter your URL here"
-msgstr ""
+msgstr "Introdu adresa URL aici"
 
 #: jamovi/client/main/resultspanel.js:728
+#, fuzzy
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "Imagine EPS {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
+#, fuzzy
 msgid "Equal to"
-msgstr ""
+msgstr "Egal cu"
 
 #: jamovi/client/main/strings.ts:12
+#, fuzzy
 msgid "Error"
-msgstr ""
+msgstr "Eroare"
 
 #: jamovi/client/main/backstage.ts:119
+#, fuzzy
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
+#, fuzzy
 msgid "Exploration"
-msgstr ""
+msgstr "Explorare"
 
 #: jamovi/client/main/backstage.ts:417
 #: jamovi/client/main/backstage.ts:508
@@ -907,94 +1038,116 @@ msgstr ""
 #: jamovi/client/main/resultspanel.js:601
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:212
+#, fuzzy
 msgid "Export"
-msgstr ""
+msgstr "Exportă"
 
 #: jamovi/client/main/resultspanel.js:723
+#, fuzzy
 msgid "Export image"
-msgstr ""
+msgstr "Exportă imagine"
 
 #: jamovi/client/main/resultspanel.js:752
+#, fuzzy
 msgid "Export results"
-msgstr ""
+msgstr "Exportă rezultate"
 
 #: jamovi/client/main/instance.ts:425
+#, fuzzy
 msgid "Exported"
-msgstr ""
+msgstr "Exportate"
 
 #: jamovi/client/main/instance.ts:425
+#, fuzzy
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "Exportat în '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
+#, fuzzy
 msgid "Factor"
-msgstr ""
+msgstr "Factor"
 
 #: jamovi/client/main/main.js:184
 #: jamovi/client/main/ribbon.js:128
+#, fuzzy
 msgid "File"
-msgstr ""
+msgstr "Fișier"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
+#, fuzzy
 msgid "File format is not supported"
-msgstr ""
+msgstr "Formatul fișierului nu este suportat"
 
 #: jamovi/client/main/instance.ts:150
+#, fuzzy
 msgid "File imported"
-msgstr ""
+msgstr "Fișierul a fost importat"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
+#, fuzzy
 msgid "File is corrupt"
-msgstr ""
+msgstr "Fișierul este corupt"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
+#, fuzzy
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "Fişirul este corupt (manifestul este corupt sau lipsă)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
+#, fuzzy
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "Fișierul este corupt (manifestul este corupt)"
 
 #: jamovi/client/main/ribbon.js:174
+#, fuzzy
 msgid "File menu"
-msgstr ""
+msgstr "Meniu fișier"
 
 #: jamovi/client/main/backstage.ts:1184
+#, fuzzy
 msgid "File menu items"
-msgstr ""
+msgstr "Elemente de meniu fișier"
 
 #: jamovi/client/main/instance.ts:419
+#, fuzzy
 msgid "File Saved"
-msgstr ""
+msgstr "Fișier salvat"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
+#, fuzzy
 msgid "File type"
-msgstr ""
+msgstr "Tip fişier"
 
 #: jamovi/client/main/dataset.js:1322
+#, fuzzy
 msgid "Filter"
-msgstr ""
+msgstr "Filtru"
 
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "Filter {}"
-msgstr ""
+msgstr "Filtru {}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:493
+#, fuzzy
 msgid "Filter {i}"
-msgstr ""
+msgstr "Filtru {i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:381
 #: jamovi/client/main/vareditor/filterwidget.js:496
+#, fuzzy
 msgid "Filter is active"
-msgstr ""
+msgstr "Filtru activ"
 
 #: jamovi/client/main/vareditor/filterwidget.js:386
+#, fuzzy
 msgid "Filter is inactive"
-msgstr ""
+msgstr "Filtrul este inactiv"
 
 #: jamovi/client/main/tableview.js:99
+#, fuzzy
 msgid "Filtered"
-msgstr ""
+msgstr "Filtrat"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -1002,230 +1155,281 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:47
 #: jamovi/client/main/tableview.js:104
 #: jamovi/client/main/variablesview.js:61
+#, fuzzy
 msgid "Filters"
-msgstr ""
+msgstr "Filtre"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
+#, fuzzy
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "Filtrează o variabilă folosind expresia de filtrare."
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
+msgstr "Filtrele nu pot face referire la coloane folosind 'V' sau funcții de coloană"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "Filtrele nu pot face referire la variabile de ieșire"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "Găsește modulul în biblioteca jamovi"
 
 #: jamovi/client/main/main.ts:243
+#, fuzzy
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Concentrează-te pe foaie de calcul"
 
 #: jamovi/client/main/main.ts:262
+#, fuzzy
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "Concentrare pe configurarea variabilelor"
 
 #: jamovi/client/main/main.ts:248
+#, fuzzy
 msgid "Focus on variable list"
-msgstr ""
+msgstr "Concentrare pe lista de variabile"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
+#, fuzzy
 msgid "Font"
-msgstr ""
+msgstr "Font"
 
 #: jamovi/client/main/ribbon/annotationtab.js:164
 #: jamovi/client/main/vareditor/computedvarwidget.js:76
+#, fuzzy
 msgid "Formula"
-msgstr ""
+msgstr "Formulă"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "Formula conține nod ilegal"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
-msgstr ""
+#, fuzzy
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr "Formula este specificată incorect (Dacă doriți să testați egalitatea, utilizați două semne de egalitate '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
+#, fuzzy
 msgid "Frequencies"
-msgstr ""
+msgstr "Frecvenţe"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
+#, fuzzy
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "Funcția {}() nu există"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "Funcţia {}() necesită cel puţin {} argument{}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "Funcția {}() necesită și {} și {} argumente"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "Funcția {}() acceptă {} argument{}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:188
+#, fuzzy
 msgid "Functions"
-msgstr ""
+msgstr "Funcții"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
+#, fuzzy
 msgid "Greater than"
-msgstr ""
+msgstr "Mai mare decât"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
+#, fuzzy
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Mai mare sau egal cu"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Greens"
-msgstr ""
+msgstr "Verzi"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Greys"
-msgstr ""
+msgstr "Gri"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:70
+#, fuzzy
 msgid "Group"
-msgstr ""
+msgstr "Grup"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Hadley"
-msgstr ""
+msgstr "Hadley"
 
 #: jamovi/client/main/ribbon/annotationtab.js:171
+#, fuzzy
 msgid "Heading"
-msgstr ""
+msgstr "Titlu"
 
 #: jamovi/client/resultsview/annotation.js:139
+#, fuzzy
 msgid "Help"
-msgstr ""
+msgstr "Ajutor"
 
 #: jamovi/client/main/infobox.js:31
+#, fuzzy
 msgid "Hi"
-msgstr ""
+msgstr "Salut"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
+#, fuzzy
 msgid "Hidden"
-msgstr ""
+msgstr "Ascuns"
 
 #: jamovi/client/main/store/pagemodules.js:226
 #: jamovi/client/main/variableeditor.js:193
 #: jamovi/client/main/variableeditor.js:64
+#, fuzzy
 msgid "Hide"
-msgstr ""
+msgstr "Ascunde"
 
 #: jamovi/client/main/main.ts:238
+#, fuzzy
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Ascunde opțiunile de analiză"
 
 #: jamovi/client/main/vareditor/filterwidget.js:70
+#, fuzzy
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Ascundeți coloanele de filtrare"
 
 #: jamovi/client/main/store.js:29
+#, fuzzy
 msgid "Hide library"
-msgstr ""
+msgstr "Ascunde biblioteca"
 
 #: jamovi/client/main/store/pagemodules.js:271
+#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "Ascunde modulul {moduleName} de pe banda de analize"
 
 #: jamovi/client/analysisui/main.js:235
+#, fuzzy
 msgid "Hide options"
-msgstr ""
+msgstr "Ascunde opţiunile"
 
 #: jamovi/client/main/variableeditor.js:52
+#, fuzzy
 msgid "Hide variable setup"
-msgstr ""
+msgstr "Ascunde configurarea variabilei"
 
 #: jamovi/client/main/ribbon/annotationtab.js:133
+#, fuzzy
 msgid "Highlight Color"
-msgstr ""
+msgstr "Culoare de evidențiere"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "Acasă"
 
 #: jamovi/client/resultsview/html.js:53
+#, fuzzy
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "I ♥ SPSS"
 
 #: jamovi/client/main/editors/transformeditor.js:250
 #: jamovi/client/main/vareditor/datavarwidget.js:289
 #: jamovi/client/main/vareditor/measurelist.js:61
+#, fuzzy
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 #: jamovi/client/main/notification.js:74
+#, fuzzy
 msgid "Idle session"
-msgstr ""
+msgstr "Sesiune inactivă"
 
 #: jamovi/client/main/editors/transformeditor.js:376
+#, fuzzy
 msgid "if"
-msgstr ""
+msgstr "dacă"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
+#, fuzzy
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr ""
+msgstr "Dacă expresia se rezolvă la adevărat, se utilizează valoarea, altfel altceva."
 
 #: jamovi/client/resultsview/image.js:54
+#, fuzzy
 msgid "Image"
-msgstr ""
+msgstr "Imagine"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Imagine redimensionată la {width} pe {height}"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
+#, fuzzy
 msgid "Import"
-msgstr ""
+msgstr "Importă"
 
 #: jamovi/client/main/instance.ts:151
+#, fuzzy
 msgid "Import successful"
-msgstr ""
+msgstr "Import realizat cu succes"
 
 #: jamovi/client/main/vareditor/editorwidget.js:42
+#, fuzzy
 msgid "Imported as"
-msgstr ""
+msgstr "Importat ca"
 
 #: jamovi/client/main/instance.ts:133
+#, fuzzy
 msgid "Importing"
-msgstr ""
+msgstr "Importare"
 
 #: jamovi/client/main/ribbon/appmenu.js:221
+#, fuzzy
 msgid "In development"
-msgstr ""
+msgstr "În dezvoltare"
 
 #: jamovi/client/main/vareditor/filterwidget.js:384
 #: jamovi/client/main/vareditor/filterwidget.js:534
+#, fuzzy
 msgid "inactive"
-msgstr ""
+msgstr "inactiv"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
+#, fuzzy
 msgid "Indent -1"
-msgstr ""
+msgstr "Indentare -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
+#, fuzzy
 msgid "Indent +1"
-msgstr ""
+msgstr "Indent +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -1241,307 +1445,370 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:38
+#, fuzzy
 msgid "Insert"
-msgstr ""
+msgstr "Inserează"
 
 #: jamovi/client/main/viewcontroller.js:593
+#, fuzzy
 msgid "Insert how many rows?"
-msgstr ""
+msgstr "Inserează câte rânduri?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
+#, fuzzy
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "Inserează o nouă variabilă calculată"
 
 #: jamovi/client/main/ribbon/datatab.js:40
+#, fuzzy
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "Inserează o nouă variabilă transformată"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
+#, fuzzy
 msgid "Insert Row..."
-msgstr ""
+msgstr "Inserați rând..."
 
 #: jamovi/client/main/store/pagemodules.js:199
+#, fuzzy
 msgid "Install"
-msgstr ""
+msgstr "Instalează"
 
 #: jamovi/client/main/store/pagemodules.js:240
+#, fuzzy
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "Instalează modulul {moduleName} versiunea {version}"
 
 #: jamovi/client/main/store.js:50
 #: jamovi/client/main/store/pagemodules.js:202
+#, fuzzy
 msgid "Installed"
-msgstr ""
+msgstr "Instalat"
 
 #: jamovi/client/main/ribbon/analysetab.js:119
+#, fuzzy
 msgid "Installed Modules"
-msgstr ""
+msgstr "Module instalate"
 
 #: jamovi/client/main/store/pagemodules.js:216
+#, fuzzy
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "Versiunea instalată trebuie actualizată"
 
 #: jamovi/client/main/store/pagemodules.js:364
+#, fuzzy
 msgid "Installing {module}"
-msgstr ""
+msgstr "Se instalează {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
+#, fuzzy
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "Instalarea modulelor nu este disponibilă în planul dvs."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
+#, fuzzy
 msgid "Integer"
-msgstr ""
+msgstr "Întreg"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1030
+#, fuzzy
 msgid "Interaction"
-msgstr ""
+msgstr "Interacţiune"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1031
+#, fuzzy
 msgid "Interactions"
-msgstr ""
+msgstr "Interacţiuni"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
+#, fuzzy
 msgid "Inverts the value."
-msgstr ""
+msgstr "Inversează valoarea."
 
 #: jamovi/client/main/tableview.js:542
 #: jamovi/client/main/tableview.js:581
 #: jamovi/client/main/tableview.js:636
+#, fuzzy
 msgid "Issue with formula"
-msgstr ""
+msgstr "Problemă cu formula"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
+#, fuzzy
 msgid "Italic"
-msgstr ""
+msgstr "Italic"
 
 #: jamovi/client/main/backstage.ts:145
 #: jamovi/client/main/backstage.ts:155
 #: jamovi/client/main/backstage.ts:238
+#, fuzzy
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "fişir jamovi {ext}"
 
 #: jamovi/client/main/backstage.ts:114
+#, fuzzy
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "fişiere jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
-msgstr ""
+#, fuzzy
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi este acum disponibil în limba {insert translation language}! (Mulțumim lui {insert your name here (sau pune o echipă de traducere jamovi, dacă nu doriți credit)})"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
-msgstr ""
+#, fuzzy
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi este acum disponibil și și și { insert translation language }! (Mulțumim @ { insert your twitter handle here (sau pune o echipă de traducere mai generică și și și Ȣthe jamovi translation teamȢ, dacă nu doriți să primiți credit) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:117
+#, fuzzy
 msgid "jamovi library"
-msgstr ""
+msgstr "Bibliotecă jamovi"
 
 #: jamovi/client/main/store/pagesideload.js:27
+#, fuzzy
 msgid "jamovi modules"
-msgstr ""
+msgstr "Module jamovi"
 
 #: jamovi/client/main/backstage.ts:172
 #: jamovi/client/main/backstage.ts:194
+#, fuzzy
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "șablon jamovi {ext}"
 
 #: jamovi/client/main/backstage.ts:115
+#, fuzzy
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "șabloane jamovi {ext}"
 
 #: jamovi/client/main/backstage.ts:124
+#, fuzzy
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "Fișiere JASP {ext}"
 
 #: jamovi/client/main/backstage.ts:117
+#, fuzzy
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "Fișiere JSON {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
+#, fuzzy
 msgid "Justify"
-msgstr ""
+msgstr "Justifică"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
+#, fuzzy
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "Cuvânt cheie: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:174
+#, fuzzy
 msgid "Language"
-msgstr ""
+msgstr "Limbă"
 
 #: jamovi/client/main/backstage.ts:174
 #: jamovi/client/main/backstage.ts:196
 #: jamovi/client/main/resultspanel.js:760
+#, fuzzy
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "Pachet LaTeX {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
+#, fuzzy
 msgid "Left Align"
-msgstr ""
+msgstr "Aliniere la stânga"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
+#, fuzzy
 msgid "Less than"
-msgstr ""
+msgstr "Mai mic decât"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
+#, fuzzy
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Mai mic sau egal cu"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
+#, fuzzy
 msgid "Level {0}"
-msgstr ""
+msgstr "Nivel {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:194
+#, fuzzy
 msgid "Level value"
-msgstr ""
+msgstr "Valoare nivel"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
+#, fuzzy
 msgid "Levels"
-msgstr ""
+msgstr "Nivele"
 
 #: jamovi/client/main/store/pagemodules.js:98
+#, fuzzy
 msgid "Library error"
-msgstr ""
+msgstr "Eroare de bibliotecă"
 
 #: jamovi/client/main/ribbon/annotationtab.js:173
+#, fuzzy
 msgid "Link"
-msgstr ""
+msgstr "Legătură"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1032
+#, fuzzy
 msgid "Main Effects"
-msgstr ""
+msgstr "Efecte principale"
 
 #: jamovi/client/main/ribbon/analysetab.js:118
+#, fuzzy
 msgid "Manage installed"
-msgstr ""
+msgstr "Gestionează modulele instalate"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Max: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
+#, fuzzy
 msgid "Measure type"
-msgstr ""
+msgstr "Tip de măsură"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
+#, fuzzy
 msgid "Minimal"
-msgstr ""
+msgstr "Minimal"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "Modul lipsă sau incompatibil"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
+#, fuzzy
 msgid "Missing values"
-msgstr ""
+msgstr "Valori lipsă"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
+#, fuzzy
 msgid "Missing Values"
-msgstr ""
+msgstr "Valori lipsă"
 
 #: jamovi/client/main/store/pagemodules.js:244
+#, fuzzy
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "Modulul {moduleName} este instalat"
 
 #: jamovi/client/main/store/pagemodules.js:286
+#, fuzzy
 msgid "Module installed"
-msgstr ""
+msgstr "Modulul a fost instalat"
 
 #: jamovi/client/main/store/pagesideload.js:46
+#, fuzzy
 msgid "Module installed successfully"
-msgstr ""
+msgstr "Modulul a fost instalat cu succes"
 
 #: jamovi/client/main/store/pagemodules.js:311
+#, fuzzy
 msgid "Module uninstalled"
-msgstr ""
+msgstr "Modulul a fost dezinstalat"
 
 #: jamovi/client/main/ribbon/analysetab.js:116
+#, fuzzy
 msgid "Modules"
-msgstr ""
+msgstr "Module"
 
 #: jamovi/client/main/main.js:460
+#, fuzzy
 msgid "More info ..."
-msgstr ""
+msgstr "Mai multe informații ..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
+#, fuzzy
 msgid "Move back directory"
-msgstr ""
+msgstr "Mutare înapoi în director"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
+#, fuzzy
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Mută ținapoi din directorul {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:340
+#, fuzzy
 msgid "Name"
-msgstr ""
+msgstr "Nume"
 
 #: jamovi/client/main/backstage.ts:358
 #: jamovi/client/main/backstage.ts:434
+#, fuzzy
 msgid "New"
-msgstr ""
+msgstr "Nou"
 
 #: jamovi/client/main/tableview.js:2479
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
+#, fuzzy
 msgid "New column {0}"
-msgstr ""
+msgstr "Coloană nouă {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:25
+#, fuzzy
 msgid "New computed variable"
-msgstr ""
+msgstr "Variabilă calculată nouă"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:21
+#, fuzzy
 msgid "New data variable"
-msgstr ""
+msgstr "Variabilă de date nouă"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:29
+#, fuzzy
 msgid "New transformed variable"
-msgstr ""
+msgstr "Nouă variabilă transformată"
 
 #: jamovi/client/main/variableeditor.js:65
+#, fuzzy
 msgid "Next variable"
-msgstr ""
+msgstr "Următoarea variabilă"
 
 #: jamovi/client/main/ribbon/annotationtab.js:133
+#, fuzzy
 msgid "No Color"
-msgstr ""
+msgstr "Fără culoare"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:218
+#, fuzzy
 msgid "No information about this function is available"
-msgstr ""
+msgstr "Nu există informații despre această funcție"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "No internet connection"
-msgstr ""
+msgstr "Nu există conexiune la internet"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:591
+#, fuzzy
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "Nu s-au găsit fișiere de date recunoscute."
 
 #: jamovi/client/main/variablesview.js:377
+#, fuzzy
 msgid "No variables match your query."
-msgstr ""
+msgstr "Nicio variabilă nu se potrivește cu întrebarea dvs."
 
 #: jamovi/client/main/editors/transformeditor.js:247
 #: jamovi/client/main/vareditor/datavarwidget.js:286
 #: jamovi/client/main/vareditor/measurelist.js:49
+#, fuzzy
 msgid "Nominal"
-msgstr ""
+msgstr "Nominal"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1551,39 +1818,47 @@ msgstr ""
 #: jamovi/client/main/vareditor/transformlist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
+#, fuzzy
 msgid "None"
-msgstr ""
+msgstr "Niciunul"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
+#, fuzzy
 msgid "Not equal to"
-msgstr ""
+msgstr "Nu este egal cu"
 
 #: jamovi/client/resultsview/main.js:128
 #: jamovi/client/resultsview/table.js:599
+#, fuzzy
 msgid "Note"
-msgstr ""
+msgstr "Notă"
 
 #: jamovi/client/resultsview/notice.js:44
+#, fuzzy
 msgid "Notice"
-msgstr ""
+msgstr "Notificare"
 
 #: jamovi/client/main/ribbon/appmenu.js:75
+#, fuzzy
 msgid "Number format"
-msgstr ""
+msgstr "Format de număr"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
+#, fuzzy
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "Deplasează valorile țin sus sau țin jos."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
+#, fuzzy
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: jamovi/client/main/infobox.js:283
 #: jamovi/client/main/infobox.js:34
+#, fuzzy
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
@@ -1591,79 +1866,95 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:455
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+#, fuzzy
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
+msgstr "Una sau mai multe analize din acest set de date au fost dezactivate \n"
+"                    deoarece permit executarea de cod arbitrar. Trebuie să le activați doar dacă aveți încredere în sursa acestui set de date."
 
 #: jamovi/client/main/viewcontroller.js:678
+#, fuzzy
 msgid "One row appended."
 msgid_plural "{n} rows appended."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/viewcontroller.js:641
+#, fuzzy
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:472
+#, fuzzy
 msgid "Online data set"
-msgstr ""
+msgstr "Set de date online"
 
 #: jamovi/client/main/backstage.ts:364
 #: jamovi/client/main/backstage.ts:440
+#, fuzzy
 msgid "Open"
-msgstr ""
+msgstr "Și deschide"
 
 #: jamovi/client/main/main.ts:266
+#, fuzzy
 msgid "Open application menu"
-msgstr ""
+msgstr "Deschide meniul aplicației"
 
 #: jamovi/client/main/main.ts:234
+#, fuzzy
 msgid "Open data file"
-msgstr ""
+msgstr "Deschide fișierul de date"
 
 #: jamovi/client/main/backstage.ts:118
+#, fuzzy
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "Deschide document (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
+#, fuzzy
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "Deschide biblioteca de module jamovi"
 
 #: jamovi/client/main/main.ts:253
+#, fuzzy
 msgid "Open the main menu"
-msgstr ""
+msgstr "Deschideți meniul principal"
 
 #: jamovi/client/main/backstage.ts:903
 #: jamovi/client/main/instance.ts:336
 #: jamovi/client/main/main.js:771
+#, fuzzy
 msgid "Opening"
-msgstr ""
+msgstr "Deschidere"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
+#, fuzzy
 msgid "Operators"
-msgstr ""
+msgstr "Operatori"
 
 #: jamovi/client/main/ribbon/annotationtab.js:152
+#, fuzzy
 msgid "Ordered List"
-msgstr ""
+msgstr "Listă ordonată"
 
 #: jamovi/client/main/editors/transformeditor.js:248
 #: jamovi/client/main/vareditor/datavarwidget.js:287
 #: jamovi/client/main/vareditor/measurelist.js:53
+#, fuzzy
 msgid "Ordinal"
-msgstr ""
+msgstr "Ordinal"
 
 #: jamovi/client/main/dataset.js:1325
+#, fuzzy
 msgid "Output"
-msgstr ""
+msgstr "Ieșire"
 
 #: jamovi/client/main/vareditor/editorwidget.js:250
+#, fuzzy
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] ""
@@ -1671,806 +1962,963 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:83
+#, fuzzy
 msgid "p-value format"
-msgstr ""
+msgstr "Format p-valoare"
 
 #: jamovi/client/main/ribbon/annotationtab.js:141
+#, fuzzy
 msgid "Paragraph"
-msgstr ""
+msgstr "Paragraf"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
-msgstr ""
+#, fuzzy
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgstr "Parsează o dată și o convertețe țin numărul de zile de la 1 ianuarie 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
 #: jamovi/client/main/ribbon/annotationtab.js:101
 #: jamovi/client/main/ribbon/datatab.js:25
+#, fuzzy
 msgid "Paste"
-msgstr ""
+msgstr "Lipește"
 
 #: jamovi/client/main/viewcontroller.js:356
+#, fuzzy
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "Lipirea nu este disponibilă utilizând meniurile"
 
 #: jamovi/client/main/backstage.ts:170
 #: jamovi/client/main/backstage.ts:192
 #: jamovi/client/main/resultspanel.js:725
 #: jamovi/client/main/resultspanel.js:754
+#, fuzzy
 msgid "PDF Document {ext}"
-msgstr ""
+msgstr "Document PDF {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:18
+#, fuzzy
 msgid "Pin level"
-msgstr ""
+msgstr "Nivel de fixare"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "Vă rugăm să <em>instalați sau actualizați</em> acest modul din biblioteca jamovi."
 
 #: jamovi/client/main/viewcontroller.js:357
+#, fuzzy
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Vă rugăm să utilizați ctrl-v pentru a lipi în foaia de calcul."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "Reprezentare grafică"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
+#, fuzzy
 msgid "Plot theme"
-msgstr ""
+msgstr "Tema graficului"
 
 #: jamovi/client/main/ribbon/appmenu.js:106
+#, fuzzy
 msgid "Plots"
-msgstr ""
+msgstr "Grafice"
 
 #: jamovi/client/main/resultspanel.js:726
+#, fuzzy
 msgid "PNG Image {ext}"
-msgstr ""
+msgstr "Imagine PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "Diapozitiv PowerPoint {ext}"
 
 #: jamovi/client/main/ribbon.js:132
+#, fuzzy
 msgid "Preferences"
-msgstr ""
+msgstr "Preferinţe"
 
 #: jamovi/client/resultsview/annotation.js:79
+#, fuzzy
 msgid "Press enter to edit"
-msgstr ""
+msgstr "Apăsați Enter pentru a edita"
 
 #: jamovi/client/main/variableeditor.js:66
+#, fuzzy
 msgid "Previous variable"
-msgstr ""
+msgstr "Variabilă anterioară"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "Salvează proiectul ca"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "qualitative"
-msgstr ""
+msgstr "calitativ"
 
 #: jamovi/client/main/backstage.ts:121
+#, fuzzy
 msgid "R data files {ext}"
-msgstr ""
+msgstr "Fișiere de date R {ext}"
 
 #: jamovi/client/main/backstage.ts:175
 #: jamovi/client/main/backstage.ts:176
 #: jamovi/client/main/backstage.ts:197
 #: jamovi/client/main/backstage.ts:198
+#, fuzzy
 msgid "R object {ext}"
-msgstr ""
+msgstr "Obiect R {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
+#, fuzzy
 msgid "Ranks each value"
-msgstr ""
+msgstr "Clasifică fiecare valoare"
 
 #: jamovi/client/main/tableview.js:101
 #: jamovi/client/main/tableview.js:1502
 #: jamovi/client/main/tableview.js:1540
 #: jamovi/client/main/variablesview.js:58
+#, fuzzy
 msgid "Ready"
-msgstr ""
+msgstr "Gata"
 
 #: jamovi/client/main/store/pagemodules.js:303
+#, fuzzy
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "Sunteți sigur că doriți să dezinstalați {m}?"
 
 #: jamovi/client/main/backstage.ts:1244
+#, fuzzy
 msgid "Recent"
-msgstr ""
+msgstr "Recent"
 
 #: jamovi/client/main/ribbon/annotationtab.js:114
 #: jamovi/client/main/ribbon/datatab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:18
+#, fuzzy
 msgid "Redo Edit"
-msgstr ""
+msgstr "Refacere editare"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:430
 #: jamovi/client/main/resultspanel.js:432
 #: jamovi/client/main/ribbon/appmenu.js:91
+#, fuzzy
 msgid "References"
-msgstr ""
+msgstr "Referințe"
 
 #: jamovi/client/main/infobox.js:280
+#, fuzzy
 msgid "Refresh"
-msgstr ""
+msgstr "Reîmprospătează"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
+#, fuzzy
 msgid "Regression"
-msgstr ""
+msgstr "Regresie"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:580
 #: jamovi/client/main/resultspanel.js:602
 #: jamovi/client/main/store/pagemodules.js:194
+#, fuzzy
 msgid "Remove"
-msgstr ""
+msgstr "Șterge"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
+#, fuzzy
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "Ȗterge {1} din {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
+#, fuzzy
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "Înlătură {1} elemente din {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:501
+#, fuzzy
 msgid "Remove filter"
-msgstr ""
+msgstr "Ștergeți filtrul"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
+#, fuzzy
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "Eliminați elementele din {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
+#, fuzzy
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "Înlătură modulul {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
+#, fuzzy
 msgid "Remove nested filter"
-msgstr ""
+msgstr "Șterge filtrul ânchis"
 
 #: jamovi/client/main/store/pagemodules.js:213
+#, fuzzy
 msgid "Requires a newer version of jamovi"
-msgstr ""
+msgstr "Necesită o versiune mai nouă de jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:283
+#, fuzzy
 msgid "Restart required"
-msgstr ""
+msgstr "Reinițializare necesară"
 
 #: jamovi/client/main/analyses.ts:360
 #: jamovi/client/main/ribbon/appmenu.js:71
 #: jamovi/server/jamovi/server/analyses/analyses.py
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Results"
-msgstr ""
+msgstr "Rezultate"
 
 #: jamovi/client/main/vareditor/editorwidget.js:99
+#, fuzzy
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "Păstrează nivelurile nefolosite în analize"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
+#, fuzzy
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "Returnează o transformare Box Cox a variabilei."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
+#, fuzzy
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "Returnează dacă variabila este un outlier în funcție de IQR: Dacă valoarea se află în cutia unui Boxplot, se returnează 0, valorile absolute mai mari de 1,5 sunt în afara mustăților."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
+#, fuzzy
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "Întoarce valoarea absolută a unui număr."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
+#, fuzzy
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Returnează logaritmul de bază 10 al unui număr."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
+#, fuzzy
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Returnează exponentul pentru baza ℯ a unui număr."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
+#, fuzzy
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Returnează valoarea maximă a unui set de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
+#, fuzzy
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Returnează valoarea maximă a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
+#, fuzzy
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Înregistrează media unei mulţimi de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+#, fuzzy
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Înregistrează abaterea medie absolută a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
+#, fuzzy
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Returnează mediana unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
+#, fuzzy
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Returnează valoarea cea mai frecventă într-o variabilă."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
+#, fuzzy
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Returnează logaritmul natural al unui număr."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
+#, fuzzy
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Returnează valorile normalizate ale unui set de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
+#, fuzzy
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Returnează numărul de cazuri într-o variabilă."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
+#, fuzzy
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Returnează numărul de rânduri ale unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
+#, fuzzy
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Returnează media generală a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
+#, fuzzy
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Returnează suma generală a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
+#, fuzzy
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Returnează deviația medie absolută robustă a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
+#, fuzzy
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Returnează numerele de rând."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
+#, fuzzy
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Returnează valoarea minimă a unui set de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
+#, fuzzy
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Returnează valoarea minimă a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
+#, fuzzy
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Întoarce rădăcina pătrată a unui număr."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
+#, fuzzy
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Returnează abaterea standard a unui set de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
+#, fuzzy
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Returnează abaterea standard a unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
+#, fuzzy
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Returnează eroarea standard a mediei unei variabile."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
+#, fuzzy
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Returnează suma unui set de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
+#, fuzzy
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Învoie varianţa unei mulţimi de numere."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
+#, fuzzy
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "Reține varianța unei variabile."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "Revenire la analiza selectată anterior și deschiderea panoului de opțiuni, cu focus setat în panoul de opțiuni."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
+msgstr "Revenire la analiza selectată anterior și mutarea focusului în ieșirea de rezultate."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgstr "Reveniți la analiza selectată anterior și mutați focusul pe ieșirea de rezultate."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
+#, fuzzy
 msgid "Right Align"
-msgstr ""
+msgstr "Aliniere la dreapta"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
+#, fuzzy
 msgid "Rounds each value"
-msgstr ""
+msgstr "Rotunjește fiecare valoare"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
+#, fuzzy
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Rotunjește fiecare valoare la numărul întreg de deasupra"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
+#, fuzzy
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Rotunjește fiecare valoare la numărul întreg de sub el"
 
 #: jamovi/client/main/viewcontroller.js:345
+#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:100
+#, fuzzy
 msgid "Row count"
-msgstr ""
+msgstr "Număr de rănduri"
 
 #: jamovi/client/main/vareditor/editorwidget.js:252
+#, fuzzy
 msgid "Row Filters"
-msgstr ""
+msgstr "Filtre de rând"
 
 #: jamovi/client/main/ribbon/datatab.js:67
 #: jamovi/client/main/ribbon/variablestab.js:46
+#, fuzzy
 msgid "Rows"
-msgstr ""
+msgstr "Rânduri"
 
 #: jamovi/client/main/backstage.ts:179
 #: jamovi/client/main/backstage.ts:201
+#, fuzzy
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.ts:123
+#, fuzzy
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "Fișiere SAS {ext}"
 
 #: jamovi/client/main/backstage.ts:180
 #: jamovi/client/main/backstage.ts:202
+#, fuzzy
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.ts:382
 #: jamovi/client/main/backstage.ts:479
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:303
 #: jamovi/client/main/main.js:748
 #: jamovi/client/main/menu.js:160
+#, fuzzy
 msgid "Save"
-msgstr ""
+msgstr "Salvați"
 
 #: jamovi/client/main/backstage.ts:398
 #: jamovi/client/main/backstage.ts:495
+#, fuzzy
 msgid "Save As"
-msgstr ""
+msgstr "Salvează ca"
 
 #: jamovi/client/main/main.js:750
+#, fuzzy
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "Salvați modificările în '{title}'?"
 
 #: jamovi/client/main/instance.ts:442
 #: jamovi/client/main/instance.ts:515
+#, fuzzy
 msgid "Save failed"
-msgstr ""
+msgstr "Salvare eșuată"
 
 #: jamovi/client/main/main.ts:233
+#, fuzzy
 msgid "Save project"
-msgstr ""
+msgstr "Salvează proiectul"
 
 #: jamovi/client/main/instance.ts:419
+#, fuzzy
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "Salvat în '{filename}'"
 
 #: jamovi/client/main/instance.ts:383
+#, fuzzy
 msgid "Saving"
-msgstr ""
+msgstr "Se salvează"
 
 #: jamovi/client/main/notification.js:78
+#, fuzzy
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Întreținere programată"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/analysisui/layoutsupplierview.js:173
 #: jamovi/client/main/store/pagemodules.js:34
+#, fuzzy
 msgid "Search"
-msgstr ""
+msgstr "Căutare"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search available modules"
-msgstr ""
+msgstr "Căutare module disponibile"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+#, fuzzy
 msgid "Search files"
-msgstr ""
+msgstr "Căutare fișiere"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "Căutați fișierul în directorul {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search installed modules"
-msgstr ""
+msgstr "Căutare module instalate"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
+#, fuzzy
 msgid "Search list items"
-msgstr ""
+msgstr "Căutați elemente din listă"
 
 #: jamovi/client/main/variablesview.js:48
+#, fuzzy
 msgid "Search variables"
-msgstr ""
+msgstr "Căutare variabile"
 
 #: jamovi/client/main/resultspanel.js:442
+#, fuzzy
 msgid "Select all"
-msgstr ""
+msgstr "Selectați tot"
 
 #: jamovi/client/main/vareditor/editorwidget.js:82
 #: jamovi/client/main/variablesview.js:63
+#, fuzzy
 msgid "Selected"
-msgstr ""
+msgstr "Selectat"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "sequential"
-msgstr ""
+msgstr "secvențial"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
+#, fuzzy
 msgid "Set1"
-msgstr ""
+msgstr "Set1"
 
 #: jamovi/client/main/ribbon/datatab.js:38
+#, fuzzy
 msgid "Setup"
-msgstr ""
+msgstr "Configurare"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
+#, fuzzy
 msgid "Setup..."
-msgstr ""
+msgstr "Configurare..."
 
 #: jamovi/client/main/store/pagemodules.js:221
+#, fuzzy
 msgid "Show"
-msgstr ""
+msgstr "Arătați"
 
 #: jamovi/client/main/vareditor/filterwidget.js:58
 #: jamovi/client/main/vareditor/filterwidget.js:75
+#, fuzzy
 msgid "Show filter columns"
-msgstr ""
+msgstr "Afișați coloanele de filtrare"
 
 #: jamovi/client/main/editors/transformeditor.js:655
 #: jamovi/client/main/vareditor/computedvarwidget.js:124
 #: jamovi/client/main/vareditor/filterwidget.js:412
+#, fuzzy
 msgid "Show formula editor"
-msgstr ""
+msgstr "Arăta editorul de formule"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:224
+#, fuzzy
 msgid "Show in main menu"
-msgstr ""
+msgstr "Afișați în meniul principal"
 
 #: jamovi/client/main/store/pagemodules.js:265
+#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "Afișează modulul {moduleName} în benzul Analize"
 
 #: jamovi/client/main/store.js:93
+#, fuzzy
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Încărcarea modulelor nu este disponibilă."
 
 #: jamovi/client/main/store.js:52
+#, fuzzy
 msgid "Sideload"
-msgstr ""
+msgstr "Sideload"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
+#, fuzzy
 msgid "significant figures"
-msgstr ""
+msgstr "cifre semnificative"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
+#, fuzzy
 msgid "Source variable"
-msgstr ""
+msgstr "Variabilă sursă"
 
 #: jamovi/client/main/backstage.ts:460
+#, fuzzy
 msgid "Special Import"
-msgstr ""
+msgstr "Import special"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
+#, fuzzy
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "Divide textul țin bucăți pe baza unui separator. <i>bucăț</i> specifică bucăța dorită prin index."
 
 #: jamovi/client/main/tableview.js:62
+#, fuzzy
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Foile de calcul"
 
 #: jamovi/client/main/backstage.ts:120
+#, fuzzy
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "Fişiere SPSS {ext}"
 
 #: jamovi/client/main/backstage.ts:177
 #: jamovi/client/main/backstage.ts:199
+#, fuzzy
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.ts:181
 #: jamovi/client/main/backstage.ts:203
+#, fuzzy
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.ts:122
+#, fuzzy
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Fișiere Stata {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:125
+#, fuzzy
 msgid "Strike"
-msgstr ""
+msgstr "Întrerupere"
 
 #: jamovi/client/main/ribbon/annotationtab.js:169
+#, fuzzy
 msgid "Styles"
-msgstr ""
+msgstr "Stiluri"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
+#, fuzzy
 msgid "Sub Script"
-msgstr ""
+msgstr "Subscript"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
+#, fuzzy
 msgid "Super Script"
-msgstr ""
+msgstr "Script superior"
 
 #: jamovi/client/main/resultspanel.js:727
+#, fuzzy
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "Imagine SVG {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
+#, fuzzy
 msgid "Syntax"
-msgstr ""
+msgstr "Sintaxă"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
+#, fuzzy
 msgid "Syntax mode"
-msgstr ""
+msgstr "Modul de sintaxă"
 
 #: jamovi/client/main/ribbon/appmenu.js:229
+#, fuzzy
 msgid "System default"
-msgstr ""
+msgstr "Implicit al sistemului"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
+#, fuzzy
 msgid "T-Tests"
-msgstr ""
+msgstr "Teste T"
 
 #: jamovi/client/resultsview/table.js:171
+#, fuzzy
 msgid "Table"
-msgstr ""
+msgstr "Tabel"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
+#, fuzzy
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "Preia un număr reprezentând numărul de zile de la 1 ianuarie 1970 și produce o dată formată."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
+#, fuzzy
 msgid "Text"
-msgstr ""
+msgstr "Text"
 
 #: jamovi/client/main/ribbon/annotationtab.js:134
+#, fuzzy
 msgid "Text Color"
-msgstr ""
+msgstr "Culoare text"
 
 #: jamovi/client/main/resultspanel.js:691
 #: jamovi/client/main/resultspanel.js:797
+#, fuzzy
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "Conțintul a fost copiat țin clipboard"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
+#, fuzzy
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgstr "Conținutul a fost pregătit și poate fi copiat cu butonul de mai jos sau prin apăsarea tastei <em>{k}+C</em> pe tastatura dvs."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
+#, fuzzy
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "Valoarea curentă a variabilei la care se aplică această transformare."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
+#, fuzzy
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "Datele sunt ponderate de variabila {}, însă această analiză nu acceptă greutăți neîntregi. Greutățile au fost rotunjite la cel mai apropiat număr întreg."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Datele sunt ponderate de variabila {}."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
+#, fuzzy
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "Datele sunt ponderate, dar această analiză nu acceptă ponderi. Această analiză a folosit datele neponderate."
 
 #: jamovi/client/main/instance.ts:431
+#, fuzzy
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "Fişierul '{filename}' există deja. Suprascrieți acest fişier?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "Formula este greșit specificată"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
+#, fuzzy
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "Indexul valorii în valorile furnizate."
 
 #: jamovi/client/resultsview/table.js:754
+#, fuzzy
 msgid "The interaction of {0} and {1}"
-msgstr ""
+msgstr "Interacțiunea dintre {0} și {1}"
 
 #: jamovi/client/analysisui/formatdef.js:272
+#, fuzzy
 msgid "The interaction of {list}"
-msgstr ""
+msgstr "Interacțiunea dintre {list}"
 
 #: jamovi/client/main/store.js:80
+#, fuzzy
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "Biblioteca jamovi nu este disponibilă pentru sesiunea dvs."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:123
+#, fuzzy
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "Valoarea nivelului {r} este deja folosită."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:135
+#, fuzzy
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "Valoarea nivelului nu poate fi vidă."
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "The library is disabled"
-msgstr ""
+msgstr "Biblioteca este dezactivată"
 
 #: jamovi/server/jamovi/server/scheduler.py
+#, fuzzy
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "Modulul pentru această analiză nu este instalat sau nu este disponibil"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "Serverul remote nu a putut fi accesat"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "Serverul remote a refuzat cererea"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "Serverul remote a raportat o eroare"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr ""
+msgstr "Serverul remote a trimis un răspuns neașteptat"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr ""
+msgstr "Resursa nu există sau a fost mutată (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
+#, fuzzy
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "Transformarea selectată este în eroare și ar trebui editată."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
+#, fuzzy
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "Valoarea din valorile furnizate la index."
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "Această analiză a depășit limitele de timp curente și a fost încheiată."
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "Această analiză a fost âncheiată, probabil din cauza atingerii unei limite de resurse."
 
 #: jamovi/client/main/main.ts:912
+#, fuzzy
 msgid "This data set could not be opened"
-msgstr ""
+msgstr "Acest set de date nu a putut fi deschis"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Acest set de date nu mai este disponibil"
 
 #: jamovi/client/main/backstage.ts:369
 #: jamovi/client/main/utils/pathtools.js:15
+#, fuzzy
 msgid "This Device"
-msgstr ""
+msgstr "Acest dispozitiv"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:250
+#, fuzzy
 msgid "This is a data variable."
-msgstr ""
+msgstr "Acesta este un variabil de date."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "Acest modul este fie <em>lipsă sau incompatibil</em> cu această versiune a jamovi."
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
 #: jamovi/client/main/backstage.ts:474
 #: jamovi/client/main/backstage.ts:503
 #: jamovi/client/main/backstage.ts:512
+#, fuzzy
 msgid "This PC"
-msgstr ""
+msgstr "Acest PC"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Această sesiune este limitată la {} coloane"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Această sesiune este limitată la {} rânduri"
 
 #: jamovi/client/main/notification.js:39
+#, fuzzy
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Această sesiune se va încheia oricând acum"
 
 #: jamovi/client/main/notification.js:35
+#, fuzzy
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Această sesiune se va încheia în aproximativ {} minute"
 
 #: jamovi/client/main/notification.js:37
+#, fuzzy
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Această sesiune se va încheia în aproximativ 1 minut"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:39
+#, fuzzy
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Această transformare este țin eroare și trebuie editată."
 
 #: jamovi/client/main/tableview.js:105
+#, fuzzy
 msgid "Toggle filters visibility"
-msgstr ""
+msgstr "Comută vizibilitatea filtrelor"
 
 #: jamovi/client/main/ribbon.js:199
+#, fuzzy
 msgid "Toggle screen state"
-msgstr ""
+msgstr "Comută starea ecranului"
 
 #: jamovi/client/main/main.ts:256
+#, fuzzy
 msgid "Toggle variable setup"
-msgstr ""
+msgstr "Comută configurarea variabilelor"
 
 #: jamovi/client/main/viewcontroller.js:376
+#, fuzzy
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "Prea multe date, utilizaţi importul ân schimb"
 
 #: jamovi/client/main/editors/transformeditor.js:25
 #: jamovi/client/main/ribbon/datatab.js:40
 #: jamovi/client/main/ribbon/variablestab.js:24
+#, fuzzy
 msgid "Transform"
-msgstr ""
+msgstr "Transformă"
 
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "Transform {}"
-msgstr ""
+msgstr "Transformă {}"
 
 #: jamovi/client/main/tableview.js:296
+#, fuzzy
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Transformă: {name}"
 
 #: jamovi/client/main/tableview.js:301
+#, fuzzy
 msgid "Transform: None"
-msgstr ""
+msgstr "Transformare: Fără"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
+#, fuzzy
 msgid "Transform..."
-msgstr ""
+msgstr "Transformă..."
 
 #: jamovi/client/main/dataset.js:1319
+#, fuzzy
 msgid "Transformed"
-msgstr ""
+msgstr "Transformate"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
 #: jamovi/client/main/ribbon/datatab.js:54
 #: jamovi/client/main/ribbon/variablestab.js:37
 #: jamovi/client/main/vareditor/editorwidget.js:248
+#, fuzzy
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
 msgstr[0] ""
@@ -2478,42 +2926,51 @@ msgstr[1] ""
 msgstr[2] ""
 
 #: jamovi/client/main/utils/headeralert.js:24
+#, fuzzy
 msgid "Try again"
-msgstr ""
+msgstr "Încercați din nou"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to access analysis"
-msgstr ""
+msgstr "Nu se poate accesa analiza"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to access library"
-msgstr ""
+msgstr "Nu se poate accesa biblioteca"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "Imposibil de accesat internetul (probabil din cauza unui portal captiv)"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to browse {}"
-msgstr ""
+msgstr "Imposibil de navigat în {}"
 
 #: jamovi/client/main/main.js:886
+#, fuzzy
 msgid "Unable to connect to the server"
-msgstr ""
+msgstr "Imposibil de conectat la server"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to import {}"
-msgstr ""
+msgstr "Imposibil de importat {}"
 
 #: jamovi/client/main/store/pagemodules.js:376
+#, fuzzy
 msgid "Unable to install {module}"
-msgstr ""
+msgstr "Nu se poate instala {module}"
 
 #: jamovi/client/main/store/pagemodules.js:293
 #: jamovi/client/main/store/pagesideload.js:56
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to install module"
-msgstr ""
+msgstr "Nu s-a putut instala modulul"
 
 #: jamovi/client/main/backstage.ts:945
 #: jamovi/client/main/instance.ts:301
@@ -2521,219 +2978,264 @@ msgstr ""
 #: jamovi/client/main/instance.ts:350
 #: jamovi/client/main/instance.ts:356
 #: jamovi/client/main/main.js:848
+#, fuzzy
 msgid "Unable to open"
-msgstr ""
+msgstr "Imposibil de deschis"
 
 #: jamovi/client/main/viewcontroller.js:375
+#, fuzzy
 msgid "Unable to paste"
-msgstr ""
+msgstr "Lipseşte posibilitatea de a lipi"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to perform import"
-msgstr ""
+msgstr "Nu s-a putut realiza importul"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to perform request"
-msgstr ""
+msgstr "Nu se poate efectua cererea"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Imposibil de accesat biblioteca"
 
 #: jamovi/client/main/strings.ts:13
+#, fuzzy
 msgid "Unable to save"
-msgstr ""
+msgstr "Nu se poate salva"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to save {}"
-msgstr ""
+msgstr "Imposibil de salvat {}"
 
 #: jamovi/client/main/store/pagemodules.js:318
+#, fuzzy
 msgid "Unable to uninstall module"
-msgstr ""
+msgstr "Imposibil de dezinstalat modulul"
 
 #: jamovi/client/main/store/pagemodules.js:205
+#, fuzzy
 msgid "Unavailable"
-msgstr ""
+msgstr "Indisponibil"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
+#, fuzzy
 msgid "Underline"
-msgstr ""
+msgstr "Subliniat"
 
 #: jamovi/client/main/ribbon/annotationtab.js:113
 #: jamovi/client/main/ribbon/datatab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:17
+#, fuzzy
 msgid "Undo Edit"
-msgstr ""
+msgstr "Anulați editarea"
 
 #: jamovi/client/main/instance.ts:351
 #: jamovi/client/main/instance.ts:358
 #: jamovi/client/main/notification.js:86
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "Unexpected error"
-msgstr ""
+msgstr "Eroare neașteptată"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Format de fişir necunoscut"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "Fără titlu"
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 #: jamovi/client/main/store/pagemodules.js:210
+#, fuzzy
 msgid "Update"
-msgstr ""
+msgstr "Actualizați"
 
 #: jamovi/client/main/store/pagemodules.js:253
+#, fuzzy
 msgid "Update module {moduleName} to version {version}"
-msgstr ""
+msgstr "Actualizează modulul {moduleName} la versiunea {version}"
 
 #: jamovi/client/main/instance.ts:217
 #: jamovi/client/main/instance.ts:257
 #: jamovi/client/main/instance.ts:260
+#, fuzzy
 msgid "Upload failed"
-msgstr ""
+msgstr "Încărcarea a eșuat"
 
 #: jamovi/client/main/instance.ts:224
 #: jamovi/client/main/instance.ts:228
+#, fuzzy
 msgid "Uploading"
-msgstr ""
+msgstr "Șncărcare"
 
 #: jamovi/client/main/editors/transformeditor.js:410
+#, fuzzy
 msgid "use"
-msgstr ""
+msgstr "utilizează"
 
 #: jamovi/client/main/editors/transformeditor.js:281
+#, fuzzy
 msgid "used by"
-msgstr ""
+msgstr "utilizat de"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:35
+#, fuzzy
 msgid "using transform"
-msgstr ""
+msgstr "folosind transformare"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "Valoarea este prea mare pentru coloana '{}' de tip integer"
 
 #: jamovi/client/analysisui/formatdef.js:107
+#, fuzzy
 msgid "Variable {0}"
-msgstr ""
+msgstr "Variabilă {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
+#, fuzzy
 msgid "Variable Description"
-msgstr ""
+msgstr "Descrierea variabilei"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
+#, fuzzy
 msgid "Variable Name"
-msgstr ""
+msgstr "Numele variabilei"
 
 #: jamovi/client/main/ribbon/datatab.js:38
+#, fuzzy
 msgid "Variable setup"
-msgstr ""
+msgstr "Configurare variabilă"
 
 #: jamovi/client/main/editors/transformeditor.js:63
+#, fuzzy
 msgid "Variable suffix"
-msgstr ""
+msgstr "Sufixul variabilei"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:249
+#, fuzzy
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Variabilă: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:37
 #: jamovi/client/main/ribbon/variablestab.js:11
 #: jamovi/client/main/ribbon/variablestab.js:21
 #: jamovi/client/main/vareditor/formulatoolbar.js:228
 #: jamovi/client/main/variablesview.js:62
+#, fuzzy
 msgid "Variables"
-msgstr ""
+msgstr "Variabile"
 
 #: jamovi/client/analysisui/formatdef.js:117
+#, fuzzy
 msgid "Variables {list}"
-msgstr ""
+msgstr "Variabile {list}"
 
 #: jamovi/client/main/variablesview.js:41
+#, fuzzy
 msgid "Variables List View"
-msgstr ""
+msgstr "Vizualizare listă variabile"
 
 #: jamovi/client/main/variablesview.js:111
+#, fuzzy
 msgid "Variables View"
-msgstr ""
+msgstr "Vizualizare variabile"
 
 #: jamovi/client/main/ribbon/appmenu.js:196
+#, fuzzy
 msgid "Version {v}"
-msgstr ""
+msgstr "Versiune {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
+#, fuzzy
 msgid "Visible"
-msgstr ""
+msgstr "Vizibil"
 
 #: jamovi/client/main/backstage.ts:171
 #: jamovi/client/main/backstage.ts:193
 #: jamovi/client/main/resultspanel.js:755
+#, fuzzy
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Pagină web {ext}"
 
 #: jamovi/client/main/ribbon/datatab.js:18
 #: jamovi/client/main/ribbon/datatab.js:41
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "Weights"
-msgstr ""
+msgstr "Greutăți"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
+#, fuzzy
 msgid "when"
-msgstr ""
+msgstr "când"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr ""
+#, fuzzy
+msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgstr "Când variabila conţine o valoare lipsă, se utilizează valoarea, altfel altceva."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
+#, fuzzy
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "De ce este necesar acest pas suplimentar?"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Nu puteţi șterge rânduri atâtâ timp cât rândurile filtrate sunt ascunse"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Nu puteți inserta rănduri atât ă timp cât răndurile filtrate sunt ascunse"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
+msgstr "Nu puteţi modifica coloanele care afectează filtrele atâtâ timp cât rândurile filtrate sunt ascunse"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
-msgstr ""
+#, fuzzy
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgstr "Nu puteți modifica transformările care afectează filtrele atunci când rândurile filtrate sunt ascunse"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "You do not have appropriate permissions (403)"
-msgstr ""
+msgstr "Nu aveți permisiuni adecvate (403)"
 
 #: jamovi/client/main/main.js:150
+#, fuzzy
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "Conexiunea dvs. a fost pierdută. Vă rugăm să rețineți pagina pentru a continua."
 
 #: jamovi/client/main/utils/headeralert.js:32
+#, fuzzy
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "Navigatorul dvs. web a împiedicat jamovi să deschidă un tab nou"
 
 #: jamovi/client/main/ribbon/appmenu.js:61
+#, fuzzy
 msgid "Zoom"
-msgstr ""
+msgstr "Mărire"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
+#, fuzzy
 msgid "Zoom in"
-msgstr ""
+msgstr "Măriți"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
+#, fuzzy
 msgid "Zoom out"
-msgstr ""
+msgstr "Apropie"

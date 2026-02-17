@@ -1,9 +1,8 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2025-11-17 10:51+0000\n"
+msgstr "PO-Revision-Date: 2025-11-17 10:51+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,12 +16,9 @@ msgid "'{}' is in error"
 msgstr "‘{}’にエラーがあります"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"「{}」は {}() の引数ではありません\\n"
-"（値が等しいことを確かめたいのであれば、「=」ではなく「==」としてください））"
+msgstr "「{}」は {}() の引数ではありません\\n（値が等しいことを確かめたいのであれば、「=」ではなく「==」としてください））"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -37,8 +33,9 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "（これはSafariとiPadに特異な現象です）"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} Options:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -129,9 +126,7 @@ msgid "Accent"
 msgstr "アクセント"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr "アクセスが拒否されました。適切なアクセス権限を持っていない可能性があります。"
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
@@ -421,8 +416,9 @@ msgid "Close"
 msgstr "閉じる"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "Close file menu"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -456,8 +452,9 @@ msgid "Column is not editable"
 msgstr "列の編集不可"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "Comma"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -486,7 +483,8 @@ msgstr[1] "{n}個の計算変数"
 msgid "Connection failed"
 msgstr "接続失敗"
 
-#: jamovi/client/main/main.js:127 jamovi/client/main/main.js:134
+#: jamovi/client/main/main.js:127
+#: jamovi/client/main/main.js:134
 msgid "Connection lost"
 msgstr "接続切断"
 
@@ -533,7 +531,8 @@ msgstr "コピーしました"
 #: jamovi/client/main/contextmenu/contextmenus.js:14
 #: jamovi/client/main/contextmenu/contextmenus.js:36
 #: jamovi/client/main/contextmenu/contextmenus.js:89
-#: jamovi/client/main/menu.js:153 jamovi/client/main/resultspanel.js:427
+#: jamovi/client/main/menu.js:153
+#: jamovi/client/main/resultspanel.js:427
 #: jamovi/client/main/resultspanel.js:591
 #: jamovi/client/main/ribbon/annotationtab.js:110
 #: jamovi/client/main/ribbon/datatab.js:19
@@ -547,10 +546,12 @@ msgstr "コピー"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "Copy Latex"
 
-#: jamovi/client/main/tableview.js:1218 jamovi/server/jamovi/server/instance.py
+#: jamovi/client/main/tableview.js:1218
+#: jamovi/server/jamovi/server/instance.py
 msgid "Could not assign data"
 msgstr "データを割り当てられません"
 
@@ -586,7 +587,8 @@ msgstr "非欠損値の個数を計測"
 msgid "Create New Transform..."
 msgstr "変換を新規作成…"
 
-#: jamovi/client/main/backstage.js:1029 jamovi/client/main/backstage.js:1052
+#: jamovi/client/main/backstage.js:1029
+#: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/backstage.js:976
 msgid "CSV (Comma delimited) {ext}"
 msgstr "CSV形式（コンマ区切りテキスト）{ext}"
@@ -602,7 +604,8 @@ msgstr "切り取り"
 msgid "Dark2"
 msgstr "色覚配慮"
 
-#: jamovi/client/main/dataset.js:1313 jamovi/client/main/ribbon/datatab.js:11
+#: jamovi/client/main/dataset.js:1313
+#: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
 msgstr "データ"
 
@@ -614,7 +617,8 @@ msgstr "データファイル"
 msgid "Data is unweighted"
 msgstr "データは重みづけされていません"
 
-#: jamovi/client/main/backstage.js:1195 jamovi/client/main/backstage.js:1272
+#: jamovi/client/main/backstage.js:1195
+#: jamovi/client/main/backstage.js:1272
 #: jamovi/client/main/utils/pathtools.js:17
 msgid "Data Library"
 msgstr "データライブラリ"
@@ -651,8 +655,9 @@ msgid "decimal places"
 msgstr "小数位"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "10"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Default"
@@ -729,14 +734,8 @@ msgid "Desktop"
 msgstr "デスクトップ"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"「対象（in1, in2, …）」の中に「項目（item1, item2, "
-"…）」があるかどうか（真・偽）を判定します。引数のほとんどはオプションなので、<b>CONTAINS(針, "
-"干し草)</b>のようにシンプルに記述できます。"
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "「対象（in1, in2, …）」の中に「項目（item1, item2, …）」があるかどうか（真・偽）を判定します。引数のほとんどはオプションなので、<b>CONTAINS(針, 干し草)</b>のようにシンプルに記述できます。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -756,10 +755,12 @@ msgid "Don't Save"
 msgstr "保存しない"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "Dot"
 
-#: jamovi/client/main/backstage.js:1120 jamovi/client/main/backstage.js:1222
+#: jamovi/client/main/backstage.js:1120
+#: jamovi/client/main/backstage.js:1222
 #: jamovi/client/main/backstage.js:1240
 msgid "Download"
 msgstr "ダウンロード"
@@ -770,12 +771,8 @@ msgid "Downloads"
 msgstr "ダウンロード"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"変数の中から標本サイズ（n）で指定された個数の値を無作為抽出します（例：SAMPLE(var, 20), SAMPLE(‘training’, 20, "
-"‘test’)）。"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "変数の中から標本サイズ（n）で指定された個数の値を無作為抽出します（例：SAMPLE(var, 20), SAMPLE(‘training’, 20, ‘test’)）。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -807,7 +804,8 @@ msgstr "変換 {transformName} を複製"
 #: jamovi/client/main/ribbon/datatab.js:23
 #: jamovi/client/main/ribbon/variablestab.js:17
 #: jamovi/client/main/ribbon/variablestab.js:23
-#: jamovi/client/main/tableview.js:1173 jamovi/client/main/tableview.js:1283
+#: jamovi/client/main/tableview.js:1173
+#: jamovi/client/main/tableview.js:1283
 msgid "Edit"
 msgstr "編集"
 
@@ -847,7 +845,8 @@ msgstr "Enter (Return) キー"
 msgid "Enter description"
 msgstr "説明を入力"
 
-#: jamovi/client/main/backstage.js:275 jamovi/client/main/backstage.js:312
+#: jamovi/client/main/backstage.js:275
+#: jamovi/client/main/backstage.js:312
 msgid "Enter file name here"
 msgstr "ファイル名を入力"
 
@@ -887,8 +886,10 @@ msgstr "Excel形式 {ext}"
 msgid "Exploration"
 msgstr "探索"
 
-#: jamovi/client/main/backstage.js:1231 jamovi/client/main/backstage.js:1323
-#: jamovi/client/main/backstage.js:321 jamovi/client/main/resultspanel.js:592
+#: jamovi/client/main/backstage.js:1231
+#: jamovi/client/main/backstage.js:1323
+#: jamovi/client/main/backstage.js:321
+#: jamovi/client/main/resultspanel.js:592
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:215
 msgid "Export"
@@ -983,7 +984,8 @@ msgstr "フィルタ適用"
 #: jamovi/client/main/contextmenu/contextmenus.js:40
 #: jamovi/client/main/ribbon/datatab.js:56
 #: jamovi/client/main/ribbon/variablestab.js:46
-#: jamovi/client/main/tableview.js:83 jamovi/client/main/variablesview.js:61
+#: jamovi/client/main/tableview.js:83
+#: jamovi/client/main/variablesview.js:61
 msgid "Filters"
 msgstr "フィルタ"
 
@@ -1000,8 +1002,9 @@ msgid "Filters may not reference output variables"
 msgstr "フィルタでは結果変数の参照はできません"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "Find module in jamovi library"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1029,9 +1032,7 @@ msgid "Formula contains illegal node"
 msgstr "式に不正なノードが含まれています"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr "式の指定に誤りがあります（値が等しいことを確かめたいのであれば、「=」でなく「==」としてください）"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
@@ -1075,7 +1076,8 @@ msgstr "グリーン"
 msgid "Greys"
 msgstr "グレー"
 
-#: jamovi/client/resultsview/array.js:73 jamovi/client/resultsview/group.js:73
+#: jamovi/client/resultsview/array.js:73
+#: jamovi/client/resultsview/group.js:73
 msgid "Group"
 msgstr "グループ"
 
@@ -1171,10 +1173,12 @@ msgid "Image"
 msgstr "画像"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Image resized to {width} by {height}"
 
-#: jamovi/client/main/backstage.js:1277 jamovi/client/main/backstage.js:278
+#: jamovi/client/main/backstage.js:1277
+#: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Import"
 msgstr "読み込み"
@@ -1250,7 +1254,8 @@ msgstr "インストール"
 msgid "Install module {moduleName} version {version}"
 msgstr "{moduleName} モジュールのバージョン {version} をインストール"
 
-#: jamovi/client/main/store.js:35 jamovi/client/main/store/pagemodules.js:121
+#: jamovi/client/main/store.js:35
+#: jamovi/client/main/store/pagemodules.js:121
 msgid "Installed"
 msgstr "インストール済"
 
@@ -1286,7 +1291,8 @@ msgstr "交互作用"
 msgid "Inverts the value."
 msgstr "値の「真／偽」を反転させます。"
 
-#: jamovi/client/main/tableview.js:497 jamovi/client/main/tableview.js:536
+#: jamovi/client/main/tableview.js:497
+#: jamovi/client/main/tableview.js:536
 #: jamovi/client/main/tableview.js:591
 msgid "Issue with formula"
 msgstr "数式に問題があります"
@@ -1295,7 +1301,8 @@ msgstr "数式に問題があります"
 msgid "Italic"
 msgstr "斜体"
 
-#: jamovi/client/main/backstage.js:1005 jamovi/client/main/backstage.js:1016
+#: jamovi/client/main/backstage.js:1005
+#: jamovi/client/main/backstage.js:1016
 msgid "jamovi file {ext}"
 msgstr "jamoviファイル {ext}"
 
@@ -1304,17 +1311,11 @@ msgid "jamovi files {ext}"
 msgstr "jamoviファイル {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "jamoviが日本語で利用可能になりました！（jamoviの翻訳チームに感謝）"
 
 #: jamovi/client/main/misc/announcements.js:2
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "jamoviが日本語で利用可能になりました！（jamoviの翻訳チームに感謝）"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
@@ -1325,7 +1326,8 @@ msgstr "jamoviライブラリ"
 msgid "jamovi modules"
 msgstr "jamoviモジュール"
 
-#: jamovi/client/main/backstage.js:1028 jamovi/client/main/backstage.js:1051
+#: jamovi/client/main/backstage.js:1028
+#: jamovi/client/main/backstage.js:1051
 msgid "jamovi template {ext}"
 msgstr "jamoviテンプレート {ext}"
 
@@ -1353,7 +1355,8 @@ msgstr "キーワード：{v}"
 msgid "Language"
 msgstr "言語"
 
-#: jamovi/client/main/backstage.js:1030 jamovi/client/main/backstage.js:1053
+#: jamovi/client/main/backstage.js:1030
+#: jamovi/client/main/backstage.js:1053
 #: jamovi/client/main/resultspanel.js:748
 msgid "LaTeX bundle {ext}"
 msgstr "LaTeXバンドル {ext}"
@@ -1403,8 +1406,9 @@ msgid "Manage installed"
 msgstr "モジュール管理"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Max: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1416,8 +1420,9 @@ msgid "Minimal"
 msgstr "ミニマル"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "Module"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1463,7 +1468,8 @@ msgstr "ディレクトリ {0} から戻る"
 msgid "Name"
 msgstr "名前"
 
-#: jamovi/client/main/backstage.js:1176 jamovi/client/main/backstage.js:1253
+#: jamovi/client/main/backstage.js:1176
+#: jamovi/client/main/backstage.js:1253
 msgid "New"
 msgstr "新規"
 
@@ -1516,7 +1522,8 @@ msgstr "クエリに一致する変数がありません。"
 msgid "Nominal"
 msgstr "名義"
 
-#: jamovi/client/main/dataset.js:1328 jamovi/client/main/dataset.js:1330
+#: jamovi/client/main/dataset.js:1328
+#: jamovi/client/main/dataset.js:1330
 #: jamovi/client/main/vareditor/recodedvarwidget.js:255
 #: jamovi/client/main/vareditor/recodedvarwidget.js:305
 #: jamovi/client/main/vareditor/recodedvarwidget.js:32
@@ -1530,7 +1537,8 @@ msgstr "なし"
 msgid "Not equal to"
 msgstr "この値以外"
 
-#: jamovi/client/resultsview/main.js:108 jamovi/client/resultsview/table.js:624
+#: jamovi/client/resultsview/main.js:108
+#: jamovi/client/resultsview/table.js:624
 msgid "Note"
 msgstr "ノート"
 
@@ -1561,13 +1569,11 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:358
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"このデータセットで１つ以上の分析が無効化されています。\n"
+msgstr "このデータセットで１つ以上の分析が無効化されています。\n"
 "                    任意のコードが実行可能な状態になっているためです。\n"
 "                    それらを有効にするのは、このデータの入手先が信頼できる\n"
 "                    場合だけにしてください。"
@@ -1588,7 +1594,8 @@ msgstr[1] "{n}行挿入しました。"
 msgid "Online data set"
 msgstr "オンラインデータセット"
 
-#: jamovi/client/main/backstage.js:1181 jamovi/client/main/backstage.js:1258
+#: jamovi/client/main/backstage.js:1181
+#: jamovi/client/main/backstage.js:1258
 msgid "Open"
 msgstr "開く"
 
@@ -1612,7 +1619,8 @@ msgstr "jamoviモジュールライブラリを開く"
 msgid "Open the main menu"
 msgstr "メニュー項目を開く"
 
-#: jamovi/client/main/backstage.js:1704 jamovi/client/main/instance.js:236
+#: jamovi/client/main/backstage.js:1704
+#: jamovi/client/main/instance.js:236
 #: jamovi/client/main/main.js:656
 msgid "Opening"
 msgstr "開いています"
@@ -1650,9 +1658,7 @@ msgid "Paragraph"
 msgstr "段落"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
 msgstr "日付を解析し、1970年1月1日からの日数に変換します。"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
@@ -1666,7 +1672,8 @@ msgstr "貼り付け"
 msgid "Paste is unavailable using the menus"
 msgstr "メニューを使用した貼り付けはできません"
 
-#: jamovi/client/main/backstage.js:1026 jamovi/client/main/backstage.js:1049
+#: jamovi/client/main/backstage.js:1026
+#: jamovi/client/main/backstage.js:1049
 #: jamovi/client/main/resultspanel.js:715
 #: jamovi/client/main/resultspanel.js:742
 msgid "PDF Document {ext}"
@@ -1677,16 +1684,18 @@ msgid "Pin level"
 msgstr "水準をピン留め"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "Please <em>install or update</em> this module from the jamovi library."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "スプレッドシートへの貼り付けにはctrl-vを使用してください。"
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "Plot"
 
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
@@ -1701,8 +1710,9 @@ msgid "PNG Image {ext}"
 msgstr "PNG画像 {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "PowerPoint Slide {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1717,8 +1727,9 @@ msgid "Previous variable"
 msgstr "前の変数"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "Project Save As"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "qualitative"
@@ -1728,8 +1739,10 @@ msgstr "質的"
 msgid "R data files {ext}"
 msgstr "Rデータファイル {ext}"
 
-#: jamovi/client/main/backstage.js:1031 jamovi/client/main/backstage.js:1032
-#: jamovi/client/main/backstage.js:1054 jamovi/client/main/backstage.js:1055
+#: jamovi/client/main/backstage.js:1031
+#: jamovi/client/main/backstage.js:1032
+#: jamovi/client/main/backstage.js:1054
+#: jamovi/client/main/backstage.js:1055
 msgid "R object {ext}"
 msgstr "Rオブジェクト {ext}"
 
@@ -1737,7 +1750,8 @@ msgstr "Rオブジェクト {ext}"
 msgid "Ranks each value"
 msgstr "各値の順位（昇順）を返します"
 
-#: jamovi/client/main/tableview.js:1250 jamovi/client/main/tableview.js:80
+#: jamovi/client/main/tableview.js:1250
+#: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
 msgid "Ready"
 msgstr "編集可"
@@ -1756,7 +1770,8 @@ msgstr "最近のファイル"
 msgid "Redo Edit"
 msgstr "やり直し"
 
-#: jamovi/client/main/references.js:20 jamovi/client/main/resultspanel.js:421
+#: jamovi/client/main/references.js:20
+#: jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:75
 msgid "References"
@@ -1770,7 +1785,8 @@ msgstr "更新"
 msgid "Regression"
 msgstr "回帰"
 
-#: jamovi/client/main/menu.js:169 jamovi/client/main/resultspanel.js:571
+#: jamovi/client/main/menu.js:169
+#: jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Remove"
@@ -1808,7 +1824,8 @@ msgstr "jamoviのバージョンが古すぎます"
 msgid "Restart required"
 msgstr "要再起動"
 
-#: jamovi/client/main/analyses.js:336 jamovi/client/main/ribbon/appmenu.js:58
+#: jamovi/client/main/analyses.js:336
+#: jamovi/client/main/ribbon/appmenu.js:58
 #: jamovi/server/jamovi/server/analyses.py
 #: jamovi/server/jamovi/server/instance.py
 msgid "Results"
@@ -1823,13 +1840,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "変数のボックスコックス変換値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
-"四分位範囲（IQR）に基づいて変数値が外れ値かどうかを判断します。値が箱ひげ図の箱の中にあるときは0が返されます。絶対値が1.5"
-"を超える場合には、その値がひげの外にあることを意味します。"
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "四分位範囲（IQR）に基づいて変数値が外れ値かどうかを判断します。値が箱ひげ図の箱の中にあるときは0が返されます。絶対値が1.5を超える場合には、その値がひげの外にあることを意味します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1937,22 +1949,16 @@ msgid "Returns the variance of a variable."
 msgstr "変数値の分散（不偏分散）を返します。"
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
 msgstr "前回選択した分析に戻り、オプションパネルを開いて、フォーカスをオプションパネルに設定します。"
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
 msgstr "前回選択した分析に戻り、フォーカスを結果の出力に移します。"
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
 msgstr "前回選択した分析に戻り、フォーカスを結果の出力に移します。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
@@ -1990,7 +1996,8 @@ msgstr "行フィルタ"
 msgid "Rows"
 msgstr "行"
 
-#: jamovi/client/main/backstage.js:1035 jamovi/client/main/backstage.js:1058
+#: jamovi/client/main/backstage.js:1035
+#: jamovi/client/main/backstage.js:1058
 msgid "SAS 7bdat {ext}"
 msgstr "SAS 7bdat形式 {ext}"
 
@@ -1998,16 +2005,20 @@ msgstr "SAS 7bdat形式 {ext}"
 msgid "SAS files {ext}"
 msgstr "SASファイル {ext}"
 
-#: jamovi/client/main/backstage.js:1036 jamovi/client/main/backstage.js:1059
+#: jamovi/client/main/backstage.js:1036
+#: jamovi/client/main/backstage.js:1059
 msgid "SAS xpt {ext}"
 msgstr "SAS xpt形式 {ext}"
 
-#: jamovi/client/main/backstage.js:1295 jamovi/client/main/backstage.js:319
-#: jamovi/client/main/main.js:636 jamovi/client/main/menu.js:160
+#: jamovi/client/main/backstage.js:1295
+#: jamovi/client/main/backstage.js:319
+#: jamovi/client/main/main.js:636
+#: jamovi/client/main/menu.js:160
 msgid "Save"
 msgstr "保存"
 
-#: jamovi/client/main/backstage.js:1209 jamovi/client/main/backstage.js:1310
+#: jamovi/client/main/backstage.js:1209
+#: jamovi/client/main/backstage.js:1310
 msgid "Save As"
 msgstr "別名で保存"
 
@@ -2133,9 +2144,7 @@ msgid "Special Import"
 msgstr "拡張読み込み"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr "変数に含まれる文字列を区切り文字で分割します。<i>piece</i>で何番目の要素を取り出すかを指定します。"
 
 #: jamovi/client/main/tableview.js:62
@@ -2146,11 +2155,13 @@ msgstr "スプレッドシート"
 msgid "SPSS files {ext}"
 msgstr "SPSSファイル {ext}"
 
-#: jamovi/client/main/backstage.js:1033 jamovi/client/main/backstage.js:1056
+#: jamovi/client/main/backstage.js:1033
+#: jamovi/client/main/backstage.js:1056
 msgid "SPSS sav {ext}"
 msgstr "SPSS形式 {ext}"
 
-#: jamovi/client/main/backstage.js:1037 jamovi/client/main/backstage.js:1060
+#: jamovi/client/main/backstage.js:1037
+#: jamovi/client/main/backstage.js:1060
 msgid "Stata {ext}"
 msgstr "Stata形式 {ext}"
 
@@ -2199,9 +2210,7 @@ msgid "Table"
 msgstr "表"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
 msgstr "1970年1月1日からの経過日数を表す数値を受け取り、フォーマットされた日付を生成します。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
@@ -2219,9 +2228,7 @@ msgid "The content has been copied to the clipboard"
 msgstr "内容をクリップボードにコピーしました"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr "コピーの準備が完了しました。下のボタン、またはキーボードの<em>{k}+C</em>でコピーできます"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
@@ -2229,9 +2236,7 @@ msgid "The current value of the variable to which this transform is applied."
 msgstr "この変換が適用される変数値です。"
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
 msgstr "データは{}変数で重みづけされていますが、この分析は非整数の重みをサポートしていません。重みは最も近い整数に丸められました。"
 
 #: jamovi/client/main/strings.ts:7
@@ -2240,9 +2245,7 @@ msgid "The data is weighted by the variable {}."
 msgstr "データは{}変数で重みづけされています。"
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
 msgstr "データは重みづけされていますが、この分析は重みづけをサポートしていません。分析では重みづけなしのデータを使用しました。"
 
 #: jamovi/client/main/instance.js:418
@@ -2339,13 +2342,14 @@ msgid "This is a data variable."
 msgstr "これはデータ変数です。"
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "This module is either <em>missing or incompatible</em> with this version of jamovi."
 
-#: jamovi/client/main/backstage.js:1136 jamovi/client/main/backstage.js:1271
-#: jamovi/client/main/backstage.js:1290 jamovi/client/main/backstage.js:1318
+#: jamovi/client/main/backstage.js:1136
+#: jamovi/client/main/backstage.js:1271
+#: jamovi/client/main/backstage.js:1290
+#: jamovi/client/main/backstage.js:1318
 #: jamovi/client/main/backstage.js:1326
 msgid "This PC"
 msgstr "このPC"
@@ -2466,8 +2470,10 @@ msgstr "{module}をインストールできません"
 msgid "Unable to install module"
 msgstr "モジュールをインストールできません"
 
-#: jamovi/client/main/backstage.js:1743 jamovi/client/main/instance.js:207
-#: jamovi/client/main/instance.js:210 jamovi/client/main/instance.js:248
+#: jamovi/client/main/backstage.js:1743
+#: jamovi/client/main/instance.js:207
+#: jamovi/client/main/instance.js:210
+#: jamovi/client/main/instance.js:248
 #: jamovi/client/main/main.js:704
 msgid "Unable to open"
 msgstr "開けません"
@@ -2524,8 +2530,9 @@ msgid "Unrecognised file format"
 msgstr "認識できないファイル形式"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "Untitled"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 #: jamovi/client/main/store/pagemodules.js:127
@@ -2614,7 +2621,8 @@ msgstr "バージョン {v}"
 msgid "Visible"
 msgstr "表示"
 
-#: jamovi/client/main/backstage.js:1027 jamovi/client/main/backstage.js:1050
+#: jamovi/client/main/backstage.js:1027
+#: jamovi/client/main/backstage.js:1050
 #: jamovi/client/main/resultspanel.js:743
 msgid "Web Page {ext}"
 msgstr "Webページ {ext}"
@@ -2631,9 +2639,7 @@ msgid "when"
 msgstr "もし"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
+msgid "When the variable contains a missing value, use the value, otherwise the else."
 msgstr "変数に欠損値が含まれている場合は「真の場合（value）」、そうでない場合は「偽の場合（else）」の値を返します。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
@@ -2653,9 +2659,7 @@ msgid "You cannot modify columns that affect filters when filtered rows are hidd
 msgstr "フィルタの適用中は、フィルタに影響する列は編集できません"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr "フィルタの適用中は、フィルタに影響する変換は編集できません"
 
 #: jamovi/server/jamovi/server/syncs/http.py

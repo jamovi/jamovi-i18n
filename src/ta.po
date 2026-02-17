@@ -1,9 +1,8 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2025-09-21 03:01+0000\n"
+msgstr "PO-Revision-Date: 2025-09-21 03:01+0000\n"
 "Last-Translator: தமிழ்நேரம் <tamilneram247@gmail.com>\n"
-"Language-Team: Tamil "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ta/>\n"
+"Language-Team: Tamil <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ta/>\n"
 "Language: ta\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -16,13 +15,10 @@ msgid "'{}' is in error"
 msgstr "'{}' பிழையில் உள்ளது"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"'{}' என்பது {} () க்கு ஒரு உரையாடல் அல்ல\n"
-" (நீங்கள் சமத்துவத்தை சோதிக்க விரும்பினால், இரண்டு சம அறிகுறிகளைப் "
-"பயன்படுத்துங்கள் '==')"
+msgstr "'{}' என்பது {} () க்கு ஒரு உரையாடல் அல்ல\n"
+" (நீங்கள் சமத்துவத்தை சோதிக்க விரும்பினால், இரண்டு சம அறிகுறிகளைப் பயன்படுத்துங்கள் '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -37,8 +33,9 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(இது சஃபாரி மற்றும் ஐபாட்களின் நகைச்சுவை)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} விருப்பங்கள்:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -129,12 +126,8 @@ msgid "Accent"
 msgstr "உச்சரிப்பு"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
-msgstr ""
-"அணுகல் மறுக்கப்படுகிறது. இந்த வளத்தை அணுக உங்களுக்கு பொருத்தமான அனுமதிகள் "
-"இல்லை."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgstr "அணுகல் மறுக்கப்படுகிறது. இந்த வளத்தை அணுக உங்களுக்கு பொருத்தமான அனுமதிகள் இல்லை."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
 #: jamovi/client/main/vareditor/filterwidget.js:497
@@ -231,9 +224,7 @@ msgstr "பகுப்பாய்வு"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
-"இந்த அமர்வில் தன்னிச்சையான குறியீட்டை இயக்கும் பகுப்பாய்வுகள் "
-"அனுமதிக்கப்படவில்லை."
+msgstr "இந்த அமர்வில் தன்னிச்சையான குறியீட்டை இயக்கும் பகுப்பாய்வுகள் அனுமதிக்கப்படவில்லை."
 
 #: jamovi/client/resultsview/main.js:133
 msgid "Analysis"
@@ -427,8 +418,9 @@ msgid "Close"
 msgstr "மூடு"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "கோப்பு மெனுவை மூடு"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -462,8 +454,9 @@ msgid "Column is not editable"
 msgstr "நெடுவரிசை திருத்தக்கூடியது அல்ல"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "காற்புள்ளி"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 #: jamovi/client/main/ribbon/variablestab.js:23
@@ -555,8 +548,9 @@ msgstr "நகலெடு"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "லேட்டெக்ஸை நகலெடுக்கவும்"
 
 #: jamovi/client/main/tableview.js:1484
 #: jamovi/server/jamovi/server/instance.py
@@ -663,8 +657,9 @@ msgid "decimal places"
 msgstr "தசம இடங்கள்"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "பத்திக் குறியீடு"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Default"
@@ -741,14 +736,8 @@ msgid "Desktop"
 msgstr "டெச்க்டாப்"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"IN1, IN2, IN3, இல் ஏதேனும் உருப்படிகள் தோன்றினையா என்பதை தீர்மானிக்கிறது "
-".... இந்த வாதங்களில் பெரும்பாலானவை விருப்பமானவை என்பதை நினைவில் கொள்க - <b> "
-"ஐக் கொண்டுள்ளது (ஊசி, ஏச்டாக்) </b> ஆகியவற்றைப் பயன்படுத்த முடியும்."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "IN1, IN2, IN3, இல் ஏதேனும் உருப்படிகள் தோன்றினையா என்பதை தீர்மானிக்கிறது .... இந்த வாதங்களில் பெரும்பாலானவை விருப்பமானவை என்பதை நினைவில் கொள்க - <b> ஐக் கொண்டுள்ளது (ஊசி, ஏச்டாக்) </b> ஆகியவற்றைப் பயன்படுத்த முடியும்."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
 msgid "Developer mode"
@@ -768,8 +757,9 @@ msgid "Don't Save"
 msgstr "சேமிக்க வேண்டாம்"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "புள்ளி"
 
 #: jamovi/client/main/backstage.ts:303
 #: jamovi/client/main/backstage.ts:408
@@ -783,12 +773,8 @@ msgid "Downloads"
 msgstr "பதிவிறக்கங்கள்"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"மாறியிலிருந்து n இன் மாதிரியை ஈர்க்கிறது. அதாவது மாதிரி (var, 20), அதாவது "
-"மாதிரி (1, 20), அதாவது மாதிரி ('பயிற்சி', 20, 'சோதனை')"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "மாறியிலிருந்து n இன் மாதிரியை ஈர்க்கிறது. அதாவது மாதிரி (var, 20), அதாவது மாதிரி (1, 20), அதாவது மாதிரி ('பயிற்சி', 20, 'சோதனை')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a Beta distribution."
@@ -1013,17 +999,16 @@ msgstr "வடிகட்டி வெளிப்பாட்டைப் ப�
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
-"வடிப்பான்கள் 'வி' அல்லது நெடுவரிசை செயல்பாடுகளைப் பயன்படுத்தி நெடுவரிசைகளைக் "
-"குறிப்பிடக்கூடாது"
+msgstr "வடிப்பான்கள் 'வி' அல்லது நெடுவரிசை செயல்பாடுகளைப் பயன்படுத்தி நெடுவரிசைகளைக் குறிப்பிடக்கூடாது"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
 msgstr "வடிப்பான்கள் வெளியீட்டு மாறிகளைக் குறிப்பிடக்கூடாது"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "ஜமோவி நூலகத்தில் மாடியூலைக் கண்டுபிடிக்கவும்"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1051,12 +1036,8 @@ msgid "Formula contains illegal node"
 msgstr "சூத்திரத்தில் சட்டவிரோத முனை உள்ளது"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
-msgstr ""
-"தேற்றம் தவறாக குறிப்பிடப்பட்டுள்ளது (நீங்கள் சமத்துவத்தை சோதிக்க "
-"விரும்பினால், இரண்டு சமமான அறிகுறிகளைப் பயன்படுத்துங்கள் '==')"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr "தேற்றம் தவறாக குறிப்பிடப்பட்டுள்ளது (நீங்கள் சமத்துவத்தை சோதிக்க விரும்பினால், இரண்டு சமமான அறிகுறிகளைப் பயன்படுத்துங்கள் '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1196,8 +1177,9 @@ msgid "Image"
 msgstr "படம்"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "படம் {width} ஆல் {height} அளவிற்கு மாற்றப்பட்டுள்ளது"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
@@ -1333,26 +1315,12 @@ msgid "jamovi files {ext}"
 msgstr "சாமோவி கோப்புகள் {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
-msgstr ""
-"சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! ({ "
-"உங்கள் பெயரை இங்கே செருகவும் (அல்லது உங்களுக்குப் பெயர் தேவையில்லை என்றால், "
-"\"சாமோவி மொழிபெயர்ப்புக் குழு\" என்று பொதுவான ஒன்றைச் சேர்க்கவும்) } க்கு "
-"மிக்க நன்றி)"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! ({ உங்கள் பெயரை இங்கே செருகவும் (அல்லது உங்களுக்குப் பெயர் தேவையில்லை என்றால், \"சாமோவி மொழிபெயர்ப்புக் குழு\" என்று பொதுவான ஒன்றைச் சேர்க்கவும்) } க்கு மிக்க நன்றி)"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
-msgstr ""
-"சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! (@{ "
-"க்கு மிக்க நன்றி உங்கள் ட்விட்டர் கைப்பிடியை இங்கே செருகவும் (அல்லது "
-"உங்களுக்குக் கிரெடிட் தேவையில்லை என்றால், மிகவும் பொதுவான \"சாமோவி "
-"மொழிபெயர்ப்புக் குழு\" என்று வைக்கவும்) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "சாமோவி இப்போது { மொழிபெயர்ப்பு மொழியைச் செருகவும் } இல் கிடைக்கிறது! (@{ க்கு மிக்க நன்றி உங்கள் ட்விட்டர் கைப்பிடியை இங்கே செருகவும் (அல்லது உங்களுக்குக் கிரெடிட் தேவையில்லை என்றால், மிகவும் பொதுவான \"சாமோவி மொழிபெயர்ப்புக் குழு\" என்று வைக்கவும்) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:117
 msgid "jamovi library"
@@ -1442,8 +1410,9 @@ msgid "Manage installed"
 msgstr "நிறுவப்பட்ட நிர்வகிக்கவும்"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "அதிகபட்சம்: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1455,8 +1424,9 @@ msgid "Minimal"
 msgstr "குறைந்தபட்ச"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "தவறான அல்லது இணக்கமற்ற மாடியூல்"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
@@ -1605,14 +1575,11 @@ msgid "One Drive"
 msgstr "Onedrive"
 
 #: jamovi/client/main/main.js:456
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"இந்த தரவு தொகுப்பில் ஒன்று அல்லது அதற்கு மேற்பட்ட பகுப்பாய்வுகள் "
-"முடக்கப்பட்டுள்ளன\n"
+msgstr "இந்த தரவு தொகுப்பில் ஒன்று அல்லது அதற்கு மேற்பட்ட பகுப்பாய்வுகள் முடக்கப்பட்டுள்ளன\n"
 " ஏனெனில் அவை தன்னிச்சையான குறியீட்டை செயல்படுத்த அனுமதிக்கின்றன. நீங்கள்\n"
 " இந்த தரவுத் தொகுப்பை நீங்கள் நம்பினால் மட்டுமே அவற்றை இயக்க வேண்டும்\n"
 " சான்று."
@@ -1697,12 +1664,8 @@ msgid "Paragraph"
 msgstr "பத்தி"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
-msgstr ""
-"ஒரு தேதியை பாகுபடுத்தி, அதை 1970 சனவரி 1 முதல் நாட்களின் எண்ணிக்கையாக "
-"மாற்றுகிறது."
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgstr "ஒரு தேதியை பாகுபடுத்தி, அதை 1970 சனவரி 1 முதல் நாட்களின் எண்ணிக்கையாக மாற்றுகிறது."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1727,16 +1690,18 @@ msgid "Pin level"
 msgstr "முள் நிலை"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "தயவுசெய்து இந்த மாடியூலை <em>நிறுவவும் அல்லது புதுப்பிக்கவும்</em> ஜமோவி நூலகத்திலிருந்து."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "விரிதாளில் ஒட்ட ctrl-V ஐப் பயன்படுத்தவும்."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "வரைபடம்"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Plot theme"
@@ -1751,8 +1716,9 @@ msgid "PNG Image {ext}"
 msgstr "Png படம் {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "பவர்பாயிண்ட் ஸ்லைட் {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1767,8 +1733,9 @@ msgid "Previous variable"
 msgstr "முந்தைய மாறி"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "திட்டத்தை சேமிக்கவும்"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
@@ -1880,14 +1847,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "மாறியின் ஒரு பெட்டி காக்ச் உருமாற்றத்தை வழங்குகிறது."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
-"IQR இன் படி மாறி ஒரு வெளிநாட்டவரா என்பதை வழங்குகிறது: மதிப்பு ஒரு பாக்ச் "
-"பிளாட் 0 இன் பெட்டியில் இருந்தால், 1.5 ஐ விட பெரிய மதிப்புகள் விச்கர்களுக்கு "
-"வெளியே உள்ளன."
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "IQR இன் படி மாறி ஒரு வெளிநாட்டவரா என்பதை வழங்குகிறது: மதிப்பு ஒரு பாக்ச் பிளாட் 0 இன் பெட்டியில் இருந்தால், 1.5 ஐ விட பெரிய மதிப்புகள் விச்கர்களுக்கு வெளியே உள்ளன."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1995,29 +1956,17 @@ msgid "Returns the variance of a variable."
 msgstr "மாறியின் மாறுபாட்டை வழங்குகிறது."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
-"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பி, விருப்பங்கள் "
-"குழுவில் கவனம் செலுத்தப்படுவதோடு, விருப்பங்கள் குழுவைத் திறக்கிறது."
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பி, விருப்பங்கள் குழுவில் கவனம் செலுத்தப்படுவதோடு, விருப்பங்கள் குழுவைத் திறக்கிறது."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
-msgstr ""
-"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் "
-"வெளியீட்டில் கவனம் செலுத்துகிறது."
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
+msgstr "முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் வெளியீட்டில் கவனம் செலுத்துகிறது."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
-msgstr ""
-"முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் "
-"வெளியீட்டில் கவனம் செலுத்துகிறது."
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgstr "முன்னர் தேர்ந்தெடுக்கப்பட்ட பகுப்பாய்விற்குத் திரும்பும் மற்றும் முடிவுகள் வெளியீட்டில் கவனம் செலுத்துகிறது."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Right Align"
@@ -2206,12 +2155,8 @@ msgid "Special Import"
 msgstr "சிறப்பு இறக்குமதி"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
-"ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். <i>piece</i> "
-"விரும்பிய பகுதியை குறியீட்டால் குறிப்பிடுகிறது."
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "ஒரு பிரிப்பான் அடிப்படையில் உரைகளை துண்டுகளாகப் பிரிக்கவும். <i>piece</i> விரும்பிய பகுதியை குறியீட்டால் குறிப்பிடுகிறது."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2276,12 +2221,8 @@ msgid "Table"
 msgstr "அட்டவணை"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
-"1970 சனவரி 1 ஆம் தேதி முதல் பல நாட்களைக் குறிக்கும் எண்ணை "
-"எடுத்துக்கொள்கிறது, மேலும் வடிவமைக்கப்பட்ட தேதியை உருவாக்குகிறது."
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "1970 சனவரி 1 ஆம் தேதி முதல் பல நாட்களைக் குறிக்கும் எண்ணை எடுத்துக்கொள்கிறது, மேலும் வடிவமைக்கப்பட்ட தேதியை உருவாக்குகிறது."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
@@ -2298,25 +2239,16 @@ msgid "The content has been copied to the clipboard"
 msgstr "உள்ளடக்கம் இடைநிலைப்பலகைக்கு நகலெடுக்கப்பட்டுள்ளது"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
-"உள்ளடக்கம் தயாரிக்கப்பட்டுள்ளது, மேலும் கீழே உள்ள பொத்தானைக் கொண்டு "
-"நகலெடுக்கலாம் அல்லது உங்கள் விசைப்பலகையில் <em> {k}+c </em> ஐ அழுத்துவதன் "
-"மூலம் நகலெடுக்கலாம்"
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgstr "உள்ளடக்கம் தயாரிக்கப்பட்டுள்ளது, மேலும் கீழே உள்ள பொத்தானைக் கொண்டு நகலெடுக்கலாம் அல்லது உங்கள் விசைப்பலகையில் <em> {k}+c </em> ஐ அழுத்துவதன் மூலம் நகலெடுக்கலாம்"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "The current value of the variable to which this transform is applied."
 msgstr "இந்த உருமாற்றம் பயன்படுத்தப்படும் மாறியின் தற்போதைய மதிப்பு."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
-"தரவு {by மூலம் எடைபோடப்படுகிறது, இருப்பினும் இந்த பகுப்பாய்வு முழு எண் "
-"அல்லாத எடையை ஆதரிக்காது. எடைகள் அருகிலுள்ள முழு எண்ணுக்கு வட்டமானவை."
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "தரவு {by மூலம் எடைபோடப்படுகிறது, இருப்பினும் இந்த பகுப்பாய்வு முழு எண் அல்லாத எடையை ஆதரிக்காது. எடைகள் அருகிலுள்ள முழு எண்ணுக்கு வட்டமானவை."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2324,12 +2256,8 @@ msgid "The data is weighted by the variable {}."
 msgstr "தரவு {by மூலம் எடையுள்ளதாக இருக்கும்."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
-"தரவு எடையுள்ளதாக இருக்கிறது, இருப்பினும் இந்த பகுப்பாய்வு எடையை ஆதரிக்காது. "
-"இந்த பகுப்பாய்வு தரவைப் பார்த்தது."
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "தரவு எடையுள்ளதாக இருக்கிறது, இருப்பினும் இந்த பகுப்பாய்வு எடையை ஆதரிக்காது. இந்த பகுப்பாய்வு தரவைப் பார்த்தது."
 
 #: jamovi/client/main/instance.ts:431
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2425,10 +2353,9 @@ msgid "This is a data variable."
 msgstr "இது தரவு மாறி."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "இந்த மாடியூல் இந்த பதிப்பில் தவறானது அல்லது <em>இணக்கமற்றது</em> jamovi உடன்."
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
@@ -2617,8 +2544,9 @@ msgid "Unrecognised file format"
 msgstr "அங்கீகரிக்கப்படாத கோப்பு வடிவம்"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "தலைப்பிடப்படாதது"
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 #: jamovi/client/main/store/pagemodules.js:210
@@ -2726,12 +2654,8 @@ msgid "when"
 msgstr "எப்போது"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr ""
-"மாறி காணாமல் போன மதிப்பைக் கொண்டிருக்கும்போது, மதிப்பைப் பயன்படுத்தவும், "
-"இல்லையெனில் வேறு."
+msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgstr "மாறி காணாமல் போன மதிப்பைக் கொண்டிருக்கும்போது, மதிப்பைப் பயன்படுத்தவும், இல்லையெனில் வேறு."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2747,17 +2671,11 @@ msgstr "வடிகட்டப்பட்ட வரிசைகள் மற�
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
-"வடிகட்டப்பட்ட வரிசைகள் மறைக்கப்படும்போது வடிப்பான்களை பாதிக்கும் "
-"நெடுவரிசைகளை நீங்கள் மாற்ற முடியாது"
+msgstr "வடிகட்டப்பட்ட வரிசைகள் மறைக்கப்படும்போது வடிப்பான்களை பாதிக்கும் நெடுவரிசைகளை நீங்கள் மாற்ற முடியாது"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
-msgstr ""
-"வடிகட்டப்பட்ட வரிசைகள் மறைக்கப்படும்போது வடிப்பான்களை பாதிக்கும் "
-"உருமாற்றங்களை நீங்கள் மாற்ற முடியாது"
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgstr "வடிகட்டப்பட்ட வரிசைகள் மறைக்கப்படும்போது வடிப்பான்களை பாதிக்கும் உருமாற்றங்களை நீங்கள் மாற்ற முடியாது"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"

@@ -1,15 +1,13 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2025-07-16 10:09+0000\n"
+msgstr "PO-Revision-Date: 2025-07-16 10:09+0000\n"
 "Last-Translator: Максим Горпиніч <gorpinicmaksim5@gmail.com>\n"
-"Language-Team: Ukrainian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/uk/>\n"
+"Language-Team: Ukrainian <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/uk/>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
-"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
 "X-Generator: Weblate 5.13-dev\n"
 "X-Status: production\n"
 
@@ -18,11 +16,9 @@ msgid "'{}' is in error"
 msgstr "\"{}\" є помилкою"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"'{}' не є аргументом для {}()\n"
+msgstr "'{}' не є аргументом для {}()\n"
 "(Якщо ви хочете перевірити рівність, використайте два знака рівності '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -38,8 +34,9 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Це примха Safari та iPad)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} Параметри:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -130,12 +127,8 @@ msgid "Accent"
 msgstr "Акцент"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
-msgstr ""
-"Доступ заборонений. Можливо, у вас немає відповідних дозволів для доступу до "
-"цього ресурсу."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgstr "Доступ заборонений. Можливо, у вас немає відповідних дозволів для доступу до цього ресурсу."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -424,8 +417,9 @@ msgid "Close"
 msgstr "Закрити"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "Закрити меню файлу"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -460,8 +454,9 @@ msgid "Column is not editable"
 msgstr "Шпальта не доступний для редактирования"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "Комма"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -554,8 +549,9 @@ msgstr "Копировать"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "Копіювати Latex"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -663,8 +659,9 @@ msgid "decimal places"
 msgstr "десятичных розрядів"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "Символ десяткових знаків"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -743,14 +740,8 @@ msgid "Desktop"
 msgstr "Робітниця стіл"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"Визначає, з'являються чи будь-якіелементи у in1, in2, in3, .... Обратите "
-"увага, що більшість цихаргументів являються необязательными — можна просто "
-"використати <b>CONTAINS(об'єкт, масив)</b>."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "Визначає, з'являються чи будь-якіелементи у in1, in2, in3, .... Обратите увага, що більшість цихаргументів являються необязательными — можна просто використати <b>CONTAINS(об'єкт, масив)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -770,8 +761,9 @@ msgid "Don't Save"
 msgstr "Не зберігати"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "Точка"
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
@@ -785,12 +777,8 @@ msgid "Downloads"
 msgstr "Завантаження"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"Створює вибірку n з переменной. т.е. SAMPLE(var, 20), т.е. SAMPLE(1, 20), "
-"т.е. SAMPLE('вишкіл', 20, 'тест')"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "Створює вибірку n з переменной. т.е. SAMPLE(var, 20), т.е. SAMPLE(1, 20), т.е. SAMPLE('вишкіл', 20, 'тест')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -1013,17 +1001,16 @@ msgstr "Фильтрует переменную, використовуючи в
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
-"Фільтри не можуть посилатися на шпальти, використовуючи 'V' або функції "
-"шпальт"
+msgstr "Фільтри не можуть посилатися на шпальти, використовуючи 'V' або функції шпальт"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
 msgstr "Фільтри не можуть посилатися на вихідні переменные"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "Знайти модуль у бібліотеці jamovi"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1051,12 +1038,8 @@ msgid "Formula contains illegal node"
 msgstr "Формула містить недопустимый вузол"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
-msgstr ""
-"Формула вказана неправильно (якщо ви хочете перевірити рівність, "
-"використайте два знака рівності '==')"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr "Формула вказана неправильно (якщо ви хочете перевірити рівність, використайте два знака рівності '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1196,8 +1179,9 @@ msgid "Image"
 msgstr "Зображення"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Зображення змінено до {width} на {height}"
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1332,22 +1316,12 @@ msgid "jamovi files {ext}"
 msgstr "Файли Jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
-msgstr ""
-"jamovi тепер доступний на українській мові! (Велике спасибі команді "
-"перекладу jamovi)"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi тепер доступний на українській мові! (Велике спасибі команді перекладу jamovi)"
 
 #: jamovi/client/main/misc/announcements.js:2
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
-msgstr ""
-"jamovi тепер доступний на українській мові! (Велике спасибі команді "
-"перекладу jamovi)"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi тепер доступний на українській мові! (Велике спасибі команді перекладу jamovi)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1437,8 +1411,9 @@ msgid "Manage installed"
 msgstr "Управління установленным"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Макс: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1450,8 +1425,9 @@ msgid "Minimal"
 msgstr "Мінімальний"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "Відсутній або не сумісний модуль"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1599,16 +1575,13 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:359
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"Один або кілька аналізів у цімнабір даних отключены.\n"
+msgstr "Один або кілька аналізів у цімнабір даних отключены.\n"
 "                    тому що вони дозволяють виконувати произвольный код. Вам\n"
-"                    наслідує включати їхній тільки у томунагода, якщо ви "
-"довіряєте джерелу цього набору даних."
+"                    наслідує включати їхній тільки у томунагода, якщо ви довіряєте джерелу цього набору даних."
 
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
@@ -1693,9 +1666,7 @@ msgid "Paragraph"
 msgstr "Параграф"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
 msgstr "Аналізує дату та перетворює її на кількість днів з 1 січня 1970 року."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
@@ -1721,16 +1692,18 @@ msgid "Pin level"
 msgstr "Рівень контакту"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "Будь ласка <em>установіть або оновіть</em> цей модуль з бібліотеки jamovi."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Використовуйте натомість ctrl-v для вставки в електронну таблицю."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "Графік"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1745,8 +1718,9 @@ msgid "PNG Image {ext}"
 msgstr "Зображення PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "Слайд PowerPoint {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1761,8 +1735,9 @@ msgid "Previous variable"
 msgstr "Попередня змінна"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "Зберегти проект як"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1873,15 +1848,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "Повертає перетворення Бокса Кокса для змінної."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
-"Повертає значення, чи є змінна винятком згідно з міжквартильним розглядом "
-"(IQR): Якщо значення знаходиться в межах прямокутника прямокутної діаграми, "
-"повертається 0, абсолютні значення більше 1,5 знаходяться поза межами "
-"діапазону."
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "Повертає значення, чи є змінна винятком згідно з міжквартильним розглядом (IQR): Якщо значення знаходиться в межах прямокутника прямокутної діаграми, повертається 0, абсолютні значення більше 1,5 знаходяться поза межами діапазону."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1989,29 +1957,17 @@ msgid "Returns the variance of a variable."
 msgstr "Повертає дисперсію змінної."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
-"Повертає до попередньо вибраного аналізу та відкриває панель параметрів, при "
-"цьому фокус встановлено на панелі параметрів."
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "Повертає до попередньо вибраного аналізу та відкриває панель параметрів, при цьому фокус встановлено на панелі параметрів."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
-msgstr ""
-"Повертає до раніше вибраного аналізу та перемикає фокус на виведені "
-"результати."
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
+msgstr "Повертає до раніше вибраного аналізу та перемикає фокус на виведені результати."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
-msgstr ""
-"Повертається до раніше вибраного аналізу та перемикає фокус на виведені "
-"результати."
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgstr "Повертається до раніше вибраного аналізу та перемикає фокус на виведені результати."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2198,12 +2154,8 @@ msgid "Special Import"
 msgstr "Спеціальний імпорт"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
-"Розбиває текст на частини на основі роздільника. <i>piece</i> вказує "
-"потрібну частину за індексом."
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "Розбиває текст на частини на основі роздільника. <i>piece</i> вказує потрібну частину за індексом."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2268,12 +2220,8 @@ msgid "Table"
 msgstr "Таблиця"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
-"Приймає число, що представляє кількість днів з 1 січня 1970 року, та "
-"повертає відформатовану дату."
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "Приймає число, що представляє кількість днів з 1 січня 1970 року, та повертає відформатовану дату."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2290,24 +2238,16 @@ msgid "The content has been copied to the clipboard"
 msgstr "Вміст скопійовано в буфер обміну"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
-"Контент підготовлено, і його можна скопіювати за допомогою кнопки нижче або "
-"натисканням <em>{k}+C</em> на клавіатурі"
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgstr "Контент підготовлено, і його можна скопіювати за допомогою кнопки нижче або натисканням <em>{k}+C</em> на клавіатурі"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
 msgstr "Поточне значення змінної, до якої застосовується це перетворення."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
-"Дані зважуються за допомогою змінної {}, однак цей аналіз не підтримує "
-"нецілочисельні ваги. Ваги були округлені до найближчого цілого числа."
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "Дані зважуються за допомогою змінної {}, однак цей аналіз не підтримує нецілочисельні ваги. Ваги були округлені до найближчого цілого числа."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2315,12 +2255,8 @@ msgid "The data is weighted by the variable {}."
 msgstr "Дані зважуються за допомогою змінної {}."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
-"Дані зважені, однак цей аналіз не підтримує ваги. У цьому аналізі "
-"використовувалися незважені дані."
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "Дані зважені, однак цей аналіз не підтримує ваги. У цьому аналізі використовувалися незважені дані."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2416,10 +2352,9 @@ msgid "This is a data variable."
 msgstr "Це змінна даних."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "Цей модуль або <em>відсутній, або не сумісний</em> з цією версією jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2608,8 +2543,9 @@ msgid "Unrecognised file format"
 msgstr "Нерозпізнаний формат файлу"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "Без назви"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
@@ -2716,12 +2652,8 @@ msgid "when"
 msgstr "коли"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr ""
-"Якщо змінна містить відсутнє значення, то використовується це значення, "
-"інакше - else."
+msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgstr "Якщо змінна містить відсутнє значення, то використовується це значення, інакше - else."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2737,17 +2669,11 @@ msgstr "Не можна вставляти рядки, якщо відфільт
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
-"Ви не можете змінювати шпальти, котрий впливати на фільтри, коли "
-"отфильтрованные строки приховані"
+msgstr "Ви не можете змінювати шпальти, котрий впливати на фільтри, коли отфильтрованные строки приховані"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
-msgstr ""
-"Ви не можете змінювати перетворення, котрий впливати на фільтри, коли "
-"отфильтрованные строки приховані"
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgstr "Ви не можете змінювати перетворення, котрий впливати на фільтри, коли отфильтрованные строки приховані"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"

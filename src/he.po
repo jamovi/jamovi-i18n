@@ -1,15 +1,13 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2025-12-22 17:00+0000\n"
+msgstr "PO-Revision-Date: 2025-12-22 17:00+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
-"Language-Team: Hebrew "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/he/>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
-"n % 10 == 0) ? 2 : 3));\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
 "X-Generator: Weblate 5.15.1\n"
 "X-Status: production\n"
 
@@ -18,11 +16,9 @@ msgid "'{}' is in error"
 msgstr "”{}“ זו שגיאה"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"”{}“ הוא לא ארגומנט של {}()\n"
+msgstr "”{}“ הוא לא ארגומנט של {}()\n"
 "(אם רוצים לבדוק שוויון, יש להשתמש בשני סימני שוויון ”==“)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
@@ -38,8 +34,9 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(זאת בעיה בספארי ובאייפדים)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} אפשרויות:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -130,9 +127,7 @@ msgid "Accent"
 msgstr "מודגש"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr "הגישה נדחתה. כנראה שאין בידך הרשאות מתאימות כדי לגשת למשאב זה."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
@@ -424,8 +419,9 @@ msgid "Close"
 msgstr "סגירה"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "סגירת תפריט קובץ"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -461,8 +457,9 @@ msgid "Column is not editable"
 msgstr "לא ניתן לערוך את העמודה"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "פסיק"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 #: jamovi/client/main/ribbon/variablestab.js:23
@@ -556,8 +553,9 @@ msgstr "העתקה"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "העתקת Latex"
 
 #: jamovi/client/main/tableview.js:1470
 #: jamovi/server/jamovi/server/instance.py
@@ -666,8 +664,9 @@ msgid "decimal places"
 msgstr "ספרות אחרי הנקודה"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "סימן עשרוני"
 
 #: jamovi/client/main/ribbon/appmenu.js:111
 msgid "Default"
@@ -750,13 +749,8 @@ msgid "Desktop"
 msgstr "שולחן העבודה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 … יש לשים לב שרוב הארגומנטים "
-"הם אופציונליים – ניתן להשתמש בפשטות כך: <b>CONTAINS(needle, haystack)</b>."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "בודקת אם מי מהפריטים מופיע בתוך ‎‏in1, in2, in3 … יש לשים לב שרוב הארגומנטים הם אופציונליים – ניתן להשתמש בפשטות כך: <b>CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
 msgid "Developer mode"
@@ -776,8 +770,9 @@ msgid "Don't Save"
 msgstr "לא לשמור"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "נקודה"
 
 #: jamovi/client/main/backstage.ts:303
 #: jamovi/client/main/backstage.ts:408
@@ -791,12 +786,8 @@ msgid "Downloads"
 msgstr "הורדות"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"מפיקה דגימה של n על פי המשתנה. לדוגמה: ‭SAMPLE(var, 20), SAMPLE(1, 20), "
-"SAMPLE('training', 20, 'test')‫"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "מפיקה דגימה של n על פי המשתנה. לדוגמה: ‭SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE('training', 20, 'test')‫"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a Beta distribution."
@@ -1028,8 +1019,9 @@ msgid "Filters may not reference output variables"
 msgstr "מסננים לא יכולים להפנות למשתני פלט"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "מציאת מודול בספריית jamovi"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1057,9 +1049,7 @@ msgid "Formula contains illegal node"
 msgstr "הנוסחה מכילה צומת בלתי חוקי"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr "הנוסחה שגויה (כדי לבחון שוויון יש להשתמש בשני סימני שוויון ”==“)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
@@ -1200,8 +1190,9 @@ msgid "Image"
 msgstr "תמונה"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "תמונה מוקטנת ל{width} על {height}"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
@@ -1337,17 +1328,11 @@ msgid "jamovi files {ext}"
 msgstr "קובצי jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "jamovi זמין כעת בעברית! (תודה רבה ל־Kurpaph)"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "jamovi זמינה כעת בעברית! (תודה רבה ל־Kurpaph ולצוות המתרגמים של jamovi)"
 
 #: jamovi/client/main/ribbon/analysetab.js:117
@@ -1438,8 +1423,9 @@ msgid "Manage installed"
 msgstr "ניהול המותקנים"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "מקס: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1451,8 +1437,9 @@ msgid "Minimal"
 msgstr "מינימלי"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "מודול חסר או לא תואם"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
@@ -1601,13 +1588,11 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:455
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"לפחות ניתוח אחד הושבת במערך נתונים זה\n"
+msgstr "לפחות ניתוח אחד הושבת במערך נתונים זה\n"
 "                    כי הוא מאפשר הרצה של קוד אקראי.\n"
 "                    מומלץ לאשר אותו רק אם סומכים\n"
 "                    על המקור של מערך הנתונים הזה."
@@ -1698,9 +1683,7 @@ msgid "Paragraph"
 msgstr "פסקה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
 msgstr "פירוק תאריך והמרתו למספר הימים מאז 1 בינואר, 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
@@ -1726,16 +1709,18 @@ msgid "Pin level"
 msgstr "הצמדת הרמה"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "אנא <em>התקנת או עדכון</em> של מודול זה מספריית jamovi."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "אנא השתמשו בקיצור ctrl-v כדי להדביק לתוך גיליון הנתונים."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "גרף"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Plot theme"
@@ -1750,8 +1735,9 @@ msgid "PNG Image {ext}"
 msgstr "תמונת PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "שקף PowerPoint {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1766,8 +1752,9 @@ msgid "Previous variable"
 msgstr "המשתנה הקודם"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "שמירת פרויקט בשם"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
@@ -1879,14 +1866,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "מחזירה טרנספורמציית בוקס–קוקס של המשתנה."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
-"מחזירה אם המשתנה חריג לפי הטווח הבין רבעוני: אם הערך נמצא בתוך הקופסה של "
-"תרשים קופסות, מוחזר 0. ערכים מוחלטים הגדולים מ־1.5 הם כאלו הנמצאים מחוץ "
-"לתחום."
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "מחזירה אם המשתנה חריג לפי הטווח הבין רבעוני: אם הערך נמצא בתוך הקופסה של תרשים קופסות, מוחזר 0. ערכים מוחלטים הגדולים מ־1.5 הם כאלו הנמצאים מחוץ לתחום."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1994,24 +1975,16 @@ msgid "Returns the variance of a variable."
 msgstr "מחזירה את השונות של משתנה."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
-"מחזירה את הניתוח האחרון שנבחר ופותחת את סרגל האפשרויות תוך התמקדות בסרגל "
-"האפשרויות."
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "מחזירה את הניתוח האחרון שנבחר ופותחת את סרגל האפשרויות תוך התמקדות בסרגל האפשרויות."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
 msgstr "מחזירה את הניתוח האחרון שנבחר ומזיזה את ההתמקדות לתוך פלט התוצאות."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
 msgstr "מחזירה את הניתוח האחרון שנבחר ומזיזה את ההתמקדות לפלט התוצאות."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
@@ -2203,12 +2176,8 @@ msgid "Special Import"
 msgstr "ייבוא מיוחד"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
-"מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט <i>piece</i> מצביע על החתיכה "
-"הרצויה לפי מיקום."
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "מפצלת את הטקסט לחתיכות על פי מפריד. הארגומנט <i>piece</i> מצביע על החתיכה הרצויה לפי מיקום."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2273,9 +2242,7 @@ msgid "Table"
 msgstr "טבלה"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
 msgstr "לוקחת מספר המייצג את מספר הימים מאז 1 בינואר 1970 ומפיקה תאריך בתבנית."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -2293,9 +2260,7 @@ msgid "The content has been copied to the clipboard"
 msgstr "התוכן הועתק ללוח"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr "התוכן הוכן וניתן להעתיק אותו בעזרת הכפתור מטה או בהקשת <em>{k}+C</em> במקלדת"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
@@ -2303,12 +2268,8 @@ msgid "The current value of the variable to which this transform is applied."
 msgstr "הערך הנוכחי של המשתנה שעליו מבוצעת הטרנספורמציה."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
-"הנתונים משוקללים לפי המשתנה {}, אולם ניתוח זה אינו תומך במשקלים שאינם מספר "
-"שלם. המשקלים עוגלו למספר השלם הקרוב ביותר."
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "הנתונים משוקללים לפי המשתנה {}, אולם ניתוח זה אינו תומך במשקלים שאינם מספר שלם. המשקלים עוגלו למספר השלם הקרוב ביותר."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2316,12 +2277,8 @@ msgid "The data is weighted by the variable {}."
 msgstr "הנתונים משוקללים לפי המשתנה {}."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
-"הנתונים משוקללים, אולם ניתוח זה אינו תומך במשקלים. הניתוח נעשה על הנתונים "
-"ללא שקלול."
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "הנתונים משוקללים, אולם ניתוח זה אינו תומך במשקלים. הניתוח נעשה על הנתונים ללא שקלול."
 
 #: jamovi/client/main/instance.ts:431
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2417,10 +2374,9 @@ msgid "This is a data variable."
 msgstr "זהו משתנה נתונים."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "מודול זה הוא <em>חסר או לא תואם</em> עם גרסה זו של jamovi."
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
@@ -2611,8 +2567,9 @@ msgid "Unrecognised file format"
 msgstr "סוג הקובץ אינו מוכר"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "ללא כותרת"
 
 #: jamovi/client/main/ribbon/appmenu.js:152
 #: jamovi/client/main/store/pagemodules.js:210
@@ -2720,9 +2677,7 @@ msgid "when"
 msgstr "כאשר"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
+msgid "When the variable contains a missing value, use the value, otherwise the else."
 msgstr "כשבמשתנה חסר ערך, הערך שבנוסחה ייבחר. אם לא, ה”אחרת“."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
@@ -2742,9 +2697,7 @@ msgid "You cannot modify columns that affect filters when filtered rows are hidd
 msgstr "לא ניתן לשנות עמודות המשפיעות על מסננים כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr "לא ניתן לשנות טרנספורמציות המשפיעות על מסננים כשמוסתרות שורות מסוננות"
 
 #: jamovi/server/jamovi/server/syncs/http.py

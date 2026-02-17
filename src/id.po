@@ -1,9 +1,8 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2026-01-09 19:01+0000\n"
+msgstr "PO-Revision-Date: 2026-01-09 19:01+0000\n"
 "Last-Translator: AGUNG ADI KURNIAWAN <agungadi.kurniawan25@gmail.com>\n"
-"Language-Team: Indonesian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/id/>\n"
+"Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/id/>\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -16,13 +15,10 @@ msgid "'{}' is in error"
 msgstr "'{}' mengalami error"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"'{}' bukan perintah untuk {}()\n"
-"(jika kamu ingin melakukan tes equalitas, gunakan dua simbol sama-dengan "
-"'==')"
+msgstr "'{}' bukan perintah untuk {}()\n"
+"(jika kamu ingin melakukan tes equalitas, gunakan dua simbol sama-dengan '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -37,8 +33,9 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Ini adalah keunikan dari Safari dan Ipad)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} Opsi:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -129,12 +126,8 @@ msgid "Accent"
 msgstr "Aksen"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
-msgstr ""
-"Akses ditolak. Kemungkinan kamu tidak memiliki izin untuk mengakses sumber "
-"ini."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgstr "Akses ditolak. Kemungkinan kamu tidak memiliki izin untuk mengakses sumber ini."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -149,8 +142,9 @@ msgid "Add"
 msgstr "Tambah"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
+#, fuzzy
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Tambahkan {1} item ke {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -158,12 +152,14 @@ msgid "Add another nested filter"
 msgstr "Tambahkan filter bertingkat lainnya"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
+#, fuzzy
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Tambahkan item {1} ke {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
+#, fuzzy
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Tambahkan item ke {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -178,12 +174,14 @@ msgid "Add new level"
 msgstr "Tambahkan level baru"
 
 #: jamovi/client/main/ribbon/datatab.js:70
+#, fuzzy
 msgid "Add new rows"
-msgstr ""
+msgstr "Tambahkan baris baru"
 
 #: jamovi/client/main/ribbon/datatab.js:43
+#, fuzzy
 msgid "Add new variable"
-msgstr ""
+msgstr "Tambah variabel baru"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -221,8 +219,9 @@ msgid "An unexpected error has occured, and jamovi must now close."
 msgstr "Kesalahan tak terduga terjadi, jamovi harus ditutup sekarang."
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "Terjadi kesalahan tidak terduga"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -239,41 +238,48 @@ msgstr "analisis"
 
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
+#, fuzzy
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "Judul Analisis - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "dan"
 
 #: jamovi/client/resultsview/annotation.js:168
+#, fuzzy
 msgid "Annotation"
-msgstr ""
+msgstr "Annotasi"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
+#, fuzzy
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Annotasi untuk grup {name}"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
+#, fuzzy
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Annotasi untuk gambar {name}"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
+#, fuzzy
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Annotasi untuk item {name}"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
+#, fuzzy
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Annotasi untuk daftar {name}"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
+#, fuzzy
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Annotasi untuk tabel {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -335,8 +341,9 @@ msgid "Available"
 msgstr "Tersedia"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
+#, fuzzy
 msgid "Available items"
-msgstr ""
+msgstr "Item yang tersedia"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -368,8 +375,9 @@ msgid "Cancel"
 msgstr "Batalkan"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "Tidak dapat menetapkan nilai non-integer ke kolom '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -425,16 +433,19 @@ msgid "Close"
 msgstr "Tutup"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "Tutup menu file"
 
 #: jamovi/client/main/main.ts:311
+#, fuzzy
 msgid "Close jamovi window"
-msgstr ""
+msgstr "Tutup jendela jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
+#, fuzzy
 msgid "Close preferences"
-msgstr ""
+msgstr "Tutup preferensi"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -450,6 +461,7 @@ msgid "Column '{}' does not exist in the dataset"
 msgstr "Kolom '{}' tidak ada dalam kumpulan data"
 
 #: jamovi/client/main/viewcontroller.js:294
+#, fuzzy
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
 msgstr[0] ""
@@ -460,8 +472,9 @@ msgid "Column is not editable"
 msgstr "Kolom tidak dapat diedit"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "Koma"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -510,15 +523,11 @@ msgstr "Kenyamanan singkatan untuk ABS(Z( variabel ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr ""
-"Penggunaan singkat untuk mencari nilai maksimum dari (ABSIQR( variabel 1, "
-"variabel 2, ...))"
+msgstr "Penggunaan singkat untuk mencari nilai maksimum dari (ABSIQR( variabel 1, variabel 2, ...))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr ""
-"Penggunaan singkat untuk mencari nilai maksimum dari (ABSZ( variabel 1, "
-"variabel 2, ...))"
+msgstr "Penggunaan singkat untuk mencari nilai maksimum dari (ABSZ( variabel 1, variabel 2, ...))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -556,8 +565,9 @@ msgstr "Salin"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "Salin Latex"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -589,8 +599,9 @@ msgid "Could not perform operation"
 msgstr "Tidak dapat melakukan operasi"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
+#, fuzzy
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "Menghitung jumlah nilai yang tidak kosong"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -600,9 +611,7 @@ msgstr "Buat Transformasi Baru..."
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
 msgid "CSV (Comma delimited) {ext}"
-msgstr ""
-"format penyimpanan data yang menggunakan koma sebagai pemisah antar-nilai "
-"{ext}"
+msgstr "format penyimpanan data yang menggunakan koma sebagai pemisah antar-nilai {ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -652,8 +661,9 @@ msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] "Beberapa Variabel Data ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
+#, fuzzy
 msgid "Data weights"
-msgstr ""
+msgstr "Bobot Data"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -665,8 +675,9 @@ msgid "decimal places"
 msgstr "tempat desimal"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "Simbol desimal"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -707,16 +718,19 @@ msgid "Delete Rows"
 msgstr "Hapus Baris"
 
 #: jamovi/client/main/ribbon/datatab.js:74
+#, fuzzy
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Hapus baris yang dipilih"
 
 #: jamovi/client/main/ribbon/datatab.js:63
+#, fuzzy
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Hapus variabel yang dipilih"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
+#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Hapus transformasi - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -740,14 +754,8 @@ msgid "Desktop"
 msgstr "Desktop"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"Menentukan jika salah satu item muncul di in1, in2, in3, .... Perhatikan "
-"bahwa sebagian besar argumen ini opsional -- anda dapat menggunakan "
-"<b>CONTAINS(needle, haystack)</b>."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "Menentukan jika salah satu item muncul di in1, in2, in3, .... Perhatikan bahwa sebagian besar argumen ini opsional -- anda dapat menggunakan <b>CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -767,8 +775,9 @@ msgid "Don't Save"
 msgstr "Jangan Simpan"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "Titik"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -782,12 +791,8 @@ msgid "Downloads"
 msgstr "Unduhan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"Mengambil sampel sebanyak n dari variabel. Contoh: SAMPLE(var, 20), contoh: "
-"SAMPLE(1, 20), contoh: SAMPLE('training', 20, 'test')"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "Mengambil sampel sebanyak n dari variabel. Contoh: SAMPLE(var, 20), contoh: SAMPLE(1, 20), contoh: SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -810,8 +815,9 @@ msgid "Duplicate"
 msgstr "Duplikat"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
+#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "Duplikat transformasi - {transformName}"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -825,12 +831,14 @@ msgid "Edit"
 msgstr "Sunting"
 
 #: jamovi/client/main/tableview.js:104
+#, fuzzy
 msgid "Edit filters"
-msgstr ""
+msgstr "Sunting filter"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
+#, fuzzy
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "Edit transformasi - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -955,8 +963,9 @@ msgid "File is corrupt (manifest is corrupt)"
 msgstr "File rusak (manifes rusak)"
 
 #: jamovi/client/main/ribbon.js:174
+#, fuzzy
 msgid "File menu"
-msgstr ""
+msgstr "Menu file"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -967,8 +976,9 @@ msgid "File Saved"
 msgstr "File Disimpan"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
+#, fuzzy
 msgid "File type"
-msgstr ""
+msgstr "Jenis file"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1010,29 +1020,31 @@ msgstr "Memfilter variabel menggunakan ekspresi filter."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
-"Pengaturan mungkin tidak boleh merujuk pada columns menggunakan 'V' atau "
-"kolom functions"
+msgstr "Pengaturan mungkin tidak boleh merujuk pada columns menggunakan 'V' atau kolom functions"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
 msgstr "Filter tidak boleh merujuk pada variables keluaran"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "Cari modul di perpustakaan jamovi"
 
 #: jamovi/client/main/main.ts:243
+#, fuzzy
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Fokus pada lembar kerja"
 
 #: jamovi/client/main/main.ts:262
+#, fuzzy
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "Fokus pada pengaturan variabel"
 
 #: jamovi/client/main/main.ts:248
+#, fuzzy
 msgid "Focus on variable list"
-msgstr ""
+msgstr "Fokus pada daftar variabel"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1048,12 +1060,8 @@ msgid "Formula contains illegal node"
 msgstr "Rumus mengandung simpul ilegal"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
-msgstr ""
-"Formula salah ditentukan (Jika kamu ingin menguji persamaan, gunakan dua "
-"tanda sama dengan '==')"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr "Formula salah ditentukan (Jika kamu ingin menguji persamaan, gunakan dua tanda sama dengan '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1129,8 +1137,9 @@ msgid "Hide"
 msgstr "Sembunyi"
 
 #: jamovi/client/main/main.ts:238
+#, fuzzy
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Sembunyikan opsi analisis"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1141,16 +1150,18 @@ msgid "Hide library"
 msgstr "Sembunyikan perpustakaan"
 
 #: jamovi/client/main/store/pagemodules.js:271
+#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "Sembunyikan modul {moduleName} dari pita Analisis"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
 msgstr "Sembunyikan opsi"
 
 #: jamovi/client/main/variableeditor.js:52
+#, fuzzy
 msgid "Hide variable setup"
-msgstr ""
+msgstr "Sembunyikan pengaturan variabel"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1193,8 +1204,9 @@ msgid "Image"
 msgstr "Gambar"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Gambar diperbesar ke {width} x {height}"
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1252,12 +1264,14 @@ msgid "Insert how many rows?"
 msgstr "Masukkan berapa baris?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
+#, fuzzy
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "Sisipkan variabel komputasi baru"
 
 #: jamovi/client/main/ribbon/datatab.js:40
+#, fuzzy
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "Sisipkan variabel transformasi baru"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1269,8 +1283,9 @@ msgid "Install"
 msgstr "Pasang"
 
 #: jamovi/client/main/store/pagemodules.js:240
+#, fuzzy
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "Pasang modul {moduleName} versi {version}"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1282,12 +1297,14 @@ msgid "Installed Modules"
 msgstr "Modul Terpasang"
 
 #: jamovi/client/main/store/pagemodules.js:216
+#, fuzzy
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "Versi terinstal perlu diperbarui"
 
 #: jamovi/client/main/store/pagemodules.js:364
+#, fuzzy
 msgid "Installing {module}"
-msgstr ""
+msgstr "Menginstal {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1329,24 +1346,12 @@ msgid "jamovi files {ext}"
 msgstr "file jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
-msgstr ""
-"jamovi sekarang tersedia dalam { insert translation language }! (Terima "
-"kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim "
-"terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi sekarang tersedia dalam { insert translation language }! (Terima kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
 
 #: jamovi/client/main/misc/announcements.js:2
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
-msgstr ""
-"jamovi sekarang tersedia dalam { insert translation language }! (Terima "
-"kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim "
-"terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi sekarang tersedia dalam { insert translation language }! (Terima kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1420,8 +1425,9 @@ msgid "Levels"
 msgstr "Level"
 
 #: jamovi/client/main/store/pagemodules.js:98
+#, fuzzy
 msgid "Library error"
-msgstr ""
+msgstr "Kesalahan perpustakaan"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1436,8 +1442,9 @@ msgid "Manage installed"
 msgstr "Kelola yang terpasang"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Maks: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1449,8 +1456,9 @@ msgid "Minimal"
 msgstr "Minimal"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "Modul hilang atau tidak kompatibel"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1461,8 +1469,9 @@ msgid "Missing Values"
 msgstr "Nilai Hilang"
 
 #: jamovi/client/main/store/pagemodules.js:244
+#, fuzzy
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "Modul {moduleName} terinstal"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1485,12 +1494,14 @@ msgid "More info ..."
 msgstr "Informasi lebih lanjut ..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
+#, fuzzy
 msgid "Move back directory"
-msgstr ""
+msgstr "Pindah ke direktori sebelumnya"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
+#, fuzzy
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Pindah kembali dari direktori {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1504,8 +1515,9 @@ msgstr "Baru"
 #: jamovi/client/main/tableview.js:2479
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
+#, fuzzy
 msgid "New column {0}"
-msgstr ""
+msgstr "Kolom baru {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1598,25 +1610,24 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:365
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"Satu atau lebih analisis dalam kumpulan data ini telah dinonaktifkan\n"
+msgstr "Satu atau lebih analisis dalam kumpulan data ini telah dinonaktifkan\n"
 "                    karena memungkinkan eksekusi kode sembarangan. Anda\n"
-"                    sebaiknya hanya mengaktifkannya if Anda mempercayai data "
-"ini\n"
+"                    sebaiknya hanya mengaktifkannya if Anda mempercayai data ini\n"
 "                    sumber."
 
 #: jamovi/client/main/viewcontroller.js:678
+#, fuzzy
 msgid "One row appended."
 msgid_plural "{n} rows appended."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/viewcontroller.js:641
+#, fuzzy
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
 msgstr[0] ""
@@ -1632,24 +1643,28 @@ msgid "Open"
 msgstr "Terbuka"
 
 #: jamovi/client/main/main.ts:266
+#, fuzzy
 msgid "Open application menu"
-msgstr ""
+msgstr "Buka menu aplikasi"
 
 #: jamovi/client/main/main.ts:234
+#, fuzzy
 msgid "Open data file"
-msgstr ""
+msgstr "Buka file data"
 
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
 msgstr "Buka Dokumen (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
+#, fuzzy
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "Buka perpustakaan modul jamovi"
 
 #: jamovi/client/main/main.ts:253
+#, fuzzy
 msgid "Open the main menu"
-msgstr ""
+msgstr "Buka menu utama"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
@@ -1689,10 +1704,9 @@ msgid "Paragraph"
 msgstr "Paragraf"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
-msgstr ""
+#, fuzzy
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgstr "Menganalisis tanggal, dan mengubahnya menjadi jumlah hari sejak 1 Januari 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1717,16 +1731,18 @@ msgid "Pin level"
 msgstr "Tetapkan posisi level"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "Silakan <em>pasang atau perbarui</em> modul ini dari perpustakaan jamovi."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Silakan gunakan ctrl-v untuk menempelkan ke dalam lembar kerja."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "Plot"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1737,36 +1753,41 @@ msgid "Plots"
 msgstr "Alur cerita"
 
 #: jamovi/client/main/resultspanel.js:716
+#, fuzzy
 msgid "PNG Image {ext}"
-msgstr ""
+msgstr "Gambar PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "Slide PowerPoint {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "Pilihan"
 
 #: jamovi/client/resultsview/annotation.js:79
+#, fuzzy
 msgid "Press enter to edit"
-msgstr ""
+msgstr "Tekan enter untuk mengedit"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Variabel sebelumnya"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "Simpan Proyek Sebagai"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
 msgstr "kualitatif"
 
 #: jamovi/client/main/backstage.js:982
+#, fuzzy
 msgid "R data files {ext}"
-msgstr ""
+msgstr "File data R {ext}"
 
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1034
@@ -1776,8 +1797,9 @@ msgid "R object {ext}"
 msgstr "Objek R {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
+#, fuzzy
 msgid "Ranks each value"
-msgstr ""
+msgstr "Mengurutkan setiap nilai"
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
@@ -1796,8 +1818,9 @@ msgstr "Belakangan ini"
 #: jamovi/client/main/ribbon/annotationtab.js:116
 #: jamovi/client/main/ribbon/datatab.js:25
 #: jamovi/client/main/ribbon/variablestab.js:19
+#, fuzzy
 msgid "Redo Edit"
-msgstr ""
+msgstr "Ulangi Edit"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
@@ -1822,28 +1845,33 @@ msgid "Remove"
 msgstr "Buang"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
+#, fuzzy
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "Hapus {1} dari {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
+#, fuzzy
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "Hapus {1} item dari {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
 msgstr "Buang Filter"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
+#, fuzzy
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "Hapus item dari {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
+#, fuzzy
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "Hapus modul {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
+#, fuzzy
 msgid "Remove nested filter"
-msgstr ""
+msgstr "Hapus filter bertingkat"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
@@ -1857,100 +1885,118 @@ msgstr "Perlu dinyalakan ulang"
 #: jamovi/client/main/ribbon/appmenu.js:59
 #: jamovi/server/jamovi/server/analyses.py
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Results"
-msgstr ""
+msgstr "Hasil"
 
 #: jamovi/client/main/vareditor/editorwidget.js:101
 msgid "Retain unused levels in analyses"
 msgstr "Tetapkan level yang tidak digunakan dalam analisis"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
+#, fuzzy
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "Mengembalikan transformasi Box Cox dari variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
+#, fuzzy
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "Mengembalikan apakah variabel adalah outlier menurut IQR: Jika nilai berada dalam kotak dari Boxplot 0 dikembalikan, nilai absolut yang lebih besar dari 1,5 berada di luar kumis."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
+#, fuzzy
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "Mengembalikan nilai absolut dari sebuah nomor."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
+#, fuzzy
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Mengembalikan logaritma basis-10 dari sebuah nomor."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
+#, fuzzy
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Mengembalikan eksponen untuk basis ℯ dari sebuah nomor."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
+#, fuzzy
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Mengembalikan nilai terbesar dari kumpulan angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+#, fuzzy
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Mengembalikan nilai terbesar dari sebuah variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
+#, fuzzy
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Mengembalikan rata-rata dari sekumpulan angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+#, fuzzy
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Mengembalikan deviasi absolut median dari sebuah variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
+#, fuzzy
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Mengembalikan median dari variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
+#, fuzzy
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Mengembalikan nilai paling umum dalam variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
+#, fuzzy
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Mengembalikan logaritma alami dari sebuah angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
+#, fuzzy
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Mengembalikan nilai normal dari sekumpulan angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
+#, fuzzy
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Mengembalikan jumlah kasus dalam variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
+#, fuzzy
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Mengembalikan jumlah baris dari variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
+#, fuzzy
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Mengembalikan rata-rata keseluruhan dari variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
+#, fuzzy
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Mengembalikan jumlah keseluruhan dari variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
 msgstr "Kembali adalah deviasi median yang kuat dari suatu variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
+#, fuzzy
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Mengembalikan nomor baris."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
+#, fuzzy
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Mengembalikan nilai terkecil dari kumpulan angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
+#, fuzzy
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Mengembalikan nilai terkecil dari sebuah variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
@@ -1965,8 +2011,9 @@ msgid "Returns the standard deviation of a variable."
 msgstr "Kembali adalah simpangan baku dari sebuah variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
+#, fuzzy
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Mengembalikan kesalahan standar dari rata-rata variabel."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
@@ -1974,34 +2021,27 @@ msgstr "Kembali adalah jumlah dari sekelompok angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
-msgstr ""
-"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai "
-"rata-ratanya."
+msgstr "Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-ratanya."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr ""
-"Variansi adalah pengukuran seberapa bervariasinya data dari nilai rata-rata "
-"suatu variabel."
+msgstr "Variansi adalah pengukuran seberapa bervariasinya data dari nilai rata-rata suatu variabel."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "Kembali ke analisis yang dipilih sebelumnya dan buka panel opsi, dengan fokus pada panel opsi."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
+msgstr "Kembali ke analisis yang dipilih sebelumnya dan geser fokus ke hasil output."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgstr "Kembali ke analisis yang dipilih sebelumnya dan geser fokus ke hasil output."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2020,508 +2060,610 @@ msgid "Rounds each value to the integer below"
 msgstr "Membulatkan setiap value ke bilangan bulat di bawahnya"
 
 #: jamovi/client/main/viewcontroller.js:345
+#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:79
+#, fuzzy
 msgid "Row count"
-msgstr ""
+msgstr "Jumlah baris"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
+#, fuzzy
 msgid "Row Filters"
-msgstr ""
+msgstr "Filter Baris"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
+#, fuzzy
 msgid "Rows"
-msgstr ""
+msgstr "Baris"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
+#, fuzzy
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:984
+#, fuzzy
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "File SAS {ext}"
 
 #: jamovi/client/main/backstage.js:1038
 #: jamovi/client/main/backstage.js:1061
+#, fuzzy
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1297
 #: jamovi/client/main/backstage.js:321
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/menu.js:160
+#, fuzzy
 msgid "Save"
-msgstr ""
+msgstr "Simpan"
 
 #: jamovi/client/main/backstage.js:1211
 #: jamovi/client/main/backstage.js:1312
+#, fuzzy
 msgid "Save As"
-msgstr ""
+msgstr "Simpan Sebagai"
 
 #: jamovi/client/main/main.js:645
+#, fuzzy
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "Simpan perubahan ke '{title}'?"
 
 #: jamovi/client/main/instance.js:506
+#, fuzzy
 msgid "Save failed"
-msgstr ""
+msgstr "Gagal menyimpan"
 
 #: jamovi/client/main/main.ts:233
+#, fuzzy
 msgid "Save project"
-msgstr ""
+msgstr "Simpan proyek"
 
 #: jamovi/client/main/instance.js:475
+#, fuzzy
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "Tersimpan ke '{filename}'"
 
 #: jamovi/client/main/instance.js:427
+#, fuzzy
 msgid "Saving"
-msgstr ""
+msgstr "Menyimpan"
 
 #: jamovi/client/main/notification.js:77
+#, fuzzy
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Perawatan terjadwal"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
+#, fuzzy
 msgid "Search"
-msgstr ""
+msgstr "Cari"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search available modules"
-msgstr ""
+msgstr "Cari modul yang tersedia"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+#, fuzzy
 msgid "Search files"
-msgstr ""
+msgstr "Cari file"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "Cari berkas di direktori {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search installed modules"
-msgstr ""
+msgstr "Cari modul yang terpasang"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
+#, fuzzy
 msgid "Search list items"
-msgstr ""
+msgstr "Cari item daftar"
 
 #: jamovi/client/main/variablesview.js:48
+#, fuzzy
 msgid "Search variables"
-msgstr ""
+msgstr "Cari variabel"
 
 #: jamovi/client/main/resultspanel.js:433
+#, fuzzy
 msgid "Select all"
-msgstr ""
+msgstr "Pilih semua"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
+#, fuzzy
 msgid "Selected"
-msgstr ""
+msgstr "Dipilih"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "sequential"
-msgstr ""
+msgstr "berurutan"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "Set1"
-msgstr ""
+msgstr "Set1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
+#, fuzzy
 msgid "Setup"
-msgstr ""
+msgstr "Pengaturan"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
+#, fuzzy
 msgid "Setup..."
-msgstr ""
+msgstr "Pengaturan..."
 
 #: jamovi/client/main/store/pagemodules.js:136
+#, fuzzy
 msgid "Show"
-msgstr ""
+msgstr "Tampilkan"
 
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
+#, fuzzy
 msgid "Show filter columns"
-msgstr ""
+msgstr "Tampilkan kolom filter"
 
 #: jamovi/client/main/editors/transformeditor.js:634
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
+#, fuzzy
 msgid "Show formula editor"
-msgstr ""
+msgstr "Tampilkan editor rumus"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
+#, fuzzy
 msgid "Show in main menu"
-msgstr ""
+msgstr "Tampilkan di menu utama"
 
 #: jamovi/client/main/store/pagemodules.js:265
+#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "Tampilkan modul {moduleName} di pita Analisis"
 
 #: jamovi/client/main/store.js:93
+#, fuzzy
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "Pengisian modul secara samping tidak tersedia."
 
 #: jamovi/client/main/store.js:37
+#, fuzzy
 msgid "Sideload"
-msgstr ""
+msgstr "Sideload"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "significant figures"
-msgstr ""
+msgstr "angka signifikan"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
+#, fuzzy
 msgid "Source variable"
-msgstr ""
+msgstr "Variabel sumber"
 
 #: jamovi/client/main/backstage.js:1279
+#, fuzzy
 msgid "Special Import"
-msgstr ""
+msgstr "Impor Khusus"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
+#, fuzzy
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "Memisahkan teks menjadi potongan berdasarkan pemisah. <i>potongan</i> menentukan potongan yang diinginkan berdasarkan indeks."
 
 #: jamovi/client/main/tableview.js:62
+#, fuzzy
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Lembar Kerja"
 
 #: jamovi/client/main/backstage.js:981
+#, fuzzy
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "Berkas SPSS {ext}"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
+#, fuzzy
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "File SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.js:1039
 #: jamovi/client/main/backstage.js:1062
+#, fuzzy
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:983
+#, fuzzy
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Berkas Stata {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
+#, fuzzy
 msgid "Strike"
-msgstr ""
+msgstr "Coret"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
+#, fuzzy
 msgid "Styles"
-msgstr ""
+msgstr "Gaya"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
+#, fuzzy
 msgid "Sub Script"
-msgstr ""
+msgstr "Sub Skrip"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
+#, fuzzy
 msgid "Super Script"
-msgstr ""
+msgstr "Skrip Super"
 
 #: jamovi/client/main/resultspanel.js:717
+#, fuzzy
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "Gambar SVG {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
+#, fuzzy
 msgid "Syntax"
-msgstr ""
+msgstr "Sintaksis"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
+#, fuzzy
 msgid "Syntax mode"
-msgstr ""
+msgstr "Mode sintaksis"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
+#, fuzzy
 msgid "System default"
-msgstr ""
+msgstr "Default sistem"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
+#, fuzzy
 msgid "T-Tests"
-msgstr ""
+msgstr "Uji-T"
 
 #: jamovi/client/resultsview/table.js:184
+#, fuzzy
 msgid "Table"
-msgstr ""
+msgstr "Tabel"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
+#, fuzzy
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "Mengambil angka yang mewakili jumlah hari sejak 1 Januari 1970, dan menghasilkan tanggal yang diformat."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
+#, fuzzy
 msgid "Text"
-msgstr ""
+msgstr "Teks"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
+#, fuzzy
 msgid "Text Color"
-msgstr ""
+msgstr "Warna Teks"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
+#, fuzzy
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "Isi telah disalin ke clipboard"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
+#, fuzzy
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgstr "Isi telah disiapkan, dan dapat disalin dengan tombol di bawah, atau dengan menekan <em>{k}+C</em> di keyboard Anda"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
+#, fuzzy
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "Nilai variabel saat ini yang diterapkan transformasi ini."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
+#, fuzzy
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "Data di bobot oleh variabel {}, namun analisis ini tidak mendukung bobot non-integer. Bobot dibulatkan ke bilangan bulat terdekat."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Data ini diberi bobot oleh variabel {}."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
+#, fuzzy
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "Data ini diberi bobot, namun analisis ini tidak mendukung bobot. Analisis ini menggunakan data tanpa bobot."
 
 #: jamovi/client/main/instance.js:489
+#, fuzzy
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "Berkas '{filename}' sudah ada. Timpa file ini?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "Rumus salah"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
+#, fuzzy
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "Indeks nilai dalam nilai yang diberikan."
 
 #: jamovi/client/resultsview/table.js:754
+#, fuzzy
 msgid "The interaction of {0} and {1}"
-msgstr ""
+msgstr "Interaksi dari {0} dan {1}"
 
 #: jamovi/client/analysisui/formatdef.js:272
+#, fuzzy
 msgid "The interaction of {list}"
-msgstr ""
+msgstr "Interaksi dari {list}"
 
 #: jamovi/client/main/store.js:80
+#, fuzzy
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "Perpustakaan jamovi tidak tersedia untuk sesi Anda."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
+#, fuzzy
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "Nilai level {r} sudah digunakan."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
+#, fuzzy
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "Nilai level tidak boleh kosong."
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "The library is disabled"
-msgstr ""
+msgstr "Perpustakaan dinonaktifkan"
 
 #: jamovi/server/jamovi/server/scheduler.py
+#, fuzzy
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "Modul untuk analisis ini tidak terinstal atau tidak tersedia"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "Server jarak jauh tidak dapat dijangkau"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "Server jarak jauh menolak permintaan"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "Server jarak jauh melaporkan kesalahan"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr ""
+msgstr "Server jarak jauh mengirim respons yang tidak terduga"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr ""
+msgstr "Sumber daya tidak ada, atau telah dipindahkan (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
+#, fuzzy
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "Transformasi yang dipilih memiliki kesalahan dan harus diedit."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
+#, fuzzy
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "Nilai pada nilai yang disediakan pada indeks."
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "Analisis ini telah melebihi batas waktu saat ini dan telah dihentikan."
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "Analisis ini telah berakhir, kemungkinan karena mencapai batas sumber daya."
 
 #: jamovi/client/main/main.ts:912
+#, fuzzy
 msgid "This data set could not be opened"
-msgstr ""
+msgstr "Set data ini tidak dapat dibuka"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Set data ini tidak tersedia lagi"
 
 #: jamovi/client/main/backstage.js:1198
 #: jamovi/client/main/utils/pathtools.js:15
+#, fuzzy
 msgid "This Device"
-msgstr ""
+msgstr "Perangkat ini"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
+#, fuzzy
 msgid "This is a data variable."
-msgstr ""
+msgstr "Ini adalah variabel data."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "Modul ini baik <em>hilang atau tidak kompatibel</em> dengan versi jamovi ini."
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
 #: jamovi/client/main/backstage.js:1292
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/backstage.js:1328
+#, fuzzy
 msgid "This PC"
-msgstr ""
+msgstr "Komputer Ini"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Sesi ini terbatas pada {} kolom"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Sesi ini terbatas pada {} baris"
 
 #: jamovi/client/main/notification.js:39
+#, fuzzy
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Sesi ini akan berakhir sekarang juga"
 
 #: jamovi/client/main/notification.js:35
+#, fuzzy
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Sesi ini akan berakhir sekitar {} menit"
 
 #: jamovi/client/main/notification.js:37
+#, fuzzy
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Sesi ini akan berakhir sekitar 1 menit"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
+#, fuzzy
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Transformasi ini memiliki kesalahan dan harus disunting."
 
 #: jamovi/client/main/tableview.js:105
+#, fuzzy
 msgid "Toggle filters visibility"
-msgstr ""
+msgstr "Alihkan visibilitas filter"
 
 #: jamovi/client/main/ribbon.js:199
+#, fuzzy
 msgid "Toggle screen state"
-msgstr ""
+msgstr "Alihkan keadaan layar"
 
 #: jamovi/client/main/main.ts:256
+#, fuzzy
 msgid "Toggle variable setup"
-msgstr ""
+msgstr "Aktifkan/nonaktifkan pengaturan variabel"
 
 #: jamovi/client/main/viewcontroller.js:357
+#, fuzzy
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "Terlalu banyak data, gunakan impor sebagai gantinya"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
+#, fuzzy
 msgid "Transform"
-msgstr ""
+msgstr "Transformasi"
 
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "Transform {}"
-msgstr ""
+msgstr "Transformasikan {}"
 
 #: jamovi/client/main/tableview.js:271
+#, fuzzy
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Transformasi: {name}"
 
 #: jamovi/client/main/tableview.js:276
+#, fuzzy
 msgid "Transform: None"
-msgstr ""
+msgstr "Transformasi: Tidak Ada"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
+#, fuzzy
 msgid "Transform..."
-msgstr ""
+msgstr "Transformasikan..."
 
 #: jamovi/client/main/dataset.js:1319
+#, fuzzy
 msgid "Transformed"
-msgstr ""
+msgstr "Ditransformasikan"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
 #: jamovi/client/main/ribbon/datatab.js:42
 #: jamovi/client/main/ribbon/variablestab.js:36
 #: jamovi/client/main/vareditor/editorwidget.js:242
+#, fuzzy
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
 msgstr[0] ""
 
 #: jamovi/client/main/utils/headeralert.js:24
+#, fuzzy
 msgid "Try again"
-msgstr ""
+msgstr "Coba lagi"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to access analysis"
-msgstr ""
+msgstr "Tidak dapat mengakses analisis"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to access library"
-msgstr ""
+msgstr "Tidak dapat mengakses perpustakaan"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "Tidak dapat mengakses internet (mungkin karena portal penawaran)"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to browse {}"
-msgstr ""
+msgstr "Tidak dapat menjelajahi {}"
 
 #: jamovi/client/main/main.js:768
+#, fuzzy
 msgid "Unable to connect to the server"
-msgstr ""
+msgstr "Tidak dapat terhubung ke server"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to import {}"
-msgstr ""
+msgstr "Tidak dapat mengimpor {}"
 
 #: jamovi/client/main/store/pagemodules.js:376
+#, fuzzy
 msgid "Unable to install {module}"
-msgstr ""
+msgstr "Tidak dapat menginstal {module}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to install module"
-msgstr ""
+msgstr "Tidak dapat menginstal modul"
 
 #: jamovi/client/main/backstage.js:1752
 #: jamovi/client/main/instance.js:275
@@ -2529,125 +2671,153 @@ msgstr ""
 #: jamovi/client/main/instance.js:316
 #: jamovi/client/main/instance.js:322
 #: jamovi/client/main/main.js:730
+#, fuzzy
 msgid "Unable to open"
-msgstr ""
+msgstr "Tidak dapat membuka"
 
 #: jamovi/client/main/viewcontroller.js:356
+#, fuzzy
 msgid "Unable to paste"
-msgstr ""
+msgstr "Tidak dapat menempel"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to perform import"
-msgstr ""
+msgstr "Tidak dapat melakukan impor"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to perform request"
-msgstr ""
+msgstr "Tidak dapat melakukan permintaan"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Tidak dapat mencapai perpustakaan"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to save"
-msgstr ""
+msgstr "Tidak dapat menyimpan"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to save {}"
-msgstr ""
+msgstr "Tidak dapat menyimpan {}"
 
 #: jamovi/client/main/store/pagemodules.js:224
+#, fuzzy
 msgid "Unable to uninstall module"
-msgstr ""
+msgstr "Tidak dapat menghapus modul"
 
 #: jamovi/client/main/store/pagemodules.js:124
+#, fuzzy
 msgid "Unavailable"
-msgstr ""
+msgstr "Tidak tersedia"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
+#, fuzzy
 msgid "Underline"
-msgstr ""
+msgstr "Garis bawah"
 
 #: jamovi/client/main/ribbon/annotationtab.js:115
 #: jamovi/client/main/ribbon/datatab.js:24
 #: jamovi/client/main/ribbon/variablestab.js:18
+#, fuzzy
 msgid "Undo Edit"
-msgstr ""
+msgstr "Batalkan Edit"
 
 #: jamovi/client/main/instance.js:317
 #: jamovi/client/main/instance.js:324
 #: jamovi/client/main/notification.js:81
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "Unexpected error"
-msgstr ""
+msgstr "Kesalahan tak terduga"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Format file tidak dikenal"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "Tanpa judul"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
+#, fuzzy
 msgid "Update"
-msgstr ""
+msgstr "Perbarui"
 
 #: jamovi/client/main/store/pagemodules.js:253
+#, fuzzy
 msgid "Update module {moduleName} to version {version}"
-msgstr ""
+msgstr "Perbarui modul {moduleName} ke versi {version}"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
+#, fuzzy
 msgid "Upload failed"
-msgstr ""
+msgstr "Gagal mengunggah"
 
 #: jamovi/client/main/instance.js:206
 #: jamovi/client/main/instance.js:210
+#, fuzzy
 msgid "Uploading"
-msgstr ""
+msgstr "Mengunggah"
 
 #: jamovi/client/main/editors/transformeditor.js:389
+#, fuzzy
 msgid "use"
-msgstr ""
+msgstr "gunakan"
 
 #: jamovi/client/main/editors/transformeditor.js:260
+#, fuzzy
 msgid "used by"
-msgstr ""
+msgstr "digunakan oleh"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
+#, fuzzy
 msgid "using transform"
-msgstr ""
+msgstr "menggunakan transformasi"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "Nilai terlalu besar untuk kolom '{}' dari jenis integer"
 
 #: jamovi/client/analysisui/formatdef.js:107
+#, fuzzy
 msgid "Variable {0}"
-msgstr ""
+msgstr "Variabel {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
+#, fuzzy
 msgid "Variable Description"
-msgstr ""
+msgstr "Deskripsi Variabel"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
+#, fuzzy
 msgid "Variable Name"
-msgstr ""
+msgstr "Nama Variabel"
 
 #: jamovi/client/main/ribbon/datatab.js:38
+#, fuzzy
 msgid "Variable setup"
-msgstr ""
+msgstr "Pengaturan variabel"
 
 #: jamovi/client/main/editors/transformeditor.js:62
+#, fuzzy
 msgid "Variable suffix"
-msgstr ""
+msgstr "Akhiran variabel"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
+#, fuzzy
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Variabel: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2658,90 +2828,106 @@ msgid "Variables"
 msgstr "Variabel"
 
 #: jamovi/client/analysisui/formatdef.js:117
+#, fuzzy
 msgid "Variables {list}"
-msgstr ""
+msgstr "Variabel {list}"
 
 #: jamovi/client/main/variablesview.js:41
+#, fuzzy
 msgid "Variables List View"
-msgstr ""
+msgstr "Daftar Variabel"
 
 #: jamovi/client/main/variablesview.js:111
+#, fuzzy
 msgid "Variables View"
-msgstr ""
+msgstr "Tampilan Variabel"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
+#, fuzzy
 msgid "Version {v}"
-msgstr ""
+msgstr "Versi {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
+#, fuzzy
 msgid "Visible"
-msgstr ""
+msgstr "Tampak"
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/resultspanel.js:743
+#, fuzzy
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Halaman Web {ext}"
 
 #: jamovi/client/main/ribbon/datatab.js:18
 #: jamovi/client/main/ribbon/datatab.js:41
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "Weights"
-msgstr ""
+msgstr "Bobot"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
+#, fuzzy
 msgid "when"
-msgstr ""
+msgstr "ketika"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr ""
+#, fuzzy
+msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgstr "Ketika variabel mengandung nilai yang hilang, gunakan nilai, jika tidak maka else."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
+#, fuzzy
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "Mengapa langkah tambahan ini diperlukan?"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Anda tidak dapat menghapus baris saat baris yang difilter disembunyikan"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Anda tidak dapat menyisipkan baris saat baris yang difilter disembunyikan"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
+msgstr "Anda tidak dapat memodifikasi kolom yang mempengaruhi filter saat baris yang difilter disembunyikan"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
-msgstr ""
+#, fuzzy
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgstr "Anda tidak dapat memodifikasi transformasi yang mempengaruhi filter saat baris yang difilter disembunyikan"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "You do not have appropriate permissions (403)"
-msgstr ""
+msgstr "Anda tidak memiliki izin yang tepat (403)"
 
 #: jamovi/client/main/main.js:142
+#, fuzzy
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "Koneksi Anda telah hilang. Silakan refresh halaman untuk melanjutkan."
 
 #: jamovi/client/main/utils/headeralert.js:32
+#, fuzzy
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "Penjelajah web Anda mencegah jamovi membuka tab baru"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
+#, fuzzy
 msgid "Zoom"
-msgstr ""
+msgstr "Perbesar/Perkecil"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
+#, fuzzy
 msgid "Zoom in"
-msgstr ""
+msgstr "Perbesar"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
+#, fuzzy
 msgid "Zoom out"
-msgstr ""
+msgstr "Perbesar"

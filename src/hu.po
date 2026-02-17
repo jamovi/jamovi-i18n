@@ -1,9 +1,8 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2025-07-21 19:02+0000\n"
+msgstr "PO-Revision-Date: 2025-07-21 19:02+0000\n"
 "Last-Translator: mitle <mitnyik.levente@gmail.com>\n"
-"Language-Team: Hungarian "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/hu/>\n"
+"Language-Team: Hungarian <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/hu/>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,30 +16,36 @@ msgid "'{}' is in error"
 msgstr "'{}' a hibában van"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+#, fuzzy
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
+msgstr "'{}' nem érvényes érv a {}() függvényhez\n"
+"(Ha egyenlőséget szeretne tesztelni, használjon két egyenlőséget '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
+#, fuzzy
 msgid "(auto)"
-msgstr ""
+msgstr "(auto)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:265
+#, fuzzy
 msgid "(current)"
-msgstr ""
+msgstr "(aktuális)"
 
 #: jamovi/client/main/utils/headeralert.js:33
+#, fuzzy
 msgid "(This is a quirk of Safari and iPads)"
-msgstr ""
+msgstr "(Ez egy Safari és iPad quirk)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} Beállítások:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
+#, fuzzy
 msgid "{0} directory contents"
-msgstr ""
+msgstr "{0} könyvtár tartalma"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -49,14 +54,16 @@ msgstr "{columnType} oszlopok nem szerkeszthetők."
 #: jamovi/client/analysisui/formatdef.js:116
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
+#, fuzzy
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} és {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
+#, fuzzy
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
@@ -68,8 +75,9 @@ msgstr "{module} sikeresen telepítve"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "{n} dp"
-msgstr ""
+msgstr "{n} tizedesjegy"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
@@ -78,12 +86,14 @@ msgstr "{n} nem pozitív egész"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "{n} sf"
-msgstr ""
+msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
+#, fuzzy
 msgid "{name} variable"
-msgstr ""
+msgstr "{name} változó"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -91,12 +101,14 @@ msgstr "{r} nem egész"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
+#, fuzzy
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} Kezdeti jegyzet"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
+#, fuzzy
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} nem engedélyezett. Helytelen mérő vagy adattípus."
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
 msgid "{vars} added to {list}."
@@ -127,12 +139,8 @@ msgid "Accent"
 msgstr "Accent"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
-msgstr ""
-"A hozzáférés elutasítva. Nincs megfelelő jogosultsága az erőforrás "
-"eléréséhez."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgstr "A hozzáférés elutasítva. Nincs megfelelő jogosultsága az erőforrás eléréséhez."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -147,8 +155,9 @@ msgid "Add"
 msgstr "Hozzáadás"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
+#, fuzzy
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "Adjon hozzá {1} elemet a {0}-hez"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -156,12 +165,14 @@ msgid "Add another nested filter"
 msgstr "Újabb beágyazott szűrő hozzáadása"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
+#, fuzzy
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "Elem hozzáadása {1} a {0}-hoz"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
+#, fuzzy
 msgid "Add items to {0}"
-msgstr ""
+msgstr "Adjon hozzá elemeket a {0}-hoz"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -208,12 +219,14 @@ msgstr "Minden"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1023
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
+#, fuzzy
 msgid "All {n} way"
-msgstr ""
+msgstr "Mind {n} módon"
 
 #: jamovi/client/main/backstage.js:456
+#, fuzzy
 msgid "An online data set hosted by {hostname}"
-msgstr ""
+msgstr "Egy online adathalmaz, amelyet {hostname} hosztol"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
@@ -230,9 +243,7 @@ msgstr "Elemzések"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr ""
-"Tetszőleges kódot futtató elemzések nem engedélyezettek ebben a "
-"munkamenetben."
+msgstr "Tetszőleges kódot futtató elemzések nem engedélyezettek ebben a munkamenetben."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -248,33 +259,39 @@ msgid "and"
 msgstr "és"
 
 #: jamovi/client/resultsview/annotation.js:168
+#, fuzzy
 msgid "Annotation"
-msgstr ""
+msgstr "Megjegyzés"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
+#, fuzzy
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "Megjegyzés a {name} csoportnak"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
+#, fuzzy
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "Megjegyzés a {name} képhez"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
+#, fuzzy
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "Megjegyzés a(z) {name} elemhez"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
+#, fuzzy
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "Megjegyzés a {name} listához"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
+#, fuzzy
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "Megjegyzés a {name} táblázathoz"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -311,25 +328,30 @@ msgid "Apply changes"
 msgstr "Módosítások elfogadása"
 
 #: jamovi/client/main/notification.js:82
+#, fuzzy
 msgid "Approaching plan time limit"
-msgstr ""
+msgstr "Közeled a terv időkorlátjához"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "Authentication failure"
-msgstr ""
+msgstr "Hitelesítési hiba"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "Authentication required"
-msgstr ""
+msgstr "Hitelesítés szüszékélyes"
 
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
+#, fuzzy
 msgid "Auto"
-msgstr ""
+msgstr "Auto"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
+#, fuzzy
 msgid "Automatic"
-msgstr ""
+msgstr "Automatikus"
 
 #: jamovi/client/main/ribbon/appmenu.js:206
 #: jamovi/client/main/store.js:36
@@ -337,8 +359,9 @@ msgid "Available"
 msgstr "Elérhető"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
+#, fuzzy
 msgid "Available items"
-msgstr ""
+msgstr "Elérhető tárgyak"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -370,8 +393,9 @@ msgid "Cancel"
 msgstr "Mégse"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "Nem lehet nem-egész szértéket rendelni '{}' oszlopba"
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -428,16 +452,19 @@ msgid "Close"
 msgstr "Bezárás"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "Fájlmenü bezárása"
 
 #: jamovi/client/main/main.ts:311
+#, fuzzy
 msgid "Close jamovi window"
-msgstr ""
+msgstr "jamovi ablak bezárása"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
+#, fuzzy
 msgid "Close preferences"
-msgstr ""
+msgstr "Zárja be a beállításokat"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 #, fuzzy
@@ -455,6 +482,7 @@ msgid "Column '{}' does not exist in the dataset"
 msgstr "A(z) '{}' oszlop nem létezik az adatbázisban"
 
 #: jamovi/client/main/viewcontroller.js:294
+#, fuzzy
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
 msgstr[0] ""
@@ -465,8 +493,9 @@ msgid "Column is not editable"
 msgstr "Az oszlop nem szerkeszthető"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "Vessző"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -561,8 +590,9 @@ msgstr "Másolás"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "Másolás Latex"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -594,8 +624,9 @@ msgid "Could not perform operation"
 msgstr "Nem sikerült a műveletet befejezni"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
+#, fuzzy
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "A hiánytalan értékek számának megszámlálása"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -617,8 +648,9 @@ msgid "Cut"
 msgstr "Kivágás"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "Dark2"
-msgstr ""
+msgstr "Dark2"
 
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
@@ -630,36 +662,42 @@ msgid "Data files"
 msgstr "Adat fájlok"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "Data is unweighted"
-msgstr ""
+msgstr "Az adat nem súlyozott"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
 #: jamovi/client/main/utils/pathtools.js:17
+#, fuzzy
 msgid "Data Library"
-msgstr ""
+msgstr "Adatok könyvtára"
 
 #: jamovi/client/main/statusbar/statusbar.js:9
+#, fuzzy
 msgid "Data status bar"
-msgstr ""
+msgstr "Adatok státusz sáv"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
+#, fuzzy
 msgid "Data type"
-msgstr ""
+msgstr "Adattípus"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:108
 #: jamovi/client/main/contextmenu/contextmenus.js:58
 #: jamovi/client/main/ribbon/datatab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:28
 #: jamovi/client/main/vareditor/editorwidget.js:238
+#, fuzzy
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/ribbon/datatab.js:41
+#, fuzzy
 msgid "Data weights"
-msgstr ""
+msgstr "Adatsúlyok"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -667,28 +705,33 @@ msgstr "Tizedesjegy"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "decimal places"
-msgstr ""
+msgstr "tizedes jegyek"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "Tizedesjel"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
 msgstr "Alapértelmezett"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
+#, fuzzy
 msgid "Default missings"
-msgstr ""
+msgstr "Alapértelmezett hiányzó értékek"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
 #: jamovi/client/main/ribbon/variablestab.js:41
+#, fuzzy
 msgid "Delete"
-msgstr ""
+msgstr "Törlés"
 
 #: jamovi/client/main/viewcontroller.js:273
+#, fuzzy
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
 msgstr[0] ""
@@ -696,15 +739,18 @@ msgstr[1] ""
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
+#, fuzzy
 msgid "Delete Filter"
-msgstr ""
+msgstr "Szürő törlése"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
+#, fuzzy
 msgid "Delete Row"
-msgstr ""
+msgstr "Sor eltávolítása"
 
 #: jamovi/client/main/viewcontroller.js:322
+#, fuzzy
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
 msgstr[0] ""
@@ -715,49 +761,55 @@ msgid "Delete Rows"
 msgstr "Sorok törlése"
 
 #: jamovi/client/main/ribbon/datatab.js:74
+#, fuzzy
 msgid "Delete selected rows"
-msgstr ""
+msgstr "Törli a kijelölt sorokat"
 
 #: jamovi/client/main/ribbon/datatab.js:63
+#, fuzzy
 msgid "Delete selected variables"
-msgstr ""
+msgstr "Kijelölt változók törlése"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
+#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "Törli a transzformációt - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
+#, fuzzy
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:77
+#, fuzzy
 msgid "Deleted"
-msgstr ""
+msgstr "Törölve"
 
 #: jamovi/client/main/editors/transformeditor.js:61
 #: jamovi/client/main/vareditor/editorwidget.js:68
 #: jamovi/client/main/vareditor/filterwidget.js:507
 #: jamovi/client/main/variablesview.js:321
+#, fuzzy
 msgid "Description"
-msgstr ""
+msgstr "Leírás"
 
 #: jamovi/client/main/utils/pathtools.js:11
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Desktop"
-msgstr ""
+msgstr "Asztal"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
+#, fuzzy
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "Meghatározza, hogy bármely elem megjelenik-e az in1, in2, in3, ...-ban. Vegye figyelembe, hogy a legtöbb argumentum opció és lehetőség van arra, hogy csak <b>CONTAINS(tül, széna)</b> legyen használva."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
+#, fuzzy
 msgid "Developer mode"
-msgstr ""
+msgstr "Fejlesztői mód"
 
 #: jamovi/client/main/utils/pathtools.js:7
 #: jamovi/server/jamovi/server/instance.py
@@ -765,16 +817,19 @@ msgid "Documents"
 msgstr "Dokumentumok"
 
 #: jamovi/client/main/main.js:371
+#, fuzzy
 msgid "Don't enable"
-msgstr ""
+msgstr "Ne engedélyezze"
 
 #: jamovi/client/main/main.js:643
+#, fuzzy
 msgid "Don't Save"
-msgstr ""
+msgstr "Ne mentsen"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "Pont"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -788,34 +843,39 @@ msgid "Downloads"
 msgstr "Letöltések"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
+#, fuzzy
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "Mintávétletet képez a változóból. pl. MINTAVÉTEL(var, 20), pl. MINTAVÉTEL(1, 20), pl. MINTAVÉTEL('képzés', 20, 'teszt')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
+#, fuzzy
 msgid "Draws samples from a Beta distribution."
-msgstr ""
+msgstr "Mintákat hoz létre egy Beta-eloszlásból."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
+#, fuzzy
 msgid "Draws samples from a Gamma distribution."
-msgstr ""
+msgstr "Mintákat hoz létre Gamma eloszlásból."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
+#, fuzzy
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr ""
+msgstr "Mintákat hoz létre egy normál (Gauss-) eloszlásból."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
+#, fuzzy
 msgid "Draws samples from a uniform distribution."
-msgstr ""
+msgstr "Mintákat hoz létre egy egyenletes eloszlásból."
 
 #: jamovi/client/resultsview/group.js:215
+#, fuzzy
 msgid "Duplicate"
-msgstr ""
+msgstr "Másolás"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
+#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "Transzformáció öntése - {transformName}"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -825,85 +885,103 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:23
 #: jamovi/client/main/tableview.js:1173
 #: jamovi/client/main/tableview.js:1283
+#, fuzzy
 msgid "Edit"
-msgstr ""
+msgstr "Szerkesztés"
 
 #: jamovi/client/main/tableview.js:104
+#, fuzzy
 msgid "Edit filters"
-msgstr ""
+msgstr "Szürők szerkesztése"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
+#, fuzzy
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "Átalakítás szerkesztése - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
 #: jamovi/client/main/vareditor/recodedvarwidget.js:33
+#, fuzzy
 msgid "Edit..."
-msgstr ""
+msgstr "Szerkesztés..."
 
 #: jamovi/client/main/editors/transformeditor.js:360
 #: jamovi/client/main/editors/transformeditor.js:417
+#, fuzzy
 msgid "else use"
-msgstr ""
+msgstr "különben használja"
 
 #: jamovi/client/main/main.js:372
+#, fuzzy
 msgid "Enable"
-msgstr ""
+msgstr "Engedélyezés"
 
 #: jamovi/client/main/ribbon.js:131
+#, fuzzy
 msgid "Enable/disable full screen mode"
-msgstr ""
+msgstr "Teljes képernyős mód be- vagy kikapcsolása"
 
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
+#, fuzzy
 msgid "Enter"
-msgstr ""
+msgstr "Belépés"
 
 #: jamovi/client/main/variablesview.js:133
+#, fuzzy
 msgid "Enter description"
-msgstr ""
+msgstr "Leírás beállítása"
 
 #: jamovi/client/main/backstage.js:277
 #: jamovi/client/main/backstage.js:314
+#, fuzzy
 msgid "Enter file name here"
-msgstr ""
+msgstr "Írja be a fájlnevet itt"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:93
+#, fuzzy
 msgid "Enter label..."
-msgstr ""
+msgstr "Címke beállítása..."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:80
+#, fuzzy
 msgid "Enter level value"
-msgstr ""
+msgstr "Szint értékének beállítása"
 
 #: jamovi/client/main/variablesview.js:132
+#, fuzzy
 msgid "Enter name"
-msgstr ""
+msgstr "Név beállítása"
 
 #: jamovi/client/resultsview/annotation.js:148
+#, fuzzy
 msgid "Enter your URL here"
-msgstr ""
+msgstr "Írja be az URL-t itt"
 
 #: jamovi/client/main/resultspanel.js:718
+#, fuzzy
 msgid "EPS Image {ext}"
-msgstr ""
+msgstr "EPS Kép {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
+#, fuzzy
 msgid "Equal to"
-msgstr ""
+msgstr "Egyenlő"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
 msgstr "Hiba"
 
 #: jamovi/client/main/backstage.js:980
+#, fuzzy
 msgid "Excel {ext}"
-msgstr ""
+msgstr "Excel {ext}"
 
 #: jamovi/client/main/ribbon/analysetab.js:186
+#, fuzzy
 msgid "Exploration"
-msgstr ""
+msgstr "Feltárás"
 
 #: jamovi/client/main/backstage.js:1233
 #: jamovi/client/main/backstage.js:1325
@@ -911,93 +989,115 @@ msgstr ""
 #: jamovi/client/main/resultspanel.js:592
 #: jamovi/client/resultsview/element.js:134
 #: jamovi/client/resultsview/group.js:215
+#, fuzzy
 msgid "Export"
-msgstr ""
+msgstr "Exportálás"
 
 #: jamovi/client/main/resultspanel.js:713
+#, fuzzy
 msgid "Export image"
-msgstr ""
+msgstr "Kép exportálása"
 
 #: jamovi/client/main/resultspanel.js:740
+#, fuzzy
 msgid "Export results"
-msgstr ""
+msgstr "Eredmények exportálása"
 
 #: jamovi/client/main/instance.js:460
+#, fuzzy
 msgid "Exported"
-msgstr ""
+msgstr "Exportálva"
 
 #: jamovi/client/main/instance.js:461
+#, fuzzy
 msgid "Exported to '{filename}'"
-msgstr ""
+msgstr "'{filename}'-ba exportálva"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
+#, fuzzy
 msgid "Factor"
-msgstr ""
+msgstr "Tényező"
 
 #: jamovi/client/main/main.js:176
+#, fuzzy
 msgid "File"
-msgstr ""
+msgstr "Fájl"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
+#, fuzzy
 msgid "File format is not supported"
-msgstr ""
+msgstr "A fájlkép nem támogatott"
 
 #: jamovi/client/main/instance.js:136
+#, fuzzy
 msgid "File imported"
-msgstr ""
+msgstr "Fájl importálása"
 
 #: jamovi/server/jamovi/server/formatio/exceptions.py
+#, fuzzy
 msgid "File is corrupt"
-msgstr ""
+msgstr "A fájl sérült"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
+#, fuzzy
 msgid "File is corrupt (manifest is corrupt or missing)"
-msgstr ""
+msgstr "A fájl sérültett (a manifest hibás vagy hiányzik)"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
+#, fuzzy
 msgid "File is corrupt (manifest is corrupt)"
-msgstr ""
+msgstr "A fájl sérült (a manifest sérült)"
 
 #: jamovi/client/main/ribbon.js:174
+#, fuzzy
 msgid "File menu"
-msgstr ""
+msgstr "Fájl menü"
 
 #: jamovi/client/main/backstage.ts:1184
+#, fuzzy
 msgid "File menu items"
-msgstr ""
+msgstr "Fájl menü elemei"
 
 #: jamovi/client/main/instance.js:474
+#, fuzzy
 msgid "File Saved"
-msgstr ""
+msgstr "Fájl mentve"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
+#, fuzzy
 msgid "File type"
-msgstr ""
+msgstr "Fájl típus"
 
 #: jamovi/client/main/dataset.js:1322
+#, fuzzy
 msgid "Filter"
-msgstr ""
+msgstr "Szűrő"
 
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "Filter {}"
-msgstr ""
+msgstr "Szürö {}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:494
+#, fuzzy
 msgid "Filter {i}"
-msgstr ""
+msgstr "Szürő {i}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
+#, fuzzy
 msgid "Filter is active"
-msgstr ""
+msgstr "Aktív szürölés"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
+#, fuzzy
 msgid "Filter is inactive"
-msgstr ""
+msgstr "A szülő inaktív"
 
 #: jamovi/client/main/tableview.js:78
+#, fuzzy
 msgid "Filtered"
-msgstr ""
+msgstr "Szürőve"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:19
 #: jamovi/client/main/contextmenu/contextmenus.js:40
@@ -1005,230 +1105,280 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:46
 #: jamovi/client/main/tableview.js:83
 #: jamovi/client/main/variablesview.js:61
+#, fuzzy
 msgid "Filters"
-msgstr ""
+msgstr "Szülők"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
+#, fuzzy
 msgid "Filters a variable using the filter expression."
-msgstr ""
+msgstr "Szürői egy változót a szürő kifejezés alapján."
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr ""
+msgstr "A szűrők nem hivatkozhatnak oszlopokra 'V' vagy oszlop függvények használatával"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Filters may not reference output variables"
-msgstr ""
+msgstr "A szülők nem hivatkozhatnak kimeneti változókra"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "Modul keresése a jamovi könyvtárban"
 
 #: jamovi/client/main/main.ts:243
+#, fuzzy
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "Fókusz a táblázatra"
 
 #: jamovi/client/main/main.ts:262
+#, fuzzy
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "Fókusz a változó beállításra"
 
 #: jamovi/client/main/main.ts:248
+#, fuzzy
 msgid "Focus on variable list"
-msgstr ""
+msgstr "Fókusz a változólistán"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
+#, fuzzy
 msgid "Font"
-msgstr ""
+msgstr "Betū"
 
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
+#, fuzzy
 msgid "Formula"
-msgstr ""
+msgstr "Képlet"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Formula contains illegal node"
-msgstr ""
+msgstr "A formula tartalmaz érvényes csomópontot"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
-msgstr ""
+#, fuzzy
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr "A formula hibásan van megadva (ha egyenlőséget szeretnél ellenőrizni, használjon két egyenlős jelt '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
+#, fuzzy
 msgid "Frequencies"
-msgstr ""
+msgstr "Gyakoriságok"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
+#, fuzzy
 msgid "Function {}() does not exist"
-msgstr ""
+msgstr "A {}() függvény nem létezik"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Function {}() requires atleast {} argument{}"
-msgstr ""
+msgstr "A {}() fúggvénynek legalább {} argumentumra van szüksége"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Function {}() requires between {} and {} arguments"
-msgstr ""
+msgstr "A {}() függvény {} és {} argumentum között kell, hogy legyen"
 
 #: jamovi/server/jamovi/server/compute/checker.py
+#, fuzzy
 msgid "Function {}() takes {} argument{}"
-msgstr ""
+msgstr "A {}() fúggvény {} argumentumot vár"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
+#, fuzzy
 msgid "Functions"
-msgstr ""
+msgstr "Függvények"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
+#, fuzzy
 msgid "Greater than"
-msgstr ""
+msgstr "Nagyobb, mint"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
+#, fuzzy
 msgid "Greater than or equal to"
-msgstr ""
+msgstr "Nagyobb vagy egyenlő, mint"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
 msgstr "Zöldes"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "Greys"
-msgstr ""
+msgstr "Szürke"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
+#, fuzzy
 msgid "Group"
-msgstr ""
+msgstr "Csoport"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
+#, fuzzy
 msgid "Hadley"
-msgstr ""
+msgstr "Hadley"
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
+#, fuzzy
 msgid "Heading"
-msgstr ""
+msgstr "Cím"
 
 #: jamovi/client/resultsview/annotation.js:138
+#, fuzzy
 msgid "Help"
-msgstr ""
+msgstr "Súgó"
 
 #: jamovi/client/main/infobox.js:31
+#, fuzzy
 msgid "Hi"
-msgstr ""
+msgstr "Új"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
+#, fuzzy
 msgid "Hidden"
-msgstr ""
+msgstr "Rejtett"
 
 #: jamovi/client/main/store/pagemodules.js:139
 #: jamovi/client/main/variableeditor.js:175
 #: jamovi/client/main/variableeditor.js:49
+#, fuzzy
 msgid "Hide"
-msgstr ""
+msgstr "Elrejtés"
 
 #: jamovi/client/main/main.ts:238
+#, fuzzy
 msgid "Hide analysis options"
-msgstr ""
+msgstr "Elemzési beállítások elrejtése"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
+#, fuzzy
 msgid "Hide filter columns"
-msgstr ""
+msgstr "Szülő oszlopok elrejtése"
 
 #: jamovi/client/main/store.js:25
+#, fuzzy
 msgid "Hide library"
-msgstr ""
+msgstr "Könyvtár elrejtése"
 
 #: jamovi/client/main/store/pagemodules.js:271
+#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "Rejtse el a {moduleName} modult az Analízisek szalagról"
 
 #: jamovi/client/analysisui/main.js:223
+#, fuzzy
 msgid "Hide options"
-msgstr ""
+msgstr "Opcók elrejtése"
 
 #: jamovi/client/main/variableeditor.js:52
+#, fuzzy
 msgid "Hide variable setup"
-msgstr ""
+msgstr "Változó beállítás elrejtése"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
+#, fuzzy
 msgid "Highlight Color"
-msgstr ""
+msgstr "Kiemelés színe"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Home"
-msgstr ""
+msgstr "Összefoglalás"
 
 #: jamovi/client/resultsview/html.js:53
+#, fuzzy
 msgid "Html"
-msgstr ""
+msgstr "Html"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
+#, fuzzy
 msgid "I ♥ SPSS"
-msgstr ""
+msgstr "Szeretem az SPSS-t"
 
 #: jamovi/client/main/editors/transformeditor.js:229
 #: jamovi/client/main/vareditor/datavarwidget.js:277
 #: jamovi/client/main/vareditor/measurelist.js:61
+#, fuzzy
 msgid "ID"
-msgstr ""
+msgstr "Azonosító"
 
 #: jamovi/client/main/notification.js:73
+#, fuzzy
 msgid "Idle session"
-msgstr ""
+msgstr "Üs úmérőlés"
 
 #: jamovi/client/main/editors/transformeditor.js:355
+#, fuzzy
 msgid "if"
-msgstr ""
+msgstr "ha"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
+#, fuzzy
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr ""
+msgstr "Ha a kifejezés igazzá válik, használja az értéket, különben a másikat."
 
 #: jamovi/client/resultsview/image.js:54
+#, fuzzy
 msgid "Image"
-msgstr ""
+msgstr "Kép"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Kép átméretezve {width} x {height}-ra"
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
+#, fuzzy
 msgid "Import"
-msgstr ""
+msgstr "Importálás"
 
 #: jamovi/client/main/instance.js:137
+#, fuzzy
 msgid "Import successful"
-msgstr ""
+msgstr "Sikeres importálás"
 
 #: jamovi/client/main/vareditor/editorwidget.js:43
+#, fuzzy
 msgid "Imported as"
-msgstr ""
+msgstr "Importálva, mint"
 
 #: jamovi/client/main/instance.js:119
+#, fuzzy
 msgid "Importing"
-msgstr ""
+msgstr "Importálás"
 
 #: jamovi/client/main/ribbon/appmenu.js:201
+#, fuzzy
 msgid "In development"
-msgstr ""
+msgstr "Fejlesztés alatt"
 
 #: jamovi/client/main/vareditor/filterwidget.js:385
 #: jamovi/client/main/vareditor/filterwidget.js:535
+#, fuzzy
 msgid "inactive"
-msgstr ""
+msgstr "inaktív"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
+#, fuzzy
 msgid "Indent -1"
-msgstr ""
+msgstr "Behúzás -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
+#, fuzzy
 msgid "Indent +1"
-msgstr ""
+msgstr "Behozás +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1244,305 +1394,368 @@ msgstr ""
 #: jamovi/client/main/ribbon/variablestab.js:29
 #: jamovi/client/main/ribbon/variablestab.js:33
 #: jamovi/client/main/ribbon/variablestab.js:37
+#, fuzzy
 msgid "Insert"
-msgstr ""
+msgstr "Beillesztés"
 
 #: jamovi/client/main/viewcontroller.js:573
+#, fuzzy
 msgid "Insert how many rows?"
-msgstr ""
+msgstr "Hány sor beszürését?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
+#, fuzzy
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "Újértesítvény állításának beillesztése"
 
 #: jamovi/client/main/ribbon/datatab.js:40
+#, fuzzy
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "Újáték újátott változót"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
+#, fuzzy
 msgid "Insert Row..."
-msgstr ""
+msgstr "Sor beszúrása..."
 
 #: jamovi/client/main/store/pagemodules.js:118
+#, fuzzy
 msgid "Install"
-msgstr ""
+msgstr "Telepítés"
 
 #: jamovi/client/main/store/pagemodules.js:240
+#, fuzzy
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "{moduleName} modul {version} verziójának telepítése"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
+#, fuzzy
 msgid "Installed"
-msgstr ""
+msgstr "Telepítve"
 
 #: jamovi/client/main/ribbon/analysetab.js:80
+#, fuzzy
 msgid "Installed Modules"
-msgstr ""
+msgstr "Telepített modulok"
 
 #: jamovi/client/main/store/pagemodules.js:216
+#, fuzzy
 msgid "Installed version needs to be updated"
-msgstr ""
+msgstr "A telepített verziót frissíteni kell"
 
 #: jamovi/client/main/store/pagemodules.js:364
+#, fuzzy
 msgid "Installing {module}"
-msgstr ""
+msgstr "Telepítés {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
+#, fuzzy
 msgid "Installing modules is not available on your plan"
-msgstr ""
+msgstr "A modulok telepítése nem érhető el a tervén"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
+#, fuzzy
 msgid "Integer"
-msgstr ""
+msgstr "Egész"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1019
+#, fuzzy
 msgid "Interaction"
-msgstr ""
+msgstr "Kovariáns"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1020
+#, fuzzy
 msgid "Interactions"
-msgstr ""
+msgstr "Kovariánsok"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
+#, fuzzy
 msgid "Inverts the value."
-msgstr ""
+msgstr "Megfordítja az értéket."
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
 #: jamovi/client/main/tableview.js:591
+#, fuzzy
 msgid "Issue with formula"
-msgstr ""
+msgstr "Probléma a formulával"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
+#, fuzzy
 msgid "Italic"
-msgstr ""
+msgstr "Dőlt"
 
 #: jamovi/client/main/backstage.js:1007
 #: jamovi/client/main/backstage.js:1018
+#, fuzzy
 msgid "jamovi file {ext}"
-msgstr ""
+msgstr "jamovi fájl {ext}"
 
 #: jamovi/client/main/backstage.js:976
+#, fuzzy
 msgid "jamovi files {ext}"
-msgstr ""
+msgstr "jamovi fájlok {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
-msgstr ""
+#, fuzzy
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi most már { insert translation language } nyelven is elérhető! (Köszönöm mindenkinek, aki hozzájárult a fordításhoz, { insert your name here (or put a more generic \"the jamovi translation team\", if you don’t want credit) })"
 
 #: jamovi/client/main/misc/announcements.js:2
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
-msgstr ""
+#, fuzzy
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "A jamovi most már elérhető a { insert translation language } nyelven! (Köszönet a jamovi fordítói csapatának)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
+#, fuzzy
 msgid "jamovi library"
-msgstr ""
+msgstr "jamovi könyvtár"
 
 #: jamovi/client/main/store/pagesideload.js:27
+#, fuzzy
 msgid "jamovi modules"
-msgstr ""
+msgstr "jamovi modulok"
 
 #: jamovi/client/main/backstage.js:1030
 #: jamovi/client/main/backstage.js:1053
+#, fuzzy
 msgid "jamovi template {ext}"
-msgstr ""
+msgstr "jamovi sablon {ext}"
 
 #: jamovi/client/main/backstage.js:977
+#, fuzzy
 msgid "jamovi templates {ext}"
-msgstr ""
+msgstr "jamovi sablonok {ext}"
 
 #: jamovi/client/main/backstage.js:985
+#, fuzzy
 msgid "JASP files {ext}"
-msgstr ""
+msgstr "JASP fájlok {ext}"
 
 #: jamovi/client/main/backstage.js:1092
+#, fuzzy
 msgid "JSON files {ext}"
-msgstr ""
+msgstr "JSON fájlok {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:140
+#, fuzzy
 msgid "Justify"
-msgstr ""
+msgstr "Igazítság"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:241
+#, fuzzy
 msgid "Keyword: {v}"
-msgstr ""
+msgstr "Kulcsszó: {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:154
+#, fuzzy
 msgid "Language"
-msgstr ""
+msgstr "Nyelv"
 
 #: jamovi/client/main/backstage.js:1032
 #: jamovi/client/main/backstage.js:1055
 #: jamovi/client/main/resultspanel.js:748
+#, fuzzy
 msgid "LaTeX bundle {ext}"
-msgstr ""
+msgstr "LaTeX csomag {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:137
+#, fuzzy
 msgid "Left Align"
-msgstr ""
+msgstr "Balra igazítás"
 
 #: jamovi/client/main/editors/operatordropdown.js:47
+#, fuzzy
 msgid "Less than"
-msgstr ""
+msgstr "Kisebb, mint"
 
 #: jamovi/client/main/editors/operatordropdown.js:51
+#, fuzzy
 msgid "Less than or equal to"
-msgstr ""
+msgstr "Kisebb vagy egyenlő, mint"
 
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:137
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:289
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:320
 #: jamovi/client/analysisui/rmanovafactorscontrol.js:467
+#, fuzzy
 msgid "Level {0}"
-msgstr ""
+msgstr "Szint {0}"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:184
+#, fuzzy
 msgid "Level value"
-msgstr ""
+msgstr "Szint értéke"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:48
 #: jamovi/client/main/vareditor/outputvarwidget.js:26
+#, fuzzy
 msgid "Levels"
-msgstr ""
+msgstr "Szintek"
 
 #: jamovi/client/main/store/pagemodules.js:98
+#, fuzzy
 msgid "Library error"
-msgstr ""
+msgstr "Könyvtári hiba"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
+#, fuzzy
 msgid "Link"
-msgstr ""
+msgstr "Hivatkozás"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:1021
+#, fuzzy
 msgid "Main Effects"
-msgstr ""
+msgstr "Főhatások"
 
 #: jamovi/client/main/ribbon/analysetab.js:79
+#, fuzzy
 msgid "Manage installed"
-msgstr ""
+msgstr "Telepített modulok kezelése"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Max: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
+#, fuzzy
 msgid "Measure type"
-msgstr ""
+msgstr "Mérték típusa"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
+#, fuzzy
 msgid "Minimal"
-msgstr ""
+msgstr "Minimális"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "Hiányzó vagy nem kompatibilis modul"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
+#, fuzzy
 msgid "Missing values"
-msgstr ""
+msgstr "Hiányzó értékek"
 
 #: jamovi/client/main/editors/missingvalueeditor.js:14
+#, fuzzy
 msgid "Missing Values"
-msgstr ""
+msgstr "Hiányzó értékek"
 
 #: jamovi/client/main/store/pagemodules.js:244
+#, fuzzy
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "A {moduleName} modul telepítve van"
 
 #: jamovi/client/main/store/pagemodules.js:192
+#, fuzzy
 msgid "Module installed"
-msgstr ""
+msgstr "Modul telepítve"
 
 #: jamovi/client/main/store/pagesideload.js:44
+#, fuzzy
 msgid "Module installed successfully"
-msgstr ""
+msgstr "Modul sikeresen telepítve"
 
 #: jamovi/client/main/store/pagemodules.js:217
+#, fuzzy
 msgid "Module uninstalled"
-msgstr ""
+msgstr "Modul telepítve"
 
 #: jamovi/client/main/ribbon/analysetab.js:77
+#, fuzzy
 msgid "Modules"
-msgstr ""
+msgstr "Modulok"
 
 #: jamovi/client/main/main.js:370
+#, fuzzy
 msgid "More info ..."
-msgstr ""
+msgstr "További információk ..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
+#, fuzzy
 msgid "Move back directory"
-msgstr ""
+msgstr "Visszalépés a könyvtárba"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
+#, fuzzy
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "Lépjen vissza a {0} könyvtárból"
 
 #: jamovi/client/main/variablesview.js:320
+#, fuzzy
 msgid "Name"
-msgstr ""
+msgstr "Név"
 
 #: jamovi/client/main/backstage.js:1178
 #: jamovi/client/main/backstage.js:1255
+#, fuzzy
 msgid "New"
-msgstr ""
+msgstr "Új"
 
 #: jamovi/client/main/tableview.js:2479
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
+#, fuzzy
 msgid "New column {0}"
-msgstr ""
+msgstr "Új oszlop {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
+#, fuzzy
 msgid "New computed variable"
-msgstr ""
+msgstr "Új számított változó"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
+#, fuzzy
 msgid "New data variable"
-msgstr ""
+msgstr "Új adatváltozó"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
+#, fuzzy
 msgid "New transformed variable"
-msgstr ""
+msgstr "Új transzformált változó"
 
 #: jamovi/client/main/variableeditor.js:52
+#, fuzzy
 msgid "Next variable"
-msgstr ""
+msgstr "Következő változó"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
+#, fuzzy
 msgid "No Color"
-msgstr ""
+msgstr "Nincs szín"
 
 #: jamovi/client/main/editors/operatordropdown.js:101
 #: jamovi/client/main/vareditor/formulatoolbar.js:214
+#, fuzzy
 msgid "No information about this function is available"
-msgstr ""
+msgstr "Nincs információ errôl a függvényrôl"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "No internet connection"
-msgstr ""
+msgstr "Nincs internetkapcsolat"
 
 #: jamovi/client/main/backstage.js:569
+#, fuzzy
 msgid "No recognised data files were found."
-msgstr ""
+msgstr "Nem található felismert adatfájlt."
 
 #: jamovi/client/main/variablesview.js:357
+#, fuzzy
 msgid "No variables match your query."
-msgstr ""
+msgstr "Nem található változó, amely megfelel a keresési feltételeknek."
 
 #: jamovi/client/main/editors/transformeditor.js:226
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
+#, fuzzy
 msgid "Nominal"
-msgstr ""
+msgstr "Nominális"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1552,39 +1765,47 @@ msgstr ""
 #: jamovi/client/main/vareditor/transformlist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:15
 #: jamovi/client/main/vareditor/variablelist.js:20
+#, fuzzy
 msgid "None"
-msgstr ""
+msgstr "Nincs"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
+#, fuzzy
 msgid "Not equal to"
-msgstr ""
+msgstr "Nem egyenlő"
 
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
+#, fuzzy
 msgid "Note"
-msgstr ""
+msgstr "Megjegyzés"
 
 #: jamovi/client/resultsview/notice.js:44
+#, fuzzy
 msgid "Notice"
-msgstr ""
+msgstr "Értesítés"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
+#, fuzzy
 msgid "Number format"
-msgstr ""
+msgstr "Számformátum"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
+#, fuzzy
 msgid "Offsets the values up or down."
-msgstr ""
+msgstr "Feljebb vagy lejjebb tolja az értékeket."
 
 #: jamovi/client/main/editorpanel.js:19
 #: jamovi/client/main/variableeditor.js:64
+#, fuzzy
 msgid "Ok"
-msgstr ""
+msgstr "Ok"
 
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
+#, fuzzy
 msgid "OK"
-msgstr ""
+msgstr "OK"
 
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
@@ -1592,923 +1813,1104 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:365
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+#, fuzzy
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
+msgstr "Az adathalmaz egy vagy több elemzését letiltották, mert engedélyezik a véletlenszerü kód végrehajtását. Érdemes csak akkor engedélyezni őket, ha megbízható a forrás."
 
 #: jamovi/client/main/viewcontroller.js:678
+#, fuzzy
 msgid "One row appended."
 msgid_plural "{n} rows appended."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/viewcontroller.js:641
+#, fuzzy
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/backstage.js:463
+#, fuzzy
 msgid "Online data set"
-msgstr ""
+msgstr "Online adatkészlet"
 
 #: jamovi/client/main/backstage.js:1183
 #: jamovi/client/main/backstage.js:1260
+#, fuzzy
 msgid "Open"
-msgstr ""
+msgstr "Megnyitás"
 
 #: jamovi/client/main/main.ts:266
+#, fuzzy
 msgid "Open application menu"
-msgstr ""
+msgstr "Alkalmazás menü megnyitása"
 
 #: jamovi/client/main/main.ts:234
+#, fuzzy
 msgid "Open data file"
-msgstr ""
+msgstr "Adatfájl megnyitása"
 
 #: jamovi/client/main/backstage.js:979
+#, fuzzy
 msgid "Open Document (LibreOffice) {ext}"
-msgstr ""
+msgstr "Dokumentum megnyitása (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
+#, fuzzy
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "A jamovi modulkönyvtár megnyitása"
 
 #: jamovi/client/main/main.ts:253
+#, fuzzy
 msgid "Open the main menu"
-msgstr ""
+msgstr "Nyissa meg a fő menüt"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
 #: jamovi/client/main/main.js:665
+#, fuzzy
 msgid "Opening"
-msgstr ""
+msgstr "Megnyitás"
 
 #: jamovi/client/main/editors/operatordropdown.js:70
+#, fuzzy
 msgid "Operators"
-msgstr ""
+msgstr "Operátorok"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
+#, fuzzy
 msgid "Ordered List"
-msgstr ""
+msgstr "Rendezett lista"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
+#, fuzzy
 msgid "Ordinal"
-msgstr ""
+msgstr "Rendes"
 
 #: jamovi/client/main/dataset.js:1325
+#, fuzzy
 msgid "Output"
-msgstr ""
+msgstr "Kimenet"
 
 #: jamovi/client/main/vareditor/editorwidget.js:244
+#, fuzzy
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/ribbon/appmenu.js:69
+#, fuzzy
 msgid "p-value format"
-msgstr ""
+msgstr "p-érték formátuma"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
+#, fuzzy
 msgid "Paragraph"
-msgstr ""
+msgstr "Bekezdés"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
-msgstr ""
+#, fuzzy
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgstr "Egy dátumot átalakítja számmá alakításra, majd visszaadja, hogy hány nap telt el 1970. január 1. napjától."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
 #: jamovi/client/main/ribbon/annotationtab.js:107
 #: jamovi/client/main/ribbon/datatab.js:16
+#, fuzzy
 msgid "Paste"
-msgstr ""
+msgstr "Beillesztés"
 
 #: jamovi/client/main/viewcontroller.js:354
+#, fuzzy
 msgid "Paste is unavailable using the menus"
-msgstr ""
+msgstr "A beillesztés nem érhető el a menüből"
 
 #: jamovi/client/main/backstage.js:1028
 #: jamovi/client/main/backstage.js:1051
 #: jamovi/client/main/resultspanel.js:715
 #: jamovi/client/main/resultspanel.js:742
+#, fuzzy
 msgid "PDF Document {ext}"
-msgstr ""
+msgstr "PDF dokumentum {ext}"
 
 #: jamovi/client/main/vareditor/datavarlevelwidget.js:19
+#, fuzzy
 msgid "Pin level"
-msgstr ""
+msgstr "Szint rögzítése"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "Kérem, <em>telepítsen vagy frissítsen</em> ezt a modult a jamovi könyvtárból."
 
 #: jamovi/client/main/viewcontroller.js:355
+#, fuzzy
 msgid "Please use ctrl-v to paste into the spreadsheet."
-msgstr ""
+msgstr "Kérem, használja a ctrl-v billentyűköt a beillesztéshez a táblázatba."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "Grafikon"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
+#, fuzzy
 msgid "Plot theme"
-msgstr ""
+msgstr "Grafikon téma"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
+#, fuzzy
 msgid "Plots"
-msgstr ""
+msgstr "Grafikonok"
 
 #: jamovi/client/main/resultspanel.js:716
+#, fuzzy
 msgid "PNG Image {ext}"
-msgstr ""
+msgstr "PNG kép {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "PowerPoint dia {ext}"
 
 #: jamovi/client/main/ribbon.js:132
+#, fuzzy
 msgid "Preferences"
-msgstr ""
+msgstr "Beállítások"
 
 #: jamovi/client/resultsview/annotation.js:79
+#, fuzzy
 msgid "Press enter to edit"
-msgstr ""
+msgstr "Nyomja meg az Enter billentyűt a szerkesztéshez"
 
 #: jamovi/client/main/variableeditor.js:51
+#, fuzzy
 msgid "Previous variable"
-msgstr ""
+msgstr "Előző változó"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "Projekt mentése másként"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "qualitative"
-msgstr ""
+msgstr "minőségi"
 
 #: jamovi/client/main/backstage.js:982
+#, fuzzy
 msgid "R data files {ext}"
-msgstr ""
+msgstr "R adatfájlok {ext}"
 
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1034
 #: jamovi/client/main/backstage.js:1056
 #: jamovi/client/main/backstage.js:1057
+#, fuzzy
 msgid "R object {ext}"
-msgstr ""
+msgstr "R objektum {ext}"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:80
+#, fuzzy
 msgid "Ranks each value"
-msgstr ""
+msgstr "Rangsorolja az értékeket"
 
 #: jamovi/client/main/tableview.js:1250
 #: jamovi/client/main/tableview.js:80
 #: jamovi/client/main/variablesview.js:58
+#, fuzzy
 msgid "Ready"
-msgstr ""
+msgstr "Kész"
 
 #: jamovi/client/main/store/pagemodules.js:209
+#, fuzzy
 msgid "Really uninstall {m}?"
-msgstr ""
+msgstr "Valóban törli a {m} modult?"
 
 #: jamovi/client/main/backstage.js:2008
+#, fuzzy
 msgid "Recent"
-msgstr ""
+msgstr "Legutóbbi"
 
 #: jamovi/client/main/ribbon/annotationtab.js:116
 #: jamovi/client/main/ribbon/datatab.js:25
 #: jamovi/client/main/ribbon/variablestab.js:19
+#, fuzzy
 msgid "Redo Edit"
-msgstr ""
+msgstr "Újándék visszavonása"
 
 #: jamovi/client/main/references.js:20
 #: jamovi/client/main/resultspanel.js:421
 #: jamovi/client/main/resultspanel.js:423
 #: jamovi/client/main/ribbon/appmenu.js:76
+#, fuzzy
 msgid "References"
-msgstr ""
+msgstr "Hivatkozások"
 
 #: jamovi/client/main/infobox.js:273
+#, fuzzy
 msgid "Refresh"
-msgstr ""
+msgstr "Frissítés"
 
 #: jamovi/client/main/ribbon/analysetab.js:189
+#, fuzzy
 msgid "Regression"
-msgstr ""
+msgstr "Regresszió"
 
 #: jamovi/client/main/menu.js:169
 #: jamovi/client/main/resultspanel.js:571
 #: jamovi/client/main/resultspanel.js:593
 #: jamovi/client/main/store/pagemodules.js:115
+#, fuzzy
 msgid "Remove"
-msgstr ""
+msgstr "Eltávolítás"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
+#, fuzzy
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "{1} eltávolása {0}-ből"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
+#, fuzzy
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "Távolítson el {1} elemet a {0}-ből"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
+#, fuzzy
 msgid "Remove filter"
-msgstr ""
+msgstr "Szürő megszüntetése"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
+#, fuzzy
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "Tárgyak eltávolítása {0}-ból"
 
 #: jamovi/client/main/store/pagemodules.js:234
+#, fuzzy
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "{moduleName} modul eltávolítása"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
+#, fuzzy
 msgid "Remove nested filter"
-msgstr ""
+msgstr "Szürölt szürözött szürölés törlése"
 
 #: jamovi/client/main/store/pagemodules.js:130
+#, fuzzy
 msgid "Requires a newer version of jamovi"
-msgstr ""
+msgstr "Frissíbb jamovi verziót igényel"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
+#, fuzzy
 msgid "Restart required"
-msgstr ""
+msgstr "Újándék indítása szükségesség"
 
 #: jamovi/client/main/analyses.js:336
 #: jamovi/client/main/ribbon/appmenu.js:59
 #: jamovi/server/jamovi/server/analyses.py
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Results"
-msgstr ""
+msgstr "Eredmények"
 
 #: jamovi/client/main/vareditor/editorwidget.js:101
+#, fuzzy
 msgid "Retain unused levels in analyses"
-msgstr ""
+msgstr "Használatlan szintek megtartása az elemzésekben"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
+#, fuzzy
 msgid "Returns a Box Cox transformation of the variable."
-msgstr ""
+msgstr "Visszaadja a Box Cox transzformációt a változóra."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
+#, fuzzy
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "Visszatérési azt, hogy a változó egy kivétel szerint a IQR szerint szélsósértékének minôsége."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
+#, fuzzy
 msgid "Returns the absolute value of a number."
-msgstr ""
+msgstr "Visszaadja egy szám abszolüt értékét."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
+#, fuzzy
 msgid "Returns the base-10 logarithm of a number."
-msgstr ""
+msgstr "Visszaadja egy szám 10-es alapó logaritmusát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
+#, fuzzy
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr ""
+msgstr "Visszaadja egy szám alap ℯ hatványát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
+#, fuzzy
 msgid "Returns the largest value of a set of numbers."
-msgstr ""
+msgstr "Visszaadja a legnagyobb értékét egy számokból."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+#, fuzzy
 msgid "Returns the largest value of a variable."
-msgstr ""
+msgstr "Visszaadja a legnagyobb értéküt a változóban."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
+#, fuzzy
 msgid "Returns the mean of a set of numbers."
-msgstr ""
+msgstr "Visszatérési a számok szériának átlagát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
+#, fuzzy
 msgid "Returns the median absolute deviation of a variable."
-msgstr ""
+msgstr "Egy változó medián abszolút eltérését adja vissza."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
+#, fuzzy
 msgid "Returns the median of a variable."
-msgstr ""
+msgstr "Egy változó mediánértékét adja vissza."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
+#, fuzzy
 msgid "Returns the most common value in a variable."
-msgstr ""
+msgstr "Egy változó leggyakoribb értékét adja vissza."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
+#, fuzzy
 msgid "Returns the natural logarithm of a number."
-msgstr ""
+msgstr "Visszatérési a természetes logaritmust egy számhoz."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
+#, fuzzy
 msgid "Returns the normalized values of a set of numbers."
-msgstr ""
+msgstr "Visszaadja a számok normalizált értékeit."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
+#, fuzzy
 msgid "Returns the number of cases in a variable."
-msgstr ""
+msgstr "Visszaadja a változóban lévő esetek számát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
+#, fuzzy
 msgid "Returns the number of rows of a variable."
-msgstr ""
+msgstr "Visszatérési a változó sorainak számát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
+#, fuzzy
 msgid "Returns the overall mean of a variable."
-msgstr ""
+msgstr "Egy változó átlagát adja vissza."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
+#, fuzzy
 msgid "Returns the overall sum of a variable."
-msgstr ""
+msgstr "Visszatérési a változó ősszegét."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
+#, fuzzy
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr ""
+msgstr "Visszaadja a változó robosztus medián abszolúut átlagát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
+#, fuzzy
 msgid "Returns the row numbers."
-msgstr ""
+msgstr "Visszaadja a sorok számát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:78
+#, fuzzy
 msgid "Returns the smallest value of a set of numbers."
-msgstr ""
+msgstr "Visszaadja a legkisebb értéket egy számok halmazából."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
+#, fuzzy
 msgid "Returns the smallest value of a variable."
-msgstr ""
+msgstr "Visszaadja a legkisebb értéküt a változóban."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
+#, fuzzy
 msgid "Returns the square root of a number."
-msgstr ""
+msgstr "Egy szám négyzetgyökét adja vissza."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
+#, fuzzy
 msgid "Returns the standard deviation of a set of numbers."
-msgstr ""
+msgstr "Visszatérési érték a számok szériának szándékátlágát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
+#, fuzzy
 msgid "Returns the standard deviation of a variable."
-msgstr ""
+msgstr "Visszaadja a változó szórásátlagát."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
+#, fuzzy
 msgid "Returns the standard error of the mean of a variable."
-msgstr ""
+msgstr "Visszatérési a változó átlagos értékét."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
+#, fuzzy
 msgid "Returns the sum of a set of numbers."
-msgstr ""
+msgstr "Visszaadja a számok összegét."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
+#, fuzzy
 msgid "Returns the variance of a set of numbers."
-msgstr ""
+msgstr "Visszatérési a számok szériának varianciáját."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
+#, fuzzy
 msgid "Returns the variance of a variable."
-msgstr ""
+msgstr "Visszatérési a változó varianciáját."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "Visszatér és az előzőleg kiválasztott elemzéshez, és megnyitja az opciók panelt, az opciók panelre irányítva a fókúzst."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
+msgstr "Visszatérés a korábban kiválasztott elemzéshez és a fókusz áthelyezése az eredmények kimenetébe."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgstr "Visszatér a korábban kiválasztott elemzéshez és áthelyezi a fókuszt az eredmények kimenetére."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
+#, fuzzy
 msgid "Right Align"
-msgstr ""
+msgstr "Jobbra igazítás"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:82
+#, fuzzy
 msgid "Rounds each value"
-msgstr ""
+msgstr "Kerekíti az értékeket"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:86
+#, fuzzy
 msgid "Rounds each value to the integer above"
-msgstr ""
+msgstr "Minden értéket felkerekíti a legközelebbi egész számra"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:84
+#, fuzzy
 msgid "Rounds each value to the integer below"
-msgstr ""
+msgstr "Minden értéket lekerekíti a legközelebbi egész számra"
 
 #: jamovi/client/main/viewcontroller.js:345
+#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/tableview.js:79
+#, fuzzy
 msgid "Row count"
-msgstr ""
+msgstr "Sorok száma"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
+#, fuzzy
 msgid "Row Filters"
-msgstr ""
+msgstr "Sor szűrők"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
+#, fuzzy
 msgid "Rows"
-msgstr ""
+msgstr "Sorok"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
+#, fuzzy
 msgid "SAS 7bdat {ext}"
-msgstr ""
+msgstr "SAS 7bdat {ext}"
 
 #: jamovi/client/main/backstage.js:984
+#, fuzzy
 msgid "SAS files {ext}"
-msgstr ""
+msgstr "SAS fájlok {ext}"
 
 #: jamovi/client/main/backstage.js:1038
 #: jamovi/client/main/backstage.js:1061
+#, fuzzy
 msgid "SAS xpt {ext}"
-msgstr ""
+msgstr "SAS xpt {ext}"
 
 #: jamovi/client/main/backstage.js:1297
 #: jamovi/client/main/backstage.js:321
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/menu.js:160
+#, fuzzy
 msgid "Save"
-msgstr ""
+msgstr "Mentés"
 
 #: jamovi/client/main/backstage.js:1211
 #: jamovi/client/main/backstage.js:1312
+#, fuzzy
 msgid "Save As"
-msgstr ""
+msgstr "Mentés másként"
 
 #: jamovi/client/main/main.js:645
+#, fuzzy
 msgid "Save changes to '{title}'?"
-msgstr ""
+msgstr "Változások mentése a '{title}'-ba?"
 
 #: jamovi/client/main/instance.js:506
+#, fuzzy
 msgid "Save failed"
-msgstr ""
+msgstr "Mentés sikertelen"
 
 #: jamovi/client/main/main.ts:233
+#, fuzzy
 msgid "Save project"
-msgstr ""
+msgstr "Projekt mentése"
 
 #: jamovi/client/main/instance.js:475
+#, fuzzy
 msgid "Saved to '{filename}'"
-msgstr ""
+msgstr "Mentve '{filename}'-ba"
 
 #: jamovi/client/main/instance.js:427
+#, fuzzy
 msgid "Saving"
-msgstr ""
+msgstr "Mentés"
 
 #: jamovi/client/main/notification.js:77
+#, fuzzy
 msgid "Scheduled maintenance"
-msgstr ""
+msgstr "Ütemezett karbantartás"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:169
 #: jamovi/client/main/store/pagemodules.js:34
+#, fuzzy
 msgid "Search"
-msgstr ""
+msgstr "Keresés"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search available modules"
-msgstr ""
+msgstr "Keresse a rendelkezésre álló modulokat"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
+#, fuzzy
 msgid "Search files"
-msgstr ""
+msgstr "Fájlok keresése"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "Fájl keresése a {0} könyvtárban"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search installed modules"
-msgstr ""
+msgstr "Telepített modulok keresése"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
+#, fuzzy
 msgid "Search list items"
-msgstr ""
+msgstr "Keresse a lista elemeket"
 
 #: jamovi/client/main/variablesview.js:48
+#, fuzzy
 msgid "Search variables"
-msgstr ""
+msgstr "Változók keresése"
 
 #: jamovi/client/main/resultspanel.js:433
+#, fuzzy
 msgid "Select all"
-msgstr ""
+msgstr "Összes kijelölése"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
+#, fuzzy
 msgid "Selected"
-msgstr ""
+msgstr "Kijelölt"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "sequential"
-msgstr ""
+msgstr "sorrendben"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
+#, fuzzy
 msgid "Set1"
-msgstr ""
+msgstr "Set1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
+#, fuzzy
 msgid "Setup"
-msgstr ""
+msgstr "Beállítások"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:78
+#, fuzzy
 msgid "Setup..."
-msgstr ""
+msgstr "Beállítások..."
 
 #: jamovi/client/main/store/pagemodules.js:136
+#, fuzzy
 msgid "Show"
-msgstr ""
+msgstr "Mutassa"
 
 #: jamovi/client/main/vareditor/filterwidget.js:59
 #: jamovi/client/main/vareditor/filterwidget.js:76
+#, fuzzy
 msgid "Show filter columns"
-msgstr ""
+msgstr "Mutassa a szűrő oszlopokat"
 
 #: jamovi/client/main/editors/transformeditor.js:634
 #: jamovi/client/main/vareditor/computedvarwidget.js:128
 #: jamovi/client/main/vareditor/filterwidget.js:413
+#, fuzzy
 msgid "Show formula editor"
-msgstr ""
+msgstr "Képlet szerkesztőjének megjelenítése"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
+#, fuzzy
 msgid "Show in main menu"
-msgstr ""
+msgstr "Megjelenít a főmenüben"
 
 #: jamovi/client/main/store/pagemodules.js:265
+#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "Modul {moduleName} megjelenítése az Analízis szalagmenüben"
 
 #: jamovi/client/main/store.js:93
+#, fuzzy
 msgid "Side-loading modules is not available."
-msgstr ""
+msgstr "A modulok oldalirányos betöltése nem érhető el."
 
 #: jamovi/client/main/store.js:37
+#, fuzzy
 msgid "Sideload"
-msgstr ""
+msgstr "Oldalbetöltés"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
+#, fuzzy
 msgid "significant figures"
-msgstr ""
+msgstr "jelentősfigyelő számok"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
+#, fuzzy
 msgid "Source variable"
-msgstr ""
+msgstr "Forrásváltozó"
 
 #: jamovi/client/main/backstage.js:1279
+#, fuzzy
 msgid "Special Import"
-msgstr ""
+msgstr "Speciális importálás"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
+#, fuzzy
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "Szövegeket darabokra bontja elválasztó segítségével. A <i>darab</i> megadja a kívántott darabot index alapján."
 
 #: jamovi/client/main/tableview.js:62
+#, fuzzy
 msgid "Spreadsheet"
-msgstr ""
+msgstr "Táblázatkezelő"
 
 #: jamovi/client/main/backstage.js:981
+#, fuzzy
 msgid "SPSS files {ext}"
-msgstr ""
+msgstr "SPSS fájlok {ext}"
 
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
+#, fuzzy
 msgid "SPSS sav {ext}"
-msgstr ""
+msgstr "SPSS sav {ext}"
 
 #: jamovi/client/main/backstage.js:1039
 #: jamovi/client/main/backstage.js:1062
+#, fuzzy
 msgid "Stata {ext}"
-msgstr ""
+msgstr "Stata {ext}"
 
 #: jamovi/client/main/backstage.js:983
+#, fuzzy
 msgid "Stata files {ext}"
-msgstr ""
+msgstr "Stata fájlok {ext}"
 
 #: jamovi/client/main/ribbon/annotationtab.js:124
+#, fuzzy
 msgid "Strike"
-msgstr ""
+msgstr "Áthúzás"
 
 #: jamovi/client/main/ribbon/annotationtab.js:155
+#, fuzzy
 msgid "Styles"
-msgstr ""
+msgstr "Stílusok"
 
 #: jamovi/client/main/ribbon/annotationtab.js:127
+#, fuzzy
 msgid "Sub Script"
-msgstr ""
+msgstr "Alprogram"
 
 #: jamovi/client/main/ribbon/annotationtab.js:128
+#, fuzzy
 msgid "Super Script"
-msgstr ""
+msgstr "Felső index"
 
 #: jamovi/client/main/resultspanel.js:717
+#, fuzzy
 msgid "SVG Image {ext}"
-msgstr ""
+msgstr "SVG Kép {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
+#, fuzzy
 msgid "Syntax"
-msgstr ""
+msgstr "Szintaxis"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
+#, fuzzy
 msgid "Syntax mode"
-msgstr ""
+msgstr "Szintaxis mód"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
+#, fuzzy
 msgid "System default"
-msgstr ""
+msgstr "Rendszer alapértelmezés"
 
 #: jamovi/client/main/ribbon/analysetab.js:187
+#, fuzzy
 msgid "T-Tests"
-msgstr ""
+msgstr "T-próbák"
 
 #: jamovi/client/resultsview/table.js:184
+#, fuzzy
 msgid "Table"
-msgstr ""
+msgstr "Táblázat"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
+#, fuzzy
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "Egy 1970. január 1-jétól számított napok számát reprezentáló szám átvételével formázott dátumot hoz létre."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
+#, fuzzy
 msgid "Text"
-msgstr ""
+msgstr "Szöveg"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
+#, fuzzy
 msgid "Text Color"
-msgstr ""
+msgstr "Szöveg színe"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
+#, fuzzy
 msgid "The content has been copied to the clipboard"
-msgstr ""
+msgstr "A tartalom már a vágklipbe másolva"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
+#, fuzzy
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgstr "A tartalom elkészít, és a lent lévő gombbal vagy a {k}+C billentyúzattal másolható"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
+#, fuzzy
 msgid "The current value of the variable to which this transform is applied."
-msgstr ""
+msgstr "A jelenlegi értéke a változónak, amelyre ez a transzformáció van alkalmazva."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
+#, fuzzy
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "Az adatokat a {} változó súryalja, azonban ez az elemzés nem támogatja a nem egész számó súryokat. A súryokat a közeli legközelebbi egész számra kerekíttették."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "The data is weighted by the variable {}."
-msgstr ""
+msgstr "Az adatok a {} változó süllyal vannak süllyalva."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
+#, fuzzy
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "Az adat súlyozott, de ez az elemzés nem támogatja a súlyokat. Az elemzés az adatot súlyozatlanul használta."
 
 #: jamovi/client/main/instance.js:489
+#, fuzzy
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr ""
+msgstr "A '{filename}' fájl már létezik. Felülássza ezt a fájlt?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "The formula is mis-specified"
-msgstr ""
+msgstr "A formula helytelenül megadva"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:140
+#, fuzzy
 msgid "The index of value in the provided values."
-msgstr ""
+msgstr "Az érték indexe a megadott értékek között."
 
 #: jamovi/client/resultsview/table.js:754
+#, fuzzy
 msgid "The interaction of {0} and {1}"
-msgstr ""
+msgstr "A {0} és {1} közötti interakció"
 
 #: jamovi/client/analysisui/formatdef.js:272
+#, fuzzy
 msgid "The interaction of {list}"
-msgstr ""
+msgstr "{list} interakciója"
 
 #: jamovi/client/main/store.js:80
+#, fuzzy
 msgid "The jamovi library is not available to your session."
-msgstr ""
+msgstr "A jamovi könyvtár nem érhető el a munkamenet számára."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
+#, fuzzy
 msgid "The level value {r} is already in use."
-msgstr ""
+msgstr "A {r} szintérték már használatban van."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
+#, fuzzy
 msgid "The level value cannot be blank."
-msgstr ""
+msgstr "A szint értéke nem lehet ües."
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "The library is disabled"
-msgstr ""
+msgstr "A könyvtár letiltva"
 
 #: jamovi/server/jamovi/server/scheduler.py
+#, fuzzy
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr ""
+msgstr "A modul ehhez az elemzéshez nincs telepítve, vagy nem érhető el."
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "Nem lehetett elérni a távoli kiszolgálót"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "A távoli kiszolgáló elutasította a kérelmet"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "A távoli kiszolgáló jelentett hibát"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr ""
+msgstr "A távoli kiszolgáló váratlan választ adott"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr ""
+msgstr "Az erőforrás nem létezik, vagy átnevezték át (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
+#, fuzzy
 msgid "The selected transform is in error and should be edited."
-msgstr ""
+msgstr "A kiválasztott transzformáció hibás és szerkesztésre szorul."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
+#, fuzzy
 msgid "The value in the provided values at index."
-msgstr ""
+msgstr "Az adott értékek listájának indexén található érték."
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr ""
+msgstr "Ez az elemzés meghaladta a jelenlegi időkorlátját, és leállt."
 
 #: jamovi/server/jamovi/server/engine.py
+#, fuzzy
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr ""
+msgstr "Ez az elemzés valószínûleg befeázódott, valószínûleg erőforrás-korlátozás miatt."
 
 #: jamovi/client/main/main.ts:912
+#, fuzzy
 msgid "This data set could not be opened"
-msgstr ""
+msgstr "Ez az adathalmaz nem nyitható meg"
 
 #: jamovi/server/jamovi/server/server.py
+#, fuzzy
 msgid "This data set is no longer available"
-msgstr ""
+msgstr "Ez az adathalmaz már nincs elérhető"
 
 #: jamovi/client/main/backstage.js:1198
 #: jamovi/client/main/utils/pathtools.js:15
+#, fuzzy
 msgid "This Device"
-msgstr ""
+msgstr "Ez az eszköz"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
+#, fuzzy
 msgid "This is a data variable."
-msgstr ""
+msgstr "Ez egy adatváltozó."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "Ez a modul vagy <em>hiányzik</em>, vagy <em>nem kompatibilis</em> a jamovi ezzel a verziójával."
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
 #: jamovi/client/main/backstage.js:1292
 #: jamovi/client/main/backstage.js:1320
 #: jamovi/client/main/backstage.js:1328
+#, fuzzy
 msgid "This PC"
-msgstr ""
+msgstr "Ez a számítógép"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} columns"
-msgstr ""
+msgstr "Ez a munkamenet legfeljebb {} oszlopra korlátozott"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "This session is limited to {} rows"
-msgstr ""
+msgstr "Ez a munkamenet legfeljebb {} sorra korlátozódik"
 
 #: jamovi/client/main/notification.js:39
+#, fuzzy
 msgid "This session will end any moment now"
-msgstr ""
+msgstr "Ez a munkamenet bármelyik pillanatban véget érhet"
 
 #: jamovi/client/main/notification.js:35
+#, fuzzy
 msgid "This session will end in around {} minutes"
-msgstr ""
+msgstr "Ez a munkamenet {} perc mülva lejár"
 
 #: jamovi/client/main/notification.js:37
+#, fuzzy
 msgid "This session will end in around 1 minute"
-msgstr ""
+msgstr "Ez a munkamenet kb. 1 perc múlt ér véget ér"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:34
+#, fuzzy
 msgid "This transform is in error and should be edited."
-msgstr ""
+msgstr "Ez a transzformáció hibás és szerkesztésre szorul."
 
 #: jamovi/client/main/tableview.js:105
+#, fuzzy
 msgid "Toggle filters visibility"
-msgstr ""
+msgstr "Szürők láthatóságának fel és visszavonása"
 
 #: jamovi/client/main/ribbon.js:199
+#, fuzzy
 msgid "Toggle screen state"
-msgstr ""
+msgstr "Képernyő állapot átkapcsolása"
 
 #: jamovi/client/main/main.ts:256
+#, fuzzy
 msgid "Toggle variable setup"
-msgstr ""
+msgstr "Változó beállítások felés visszavonása"
 
 #: jamovi/client/main/viewcontroller.js:357
+#, fuzzy
 msgid "Too much data, use import instead"
-msgstr ""
+msgstr "Több adat, használja a betöltést"
 
 #: jamovi/client/main/editors/transformeditor.js:24
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
+#, fuzzy
 msgid "Transform"
-msgstr ""
+msgstr "Átalakítás"
 
 #: jamovi/server/jamovi/server/instancemodel.py
+#, fuzzy
 msgid "Transform {}"
-msgstr ""
+msgstr "Transzformálás {}"
 
 #: jamovi/client/main/tableview.js:271
+#, fuzzy
 msgid "Transform: {name}"
-msgstr ""
+msgstr "Átalakítás: {name}"
 
 #: jamovi/client/main/tableview.js:276
+#, fuzzy
 msgid "Transform: None"
-msgstr ""
+msgstr "Transzformáció: Nincs"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
+#, fuzzy
 msgid "Transform..."
-msgstr ""
+msgstr "Transzformálás..."
 
 #: jamovi/client/main/dataset.js:1319
+#, fuzzy
 msgid "Transformed"
-msgstr ""
+msgstr "Transzformált"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:100
 #: jamovi/client/main/contextmenu/contextmenus.js:66
 #: jamovi/client/main/ribbon/datatab.js:42
 #: jamovi/client/main/ribbon/variablestab.js:36
 #: jamovi/client/main/vareditor/editorwidget.js:242
+#, fuzzy
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/utils/headeralert.js:24
+#, fuzzy
 msgid "Try again"
-msgstr ""
+msgstr "Próbáldja újra"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to access analysis"
-msgstr ""
+msgstr "Nem sikerült az elemzés elérése"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to access library"
-msgstr ""
+msgstr "Könyvtár elérésének sikertelensége"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr ""
+msgstr "Nem lehet hozzáférni az internethez (valószínűleg egy portál miatt)"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to browse {}"
-msgstr ""
+msgstr "Nem lehet tallózni {}"
 
 #: jamovi/client/main/main.js:768
+#, fuzzy
 msgid "Unable to connect to the server"
-msgstr ""
+msgstr "Nem sikerült a szerverhez csatlakozni"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to import {}"
-msgstr ""
+msgstr "Nem sikerült a {} importálása"
 
 #: jamovi/client/main/store/pagemodules.js:376
+#, fuzzy
 msgid "Unable to install {module}"
-msgstr ""
+msgstr "Nem sikerült a {module} telepítése"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to install module"
-msgstr ""
+msgstr "Nem sikerült a modul telepítése"
 
 #: jamovi/client/main/backstage.js:1752
 #: jamovi/client/main/instance.js:275
@@ -2516,219 +2918,264 @@ msgstr ""
 #: jamovi/client/main/instance.js:316
 #: jamovi/client/main/instance.js:322
 #: jamovi/client/main/main.js:730
+#, fuzzy
 msgid "Unable to open"
-msgstr ""
+msgstr "Nem sikerült megnyitni"
 
 #: jamovi/client/main/viewcontroller.js:356
+#, fuzzy
 msgid "Unable to paste"
-msgstr ""
+msgstr "Nem lehet beilleszteni"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to perform import"
-msgstr ""
+msgstr "Nem sikerült az importálás"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to perform request"
-msgstr ""
+msgstr "Nem sikerült a kérés"
 
 #: jamovi/server/jamovi/server/downloader.py
+#, fuzzy
 msgid "Unable to reach the library"
-msgstr ""
+msgstr "Nem sikerült a könyvtár elérése"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to save"
-msgstr ""
+msgstr "Nem sikerült a mentés"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unable to save {}"
-msgstr ""
+msgstr "Nem sikerült a {} mentése"
 
 #: jamovi/client/main/store/pagemodules.js:224
+#, fuzzy
 msgid "Unable to uninstall module"
-msgstr ""
+msgstr "Nem lehet a modult eltávolítaní"
 
 #: jamovi/client/main/store/pagemodules.js:124
+#, fuzzy
 msgid "Unavailable"
-msgstr ""
+msgstr "Nem érhető el"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
+#, fuzzy
 msgid "Underline"
-msgstr ""
+msgstr "Alávonás"
 
 #: jamovi/client/main/ribbon/annotationtab.js:115
 #: jamovi/client/main/ribbon/datatab.js:24
 #: jamovi/client/main/ribbon/variablestab.js:18
+#, fuzzy
 msgid "Undo Edit"
-msgstr ""
+msgstr "Visszavonás"
 
 #: jamovi/client/main/instance.js:317
 #: jamovi/client/main/instance.js:324
 #: jamovi/client/main/notification.js:81
 #: jamovi/server/jamovi/server/compute/messages.py
+#, fuzzy
 msgid "Unexpected error"
-msgstr ""
+msgstr "Váratlan hiba"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Unrecognised file format"
-msgstr ""
+msgstr "Felismert fájlkép"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "Névtelen"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
+#, fuzzy
 msgid "Update"
-msgstr ""
+msgstr "Frissítés"
 
 #: jamovi/client/main/store/pagemodules.js:253
+#, fuzzy
 msgid "Update module {moduleName} to version {version}"
-msgstr ""
+msgstr "Modul {moduleName} frissítése {version} verzióra"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
 #: jamovi/client/main/instance.js:241
+#, fuzzy
 msgid "Upload failed"
-msgstr ""
+msgstr "Feltöltés sikertelen"
 
 #: jamovi/client/main/instance.js:206
 #: jamovi/client/main/instance.js:210
+#, fuzzy
 msgid "Uploading"
-msgstr ""
+msgstr "Feltöltés"
 
 #: jamovi/client/main/editors/transformeditor.js:389
+#, fuzzy
 msgid "use"
-msgstr ""
+msgstr "használat"
 
 #: jamovi/client/main/editors/transformeditor.js:260
+#, fuzzy
 msgid "used by"
-msgstr ""
+msgstr "használva"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
+#, fuzzy
 msgid "using transform"
-msgstr ""
+msgstr "transzformációval"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Value is too large for column '{}' of type integer"
-msgstr ""
+msgstr "Az érték túl nagy a(z) '{}' típusú oszlopban található egész számhoz"
 
 #: jamovi/client/analysisui/formatdef.js:107
+#, fuzzy
 msgid "Variable {0}"
-msgstr ""
+msgstr "Változó {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
+#, fuzzy
 msgid "Variable Description"
-msgstr ""
+msgstr "Változó leírás"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
+#, fuzzy
 msgid "Variable Name"
-msgstr ""
+msgstr "Változó név"
 
 #: jamovi/client/main/ribbon/datatab.js:38
+#, fuzzy
 msgid "Variable setup"
-msgstr ""
+msgstr "Változó beállítása"
 
 #: jamovi/client/main/editors/transformeditor.js:62
+#, fuzzy
 msgid "Variable suffix"
-msgstr ""
+msgstr "Változó utótag"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
+#, fuzzy
 msgid "Variable: {v}"
-msgstr ""
+msgstr "Változó: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
 #: jamovi/client/main/ribbon/variablestab.js:22
 #: jamovi/client/main/vareditor/formulatoolbar.js:224
 #: jamovi/client/main/variablesview.js:62
+#, fuzzy
 msgid "Variables"
-msgstr ""
+msgstr "Változók"
 
 #: jamovi/client/analysisui/formatdef.js:117
+#, fuzzy
 msgid "Variables {list}"
-msgstr ""
+msgstr "Változók {list}"
 
 #: jamovi/client/main/variablesview.js:41
+#, fuzzy
 msgid "Variables List View"
-msgstr ""
+msgstr "Változók listája"
 
 #: jamovi/client/main/variablesview.js:111
+#, fuzzy
 msgid "Variables View"
-msgstr ""
+msgstr "Változók nézete"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
+#, fuzzy
 msgid "Version {v}"
-msgstr ""
+msgstr "Verzió {v}"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
+#, fuzzy
 msgid "Visible"
-msgstr ""
+msgstr "Látható"
 
 #: jamovi/client/main/backstage.js:1029
 #: jamovi/client/main/backstage.js:1052
 #: jamovi/client/main/resultspanel.js:743
+#, fuzzy
 msgid "Web Page {ext}"
-msgstr ""
+msgstr "Weboldal {ext}"
 
 #: jamovi/client/main/ribbon/datatab.js:18
 #: jamovi/client/main/ribbon/datatab.js:41
 #: jamovi/client/resultsview/main.js:334
 #: jamovi/server/jamovi/server/analyses/weights.py
+#, fuzzy
 msgid "Weights"
-msgstr ""
+msgstr "Súryok"
 
 #: jamovi/client/main/vareditor/missingvaluelistitem.js:33
+#, fuzzy
 msgid "when"
-msgstr ""
+msgstr "amikor"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr ""
+#, fuzzy
+msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgstr "Ha a változó tartalmaz egy hiányzó értéket, használja az értéket, egyébként a másik értéket."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
+#, fuzzy
 msgid "Why is this additional step necessary?"
-msgstr ""
+msgstr "Miért szüszékélyes ez a további lépés?"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot delete rows while filtered rows are hidden"
-msgstr ""
+msgstr "Nem törölhetnek sorok, ha szürölt sorként meg vannak jelenésre"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot insert rows while filtered rows are hidden"
-msgstr ""
+msgstr "Nem lehet sorokat beszürni, ha a szürött sorok el vannak rejtve"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
+msgstr "Nem módosíthatók azok a oszlopok, amelyek hatással vannak a szürölésre, ha a szürölt sorként meg vannak jelenésre"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
-msgstr ""
+#, fuzzy
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgstr "Nem módosíthatja a transzformációkat, amelyek érintik a szűrőket, amikor a szűrt sorok el vannak rejtve"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "You do not have appropriate permissions (403)"
-msgstr ""
+msgstr "Nincs megfelelő jogosultsága (403)"
 
 #: jamovi/client/main/main.js:142
+#, fuzzy
 msgid "Your connection has been lost. Please refresh the page to continue."
-msgstr ""
+msgstr "Az összeköttetése megszakadt. Kérjük frissítsen a lapot a folytatáshoz."
 
 #: jamovi/client/main/utils/headeralert.js:32
+#, fuzzy
 msgid "Your web browser prevented jamovi from opening a new tab"
-msgstr ""
+msgstr "Az ön webböngészője megakadályozta, hogy a jamovi megnyisson egy újábát"
 
 #: jamovi/client/main/ribbon/appmenu.js:50
+#, fuzzy
 msgid "Zoom"
-msgstr ""
+msgstr "Nagyítás"
 
 #: jamovi/client/main/ribbon/appmenu.js:65
+#, fuzzy
 msgid "Zoom in"
-msgstr ""
+msgstr "Nagyítás"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
+#, fuzzy
 msgid "Zoom out"
-msgstr ""
+msgstr "Nagyítás"

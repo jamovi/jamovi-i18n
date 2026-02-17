@@ -1,9 +1,8 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2025-10-08 17:07+0000\n"
+msgstr "PO-Revision-Date: 2025-10-08 17:07+0000\n"
 "Last-Translator: Hamza Yalçin <h.yalcin08@gmail.com>\n"
-"Language-Team: Turkish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/tr/>\n"
+"Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/tr/>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -16,13 +15,10 @@ msgid "'{}' is in error"
 msgstr "'{}' hatalı"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"‘{}’, {}() ait bir argüman değil\n"
-"(Eğer eşit olup olmadıklarını test etmek istiyorsanız, iki eşittir işareti "
-"‘==‘ kullanın)"
+msgstr "‘{}’, {}() ait bir argüman değil\n"
+"(Eğer eşit olup olmadıklarını test etmek istiyorsanız, iki eşittir işareti ‘==‘ kullanın)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -37,8 +33,9 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "Bu Safari ve iPad'lerin bir tuhaflığı"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} Seçenekleri:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -129,9 +126,7 @@ msgid "Accent"
 msgstr "Vurgu"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr "Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
@@ -421,8 +416,9 @@ msgid "Close"
 msgstr "Kapat"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "Dosya menüsünü kapat"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -456,8 +452,9 @@ msgid "Column is not editable"
 msgstr "Sütun değiştirilemez"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "Virgül"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -549,8 +546,9 @@ msgstr "Kopyala"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "Latex'i Kopyala"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -657,8 +655,9 @@ msgid "decimal places"
 msgstr "ondalık yerleri"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "Ondalık simgesi"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -734,14 +733,8 @@ msgid "Desktop"
 msgstr "Masaüstü"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"Öğelerden herhangi birinin in1, in2, in3, ...'de görünüp görünmediğini "
-"belirler. Bu argümanların çoğunun isteğe bağlı olduğunu unutmayın -- basitçe "
-"<b>CONTAINS(needle, haystack)</b> kullanmak mümkündür."
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "Öğelerden herhangi birinin in1, in2, in3, ...'de görünüp görünmediğini belirler. Bu argümanların çoğunun isteğe bağlı olduğunu unutmayın -- basitçe <b>CONTAINS(needle, haystack)</b> kullanmak mümkündür."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -761,8 +754,9 @@ msgid "Don't Save"
 msgstr "Kaydetmeyin"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "Nokta"
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
@@ -776,12 +770,8 @@ msgid "Downloads"
 msgstr "İndirilenler"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
-msgstr ""
-"Değişkenden n büyüklüğünde bir örneklem seçer. Ör: SAMPLE(var, 20), Ör: "
-"SAMPLE(1, 20), Ör: SAMPLE('training', 20, 'test')"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgstr "Değişkenden n büyüklüğünde bir örneklem seçer. Ör: SAMPLE(var, 20), Ör: SAMPLE(1, 20), Ör: SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -1011,8 +1001,9 @@ msgid "Filters may not reference output variables"
 msgstr "Filtreler çıktı değişkenlerine referans vermeyebilir"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "jamovi kütüphanesinde modülü bulun"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1040,12 +1031,8 @@ msgid "Formula contains illegal node"
 msgstr "Formül geçersiz düğüm içeriyor"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
-msgstr ""
-"Formül yanlış belirtilmiş (Eşitliği test etmek istiyorsanız, iki eşittir "
-"işareti '==' kullanın)"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
+msgstr "Formül yanlış belirtilmiş (Eşitliği test etmek istiyorsanız, iki eşittir işareti '==' kullanın)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1178,17 +1165,16 @@ msgstr "Eğer"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr ""
-"İfade doğru olarak çözülürse, değeri kullanın, aksi takdirde diğerini "
-"kullanın."
+msgstr "İfade doğru olarak çözülürse, değeri kullanın, aksi takdirde diğerini kullanın."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
 msgstr "Görüntü"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Resim {width} x {height} boyutlarına ayarlandı"
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1323,19 +1309,11 @@ msgid "jamovi files {ext}"
 msgstr "jamovi dosyaları {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
-msgstr ""
-"jamovi artık { Türkçe } dilinde mevcuttur! (Çok teşekkürler { Dr. Hamza "
-"YALÇİN })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgstr "jamovi artık { Türkçe } dilinde mevcuttur! (Çok teşekkürler { Dr. Hamza YALÇİN })"
 
 #: jamovi/client/main/misc/announcements.js:2
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "jamovi artık { Türkçe } dilinde mevcuttur! (@{'ye çok teşekkürler})"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
@@ -1426,8 +1404,9 @@ msgid "Manage installed"
 msgstr "Yüklenenleri yönet"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Maks: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1439,8 +1418,9 @@ msgid "Minimal"
 msgstr "En az"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "Eksik veya uyumsuz modül"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1588,16 +1568,13 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:359
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"Bu veri kümesindeki bir veya daha fazla analiz devre dışı bırakıldı\n"
+msgstr "Bu veri kümesindeki bir veya daha fazla analiz devre dışı bırakıldı\n"
 "                    çünkü keyfi kodun yürütülmesine izin verirler. Sizin\n"
-"                    bunları yalnızca bu veri kümesine güveniyorsanız "
-"etkinleştirmelisiniz\n"
+"                    bunları yalnızca bu veri kümesine güveniyorsanız etkinleştirmelisiniz\n"
 "                    kaynağı."
 
 #: jamovi/client/main/viewcontroller.js:678
@@ -1680,12 +1657,8 @@ msgid "Paragraph"
 msgstr "Paragraf"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
-msgstr ""
-"Bir tarihi ayrıştırır ve 1 Ocak 1970'ten bu yana geçen gün sayısına "
-"dönüştürür."
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgstr "Bir tarihi ayrıştırır ve 1 Ocak 1970'ten bu yana geçen gün sayısına dönüştürür."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1710,16 +1683,18 @@ msgid "Pin level"
 msgstr "Seviyeyi tuttur"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "Lütfen bu modülü jamovi kütüphanesinden <em>yükle veya güncelleyin</em>."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Tabloya yapıştırmak için lütfen ctrl-v kullanın."
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "Grafik"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1734,8 +1709,9 @@ msgid "PNG Image {ext}"
 msgstr "PNG Resmi {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "PowerPoint Sunusu {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1750,8 +1726,9 @@ msgid "Previous variable"
 msgstr "Önceki değişken"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "Proje Farklı Kaydet"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1862,14 +1839,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "Değişkenin Box Cox dönüşümünü döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
-"IQR'ye göre değişkenin bir aykırı değer olup olmadığını döndürür: Değer bir "
-"Boxplot kutusunun içindeyse 0 döndürülür, 1,5'ten büyük mutlak değerler "
-"bıyıkların dışındadır."
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "IQR'ye göre değişkenin bir aykırı değer olup olmadığını döndürür: Değer bir Boxplot kutusunun içindeyse 0 döndürülür, 1,5'ten büyük mutlak değerler bıyıkların dışındadır."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1977,24 +1948,16 @@ msgid "Returns the variance of a variable."
 msgstr "Bir değişkenin varyansını döndürür."
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
-"Önceden seçilen analize geri döner ve seçenekler panelini açar, odak "
-"seçenekler panelinde ayarlanır."
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "Önceden seçilen analize geri döner ve seçenekler panelini açar, odak seçenekler panelinde ayarlanır."
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
 msgstr "Önceden seçilen analize geri döner ve odağı sonuç çıktısına kaydırır."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
 msgstr "Önceden seçilen analize geri döner ve odağı sonuç çıktısına kaydırır."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
@@ -2181,12 +2144,8 @@ msgid "Special Import"
 msgstr "Özel İçeri Aktarım"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
-msgstr ""
-"Metni bir ayırıcıya göre parçalara böler. <i>piece</i> istenen parçayı "
-"dizine göre belirtir."
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
+msgstr "Metni bir ayırıcıya göre parçalara böler. <i>piece</i> istenen parçayı dizine göre belirtir."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2251,12 +2210,8 @@ msgid "Table"
 msgstr "Tablo"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
-"1Ocak 1970'ten bu yana geçen gün sayısını temsil eden bir sayı alır ve "
-"biçimlendirilmiş bir tarih üretir."
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "1Ocak 1970'ten bu yana geçen gün sayısını temsil eden bir sayı alır ve biçimlendirilmiş bir tarih üretir."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2273,25 +2228,16 @@ msgid "The content has been copied to the clipboard"
 msgstr "İçerik panoya kopyalandı"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
-msgstr ""
-"İçerik hazırlandı ve aşağıdaki düğmeyle veya klavyenizdeki <em>{k}+C</em> "
-"tuşlarına basılarak kopyalanabilir"
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
+msgstr "İçerik hazırlandı ve aşağıdaki düğmeyle veya klavyenizdeki <em>{k}+C</em> tuşlarına basılarak kopyalanabilir"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
 msgstr "Bu dönüşümün uygulandığı değişkenin geçerli değeri."
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
-msgstr ""
-"Veriler {} değişkenine göre ağırlıklandırılır, ancak bu analiz tam sayı "
-"olmayan ağırlıkları desteklemez. Ağırlıklar en yakın tam sayıya "
-"yuvarlanmıştır."
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
+msgstr "Veriler {} değişkenine göre ağırlıklandırılır, ancak bu analiz tam sayı olmayan ağırlıkları desteklemez. Ağırlıklar en yakın tam sayıya yuvarlanmıştır."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2299,12 +2245,8 @@ msgid "The data is weighted by the variable {}."
 msgstr "Veriler {} değişkeniyle ağırlıklandırılır."
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
-msgstr ""
-"Veriler ağırlıklandırılmıştır, ancak bu analiz ağırlıkları "
-"desteklememektedir. Bu analizde veriler ağırlıklandırılmadan kullanılmıştır."
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
+msgstr "Veriler ağırlıklandırılmıştır, ancak bu analiz ağırlıkları desteklememektedir. Bu analizde veriler ağırlıklandırılmadan kullanılmıştır."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2400,10 +2342,9 @@ msgid "This is a data variable."
 msgstr "Bu bir veri değişkenidir."
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "Bu modül <em>eksik veya bu jamovi sürümüyle uyumsuz</em>."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2591,8 +2532,9 @@ msgid "Unrecognised file format"
 msgstr "Tanınmayan dosya biçimi"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "Adsız"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
@@ -2699,12 +2641,8 @@ msgid "when"
 msgstr "ne zaman"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
-msgstr ""
-"Değişken eksik bir değer içerdiğinde, değeri kullanın, aksi takdirde else'i "
-"kullanın."
+msgid "When the variable contains a missing value, use the value, otherwise the else."
+msgstr "Değişken eksik bir değer içerdiğinde, değeri kullanın, aksi takdirde else'i kullanın."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2720,17 +2658,11 @@ msgstr "Filtrelenen satırlar gizliyken satır ekleyemezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr ""
-"Filtrelenen satırlar gizliyken, filtreleri etkileyen sütunları "
-"değiştiremezsiniz"
+msgstr "Filtrelenen satırlar gizliyken, filtreleri etkileyen sütunları değiştiremezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
-msgstr ""
-"Filtrelenen satırlar gizliyken, filtreleri etkileyen dönüşümleri "
-"değiştiremezsiniz"
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgstr "Filtrelenen satırlar gizliyken, filtreleri etkileyen dönüşümleri değiştiremezsiniz"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"

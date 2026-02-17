@@ -1,9 +1,8 @@
+#
 msgid ""
-msgstr ""
-"PO-Revision-Date: 2024-10-14 08:15+0000\n"
+msgstr "PO-Revision-Date: 2024-10-14 08:15+0000\n"
 "Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
-"Language-Team: Chinese (Traditional Han script) "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hant/>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh-tw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -16,11 +15,9 @@ msgid "'{}' is in error"
 msgstr "“{}” 出錯"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid ""
-"'{}' is not an argument for {}()\n"
+msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr ""
-"'{}' 不是 {}() 的參數\n"
+msgstr "'{}' 不是 {}() 的參數\n"
 "（如果你想測試相等性，使用雙等號 '=='）"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -36,12 +33,14 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(此為Safari和iPad的異常狀況)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
+#, fuzzy
 msgid "{} Options:"
-msgstr ""
+msgstr "{} 选项、"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
+#, fuzzy
 msgid "{0} directory contents"
-msgstr ""
+msgstr "{0} 目录内容"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -50,22 +49,25 @@ msgstr "{columnType} 欄位可能無法編輯。"
 #: jamovi/client/analysisui/formatdef.js:116
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
+#, fuzzy
 msgid "{list} and {lastItem}"
-msgstr ""
+msgstr "{list} 和 {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
+#, fuzzy
 msgid "{list}, {nextItem}"
-msgstr ""
+msgstr "{list}, {nextItem}"
 
 #: jamovi/client/main/store/pagemodules.js:218
 msgid "{m} was uninstalled successfully"
 msgstr "{m}已成功解除安裝"
 
 #: jamovi/client/main/store/pagemodules.js:369
+#, fuzzy
 msgid "{module} was installed successfully"
-msgstr ""
+msgstr "{module} 已安裝成功"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -83,8 +85,9 @@ msgid "{n} sf"
 msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
+#, fuzzy
 msgid "{name} variable"
-msgstr ""
+msgstr "{name} 变量"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -92,28 +95,34 @@ msgstr "{r} 不是整數"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
+#, fuzzy
 msgid "{title} Initial Annotation"
-msgstr ""
+msgstr "{title} 初始注野"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
+#, fuzzy
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr ""
+msgstr "{var} 不允许。 錯誤理源或数据类型。"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
+#, fuzzy
 msgid "{vars} added to {list}."
-msgstr ""
+msgstr "{vars} 带加了到 {list}中"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
+#, fuzzy
 msgid "{vars} items added to {list}."
-msgstr ""
+msgstr "{vars} 项选中加了到 {list}中"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
+#, fuzzy
 msgid "{vars} items removed from {list}."
-msgstr ""
+msgstr "{vars} 项选中被放弃了之于 {list}中"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
+#, fuzzy
 msgid "{vars} removed from {list}."
-msgstr ""
+msgstr "{vars} 被禁用自 {list}。"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
@@ -128,9 +137,7 @@ msgid "Accent"
 msgstr "強調色"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"Access is denied. You may not have the appropriate permissions to access "
-"this resource."
+msgid "Access is denied. You may not have the appropriate permissions to access this resource."
 msgstr "拒絕存取。你可能沒有存取該資源的必要權限。"
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
@@ -146,8 +153,9 @@ msgid "Add"
 msgstr "新增"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
+#, fuzzy
 msgid "Add {1} items to {0}"
-msgstr ""
+msgstr "添加 {1} 项目 到 {0}中"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -155,12 +163,14 @@ msgid "Add another nested filter"
 msgstr "新增另一子篩選條件"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
+#, fuzzy
 msgid "Add item {1} to {0}"
-msgstr ""
+msgstr "添加项目 {1} 到 {0}中"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
+#, fuzzy
 msgid "Add items to {0}"
-msgstr ""
+msgstr "添加项目 到 {0}中"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -175,12 +185,14 @@ msgid "Add new level"
 msgstr "新增新的階層"
 
 #: jamovi/client/main/ribbon/datatab.js:70
+#, fuzzy
 msgid "Add new rows"
-msgstr ""
+msgstr "添加新行"
 
 #: jamovi/client/main/ribbon/datatab.js:43
+#, fuzzy
 msgid "Add new variable"
-msgstr ""
+msgstr "添加新变量"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -218,8 +230,9 @@ msgid "An unexpected error has occured, and jamovi must now close."
 msgstr "發生未預期的錯誤，Jamovi需立即關閉。"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "An unexpected error occurred"
-msgstr ""
+msgstr "一个不识丨的读出发生"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -236,41 +249,48 @@ msgstr "分析"
 
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
+#, fuzzy
 msgid "Analysis Heading - {title}"
-msgstr ""
+msgstr "分析头部 - {title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "和"
 
 #: jamovi/client/resultsview/annotation.js:168
+#, fuzzy
 msgid "Annotation"
-msgstr ""
+msgstr "注野"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
+#, fuzzy
 msgid "Annotation for group {name}"
-msgstr ""
+msgstr "组 {name} 的注野"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
+#, fuzzy
 msgid "Annotation for image {name}"
-msgstr ""
+msgstr "图片 {name} 的注野"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
+#, fuzzy
 msgid "Annotation for item {name}"
-msgstr ""
+msgstr "組料 {name} 的注野"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
+#, fuzzy
 msgid "Annotation for list {name}"
-msgstr ""
+msgstr "列表 {name} 的注野"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
+#, fuzzy
 msgid "Annotation for table {name}"
-msgstr ""
+msgstr "表格 {name} 注野"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
@@ -332,8 +352,9 @@ msgid "Available"
 msgstr "可用"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
+#, fuzzy
 msgid "Available items"
-msgstr ""
+msgstr "可选项"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -365,8 +386,9 @@ msgid "Cancel"
 msgstr "取消"
 
 #: jamovi/server/jamovi/server/instance.py
+#, fuzzy
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr ""
+msgstr "无法将非整型值起供给列片 '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
@@ -422,16 +444,19 @@ msgid "Close"
 msgstr "關閉"
 
 #: jamovi/client/main/backstage.ts:1305
+#, fuzzy
 msgid "Close file menu"
-msgstr ""
+msgstr "关闭文件菜单"
 
 #: jamovi/client/main/main.ts:311
+#, fuzzy
 msgid "Close jamovi window"
-msgstr ""
+msgstr "关闭 jamovi 窗口"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
+#, fuzzy
 msgid "Close preferences"
-msgstr ""
+msgstr "关闭效果"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -447,6 +472,7 @@ msgid "Column '{}' does not exist in the dataset"
 msgstr "資料集中無'{}'欄位"
 
 #: jamovi/client/main/viewcontroller.js:294
+#, fuzzy
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
 msgstr[0] ""
@@ -457,8 +483,9 @@ msgid "Column is not editable"
 msgstr "欄位無法編輯"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Comma"
-msgstr ""
+msgstr "表和"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -549,8 +576,9 @@ msgstr "複製"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
+#, fuzzy
 msgid "Copy Latex"
-msgstr ""
+msgstr "复制 Latex"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -582,8 +610,9 @@ msgid "Could not perform operation"
 msgstr "無法執行操作"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
+#, fuzzy
 msgid "Counts the number of non-missing values"
-msgstr ""
+msgstr "计数不空值的数量"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -643,8 +672,9 @@ msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] "資料變數 ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
+#, fuzzy
 msgid "Data weights"
-msgstr ""
+msgstr "数据权重"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -656,8 +686,9 @@ msgid "decimal places"
 msgstr "小數位數"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
+#, fuzzy
 msgid "Decimal symbol"
-msgstr ""
+msgstr "整数味符"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -698,16 +729,19 @@ msgid "Delete Rows"
 msgstr "刪除資料列"
 
 #: jamovi/client/main/ribbon/datatab.js:74
+#, fuzzy
 msgid "Delete selected rows"
-msgstr ""
+msgstr "删除选择行"
 
 #: jamovi/client/main/ribbon/datatab.js:63
+#, fuzzy
 msgid "Delete selected variables"
-msgstr ""
+msgstr "删除选择变量"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
+#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr ""
+msgstr "删除轉控 {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -731,13 +765,8 @@ msgid "Desktop"
 msgstr "桌面"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-msgid ""
-"Determines if any of the items appear in in1, in2, in3, .... Note that most "
-"of these arguments are optional -- it is possible to simply use "
-"<b>CONTAINS(needle, haystack)</b>."
-msgstr ""
-"判斷是否有任何項目(item)出現在in1, in2, in3, .... 值得注意的是大多前述參數是非強制須指定的 -- "
-"可以僅使用<b>CONTAINS(needle, haystack)</b>即可。"
+msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgstr "判斷是否有任何項目(item)出現在in1, in2, in3, .... 值得注意的是大多前述參數是非強制須指定的 -- 可以僅使用<b>CONTAINS(needle, haystack)</b>即可。"
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -757,8 +786,9 @@ msgid "Don't Save"
 msgstr "不要儲存"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
+#, fuzzy
 msgid "Dot"
-msgstr ""
+msgstr "点"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -772,9 +802,7 @@ msgid "Downloads"
 msgstr "下載"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid ""
-"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
-"20), i.e. SAMPLE('training', 20, 'test')"
+msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
 msgstr "從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
@@ -798,8 +826,9 @@ msgid "Duplicate"
 msgstr "複製"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
+#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr ""
+msgstr "填换化编发 - {transformName}"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -813,12 +842,14 @@ msgid "Edit"
 msgstr "編輯"
 
 #: jamovi/client/main/tableview.js:104
+#, fuzzy
 msgid "Edit filters"
-msgstr ""
+msgstr "编辑滤足器"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
+#, fuzzy
 msgid "Edit transform - {transformName}"
-msgstr ""
+msgstr "编辑化编发 - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -943,8 +974,9 @@ msgid "File is corrupt (manifest is corrupt)"
 msgstr "檔案已損毀 (資訊清單檔案損毀)"
 
 #: jamovi/client/main/ribbon.js:174
+#, fuzzy
 msgid "File menu"
-msgstr ""
+msgstr "文件菜单"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -955,8 +987,9 @@ msgid "File Saved"
 msgstr "檔案已儲存"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
+#, fuzzy
 msgid "File type"
-msgstr ""
+msgstr "文件类型"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1005,20 +1038,24 @@ msgid "Filters may not reference output variables"
 msgstr "篩選條件可能無法參照輸出變項"
 
 #: jamovi/client/analysisui/main.ts:333
+#, fuzzy
 msgid "Find module in jamovi library"
-msgstr ""
+msgstr "找当前模块在 jamovi 照片中"
 
 #: jamovi/client/main/main.ts:243
+#, fuzzy
 msgid "Focus on spreadsheet"
-msgstr ""
+msgstr "移动到表板"
 
 #: jamovi/client/main/main.ts:262
+#, fuzzy
 msgid "Focus on the variable setup"
-msgstr ""
+msgstr "無出变量設定"
 
 #: jamovi/client/main/main.ts:248
+#, fuzzy
 msgid "Focus on variable list"
-msgstr ""
+msgstr "無出变量列表"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1034,9 +1071,7 @@ msgid "Formula contains illegal node"
 msgstr "公式包含不允許的節點(node)"
 
 #: jamovi/server/jamovi/server/compute/parser.py
-msgid ""
-"Formula is mis-specified (If you're wanting to test equality, use two equals "
-"signs '==')"
+msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
 msgstr "公式指定錯誤(如果想要判斷是否相等，請使用雙等號'==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
@@ -1113,8 +1148,9 @@ msgid "Hide"
 msgstr "隱藏"
 
 #: jamovi/client/main/main.ts:238
+#, fuzzy
 msgid "Hide analysis options"
-msgstr ""
+msgstr "隐藏分析选项"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1125,16 +1161,18 @@ msgid "Hide library"
 msgstr "隱藏套件庫"
 
 #: jamovi/client/main/store/pagemodules.js:271
+#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr ""
+msgstr "隐藏模块 {moduleName} 之于分析带板"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
 msgstr "隱藏選項"
 
 #: jamovi/client/main/variableeditor.js:52
+#, fuzzy
 msgid "Hide variable setup"
-msgstr ""
+msgstr "隐藏变量记置"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1177,8 +1215,9 @@ msgid "Image"
 msgstr "影像"
 
 #: jamovi/client/resultsview/image.ts:233
+#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr ""
+msgstr "Image resized to {width} by {height}"
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1236,12 +1275,14 @@ msgid "Insert how many rows?"
 msgstr "插入多少資料列?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
+#, fuzzy
 msgid "Insert new computed variable"
-msgstr ""
+msgstr "添加新计算变量"
 
 #: jamovi/client/main/ribbon/datatab.js:40
+#, fuzzy
 msgid "Insert new transformed variable"
-msgstr ""
+msgstr "添加新转化变量"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1253,8 +1294,9 @@ msgid "Install"
 msgstr "安裝"
 
 #: jamovi/client/main/store/pagemodules.js:240
+#, fuzzy
 msgid "Install module {moduleName} version {version}"
-msgstr ""
+msgstr "安裝模块 {moduleName} 版本 {version}"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1270,8 +1312,9 @@ msgid "Installed version needs to be updated"
 msgstr "已安裝的版本需要更新"
 
 #: jamovi/client/main/store/pagemodules.js:364
+#, fuzzy
 msgid "Installing {module}"
-msgstr ""
+msgstr "模块 {module} 安裝中"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1313,17 +1356,11 @@ msgid "jamovi files {ext}"
 msgstr "jamovi檔案{ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"{ insert your name here (or put a more generic \"the jamovi translation "
-"team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "Jamovi目前已有正體中文版！(非常感謝{蔡幸祖})"
 
 #: jamovi/client/main/misc/announcements.js:2
-msgid ""
-"jamovi is now available in { insert translation language }! (Many thanks to "
-"@{ insert your twitter handle here (or put a more generic \"the jamovi "
-"translation team\", if you don't want credit) })"
+msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
 msgstr "Jamovi目前已有正體中文版！(非常感謝@{蔡幸祖(gregtsai)})"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
@@ -1398,8 +1435,9 @@ msgid "Levels"
 msgstr "水準"
 
 #: jamovi/client/main/store/pagemodules.js:98
+#, fuzzy
 msgid "Library error"
-msgstr ""
+msgstr "库审证出现效影"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1414,8 +1452,9 @@ msgid "Manage installed"
 msgstr "管理已安裝"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
+#, fuzzy
 msgid "Max: {count}"
-msgstr ""
+msgstr "Max: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1427,8 +1466,9 @@ msgid "Minimal"
 msgstr "極簡"
 
 #: jamovi/client/main/optionspanel.ts:175
+#, fuzzy
 msgid "Missing or incompatible module"
-msgstr ""
+msgstr "缺存或者不关正模块"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1439,8 +1479,9 @@ msgid "Missing Values"
 msgstr "缺失值"
 
 #: jamovi/client/main/store/pagemodules.js:244
+#, fuzzy
 msgid "Module {moduleName} is installed"
-msgstr ""
+msgstr "模块 {moduleName} 已安裝"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1463,12 +1504,14 @@ msgid "More info ..."
 msgstr "更多資訊..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
+#, fuzzy
 msgid "Move back directory"
-msgstr ""
+msgstr "远回目录"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
+#, fuzzy
 msgid "Move back from directory {0}"
-msgstr ""
+msgstr "远回目录 {0}"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1482,8 +1525,9 @@ msgstr "新增"
 #: jamovi/client/main/tableview.js:2479
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
+#, fuzzy
 msgid "New column {0}"
-msgstr ""
+msgstr "新序列 {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1576,24 +1620,24 @@ msgid "One Drive"
 msgstr "OneDrive"
 
 #: jamovi/client/main/main.js:365
-msgid ""
-"One or more analyses in this data set have been disabled\n"
+msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr ""
-"在此資料集中至少一個分析已被停用\n"
+msgstr "在此資料集中至少一個分析已被停用\n"
 "                    因為他們允許執行任意程式碼。您\n"
 "                    只應在信任此資料來源時才\n"
 "                    啟用。"
 
 #: jamovi/client/main/viewcontroller.js:678
+#, fuzzy
 msgid "One row appended."
 msgid_plural "{n} rows appended."
 msgstr[0] ""
 msgstr[1] ""
 
 #: jamovi/client/main/viewcontroller.js:641
+#, fuzzy
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
 msgstr[0] ""
@@ -1609,24 +1653,28 @@ msgid "Open"
 msgstr "開啟"
 
 #: jamovi/client/main/main.ts:266
+#, fuzzy
 msgid "Open application menu"
-msgstr ""
+msgstr "打开应用界面菜单"
 
 #: jamovi/client/main/main.ts:234
+#, fuzzy
 msgid "Open data file"
-msgstr ""
+msgstr "打开数据文件"
 
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
 msgstr "開放文件檔(LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
+#, fuzzy
 msgid "Open the jamovi module library"
-msgstr ""
+msgstr "打开 jamovi 模块照片"
 
 #: jamovi/client/main/main.ts:253
+#, fuzzy
 msgid "Open the main menu"
-msgstr ""
+msgstr "打开主界面"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
@@ -1666,10 +1714,9 @@ msgid "Paragraph"
 msgstr "段落"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-msgid ""
-"Parses a date, and converts it to the number of days since the 1st of "
-"January, 1970."
-msgstr ""
+#, fuzzy
+msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgstr "解析日期、各个计为 1970 年 1 月 1 日们日的天数。"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1694,16 +1741,18 @@ msgid "Pin level"
 msgstr "釘選水準"
 
 #: jamovi/client/analysisui/main.ts:331
+#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr ""
+msgstr "請选出此模块自 jamovi 库审中安裝或更新"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "請使用ctrl-v來貼至試算表。"
 
 #: jamovi/client/resultsview/main.ts:221
+#, fuzzy
 msgid "Plot"
-msgstr ""
+msgstr "图像"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1718,24 +1767,27 @@ msgid "PNG Image {ext}"
 msgstr "PNG檔 {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
+#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr ""
+msgstr "PowerPoint Slide {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "偏好"
 
 #: jamovi/client/resultsview/annotation.js:79
+#, fuzzy
 msgid "Press enter to edit"
-msgstr ""
+msgstr "按下入输编辑"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "前一個變數"
 
 #: jamovi/client/main/main.ts:274
+#, fuzzy
 msgid "Project Save As"
-msgstr ""
+msgstr "项目保存为"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1799,28 +1851,33 @@ msgid "Remove"
 msgstr "移除"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
+#, fuzzy
 msgid "Remove {1} from {0}"
-msgstr ""
+msgstr "放弃 {1} 之于 {0}中"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
+#, fuzzy
 msgid "Remove {1} items from {0}"
-msgstr ""
+msgstr "放弃 {1} 项目 之于 {0}中"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
 msgstr "移除篩選"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
+#, fuzzy
 msgid "Remove items from {0}"
-msgstr ""
+msgstr "放弃于 {0}中的项目"
 
 #: jamovi/client/main/store/pagemodules.js:234
+#, fuzzy
 msgid "Remove module {moduleName}"
-msgstr ""
+msgstr "删除模块 {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
+#, fuzzy
 msgid "Remove nested filter"
-msgstr ""
+msgstr "删除循应滤表"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
@@ -1846,13 +1903,8 @@ msgid "Returns a Box Cox transformation of the variable."
 msgstr "傳回變數的Box Cox轉換值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
-msgid ""
-"Returns a whether the variable is an outlier according to the IQR: If the "
-"value is within the box of a Boxplot 0 is returned, absolute values larger "
-"than 1.5 are outside the whiskers."
-msgstr ""
-"依據四分位差(IQR)來判斷變數(variable)是否為離群值: "
-"若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1.5則落在箱型圖的鬚(whiskers)外為離群值。"
+msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
+msgstr "依據四分位差(IQR)來判斷變數(variable)是否為離群值: 若數值落在箱型圖的盒內(界在第1和第3四分位間)則回傳0，回傳值的絕對值大於1.5則落在箱型圖的鬚(whiskers)外為離群值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1960,23 +2012,20 @@ msgid "Returns the variance of a variable."
 msgstr "傳回整欄資料變數(variable)的變異數，支援以其他分組變數做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/main.ts:286
-msgid ""
-"Returns to the previously selected analysis and opens the options panel, "
-"with focus set in the options panel."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
+msgstr "返回上次选择的分析和打开选项单核，移动到选项单核"
 
 #: jamovi/client/main/main.ts:302
-msgid ""
-"Returns to the previously selected analysis and shifts focus into the "
-"results output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus into the results output."
+msgstr "远回上次选择的分析和移动到结果输出中"
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-msgid ""
-"Returns to the previously selected analysis and shifts focus to the results "
-"output."
-msgstr ""
+#, fuzzy
+msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgstr "返回上次选择的分析和与移动到结果输出"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -1995,6 +2044,7 @@ msgid "Rounds each value to the integer below"
 msgstr "無條件捨棄至整數"
 
 #: jamovi/client/main/viewcontroller.js:345
+#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
 msgstr[0] ""
@@ -2048,8 +2098,9 @@ msgid "Save failed"
 msgstr "儲存失敗"
 
 #: jamovi/client/main/main.ts:233
+#, fuzzy
 msgid "Save project"
-msgstr ""
+msgstr "保存项目"
 
 #: jamovi/client/main/instance.js:475
 msgid "Saved to '{filename}'"
@@ -2069,24 +2120,28 @@ msgid "Search"
 msgstr "搜尋"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search available modules"
-msgstr ""
+msgstr "搜索可用模块"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
 msgstr "搜索檔"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
+#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr ""
+msgstr "在目录 {0} 中搜索文件"
 
 #: jamovi/client/main/store/pagemodules.js:42
+#, fuzzy
 msgid "Search installed modules"
-msgstr ""
+msgstr "搜索安裝模块"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
+#, fuzzy
 msgid "Search list items"
-msgstr ""
+msgstr "搜索列表项目"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2137,8 +2192,9 @@ msgid "Show in main menu"
 msgstr "在主選單中顯示"
 
 #: jamovi/client/main/store/pagemodules.js:265
+#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr ""
+msgstr "在分析带中显示模块 {moduleName}"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
@@ -2162,9 +2218,7 @@ msgid "Special Import"
 msgstr "特殊匯入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
-msgid ""
-"Splits text into pieces based on a separator. <i>piece</i> specifies the "
-"desired piece by index."
+msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
 msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
 
 #: jamovi/client/main/tableview.js:62
@@ -2230,10 +2284,9 @@ msgid "Table"
 msgstr "表格"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-msgid ""
-"Takes a number representing the number of days since the 1st of January "
-"1970, and produces a formatted date."
-msgstr ""
+#, fuzzy
+msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
+msgstr "计为 1970 年 1 月 1 日们日的天数、上涡为格式化日期。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
@@ -2250,9 +2303,7 @@ msgid "The content has been copied to the clipboard"
 msgstr "內容已複製到剪貼簿"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
-msgid ""
-"The content has been prepared, and can be copied with the button below, or "
-"by pressing <em>{k}+C</em> on your keyboard"
+msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
 msgstr "內容已準備完畢，可用下方按鈕複製，或使用鍵盤的 <em>{k}+C</em>按鍵組合"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
@@ -2260,9 +2311,7 @@ msgid "The current value of the variable to which this transform is applied."
 msgstr "轉換要套用的當前變數值。"
 
 #: jamovi/client/main/strings.ts:6
-msgid ""
-"The data is weighted by the variable {}, however this analysis does not "
-"support non-integer weights. The weights were rounded to the nearest integer."
+msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
 msgstr "數據由變數 {} 加權，但此分析不支援非整數權重。權重四捨五入到最接近的整數。"
 
 #: jamovi/client/main/strings.ts:7
@@ -2271,9 +2320,7 @@ msgid "The data is weighted by the variable {}."
 msgstr "數據由變數 {} 加權。"
 
 #: jamovi/client/main/strings.ts:5
-msgid ""
-"The data is weighted, however this analysis does not support weights. This "
-"analysis used the data unweighted."
+msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
 msgstr "數據已加權，但此分析不支援權重。該分析使用了未加權的數據。"
 
 #: jamovi/client/main/instance.js:489
@@ -2289,12 +2336,14 @@ msgid "The index of value in the provided values."
 msgstr "比對值(value)在搜尋範圍(value 1, value 2, ...)中的索引值。"
 
 #: jamovi/client/resultsview/table.js:754
+#, fuzzy
 msgid "The interaction of {0} and {1}"
-msgstr ""
+msgstr "{0} 和 {1} 中的三个些中一个"
 
 #: jamovi/client/analysisui/formatdef.js:272
+#, fuzzy
 msgid "The interaction of {list}"
-msgstr ""
+msgstr "{list} 中的三个些中一个的三个些"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
@@ -2317,24 +2366,29 @@ msgid "The module for this analysis is not installed, or is unavailable"
 msgstr "此分析所需的模組未被安裝，或無法使用"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server could not be reached"
-msgstr ""
+msgstr "远端服务器无法连续"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server rejected the request"
-msgstr ""
+msgstr "远端服务器拒绝请求"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server reported an error"
-msgstr ""
+msgstr "远端服务器报出了一个读出"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr ""
+msgstr "远端源客房发送了不识别的回答"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr ""
+msgstr "资源不存在或者改动了 (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -2353,8 +2407,9 @@ msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr "此分析已中止執行，可能因超過可用的資源限制。"
 
 #: jamovi/client/main/main.ts:912
+#, fuzzy
 msgid "This data set could not be opened"
-msgstr ""
+msgstr "此个数据集不能打开"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2370,10 +2425,9 @@ msgid "This is a data variable."
 msgstr "此為資料變數。"
 
 #: jamovi/client/analysisui/main.ts:330
-msgid ""
-"This module is either <em>missing or incompatible</em> with this version of "
-"jamovi."
-msgstr ""
+#, fuzzy
+msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr "此模块是成为「不存在或不关注」之于此版本的 jamovi"
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -2410,16 +2464,19 @@ msgid "This transform is in error and should be edited."
 msgstr "此資料轉換有誤需要修正。"
 
 #: jamovi/client/main/tableview.js:105
+#, fuzzy
 msgid "Toggle filters visibility"
-msgstr ""
+msgstr "换换滤足器视艘"
 
 #: jamovi/client/main/ribbon.js:199
+#, fuzzy
 msgid "Toggle screen state"
-msgstr ""
+msgstr "换換屏幕状态"
 
 #: jamovi/client/main/main.ts:256
+#, fuzzy
 msgid "Toggle variable setup"
-msgstr ""
+msgstr "换换变量记置"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2489,8 +2546,9 @@ msgid "Unable to import {}"
 msgstr "無法匯入{}"
 
 #: jamovi/client/main/store/pagemodules.js:376
+#, fuzzy
 msgid "Unable to install {module}"
-msgstr ""
+msgstr "无法安裝 {module}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2561,8 +2619,9 @@ msgid "Unrecognised file format"
 msgstr "無法辨識的檔案格式"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
+#, fuzzy
 msgid "Untitled"
-msgstr ""
+msgstr "未命名"
 
 #: jamovi/client/main/ribbon/appmenu.js:133
 #: jamovi/client/main/store/pagemodules.js:127
@@ -2570,8 +2629,9 @@ msgid "Update"
 msgstr "更新"
 
 #: jamovi/client/main/store/pagemodules.js:253
+#, fuzzy
 msgid "Update module {moduleName} to version {version}"
-msgstr ""
+msgstr "更新模块 {moduleName} 自版本 {version}"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
@@ -2601,20 +2661,24 @@ msgid "Value is too large for column '{}' of type integer"
 msgstr "數值對於整數類型的資料欄'{}'太大"
 
 #: jamovi/client/analysisui/formatdef.js:107
+#, fuzzy
 msgid "Variable {0}"
-msgstr ""
+msgstr "变量 {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
+#, fuzzy
 msgid "Variable Description"
-msgstr ""
+msgstr "变量描述"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
+#, fuzzy
 msgid "Variable Name"
-msgstr ""
+msgstr "变量名稱"
 
 #: jamovi/client/main/ribbon/datatab.js:38
+#, fuzzy
 msgid "Variable setup"
-msgstr ""
+msgstr "变量設定"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
@@ -2633,16 +2697,19 @@ msgid "Variables"
 msgstr "變項"
 
 #: jamovi/client/analysisui/formatdef.js:117
+#, fuzzy
 msgid "Variables {list}"
-msgstr ""
+msgstr "变量 {list}"
 
 #: jamovi/client/main/variablesview.js:41
+#, fuzzy
 msgid "Variables List View"
-msgstr ""
+msgstr "变量列表视图"
 
 #: jamovi/client/main/variablesview.js:111
+#, fuzzy
 msgid "Variables View"
-msgstr ""
+msgstr "变量视图"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
@@ -2670,9 +2737,7 @@ msgid "when"
 msgstr "當"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
-msgid ""
-"When the variable contains a missing value, use the value, otherwise the "
-"else."
+msgid "When the variable contains a missing value, use the value, otherwise the else."
 msgstr "當資料變數(variable)包含缺漏值時，使用(value)值，否則使用(else)值。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
@@ -2692,14 +2757,13 @@ msgid "You cannot modify columns that affect filters when filtered rows are hidd
 msgstr "您無法在篩選資料列被隱藏時變更會影響篩選的資料欄位"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid ""
-"You cannot modify transforms that affect filters when filtered rows are "
-"hidden"
+msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
 msgstr "您無法在篩選資料列被隱藏時變更會影響篩選的資料轉換"
 
 #: jamovi/server/jamovi/server/syncs/http.py
+#, fuzzy
 msgid "You do not have appropriate permissions (403)"
-msgstr ""
+msgstr "你不能收到适应权限 (403)"
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
