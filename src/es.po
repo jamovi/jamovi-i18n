@@ -1,16 +1,18 @@
 #
 msgid ""
-msgstr "Project-Id-Version: Jamovi\n"
+msgstr ""
+"Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2025-08-26 11:02+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
-"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/es/>\n"
+"PO-Revision-Date: 2026-02-17 12:09+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/es/>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.13\n"
+"X-Generator: Weblate 5.16\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -419,7 +421,6 @@ msgid "Close"
 msgstr "Cerrar"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
 msgstr "Cerrar menú de archivo"
 
@@ -455,7 +456,6 @@ msgid "Column is not editable"
 msgstr "La columna no es editable"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Coma"
 
@@ -549,9 +549,8 @@ msgstr "Copiar"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "Copiar Latex"
+msgstr "Copiar LaTeX"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -658,7 +657,6 @@ msgid "decimal places"
 msgstr "cifras decimales"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
 msgstr "Símbolo decimal"
 
