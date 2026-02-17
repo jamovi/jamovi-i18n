@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-02-17 14:09+0000\n"
+"PO-Revision-Date: 2026-02-17 15:09+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -127,7 +127,7 @@ msgstr "Se requiere una versión más reciente de jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Accent"
-msgstr "Énfasis"
+msgstr "Acento"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
@@ -320,7 +320,7 @@ msgstr "Se requiere autenticación"
 #: jamovi/client/main/editors/transformeditor.js:225
 #: jamovi/client/main/vareditor/measurelist.js:44
 msgid "Auto"
-msgstr "Auto"
+msgstr "Automático"
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Automatic"
@@ -344,7 +344,7 @@ msgstr "Blanco y negro"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Blues"
-msgstr "Blues"
+msgstr "Azules"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
