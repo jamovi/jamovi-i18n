@@ -1,14 +1,16 @@
 #
 msgid ""
-msgstr "PO-Revision-Date: 2025-11-17 10:51+0000\n"
+msgstr ""
+"PO-Revision-Date: 2026-02-19 06:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
-"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -33,9 +35,8 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "（これはSafariとiPadに特異な現象です）"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
-msgstr "{} Options:"
+msgstr "{} オプション:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -416,9 +417,8 @@ msgid "Close"
 msgstr "閉じる"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
-msgstr "Close file menu"
+msgstr "ファイルメニューを閉じる"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -452,9 +452,8 @@ msgid "Column is not editable"
 msgstr "列の編集不可"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
-msgstr "Comma"
+msgstr "コンマ"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -546,9 +545,8 @@ msgstr "コピー"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "Copy Latex"
+msgstr "LaTexでコピー"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -655,9 +653,8 @@ msgid "decimal places"
 msgstr "小数位"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
-msgstr "10"
+msgstr "小数点記号"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Default"
@@ -755,9 +752,8 @@ msgid "Don't Save"
 msgstr "保存しない"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
-msgstr "Dot"
+msgstr "ピリオド"
 
 #: jamovi/client/main/backstage.js:1120
 #: jamovi/client/main/backstage.js:1222
@@ -1002,9 +998,8 @@ msgid "Filters may not reference output variables"
 msgstr "フィルタでは結果変数の参照はできません"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
-msgstr "Find module in jamovi library"
+msgstr "jamoviライブラリでモジュールを検索"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1173,9 +1168,8 @@ msgid "Image"
 msgstr "画像"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Image resized to {width} by {height}"
+msgstr "画像サイズを {width} × {height} に変更しました"
 
 #: jamovi/client/main/backstage.js:1277
 #: jamovi/client/main/backstage.js:278
@@ -1406,9 +1400,8 @@ msgid "Manage installed"
 msgstr "モジュール管理"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
-msgstr "Max: {count}"
+msgstr "最大: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1420,9 +1413,8 @@ msgid "Minimal"
 msgstr "ミニマル"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
-msgstr "Module"
+msgstr "モジュールがない、または互換性のないモジュールです"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1684,18 +1676,18 @@ msgid "Pin level"
 msgstr "水準をピン留め"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Please <em>install or update</em> this module from the jamovi library."
+msgstr ""
+"jamoviライブラリでこのモジュールを <em>インストールまたは更新</em> してくださ"
+"い。"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "スプレッドシートへの貼り付けにはctrl-vを使用してください。"
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "Plot"
+msgstr "グラフ"
 
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
@@ -1710,9 +1702,8 @@ msgid "PNG Image {ext}"
 msgstr "PNG画像 {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr "PowerPoint Slide {ext}"
+msgstr "PowerPointスライド {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1727,9 +1718,8 @@ msgid "Previous variable"
 msgstr "前の変数"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
-msgstr "Project Save As"
+msgstr "プロジェクトを別名で保存"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "qualitative"
@@ -2342,9 +2332,10 @@ msgid "This is a data variable."
 msgstr "これはデータ変数です。"
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgstr ""
+"このモジュールは、現バージョンのjamoviに <em>含まれていない、あるいは互換性が"
+"ありません</em>。"
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2530,9 +2521,8 @@ msgid "Unrecognised file format"
 msgstr "認識できないファイル形式"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
-msgstr "Untitled"
+msgstr "名称未設定"
 
 #: jamovi/client/main/ribbon/appmenu.js:132
 #: jamovi/client/main/store/pagemodules.js:127
