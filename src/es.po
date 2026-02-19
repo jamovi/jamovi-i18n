@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-02-19 18:09+0000\n"
+"PO-Revision-Date: 2026-02-19 19:09+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -1017,6 +1017,7 @@ msgid "Focus on variable list"
 msgstr "Centrarse en el listado de variables"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
+#, fuzzy
 msgid "Font"
 msgstr "Fuente"
 
@@ -1086,7 +1087,7 @@ msgstr "Hadley"
 
 #: jamovi/client/main/ribbon/annotationtab.js:157
 msgid "Heading"
-msgstr "Título"
+msgstr "Encabezado"
 
 #: jamovi/client/resultsview/annotation.js:138
 msgid "Help"
