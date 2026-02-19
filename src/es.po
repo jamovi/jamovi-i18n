@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-02-19 13:09+0000\n"
+"PO-Revision-Date: 2026-02-19 18:09+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -494,7 +494,7 @@ msgstr "Conexión perdida"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "Continua"
+msgstr "Continuo"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -1035,7 +1035,7 @@ msgstr "La fórmula está mal especificada (si desea probar la igualdad, use dos
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr "Recuento"
+msgstr "Frecuencias"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1068,11 +1068,11 @@ msgstr "Mayor qué o igual a"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Greens"
-msgstr "Greens"
+msgstr "Verdes"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Greys"
-msgstr "Greys"
+msgstr "Grises"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1296,7 +1296,7 @@ msgstr "Problema con la fórmula"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Italic"
-msgstr "Cursiva"
+msgstr "Itálica"
 
 #: jamovi/client/main/backstage.js:1005
 #: jamovi/client/main/backstage.js:1016
