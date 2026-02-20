@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-20 09:09+0000\n"
+"PO-Revision-Date: 2026-02-20 10:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ja/>\n"
@@ -1629,7 +1629,7 @@ msgstr "順序箇条書き"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "順序"
+msgstr "順序尺度"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
