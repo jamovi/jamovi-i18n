@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-19 06:09+0000\n"
+"PO-Revision-Date: 2026-02-20 09:09+0000\n"
 "Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ja/>\n"
@@ -1532,7 +1532,7 @@ msgstr "この値以外"
 #: jamovi/client/resultsview/main.js:108
 #: jamovi/client/resultsview/table.js:624
 msgid "Note"
-msgstr "ノート"
+msgstr "注"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
