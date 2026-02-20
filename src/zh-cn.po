@@ -1,16 +1,18 @@
 #
 msgid ""
-msgstr "Project-Id-Version: jamovi-zh-cn\n"
+msgstr ""
+"Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2025-07-12 07:01+0000\n"
-"Last-Translator: \"Alioc.\" <hit.177411245@gmail.com>\n"
-"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hans/>\n"
+"PO-Revision-Date: 2026-02-20 05:09+0000\n"
+"Last-Translator: reducedradius <feixiang512@outlook.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.13-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -455,7 +457,6 @@ msgid "Column is not editable"
 msgstr "列不可编辑"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "逗号"
 
@@ -549,7 +550,6 @@ msgstr "复制"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
 msgstr "复制 Latex"
 
