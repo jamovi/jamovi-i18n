@@ -55,7 +55,7 @@ if (args.build) {
 
     console.log(`Searching ${sourceDir}...`);
 
-    let codes = [ ];
+    let codes = [ 'en' ];
     let codesInDev = [ ];
 
     for (let file of sourcefiles) {
@@ -79,7 +79,7 @@ if (args.build) {
 
         let code = translation.locale_data.messages[""].lang;
         if (code === 'en')
-            codes.unshift('en')
+            continue;
         else if (inDev)
             codesInDev.push(code);
         else
