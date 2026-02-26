@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-02-19 20:09+0000\n"
+"PO-Revision-Date: 2026-02-26 11:09+0000\n"
 "Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -1654,7 +1654,9 @@ msgstr "Párrafo"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
 msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "Analiza una fecha, y la convierte en el número de días desde el 1 de Enero de 1970."
+msgstr ""
+"Analiza una fecha, y la convierte en el número de días desde el 1 de enero "
+"de 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
