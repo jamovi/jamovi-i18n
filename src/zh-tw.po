@@ -1,14 +1,16 @@
 #
 msgid ""
-msgstr "PO-Revision-Date: 2024-10-14 08:15+0000\n"
-"Last-Translator: 蔡幸祖 <142098@mail.fju.edu.tw>\n"
-"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hant/>\n"
+msgstr ""
+"PO-Revision-Date: 2026-02-26 16:09+0000\n"
+"Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh-tw\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.8-dev\n"
+"X-Generator: Weblate 5.16.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -33,14 +35,12 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(此為Safari和iPad的異常狀況)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
-msgstr "{} 选项、"
+msgstr "{} 選項："
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
-#, fuzzy
 msgid "{0} directory contents"
-msgstr "{0} 目录内容"
+msgstr "{0} 目錄內容"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -85,9 +85,8 @@ msgid "{n} sf"
 msgstr "{n} sf"
 
 #: jamovi/client/analysisui/formatdef.js:164
-#, fuzzy
 msgid "{name} variable"
-msgstr "{name} 变量"
+msgstr "{name} 變項"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -95,34 +94,28 @@ msgstr "{r} 不是整數"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
-#, fuzzy
 msgid "{title} Initial Annotation"
-msgstr "{title} 初始注野"
+msgstr "{title} 初始註解"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
-#, fuzzy
 msgid "{var} not permitted. Incorrect measure or data type."
-msgstr "{var} 不允许。 錯誤理源或数据类型。"
+msgstr "{var} 不允許。 測量方式或資料類型不正確。"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:842
-#, fuzzy
 msgid "{vars} added to {list}."
-msgstr "{vars} 带加了到 {list}中"
+msgstr "已將 {vars} 新增至 {list}。"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:844
-#, fuzzy
 msgid "{vars} items added to {list}."
-msgstr "{vars} 项选中加了到 {list}中"
+msgstr "已將 {vars} 項目新增至 {list}。"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:890
-#, fuzzy
 msgid "{vars} items removed from {list}."
-msgstr "{vars} 项选中被放弃了之于 {list}中"
+msgstr "已將 {vars} 項目從 {list} 中移除。"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:888
-#, fuzzy
 msgid "{vars} removed from {list}."
-msgstr "{vars} 被禁用自 {list}。"
+msgstr "已將 {vars} 從 {list} 移除。"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
@@ -153,9 +146,8 @@ msgid "Add"
 msgstr "新增"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:612
-#, fuzzy
 msgid "Add {1} items to {0}"
-msgstr "添加 {1} 项目 到 {0}中"
+msgstr "將 {1} 項目新增至 {0}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:265
 #: jamovi/client/main/vareditor/filterwidget.js:409
@@ -163,14 +155,12 @@ msgid "Add another nested filter"
 msgstr "新增另一子篩選條件"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:610
-#, fuzzy
 msgid "Add item {1} to {0}"
-msgstr "添加项目 {1} 到 {0}中"
+msgstr "將項目 {1} 新增至 {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:608
-#, fuzzy
 msgid "Add items to {0}"
-msgstr "添加项目 到 {0}中"
+msgstr "將項目新增至 {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
@@ -185,14 +175,12 @@ msgid "Add new level"
 msgstr "新增新的階層"
 
 #: jamovi/client/main/ribbon/datatab.js:70
-#, fuzzy
 msgid "Add new rows"
-msgstr "添加新行"
+msgstr "添加新列"
 
 #: jamovi/client/main/ribbon/datatab.js:43
-#, fuzzy
 msgid "Add new variable"
-msgstr "添加新变量"
+msgstr "添加新變項"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
@@ -522,7 +510,7 @@ msgstr "連線中斷"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "連續變項"
+msgstr "連續型"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -638,7 +626,7 @@ msgstr "暗色系2"
 #: jamovi/client/main/dataset.js:1313
 #: jamovi/client/main/ribbon/datatab.js:11
 msgid "Data"
-msgstr "包含資料點"
+msgstr "資料"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
