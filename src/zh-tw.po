@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-26 16:09+0000\n"
+"PO-Revision-Date: 2026-02-26 17:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -218,9 +218,8 @@ msgid "An unexpected error has occured, and jamovi must now close."
 msgstr "發生未預期的錯誤，Jamovi需立即關閉。"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "An unexpected error occurred"
-msgstr "一个不识丨的读出发生"
+msgstr "發生了意外錯誤"
 
 #: jamovi/client/main/ribbon/analysetab.js:11
 #: jamovi/client/main/ribbon/analysetab.js:58
@@ -237,52 +236,45 @@ msgstr "分析"
 
 #: jamovi/client/resultsview/heading.js:164
 #: jamovi/client/resultsview/heading.js:17
-#, fuzzy
 msgid "Analysis Heading - {title}"
-msgstr "分析头部 - {title}"
+msgstr "分析標題－{title}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
 msgid "and"
 msgstr "和"
 
 #: jamovi/client/resultsview/annotation.js:168
-#, fuzzy
 msgid "Annotation"
-msgstr "注野"
+msgstr "註解"
 
 #: jamovi/client/resultsview/array.js:276
 #: jamovi/client/resultsview/group.js:181
-#, fuzzy
 msgid "Annotation for group {name}"
-msgstr "组 {name} 的注野"
+msgstr "群組 {name} 的註解"
 
 #: jamovi/client/resultsview/array.js:280
 #: jamovi/client/resultsview/group.js:185
-#, fuzzy
 msgid "Annotation for image {name}"
-msgstr "图片 {name} 的注野"
+msgstr "圖像 {name} 的註解"
 
 #: jamovi/client/resultsview/array.js:282
 #: jamovi/client/resultsview/group.js:187
-#, fuzzy
 msgid "Annotation for item {name}"
-msgstr "組料 {name} 的注野"
+msgstr "項目 {name} 的註解"
 
 #: jamovi/client/resultsview/array.js:278
 #: jamovi/client/resultsview/group.js:183
-#, fuzzy
 msgid "Annotation for list {name}"
-msgstr "列表 {name} 的注野"
+msgstr "清單 {name} 的註解"
 
 #: jamovi/client/resultsview/array.js:274
 #: jamovi/client/resultsview/group.js:179
-#, fuzzy
 msgid "Annotation for table {name}"
-msgstr "表格 {name} 注野"
+msgstr "表格 {name} 的註解"
 
 #: jamovi/client/main/ribbon/analysetab.js:188
 msgid "ANOVA"
-msgstr "ANOVA"
+msgstr "變異數分析"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:102
 #: jamovi/client/main/contextmenu/contextmenus.js:106
@@ -298,7 +290,7 @@ msgstr "ANOVA"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "追加"
+msgstr "附加"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
@@ -315,7 +307,7 @@ msgstr "套用變更"
 
 #: jamovi/client/main/notification.js:82
 msgid "Approaching plan time limit"
-msgstr "接近方案時間限制"
+msgstr "接近計畫時限"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "Authentication failure"
@@ -340,9 +332,8 @@ msgid "Available"
 msgstr "可用"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:147
-#, fuzzy
 msgid "Available items"
-msgstr "可选项"
+msgstr "可用項目"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Bad function definition"
@@ -374,9 +365,8 @@ msgid "Cancel"
 msgstr "取消"
 
 #: jamovi/server/jamovi/server/instance.py
-#, fuzzy
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr "无法将非整型值起供给列片 '{}'"
+msgstr "無法將非整數值指派給欄位 '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
