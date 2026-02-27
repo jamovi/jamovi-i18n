@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 08:09+0000\n"
+"PO-Revision-Date: 2026-02-27 09:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1943,20 +1943,17 @@ msgid "Returns the variance of a variable."
 msgstr "傳回整欄資料變項的變異數，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/main.ts:286
-#, fuzzy
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "返回上次选择的分析和打开选项单核，移动到选项单核"
+msgstr "返回先前選取的分析，並開啟聚焦於選項面板的選項面板。"
 
 #: jamovi/client/main/main.ts:302
-#, fuzzy
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "远回上次选择的分析和移动到结果输出中"
+msgstr "返回先前選取的分析，並將焦點移至結果輸出。"
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-#, fuzzy
 msgid "Returns to the previously selected analysis and shifts focus to the results output."
-msgstr "返回上次选择的分析和与移动到结果输出"
+msgstr "返回先前選取的分析，並將焦點移至結果輸出。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2029,9 +2026,8 @@ msgid "Save failed"
 msgstr "儲存失敗"
 
 #: jamovi/client/main/main.ts:233
-#, fuzzy
 msgid "Save project"
-msgstr "保存项目"
+msgstr "儲存專案"
 
 #: jamovi/client/main/instance.js:475
 msgid "Saved to '{filename}'"
@@ -2051,28 +2047,24 @@ msgid "Search"
 msgstr "搜尋"
 
 #: jamovi/client/main/store/pagemodules.js:42
-#, fuzzy
 msgid "Search available modules"
-msgstr "搜索可用模块"
+msgstr "搜尋可用模組"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
 msgstr "搜索檔"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
-#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr "在目录 {0} 中搜索文件"
+msgstr "在目錄 {0} 中搜尋檔案"
 
 #: jamovi/client/main/store/pagemodules.js:42
-#, fuzzy
 msgid "Search installed modules"
-msgstr "搜索安裝模块"
+msgstr "搜尋已安裝模組"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
-#, fuzzy
 msgid "Search list items"
-msgstr "搜索列表项目"
+msgstr "搜尋清單項目"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2123,9 +2115,8 @@ msgid "Show in main menu"
 msgstr "在主選單中顯示"
 
 #: jamovi/client/main/store/pagemodules.js:265
-#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr "在分析带中显示模块 {moduleName}"
+msgstr "在分析功能區顯示模組 {moduleName}"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
@@ -2215,9 +2206,8 @@ msgid "Table"
 msgstr "表格"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-#, fuzzy
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "计为 1970 年 1 月 1 日们日的天数、上涡为格式化日期。"
+msgstr "接受一個代表自 1970 年 1 月 1 日以來天數的數值，並產生格式化日期。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
@@ -2267,14 +2257,12 @@ msgid "The index of value in the provided values."
 msgstr "比對值(value)在搜尋範圍(value 1, value 2, ...)中的索引值。"
 
 #: jamovi/client/resultsview/table.js:754
-#, fuzzy
 msgid "The interaction of {0} and {1}"
-msgstr "{0} 和 {1} 中的三个些中一个"
+msgstr "{0} 與 {1} 的交互作用"
 
 #: jamovi/client/analysisui/formatdef.js:272
-#, fuzzy
 msgid "The interaction of {list}"
-msgstr "{list} 中的三个些中一个的三个些"
+msgstr "{list} 的交互作用"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
@@ -2297,29 +2285,24 @@ msgid "The module for this analysis is not installed, or is unavailable"
 msgstr "此分析所需的模組未被安裝，或無法使用"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server could not be reached"
-msgstr "远端服务器无法连续"
+msgstr "無法連線至遠端伺服器"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server rejected the request"
-msgstr "远端服务器拒绝请求"
+msgstr "遠端伺服器拒絕了此請求"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server reported an error"
-msgstr "远端服务器报出了一个读出"
+msgstr "遠端伺服器回報錯誤"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr "远端源客房发送了不识别的回答"
+msgstr "遠端伺服器傳送了未預期的回應"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr "资源不存在或者改动了 (404)"
+msgstr "資源不存在或已被移動 (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -2338,9 +2321,8 @@ msgid "This analysis has terminated, likely due to hitting a resource limit."
 msgstr "此分析已中止執行，可能因超過可用的資源限制。"
 
 #: jamovi/client/main/main.ts:912
-#, fuzzy
 msgid "This data set could not be opened"
-msgstr "此个数据集不能打开"
+msgstr "無法開啟此資料集"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2356,9 +2338,8 @@ msgid "This is a data variable."
 msgstr "此為資料變項。"
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "此模块是成为「不存在或不关注」之于此版本的 jamovi"
+msgstr "此模組可能<em>遺失或與此 jamovi 版本不相容</em>。"
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
@@ -2395,19 +2376,16 @@ msgid "This transform is in error and should be edited."
 msgstr "此資料轉換有誤需要修正。"
 
 #: jamovi/client/main/tableview.js:105
-#, fuzzy
 msgid "Toggle filters visibility"
-msgstr "换换滤足器视艘"
+msgstr "切換篩選條件可見度"
 
 #: jamovi/client/main/ribbon.js:199
-#, fuzzy
 msgid "Toggle screen state"
-msgstr "换換屏幕状态"
+msgstr "切換螢幕狀態"
 
 #: jamovi/client/main/main.ts:256
-#, fuzzy
 msgid "Toggle variable setup"
-msgstr "换换变量记置"
+msgstr "切換變項設定"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
