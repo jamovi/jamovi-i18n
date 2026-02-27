@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 12:09+0000\n"
+"PO-Revision-Date: 2026-02-27 14:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -49,14 +49,12 @@ msgstr "{columnType} 欄位可能無法編輯。"
 #: jamovi/client/analysisui/formatdef.js:116
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
-#, fuzzy
 msgid "{list} and {lastItem}"
 msgstr "{list} 和 {lastItem}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
 #: jamovi/client/analysisui/gridtargetcontrol.js:592
-#, fuzzy
 msgid "{list}, {nextItem}"
 msgstr "{list}, {nextItem}"
 
@@ -65,7 +63,6 @@ msgid "{m} was uninstalled successfully"
 msgstr "{m}已成功解除安裝"
 
 #: jamovi/client/main/store/pagemodules.js:369
-#, fuzzy
 msgid "{module} was installed successfully"
 msgstr "{module} 已安裝成功"
 
@@ -2141,7 +2138,7 @@ msgstr "特殊匯入"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾塊分割，如：SPLIT(Title,'0',3)。"
+msgstr "根據分隔符號將文字分割成片段。<i>piece</i> 參數透過索引指定要擷取的片段。"
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2339,7 +2336,7 @@ msgstr "此為資料變項。"
 
 #: jamovi/client/analysisui/main.ts:330
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "此模組可能<em>遺失或與此 jamovi 版本不相容</em>。"
+msgstr "此模組可能<em>遺失或不相容</em>於此 jamovi 版本。"
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
