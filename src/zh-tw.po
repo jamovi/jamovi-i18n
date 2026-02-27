@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 14:09+0000\n"
+"PO-Revision-Date: 2026-02-27 18:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -19,8 +19,9 @@ msgstr "“{}” 出錯"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}' 不是 {}() 的參數\n"
-"（如果你想測試相等性，使用雙等號 '=='）"
+msgstr ""
+"'{}' 不是 {}() 的引數\n"
+"（如果您是想測試是否相等，請使用兩個等號 '=='）"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -79,7 +80,7 @@ msgstr "{n}不是正整數"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} sf"
-msgstr "{n} sf"
+msgstr "{n} 位有效數字"
 
 #: jamovi/client/analysisui/formatdef.js:164
 msgid "{name} variable"
@@ -161,7 +162,7 @@ msgstr "將項目新增至 {0}"
 
 #: jamovi/client/main/vareditor/missingvaluelist.js:46
 msgid "Add Missing Value"
-msgstr "新增遺漏值"
+msgstr "新增缺失值"
 
 #: jamovi/client/main/vareditor/filterwidget.js:41
 msgid "Add new filter"
@@ -189,7 +190,7 @@ msgstr "新增重新編碼條件"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:57
 msgid "Add Variable"
-msgstr "新增變數"
+msgstr "新增變項"
 
 #: jamovi/client/main/tableview.js:76
 msgid "Added"
@@ -291,12 +292,12 @@ msgstr "附加"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "新增多少資料列？"
+msgstr "新增多少列？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "新增資料列..."
+msgstr "新增列..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
@@ -391,7 +392,7 @@ msgstr "無法指派到這些欄位。"
 
 #: jamovi/client/main/tableview.js:75
 msgid "Cells edited"
-msgstr "已編輯的儲存格 "
+msgstr "已編輯的儲存格"
 
 #: jamovi/client/main/ribbon/annotationtab.js:138
 msgid "Center Align"
@@ -436,19 +437,17 @@ msgstr "程式碼區塊"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
-msgstr "配色"
+msgstr "調色盤"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "資料集中無'{}'欄位"
+msgstr "資料集之中無'{}'欄位"
 
 #: jamovi/client/main/viewcontroller.js:294
-#, fuzzy
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "已刪除欄位 {columnName}"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -469,7 +468,7 @@ msgstr "計算變數"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "計算的變數"
+msgstr "計算的變項"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -478,7 +477,7 @@ msgstr "計算的變數"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "({n})個計算的變數"
+msgstr[0] "計算的變項"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -497,15 +496,15 @@ msgstr "連續型"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
-msgstr "ABS(IQR( 變數 ))的簡易標記"
+msgstr "ABS(IQR( 變項 ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:64
 msgid "Convenience short-hand for ABS(Z( variable ))"
-msgstr "ABS(Z(變數))的簡易標記"
+msgstr "ABS(Z(變項))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "MAX(ABSIQR( 變數1, 變數2, … ))的簡易標記"
+msgstr "MAX(ABSIQR( 變項1, 變項2, … ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
@@ -585,7 +584,7 @@ msgstr "計算非缺失值的個數"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
-msgstr "新增資料轉換..."
+msgstr "建立新轉換..."
 
 #: jamovi/client/main/backstage.js:1031
 #: jamovi/client/main/backstage.js:1054
@@ -629,7 +628,7 @@ msgstr "資料狀態列"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:31
 msgid "Data type"
-msgstr "資料種類"
+msgstr "資料類型"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:108
 #: jamovi/client/main/contextmenu/contextmenus.js:58
@@ -638,7 +637,7 @@ msgstr "資料種類"
 #: jamovi/client/main/vareditor/editorwidget.js:238
 msgid "Data Variable"
 msgid_plural "Multiple Data Variables ({n})"
-msgstr[0] "資料變數 ({n})"
+msgstr[0] "資料變項"
 
 #: jamovi/client/main/ribbon/datatab.js:41
 msgid "Data weights"
@@ -663,7 +662,7 @@ msgstr "預設"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Default missings"
-msgstr "預設缺漏值"
+msgstr "預設缺失值"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
@@ -674,12 +673,12 @@ msgstr "刪除"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "刪除{n}個資料欄位？"
+msgstr[0] "確定刪除欄位「{columnName}」嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
 msgid "Delete Filter"
-msgstr "刪除篩選"
+msgstr "刪除篩選條件"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
@@ -689,7 +688,7 @@ msgstr "刪除資料列"
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] "刪除{v}個資料列?"
+msgstr[0] "確定刪除第 {index} 列嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
@@ -697,7 +696,7 @@ msgstr "刪除資料列"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr "刪除選取橫列"
+msgstr "刪除選取資料列"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
@@ -705,12 +704,12 @@ msgstr "刪除選取變項"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr "删除轉換 {transformName}"
+msgstr "刪除轉換   - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
 msgid_plural "Delete Variables"
-msgstr[0] "刪除變數"
+msgstr[0] "刪除變項"
 
 #: jamovi/client/main/tableview.js:77
 msgid "Deleted"
@@ -778,11 +777,11 @@ msgstr "從Gamma分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr "從常態(高斯)分配中抽樣。"
+msgstr "從常態（高斯）分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr "從均等分配中抽樣。"
+msgstr "從均勻分配中抽樣。"
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
@@ -833,7 +832,7 @@ msgstr "啟用/禁用全屏模式"
 #: jamovi/client/main/tableview.js:1424
 #: jamovi/client/main/tableview.js:1609
 msgid "Enter"
-msgstr "鍵入"
+msgstr "輸入"
 
 #: jamovi/client/main/variablesview.js:133
 msgid "Enter description"
@@ -866,7 +865,7 @@ msgstr "EPS影像{ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
-msgstr "等同於"
+msgstr "等於"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Error"
@@ -891,7 +890,7 @@ msgstr "匯出"
 
 #: jamovi/client/main/resultspanel.js:713
 msgid "Export image"
-msgstr "匯出影像"
+msgstr "匯出圖像"
 
 #: jamovi/client/main/resultspanel.js:740
 msgid "Export results"
@@ -939,7 +938,7 @@ msgstr "檔案選單"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
-msgstr "檔案功能表項"
+msgstr "檔案選單項目"
 
 #: jamovi/client/main/instance.js:474
 msgid "File Saved"
@@ -951,7 +950,7 @@ msgstr "檔案類型"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
-msgstr "篩選"
+msgstr "篩選條件"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Filter {}"
@@ -964,11 +963,11 @@ msgstr "篩選條件{i}"
 #: jamovi/client/main/vareditor/filterwidget.js:382
 #: jamovi/client/main/vareditor/filterwidget.js:497
 msgid "Filter is active"
-msgstr "篩選已啟用"
+msgstr "篩選條件已啟用"
 
 #: jamovi/client/main/vareditor/filterwidget.js:387
 msgid "Filter is inactive"
-msgstr "篩選已停用"
+msgstr "篩選條件已停用"
 
 #: jamovi/client/main/tableview.js:78
 msgid "Filtered"
@@ -985,15 +984,15 @@ msgstr "篩選條件"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:144
 msgid "Filters a variable using the filter expression."
-msgstr "用運算式(filter expression)來篩選變數。"
+msgstr "使用篩選運算式篩選變項。"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "篩選條件可能無法使用'V'或欄位函數來查閱資料欄位"
+msgstr "篩選條件不可使用「V」或欄位函數來參照欄位"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr "篩選條件可能無法參照輸出變項"
+msgstr "篩選條件不可參照輸出變項"
 
 #: jamovi/client/analysisui/main.ts:333
 msgid "Find module in jamovi library"
@@ -1022,11 +1021,11 @@ msgstr "公式"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Formula contains illegal node"
-msgstr "公式包含不允許的節點(node)"
+msgstr "公式包含不允許的節點"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "公式指定錯誤(如果想要判斷是否相等，請使用雙等號'==')"
+msgstr "公式指定錯誤（若您想檢定是否相等，請使用兩個等號 '=='）"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1039,15 +1038,15 @@ msgstr "函數{}()不存在"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
-msgstr "函數{}()至少需要{}個參數{}"
+msgstr "函數 {}() 至少需要 {} 個引數"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires between {} and {} arguments"
-msgstr "函數{}()需要{}到{}個參數"
+msgstr "函數 {}() 需要 {} 至 {} 個引數"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() takes {} argument{}"
-msgstr "函數{}()需要{}個參數{}"
+msgstr "函數 {}() 接受 {} 個引數"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:184
 msgid "Functions"
@@ -1059,7 +1058,7 @@ msgstr "大於"
 
 #: jamovi/client/main/editors/operatordropdown.js:49
 msgid "Greater than or equal to"
-msgstr "大於等於"
+msgstr "大於或等於"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
@@ -1089,7 +1088,7 @@ msgstr "說明"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
-msgstr "嗨伊"
+msgstr "您好"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Hidden"
@@ -1155,7 +1154,7 @@ msgstr "工作階段閒置"
 
 #: jamovi/client/main/editors/transformeditor.js:355
 msgid "if"
-msgstr "if"
+msgstr "若"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
@@ -1163,11 +1162,11 @@ msgstr "若表達式結果為真，則使用該值，否則使用 else 部分。
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
-msgstr "影像"
+msgstr "圖像"
 
 #: jamovi/client/resultsview/image.ts:233
 msgid "Image resized to {width} by {height}"
-msgstr "影像已調整為寬度 {width}、高度 {height}"
+msgstr "圖像已調整為寬度 {width}、高度 {height}"
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1226,11 +1225,11 @@ msgstr "插入多少資料列？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr "插入新計算變數"
+msgstr "插入新的已計算變項"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr "插入新轉換變項"
+msgstr "插入新的已轉換變項"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
