@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 01:09+0000\n"
+"PO-Revision-Date: 2026-02-27 11:09+0000\n"
 "Last-Translator: Yuri Smolyakov <smolyakov@rambler.ru>\n"
 "Language-Team: Russian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ru/>\n"
@@ -37,7 +37,6 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Это причуда Safari и iPad)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
 msgstr "{} Параметры:"
 
@@ -420,7 +419,6 @@ msgid "Close"
 msgstr "Закрыть"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
 msgstr "Закрыть меню файла"
 
@@ -457,7 +455,6 @@ msgid "Column is not editable"
 msgstr "Столбец не доступен для редактирования"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Запятая"
 
@@ -552,9 +549,8 @@ msgstr "Копировать"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "Копировать Latex"
+msgstr "Копировать в Latex"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -662,7 +658,6 @@ msgid "decimal places"
 msgstr "десятичных разрядов"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
 msgstr "Символ десятичной дроби"
 
@@ -764,7 +759,6 @@ msgid "Don't Save"
 msgstr "Не сохранять"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "Точка"
 
@@ -1011,7 +1005,6 @@ msgid "Filters may not reference output variables"
 msgstr "Фильтры не могут ссылаться на выходные переменные"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
 msgstr "Найти модуль в библиотеке jamovi"
 
@@ -1182,9 +1175,8 @@ msgid "Image"
 msgstr "Изображение"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Изображение изменено до {width} на {height}"
+msgstr "Размер изображения изменен до {width} на {height}"
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1414,7 +1406,6 @@ msgid "Manage installed"
 msgstr "Управление установленным"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
 msgstr "Макс: {count}"
 
@@ -1428,7 +1419,6 @@ msgid "Minimal"
 msgstr "Минимальный"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
 msgstr "Отсутствующий или несовместимый модуль"
 
@@ -1695,16 +1685,15 @@ msgid "Pin level"
 msgstr "Закрепить уровень"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Пожалуйста <em>установите или обновите</em> этот модуль из библиотеки jamovi."
+msgstr ""
+"Пожалуйста <em>установите или обновите</em> этот модуль из библиотеки jamovi."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Пожалуйста, используйте ctrl-v, чтобы вставить в таблицу."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
 msgstr "График"
 
@@ -1721,7 +1710,6 @@ msgid "PNG Image {ext}"
 msgstr "Изображение PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
 msgstr "Слайд PowerPoint {ext}"
 
@@ -1738,7 +1726,6 @@ msgid "Previous variable"
 msgstr "Предыдущая переменная"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
 msgstr "Сохранить проект как"
 
@@ -2355,9 +2342,10 @@ msgid "This is a data variable."
 msgstr "Это переменная данных."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Этот модуль отсутствует или <em>несовместим</em> с этой версией jamovi."
+msgstr ""
+"Этот модуль отсутствует или <em>несовместим</em> с установленной версией "
+"jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2546,7 +2534,6 @@ msgid "Unrecognised file format"
 msgstr "Неизвестный формат файла"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Без названия"
 
