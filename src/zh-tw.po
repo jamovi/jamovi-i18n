@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 04:09+0000\n"
+"PO-Revision-Date: 2026-02-27 05:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -345,7 +345,7 @@ msgstr "黑白"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Blues"
-msgstr "藍色系"
+msgstr "藍色"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
 msgid "Bold"
@@ -422,19 +422,16 @@ msgid "Close"
 msgstr "關閉"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
-msgstr "关闭文件菜单"
+msgstr "關閉檔案選單"
 
 #: jamovi/client/main/main.ts:311
-#, fuzzy
 msgid "Close jamovi window"
-msgstr "关闭 jamovi 窗口"
+msgstr "關閉 jamovi 視窗"
 
 #: jamovi/client/main/ribbon/appmenu.js:49
-#, fuzzy
 msgid "Close preferences"
-msgstr "关闭效果"
+msgstr "關閉偏好設定"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -461,9 +458,8 @@ msgid "Column is not editable"
 msgstr "欄位無法編輯"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
-msgstr "表和"
+msgstr "逗號"
 
 #: jamovi/client/main/ribbon/datatab.js:30
 #: jamovi/client/main/ribbon/variablestab.js:24
@@ -554,9 +550,8 @@ msgstr "複製"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "复制 Latex"
+msgstr "複製 LaTeX"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -1096,7 +1091,7 @@ msgstr "灰色系"
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
 msgid "Group"
-msgstr "群組"
+msgstr "組別"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 #: jamovi/client/main/ribbon/appmenu.js:93
