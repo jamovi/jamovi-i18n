@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 03:09+0000\n"
+"PO-Revision-Date: 2026-02-27 04:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1572,7 +1572,7 @@ msgstr "備註"
 
 #: jamovi/client/resultsview/notice.js:44
 msgid "Notice"
-msgstr "通知"
+msgstr "留意"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 msgid "Number format"
@@ -1595,7 +1595,7 @@ msgstr "OK"
 #: jamovi/client/main/backstage.ts:367
 #: jamovi/client/main/backstage.ts:402
 msgid "One Drive"
-msgstr "OneDrive"
+msgstr "One Drive"
 
 #: jamovi/client/main/main.js:365
 msgid "One or more analyses in this data set have been disabled\n"
@@ -1672,7 +1672,7 @@ msgstr "順序符號清單"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "次序變項"
+msgstr "次序"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
@@ -1685,7 +1685,7 @@ msgstr[0] "輸出變數 ({n})個"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
-msgstr "p-value格式"
+msgstr "p值格式"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
@@ -1705,7 +1705,7 @@ msgstr "貼上"
 
 #: jamovi/client/main/viewcontroller.js:354
 msgid "Paste is unavailable using the menus"
-msgstr "在選單上無法使用貼上"
+msgstr "在選單上無法使用貼上功能"
 
 #: jamovi/client/main/backstage.js:1028
 #: jamovi/client/main/backstage.js:1051
@@ -1760,7 +1760,7 @@ msgstr "按下入输编辑"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
-msgstr "前一個變數"
+msgstr "前一個變項"
 
 #: jamovi/client/main/main.ts:274
 #, fuzzy
@@ -1769,7 +1769,7 @@ msgstr "项目保存为"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr "主題色"
+msgstr "質性"
 
 #: jamovi/client/main/backstage.js:982
 msgid "R data files {ext}"
@@ -1886,15 +1886,15 @@ msgstr "依據四分位差(IQR)來判斷變數(variable)是否為離群值: 若�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr "傳回數值(number)的絕對值。"
+msgstr "傳回數值的絕對值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr "傳回輸入數值(number)以10為底的對數值。"
+msgstr "傳回輸入數值以10為底的對數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr "傳回輸入數值(number)以自然數e為底的指數值。"
+msgstr "傳回輸入數值以自然數e為底的指數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
@@ -1910,44 +1910,46 @@ msgstr "傳回資料數值(number 1, number 2, ...)的平均數(每列分開計�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
-msgstr "返回變數的中位數絕對偏差。"
+msgstr "返回變項的中位數絕對偏差。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:98
 msgid "Returns the median of a variable."
-msgstr "傳回整欄資料變數(variable)的中位數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變項的中位數，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:102
 msgid "Returns the most common value in a variable."
-msgstr "傳回整欄資料變數(variable)的眾數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變項的眾數，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr "傳回數值(number)的自然對數值。"
+msgstr "傳回數值的自然對數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
 msgid "Returns the normalized values of a set of numbers."
-msgstr "傳回資料數值(variable)的標準分數(z-score)。"
+msgstr "回傳一組數值的標準化後數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:104
 msgid "Returns the number of cases in a variable."
-msgstr "傳回資料變數(variable)的資料個數(不包含缺漏值)。"
+msgstr "傳回資料變項的資料個數(不包含缺漏值)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Returns the number of rows of a variable."
-msgstr "傳回資料變數(variable)的列數(包含缺漏值)。"
+msgstr "傳回資料變項的列數(包含缺漏值)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the overall mean of a variable."
-msgstr "傳回資料變數(variable)所有資料的平均數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr ""
+"傳回資料變項所有資料的平均數，支援以其他分組變項做分組計算(如: group_by=dose)"
+"。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:110
 msgid "Returns the overall sum of a variable."
-msgstr "傳回資料變數(variable)所有資料的總和，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回資料變項所有資料的總和，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:96
 msgid "Returns the robust median absolute deviation of a variable."
-msgstr "返回變數的可靠中位數絕對偏差。"
+msgstr "傳回變項的穩健中位數絕對偏差。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:150
 msgid "Returns the row numbers."
@@ -1959,11 +1961,11 @@ msgstr "傳回資料數值(variable 1, variable 2, ...)中的最小值，每一�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:100
 msgid "Returns the smallest value of a variable."
-msgstr "傳回整欄資料變數(variable)的最小值，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變項的最小值，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:58
 msgid "Returns the square root of a number."
-msgstr "傳回資料數值(number)的平方根(square root)。"
+msgstr "傳回資料數值的平方根。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:90
 msgid "Returns the standard deviation of a set of numbers."
@@ -1971,11 +1973,13 @@ msgstr "傳回資料數值(number 1, number 2, ...)的標準差，每一列分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:108
 msgid "Returns the standard deviation of a variable."
-msgstr "傳回整欄資料變數(variable)的標準差，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變項的標準差，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:106
 msgid "Returns the standard error of the mean of a variable."
-msgstr "傳回整欄資料變數(variable)樣本平均數的標準誤(standard error)，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr ""
+"傳回整欄資料變項樣本平均數的標準誤(standard error)，支援以其他分組變項做分組"
+"計算(如: group_by=dose)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:92
 msgid "Returns the sum of a set of numbers."
@@ -1987,7 +1991,7 @@ msgstr "傳回資料數值(number 1, number 2, ...)的變異數，每一列分�
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr "傳回整欄資料變數(variable)的變異數，支援以其他分組變數做分組計算(如: group_by=dose)。"
+msgstr "傳回整欄資料變項的變異數，支援以其他分組變項做分組計算(如: group_by=dose)。"
 
 #: jamovi/client/main/main.ts:286
 #, fuzzy
@@ -2123,7 +2127,7 @@ msgstr "搜索列表项目"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
-msgstr "搜尋變數"
+msgstr "搜尋變項"
 
 #: jamovi/client/main/resultspanel.js:433
 msgid "Select all"
@@ -2136,7 +2140,7 @@ msgstr "已選擇"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr "色階"
+msgstr "逐個"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
@@ -2189,7 +2193,7 @@ msgstr "有效數字"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
-msgstr "來源變數"
+msgstr "來源變項"
 
 #: jamovi/client/main/backstage.js:1279
 msgid "Special Import"
@@ -2201,7 +2205,7 @@ msgstr "依照分隔符號(sep)分割文字。<i>piece</i> 是用來指定第幾
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
-msgstr "電子表格"
+msgstr "試算表"
 
 #: jamovi/client/main/backstage.js:981
 msgid "SPSS files {ext}"
@@ -2243,11 +2247,11 @@ msgstr "SVG影像檔 {ext}"
 
 #: jamovi/client/resultsview/syntax.js:43
 msgid "Syntax"
-msgstr "程式語法(Syntax)"
+msgstr "程式語法"
 
 #: jamovi/client/main/ribbon/appmenu.js:83
 msgid "Syntax mode"
-msgstr "程式語法模式(Syntax)"
+msgstr "程式語法模式"
 
 #: jamovi/client/main/ribbon/appmenu.js:209
 msgid "System default"
@@ -2290,12 +2294,12 @@ msgstr "轉換要套用的當前變數值。"
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "數據由變數 {} 加權，但此分析不支援非整數權重。權重四捨五入到最接近的整數。"
+msgstr "數據由變項 {} 加權，但此分析不支援非整數權重。權重四捨五入到最接近的整數。"
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "The data is weighted by the variable {}."
-msgstr "數據由變數 {} 加權。"
+msgstr "數據由變項 {} 加權。"
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
@@ -2333,7 +2337,7 @@ msgstr "水準值{r}已經被使用。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
 msgid "The level value cannot be blank."
-msgstr "水準值無法是空白。"
+msgstr "水準值不得為空白。"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "The library is disabled"
@@ -2400,7 +2404,7 @@ msgstr "此裝置"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
-msgstr "此為資料變數。"
+msgstr "此為資料變項。"
 
 #: jamovi/client/analysisui/main.ts:330
 #, fuzzy
@@ -2660,11 +2664,11 @@ msgstr "变量設定"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
-msgstr "變數字尾(Variable suffix)"
+msgstr "變項字尾"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:245
 msgid "Variable: {v}"
-msgstr "變數: {v}"
+msgstr "變項: {v}"
 
 #: jamovi/client/main/ribbon/datatab.js:28
 #: jamovi/client/main/ribbon/variablestab.js:13
@@ -2716,7 +2720,7 @@ msgstr "當"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "當資料變數(variable)包含缺漏值時，使用(value)值，否則使用(else)值。"
+msgstr "當資料變項( variable)包含缺漏值時，使用(value)值，否則使用(else)值。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
