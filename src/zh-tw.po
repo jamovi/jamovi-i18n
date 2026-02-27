@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-26 17:09+0000\n"
+"PO-Revision-Date: 2026-02-27 02:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -119,11 +119,11 @@ msgstr "已將 {vars} 從 {list} 移除。"
 
 #: jamovi/client/main/ribbon/appmenu.js:262
 msgid "A change of language requires jamovi to be restarted"
-msgstr "變更語言需要重新啟動Jamovi"
+msgstr "變更語言需要重新啟動 jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
-msgstr "需要更新版的Jamovi"
+msgstr "需要更新版的 jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
@@ -184,7 +184,7 @@ msgstr "添加新變項"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr "新增備註"
+msgstr "新增註解"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
