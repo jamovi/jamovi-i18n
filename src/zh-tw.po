@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 19:09+0000\n"
+"PO-Revision-Date: 2026-02-27 20:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -174,7 +174,7 @@ msgstr "新增新的階層"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr "添加新列"
+msgstr "添加新資料列"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
@@ -292,7 +292,7 @@ msgstr "附加"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "新增多少列？"
+msgstr "新增多少資料列？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
@@ -673,7 +673,7 @@ msgstr "刪除"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "確定刪除欄位「{columnName}」嗎？"
+msgstr[0] "確定刪除欄位 '{columnName}' 嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
@@ -777,7 +777,7 @@ msgstr "從Gamma分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr "從常態（高斯）分配中抽樣。"
+msgstr "從常態 (高斯) 分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
@@ -861,7 +861,7 @@ msgstr "在此輸入超連結"
 
 #: jamovi/client/main/resultspanel.js:718
 msgid "EPS Image {ext}"
-msgstr "EPS影像{ext}"
+msgstr "EPS圖像{ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
@@ -988,7 +988,7 @@ msgstr "使用篩選運算式篩選變項。"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "篩選條件不可使用「V」或欄位函數來參照欄位"
+msgstr "篩選條件不可使用 'V' 或欄位函數來參照欄位"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1025,7 +1025,7 @@ msgstr "公式包含不允許的節點"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "公式指定錯誤（若您想檢定是否相等，請使用兩個等號 '=='）"
+msgstr "公式指定錯誤 (若您想檢定是否相等，請使用兩個等號 '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
