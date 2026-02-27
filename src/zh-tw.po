@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 07:09+0000\n"
+"PO-Revision-Date: 2026-02-27 08:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1245,9 +1245,8 @@ msgid "Install"
 msgstr "安裝"
 
 #: jamovi/client/main/store/pagemodules.js:240
-#, fuzzy
 msgid "Install module {moduleName} version {version}"
-msgstr "安裝模块 {moduleName} 版本 {version}"
+msgstr "安裝模組 {moduleName} 版本 {version}"
 
 #: jamovi/client/main/store.js:35
 #: jamovi/client/main/store/pagemodules.js:121
@@ -1263,9 +1262,8 @@ msgid "Installed version needs to be updated"
 msgstr "已安裝的版本需要更新"
 
 #: jamovi/client/main/store/pagemodules.js:364
-#, fuzzy
 msgid "Installing {module}"
-msgstr "模块 {module} 安裝中"
+msgstr "正在安裝 {module}"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1386,9 +1384,8 @@ msgid "Levels"
 msgstr "水準"
 
 #: jamovi/client/main/store/pagemodules.js:98
-#, fuzzy
 msgid "Library error"
-msgstr "库审证出现效影"
+msgstr "函式庫錯誤"
 
 #: jamovi/client/main/ribbon/annotationtab.js:159
 msgid "Link"
@@ -1403,9 +1400,8 @@ msgid "Manage installed"
 msgstr "管理已安裝"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
-msgstr "Max: {count}"
+msgstr "最大: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1417,9 +1413,8 @@ msgid "Minimal"
 msgstr "最小"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
-msgstr "缺存或者不关正模块"
+msgstr "模組遺失或不相容"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1430,9 +1425,8 @@ msgid "Missing Values"
 msgstr "缺失值"
 
 #: jamovi/client/main/store/pagemodules.js:244
-#, fuzzy
 msgid "Module {moduleName} is installed"
-msgstr "模块 {moduleName} 已安裝"
+msgstr "模組 {moduleName} 已安裝"
 
 #: jamovi/client/main/store/pagemodules.js:192
 msgid "Module installed"
@@ -1455,14 +1449,12 @@ msgid "More info ..."
 msgstr "更多資訊..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
-#, fuzzy
 msgid "Move back directory"
-msgstr "远回目录"
+msgstr "返回上一層目錄"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
-#, fuzzy
 msgid "Move back from directory {0}"
-msgstr "远回目录 {0}"
+msgstr "從目錄 {0} 返回上一層"
 
 #: jamovi/client/main/variablesview.js:320
 msgid "Name"
@@ -1476,9 +1468,8 @@ msgstr "新增"
 #: jamovi/client/main/tableview.js:2479
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
-#, fuzzy
 msgid "New column {0}"
-msgstr "新序列 {0}"
+msgstr "新增欄位 {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
@@ -1604,28 +1595,24 @@ msgid "Open"
 msgstr "開啟"
 
 #: jamovi/client/main/main.ts:266
-#, fuzzy
 msgid "Open application menu"
-msgstr "打开应用界面菜单"
+msgstr "開啟應用程式選單"
 
 #: jamovi/client/main/main.ts:234
-#, fuzzy
 msgid "Open data file"
-msgstr "打开数据文件"
+msgstr "開啟資料檔案"
 
 #: jamovi/client/main/backstage.js:979
 msgid "Open Document (LibreOffice) {ext}"
 msgstr "開放文件檔(LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
-#, fuzzy
 msgid "Open the jamovi module library"
-msgstr "打开 jamovi 模块照片"
+msgstr "開啟 jamovi 模組函式庫"
 
 #: jamovi/client/main/main.ts:253
-#, fuzzy
 msgid "Open the main menu"
-msgstr "打开主界面"
+msgstr "開啟主選單"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
@@ -1665,9 +1652,8 @@ msgid "Paragraph"
 msgstr "段落"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-#, fuzzy
 msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "解析日期、各个计为 1970 年 1 月 1 日们日的天数。"
+msgstr "解析日期，並將其轉換為自 1970 年 1 月 1 日以來的天數。"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1692,9 +1678,8 @@ msgid "Pin level"
 msgstr "釘選水準"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "請选出此模块自 jamovi 库审中安裝或更新"
+msgstr "請從 jamovi 函式庫<em>安裝或更新</em>此模組。"
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
@@ -1717,27 +1702,24 @@ msgid "PNG Image {ext}"
 msgstr "PNG檔 {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr "PowerPoint Slide {ext}"
+msgstr "PowerPoint 投影片 {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
 msgstr "偏好"
 
 #: jamovi/client/resultsview/annotation.js:79
-#, fuzzy
 msgid "Press enter to edit"
-msgstr "按下入输编辑"
+msgstr "按下 Enter 鍵以編輯"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "前一個變項"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
-msgstr "项目保存为"
+msgstr "專案另存新檔"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -1801,33 +1783,28 @@ msgid "Remove"
 msgstr "移除"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
-#, fuzzy
 msgid "Remove {1} from {0}"
-msgstr "放弃 {1} 之于 {0}中"
+msgstr "從 {0} 移除 {1}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
-#, fuzzy
 msgid "Remove {1} items from {0}"
-msgstr "放弃 {1} 项目 之于 {0}中"
+msgstr "從 {0} 移除 {1} 個項目"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
 msgstr "移除篩選"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
-#, fuzzy
 msgid "Remove items from {0}"
-msgstr "放弃于 {0}中的项目"
+msgstr "從 {0} 移除項目"
 
 #: jamovi/client/main/store/pagemodules.js:234
-#, fuzzy
 msgid "Remove module {moduleName}"
-msgstr "删除模块 {moduleName}"
+msgstr "移除模組 {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
-#, fuzzy
 msgid "Remove nested filter"
-msgstr "删除循应滤表"
+msgstr "移除巢狀篩選"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
