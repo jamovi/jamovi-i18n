@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 02:09+0000\n"
+"PO-Revision-Date: 2026-02-27 03:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -215,7 +215,7 @@ msgstr "由{hostname}提供的線上資料集"
 
 #: jamovi/client/main/main.js:135
 msgid "An unexpected error has occured, and jamovi must now close."
-msgstr "發生未預期的錯誤，Jamovi需立即關閉。"
+msgstr "發生未預期的錯誤，jamovi需立即關閉。"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "An unexpected error occurred"
@@ -476,7 +476,7 @@ msgstr "計算變數"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "計算變數"
+msgstr "計算的變數"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -485,7 +485,7 @@ msgstr "計算變數"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "({n})個計算變數"
+msgstr[0] "({n})個計算的變數"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -516,7 +516,7 @@ msgstr "MAX(ABSIQR( 變數1, 變數2, … ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr "MAX(ABSIQR( 變數1, 變數2, … ))的簡易標記"
+msgstr "MAX(ABSIQR( 變項1, 變項2, … ))的簡易標記"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -624,7 +624,7 @@ msgstr "資料檔案"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
-msgstr "資料未加权"
+msgstr "資料未加權"
 
 #: jamovi/client/main/backstage.js:1197
 #: jamovi/client/main/backstage.js:1274
@@ -1186,7 +1186,7 @@ msgstr "if"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "如果判斷條件(expression)為真，則指派value，反之則指派else。"
+msgstr "若表達式結果為真，則使用該值，否則使用 else 部分。"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1225,11 +1225,11 @@ msgstr "未啟用"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr "減少縮排"
+msgstr "縮排 -1"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr "增加縮排"
+msgstr "縮排 +1"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1250,7 +1250,7 @@ msgstr "插入"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
-msgstr "插入多少資料列?"
+msgstr "插入多少資料列？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 #, fuzzy
@@ -1312,7 +1312,7 @@ msgstr "交互作用"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Inverts the value."
-msgstr "反轉真偽(true/false)值。"
+msgstr "將數值反轉。"
 
 #: jamovi/client/main/tableview.js:497
 #: jamovi/client/main/tableview.js:536
@@ -1335,7 +1335,7 @@ msgstr "jamovi檔案{ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Jamovi目前已有正體中文版！(非常感謝{蔡幸祖})"
+msgstr "Jamovi目前已有正體中文版！(非常感謝{蔡幸祖、陳正昌})"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
@@ -1441,7 +1441,7 @@ msgstr "量尺種類"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Minimal"
-msgstr "極簡"
+msgstr "最小"
 
 #: jamovi/client/main/optionspanel.ts:175
 #, fuzzy
@@ -1548,7 +1548,7 @@ msgstr "查詢不到符合的變數。"
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "名義變項"
+msgstr "名義"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
