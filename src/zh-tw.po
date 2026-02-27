@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 09:09+0000\n"
+"PO-Revision-Date: 2026-02-27 10:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -2203,7 +2203,7 @@ msgstr "T 檢定"
 
 #: jamovi/client/resultsview/table.js:184
 msgid "Table"
-msgstr "表格"
+msgstr "表"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
@@ -2455,9 +2455,8 @@ msgid "Unable to import {}"
 msgstr "無法匯入{}"
 
 #: jamovi/client/main/store/pagemodules.js:376
-#, fuzzy
 msgid "Unable to install {module}"
-msgstr "无法安裝 {module}"
+msgstr "無法安裝 {module}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2538,9 +2537,8 @@ msgid "Update"
 msgstr "更新"
 
 #: jamovi/client/main/store/pagemodules.js:253
-#, fuzzy
 msgid "Update module {moduleName} to version {version}"
-msgstr "更新模块 {moduleName} 自版本 {version}"
+msgstr "更新模組 {moduleName} 至版本 {version}"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
@@ -2570,24 +2568,20 @@ msgid "Value is too large for column '{}' of type integer"
 msgstr "數值對於整數類型的資料欄'{}'太大"
 
 #: jamovi/client/analysisui/formatdef.js:107
-#, fuzzy
 msgid "Variable {0}"
-msgstr "变量 {0}"
+msgstr "變項 {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
-#, fuzzy
 msgid "Variable Description"
-msgstr "变量描述"
+msgstr "變項描述"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
-#, fuzzy
 msgid "Variable Name"
-msgstr "变量名稱"
+msgstr "變項名稱"
 
 #: jamovi/client/main/ribbon/datatab.js:38
-#, fuzzy
 msgid "Variable setup"
-msgstr "变量設定"
+msgstr "變項設定"
 
 #: jamovi/client/main/editors/transformeditor.js:62
 msgid "Variable suffix"
@@ -2606,19 +2600,16 @@ msgid "Variables"
 msgstr "變項"
 
 #: jamovi/client/analysisui/formatdef.js:117
-#, fuzzy
 msgid "Variables {list}"
-msgstr "变量 {list}"
+msgstr "變項 {list}"
 
 #: jamovi/client/main/variablesview.js:41
-#, fuzzy
 msgid "Variables List View"
-msgstr "变量列表视图"
+msgstr "變項清單檢視"
 
 #: jamovi/client/main/variablesview.js:111
-#, fuzzy
 msgid "Variables View"
-msgstr "变量视图"
+msgstr "變項檢視"
 
 #: jamovi/client/main/ribbon/appmenu.js:176
 msgid "Version {v}"
@@ -2670,9 +2661,8 @@ msgid "You cannot modify transforms that affect filters when filtered rows are h
 msgstr "您無法在篩選資料列被隱藏時變更會影響篩選的資料轉換"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "You do not have appropriate permissions (403)"
-msgstr "你不能收到适应权限 (403)"
+msgstr "您沒有適當的權限 (403)"
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
