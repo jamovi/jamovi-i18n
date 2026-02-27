@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 20:09+0000\n"
+"PO-Revision-Date: 2026-02-27 21:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1477,7 +1477,7 @@ msgstr "新增資料變項"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:32
 msgid "New transformed variable"
-msgstr "新增轉換變數"
+msgstr "新增轉換變項"
 
 #: jamovi/client/main/variableeditor.js:52
 msgid "Next variable"
@@ -2430,7 +2430,7 @@ msgstr "無法存取套件庫"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr "無法存取網際網路（可能因强制門戶所致）"
+msgstr "無法存取網際網路 (可能因强制門戶所致)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
