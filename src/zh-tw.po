@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 05:09+0000\n"
+"PO-Revision-Date: 2026-02-27 06:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -583,9 +583,8 @@ msgid "Could not perform operation"
 msgstr "無法執行操作"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:179
-#, fuzzy
 msgid "Counts the number of non-missing values"
-msgstr "计数不空值的数量"
+msgstr "計算非缺失值的個數"
 
 #: jamovi/client/main/vareditor/transformlist.js:20
 msgid "Create New Transform..."
@@ -645,9 +644,8 @@ msgid_plural "Multiple Data Variables ({n})"
 msgstr[0] "資料變數 ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
-#, fuzzy
 msgid "Data weights"
-msgstr "数据权重"
+msgstr "資料權重"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 msgid "Decimal"
@@ -659,9 +657,8 @@ msgid "decimal places"
 msgstr "小數位數"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
-msgstr "整数味符"
+msgstr "小數點符號"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -702,19 +699,16 @@ msgid "Delete Rows"
 msgstr "刪除資料列"
 
 #: jamovi/client/main/ribbon/datatab.js:74
-#, fuzzy
 msgid "Delete selected rows"
-msgstr "删除选择行"
+msgstr "刪除選取橫列"
 
 #: jamovi/client/main/ribbon/datatab.js:63
-#, fuzzy
 msgid "Delete selected variables"
-msgstr "删除选择变量"
+msgstr "刪除選取變項"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
-#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr "删除轉控 {transformName}"
+msgstr "删除轉換 {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -759,9 +753,8 @@ msgid "Don't Save"
 msgstr "不要儲存"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
-msgstr "点"
+msgstr "點"
 
 #: jamovi/client/main/backstage.js:1122
 #: jamovi/client/main/backstage.js:1224
@@ -799,9 +792,8 @@ msgid "Duplicate"
 msgstr "複製"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
-#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr "填换化编发 - {transformName}"
+msgstr "複製轉換  - {transformName}"
 
 #: jamovi/client/main/main.js:182
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -815,14 +807,12 @@ msgid "Edit"
 msgstr "編輯"
 
 #: jamovi/client/main/tableview.js:104
-#, fuzzy
 msgid "Edit filters"
-msgstr "编辑滤足器"
+msgstr "編輯篩選條件"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
-#, fuzzy
 msgid "Edit transform - {transformName}"
-msgstr "编辑化编发 - {transformName}"
+msgstr "編輯轉換 - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
