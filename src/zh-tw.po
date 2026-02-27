@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 06:09+0000\n"
+"PO-Revision-Date: 2026-02-27 07:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -937,9 +937,8 @@ msgid "File is corrupt (manifest is corrupt)"
 msgstr "檔案已損毀 (資訊清單檔案損毀)"
 
 #: jamovi/client/main/ribbon.js:174
-#, fuzzy
 msgid "File menu"
-msgstr "文件菜单"
+msgstr "檔案選單"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -950,9 +949,8 @@ msgid "File Saved"
 msgstr "檔案已儲存"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
-#, fuzzy
 msgid "File type"
-msgstr "文件类型"
+msgstr "檔案類型"
 
 #: jamovi/client/main/dataset.js:1322
 msgid "Filter"
@@ -1001,24 +999,20 @@ msgid "Filters may not reference output variables"
 msgstr "篩選條件可能無法參照輸出變項"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
-msgstr "找当前模块在 jamovi 照片中"
+msgstr "在 jamovi 函式庫中尋找模組"
 
 #: jamovi/client/main/main.ts:243
-#, fuzzy
 msgid "Focus on spreadsheet"
-msgstr "移动到表板"
+msgstr "聚焦於試算表"
 
 #: jamovi/client/main/main.ts:262
-#, fuzzy
 msgid "Focus on the variable setup"
-msgstr "無出变量設定"
+msgstr "聚焦於變項設定"
 
 #: jamovi/client/main/main.ts:248
-#, fuzzy
 msgid "Focus on variable list"
-msgstr "無出变量列表"
+msgstr "聚焦於變項清單"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1039,7 +1033,7 @@ msgstr "公式指定錯誤(如果想要判斷是否相等，請使用雙等號'=
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
-msgstr "頻率"
+msgstr "次數"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1072,7 +1066,7 @@ msgstr "大於等於"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greens"
-msgstr "綠色系"
+msgstr "綠色"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
@@ -1111,9 +1105,8 @@ msgid "Hide"
 msgstr "隱藏"
 
 #: jamovi/client/main/main.ts:238
-#, fuzzy
 msgid "Hide analysis options"
-msgstr "隐藏分析选项"
+msgstr "隱藏分析選項"
 
 #: jamovi/client/main/vareditor/filterwidget.js:71
 msgid "Hide filter columns"
@@ -1124,18 +1117,16 @@ msgid "Hide library"
 msgstr "隱藏套件庫"
 
 #: jamovi/client/main/store/pagemodules.js:271
-#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr "隐藏模块 {moduleName} 之于分析带板"
+msgstr "從分析功能區隱藏模組 {moduleName}"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
 msgstr "隱藏選項"
 
 #: jamovi/client/main/variableeditor.js:52
-#, fuzzy
 msgid "Hide variable setup"
-msgstr "隐藏变量记置"
+msgstr "隱藏變項設定"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1178,9 +1169,8 @@ msgid "Image"
 msgstr "影像"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Image resized to {width} by {height}"
+msgstr "影像已調整為寬度 {width}、高度 {height}"
 
 #: jamovi/client/main/backstage.js:280
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1238,14 +1228,12 @@ msgid "Insert how many rows?"
 msgstr "插入多少資料列？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
-#, fuzzy
 msgid "Insert new computed variable"
-msgstr "添加新计算变量"
+msgstr "插入新計算變數"
 
 #: jamovi/client/main/ribbon/datatab.js:40
-#, fuzzy
 msgid "Insert new transformed variable"
-msgstr "添加新转化变量"
+msgstr "插入新轉換變項"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1713,9 +1701,8 @@ msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "請使用ctrl-v來貼至試算表。"
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "图像"
+msgstr "圖"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1723,7 +1710,7 @@ msgstr "圖片樣式"
 
 #: jamovi/client/main/ribbon/appmenu.js:89
 msgid "Plots"
-msgstr "統計圖型"
+msgstr "圖"
 
 #: jamovi/client/main/resultspanel.js:716
 msgid "PNG Image {ext}"
