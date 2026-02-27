@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-27 10:09+0000\n"
+"PO-Revision-Date: 2026-02-27 12:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -910,7 +910,7 @@ msgstr "匯出到'{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
-msgstr "因素"
+msgstr "因子"
 
 #: jamovi/client/main/main.js:176
 msgid "File"
@@ -1016,7 +1016,7 @@ msgstr "聚焦於變項清單"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
-msgstr "字型"
+msgstr "字體"
 
 #: jamovi/client/main/ribbon/annotationtab.js:152
 #: jamovi/client/main/vareditor/computedvarwidget.js:78
@@ -1070,7 +1070,7 @@ msgstr "綠色"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr "灰色系"
+msgstr "灰色"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1989,7 +1989,7 @@ msgstr "資料列篩選條件"
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
 msgid "Rows"
-msgstr "資料列"
+msgstr "列"
 
 #: jamovi/client/main/backstage.js:1037
 #: jamovi/client/main/backstage.js:1060
@@ -2527,7 +2527,6 @@ msgid "Unrecognised file format"
 msgstr "無法辨識的檔案格式"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "未命名"
 
