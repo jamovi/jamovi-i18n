@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-28 09:09+0000\n"
+"PO-Revision-Date: 2026-02-28 10:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -773,7 +773,7 @@ msgstr "從Beta分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr "從Gamma分配中抽樣。"
+msgstr "從 Gamma 分配中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
