@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-28 11:21+0000\n"
+"PO-Revision-Date: 2026-02-28 12:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -2073,7 +2073,7 @@ msgstr "逐個"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr "Set1"
+msgstr "第1組"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
