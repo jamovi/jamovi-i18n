@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-01 06:09+0000\n"
+"PO-Revision-Date: 2026-03-01 07:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -464,11 +464,11 @@ msgstr "計算"
 
 #: jamovi/client/main/dataset.js:1316
 msgid "Computed"
-msgstr "計算變數"
+msgstr "已計算"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "計算的變項"
+msgstr "已計算的變項"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -477,7 +477,7 @@ msgstr "計算的變項"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "計算的變項"
+msgstr[0] "已計算的變項"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -610,7 +610,7 @@ msgstr "資料"
 
 #: jamovi/client/main/backstage.js:972
 msgid "Data files"
-msgstr "資料檔案"
+msgstr "資料檔"
 
 #: jamovi/server/jamovi/server/analyses/weights.py
 msgid "Data is unweighted"
@@ -1126,7 +1126,7 @@ msgstr "隱藏變項設定"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
-msgstr "文字醒目提示色彩"
+msgstr "醒目顏色"
 
 #: jamovi/client/main/utils/pathtools.js:13
 #: jamovi/server/jamovi/server/instance.py
@@ -1225,7 +1225,7 @@ msgstr "插入多少列？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr "插入新的已計算變項"
+msgstr "插入新計算的變項"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
@@ -1469,7 +1469,7 @@ msgstr "新增欄位 {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "新增計算變項"
+msgstr "新計算的變項"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
@@ -1719,7 +1719,7 @@ msgstr "質性"
 
 #: jamovi/client/main/backstage.js:982
 msgid "R data files {ext}"
-msgstr "R資料檔 {ext}"
+msgstr "R 資料檔 {ext}"
 
 #: jamovi/client/main/backstage.js:1033
 #: jamovi/client/main/backstage.js:1034
@@ -1829,19 +1829,19 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
-msgstr "傳回數值的絕對值。"
+msgstr "傳回一個數值的絕對值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:56
 msgid "Returns the base-10 logarithm of a number."
-msgstr "傳回輸入數值以10為底的對數值。"
+msgstr "傳回輸入一個以10為底數值的對數值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:52
 msgid "Returns the exponent for basis ℯ of a number."
-msgstr "傳回輸入數值以自然數e為底的指數值。"
+msgstr "傳回輸入一個以自然數e為底數值的指數。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:70
 msgid "Returns the largest value of a set of numbers."
-msgstr "回傳一組數字中的最大值。"
+msgstr "回傳一組數值中的最大值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the largest value of a variable."
@@ -1849,7 +1849,7 @@ msgstr "回傳一個變項中的最大值。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:76
 msgid "Returns the mean of a set of numbers."
-msgstr "回傳一組數字的平均數。"
+msgstr "回傳一組數值的平均數。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:94
 msgid "Returns the median absolute deviation of a variable."
@@ -1865,7 +1865,7 @@ msgstr "回傳一個變項中的眾數。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:54
 msgid "Returns the natural logarithm of a number."
-msgstr "回傳一個數的自然對數。"
+msgstr "回傳一個數值的自然對數。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 #: jamovi/client/main/vareditor/formulatoolbar.js:88
@@ -2385,23 +2385,23 @@ msgstr "資料量過多，請改用匯入功能"
 #: jamovi/client/main/ribbon/datatab.js:31
 #: jamovi/client/main/ribbon/variablestab.js:25
 msgid "Transform"
-msgstr "資料轉換"
+msgstr "轉換"
 
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "Transform {}"
-msgstr "資料轉換 {}"
+msgstr "轉換 {}"
 
 #: jamovi/client/main/tableview.js:271
 msgid "Transform: {name}"
-msgstr "資料轉換: {name}"
+msgstr "轉換: {name}"
 
 #: jamovi/client/main/tableview.js:276
 msgid "Transform: None"
-msgstr "資料轉換: 無"
+msgstr "轉換: 無"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:81
 msgid "Transform..."
-msgstr "資料轉換..."
+msgstr "轉換..."
 
 #: jamovi/client/main/dataset.js:1319
 msgid "Transformed"
@@ -2414,7 +2414,7 @@ msgstr "已轉換"
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] "已轉換變項"
+msgstr[0] "已轉換的變項"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
@@ -2550,7 +2550,7 @@ msgstr "已被使用，由"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
-msgstr "使用的資料轉換"
+msgstr "使用轉換"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
