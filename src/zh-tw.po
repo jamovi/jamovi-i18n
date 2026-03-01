@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-28 12:09+0000\n"
+"PO-Revision-Date: 2026-03-01 06:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -174,7 +174,7 @@ msgstr "新增新的階層"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr "添加新資料列"
+msgstr "添加新列"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
@@ -288,16 +288,16 @@ msgstr "變異數分析"
 #: jamovi/client/main/ribbon/variablestab.js:34
 #: jamovi/client/main/ribbon/variablestab.js:38
 msgid "Append"
-msgstr "附加"
+msgstr "添加"
 
 #: jamovi/client/main/viewcontroller.js:611
 msgid "Append how many rows?"
-msgstr "新增多少資料列？"
+msgstr "添加多少列？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:24
 #: jamovi/client/main/contextmenu/contextmenus.js:44
 msgid "Append Row..."
-msgstr "新增列..."
+msgstr "添加列..."
 
 #: jamovi/client/main/variableeditor.js:173
 msgid "Apply changes"
@@ -492,7 +492,7 @@ msgstr "連線中斷"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "連續型"
+msgstr "連續"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
@@ -556,7 +556,7 @@ msgstr "無法指派資料"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not delete rows"
-msgstr "無法刪除資料列"
+msgstr "無法刪除列"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert columns"
@@ -564,7 +564,7 @@ msgstr "無法插入資料欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not insert rows"
-msgstr "無法插入資料列"
+msgstr "無法插入列"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Could not modify columns"
@@ -683,7 +683,7 @@ msgstr "刪除篩選條件"
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 #: jamovi/client/main/contextmenu/contextmenus.js:49
 msgid "Delete Row"
-msgstr "刪除資料列"
+msgstr "刪除列"
 
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
@@ -692,11 +692,11 @@ msgstr[0] "確定刪除第 {index} 列嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
-msgstr "刪除資料列"
+msgstr "刪除列"
 
 #: jamovi/client/main/ribbon/datatab.js:74
 msgid "Delete selected rows"
-msgstr "刪除選取資料列"
+msgstr "刪除選取列"
 
 #: jamovi/client/main/ribbon/datatab.js:63
 msgid "Delete selected variables"
@@ -1221,7 +1221,7 @@ msgstr "插入"
 
 #: jamovi/client/main/viewcontroller.js:573
 msgid "Insert how many rows?"
-msgstr "插入多少資料列？"
+msgstr "插入多少列？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
@@ -1234,7 +1234,7 @@ msgstr "插入新的已轉換變項"
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
 msgid "Insert Row..."
-msgstr "插入資料列..."
+msgstr "插入列..."
 
 #: jamovi/client/main/store/pagemodules.js:118
 msgid "Install"
@@ -1570,12 +1570,12 @@ msgstr "在此資料集中至少一個分析已被停用\n"
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] "已附加一資料列。"
+msgstr[0] "已添加一列。"
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] "已插入一資料列。"
+msgstr[0] "已新增一列。"
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1815,7 +1815,7 @@ msgstr "分析結果"
 
 #: jamovi/client/main/vareditor/editorwidget.js:101
 msgid "Retain unused levels in analyses"
-msgstr "在分析中保留未使用的水準"
+msgstr "分析中保留未使用的水準"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:66
 msgid "Returns a Box Cox transformation of the variable."
@@ -1968,11 +1968,11 @@ msgstr[0] "已刪除第 {index} 列。"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
-msgstr "資料列數"
+msgstr "列數"
 
 #: jamovi/client/main/vareditor/editorwidget.js:246
 msgid "Row Filters"
-msgstr "資料列篩選條件"
+msgstr "列篩選條件"
 
 #: jamovi/client/main/ribbon/datatab.js:55
 #: jamovi/client/main/ribbon/variablestab.js:45
