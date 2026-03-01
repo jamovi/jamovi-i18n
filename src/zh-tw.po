@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-01 08:09+0000\n"
+"PO-Revision-Date: 2026-03-01 10:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -70,12 +70,12 @@ msgstr "{module} 已安裝成功"
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 msgid "{n} dp"
-msgstr "{n}位小數"
+msgstr "{n} 位小數"
 
 #: jamovi/client/main/viewcontroller.js:579
 #: jamovi/client/main/viewcontroller.js:617
 msgid "{n} is not a positive integer"
-msgstr "{n}不是正整數"
+msgstr "{n} 不是正整數"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -205,7 +205,7 @@ msgstr "全部"
 #: jamovi/client/analysisui/gridtargetcontrol.js:1024
 #: jamovi/client/analysisui/gridtargetcontrol.js:1025
 msgid "All {n} way"
-msgstr "全部{n}因子"
+msgstr "全部 {n} 因子"
 
 #: jamovi/client/main/backstage.js:456
 msgid "An online data set hosted by {hostname}"
@@ -447,7 +447,7 @@ msgstr "資料集之中無'{}'欄位"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] "已刪除欄位 {columnName}"
+msgstr[0] "刪除欄"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -673,7 +673,7 @@ msgstr "刪除"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "確定刪除欄位 '{columnName}' 嗎？"
+msgstr[0] "確定刪除欄嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
@@ -688,7 +688,7 @@ msgstr "刪除列"
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] "確定刪除第 {index} 列嗎？"
+msgstr[0] "確定刪除列嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
@@ -1570,12 +1570,12 @@ msgstr "在此資料集中至少一個分析已被停用\n"
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] "已添加一列。"
+msgstr[0] "已添加列。"
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] "已新增一列。"
+msgstr[0] "已新增列。"
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1964,7 +1964,7 @@ msgstr "將每個值無條件捨去至整數"
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] "已刪除第 {index} 列。"
+msgstr[0] "已刪除列。"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
