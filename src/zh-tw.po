@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-01 10:09+0000\n"
+"PO-Revision-Date: 2026-03-01 11:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -368,23 +368,23 @@ msgstr "無法將非整數值指派給欄位 '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr "無法指派非數值資料至'{}'欄位"
+msgstr "無法指派非數值資料至 '{}' 欄位"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr "無法指派非數值資料至'{columnName}'欄位"
+msgstr "無法指派非數值資料至 '{columnName}' 欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr "無法指派至計算的'{}'欄位"
+msgstr "無法指派至計算的 '{}' 欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr "無法指派到篩選欄位'{}'"
+msgstr "無法指派到篩選欄位 '{}'"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr "無法指派至重新編碼的'{}'欄位"
+msgstr "無法指派至重新編碼的 '{}' 欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
@@ -442,7 +442,7 @@ msgstr "調色盤"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "資料集之中無'{}'欄位"
+msgstr "資料集之中無 '{}' 欄位"
 
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
@@ -704,7 +704,7 @@ msgstr "刪除選取變項"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
 msgid "Delete transform  - {transformName}"
-msgstr "刪除轉換   - {transformName}"
+msgstr "刪除轉換  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -769,19 +769,19 @@ msgstr "從變項中抽取n個樣本。例如：SAMPLE(var, 20), SAMPLE(1, 20), 
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
-msgstr "從Beta分配中抽樣。"
+msgstr "從 Beta 分布中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a Gamma distribution."
-msgstr "從 Gamma 分配中抽樣。"
+msgstr "從 Gamma 分布中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 msgid "Draws samples from a normal (Gaussian) distribution."
-msgstr "從常態 (高斯) 分配中抽樣。"
+msgstr "從常態 (高斯) 分布中抽樣。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:164
 msgid "Draws samples from a uniform distribution."
-msgstr "從均勻分配中抽樣。"
+msgstr "從均勻分布中抽樣。"
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
@@ -861,7 +861,7 @@ msgstr "在此輸入超連結"
 
 #: jamovi/client/main/resultspanel.js:718
 msgid "EPS Image {ext}"
-msgstr "EPS圖像{ext}"
+msgstr "EPS圖像 {ext}"
 
 #: jamovi/client/main/editors/operatordropdown.js:41
 msgid "Equal to"
@@ -1034,7 +1034,7 @@ msgstr "頻率"
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
 msgid "Function {}() does not exist"
-msgstr "函數{}()不存在"
+msgstr "函數 {}() 不存在"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Function {}() requires atleast {} argument{}"
@@ -2260,7 +2260,7 @@ msgstr "Jamovi套件庫在您的工作階段中無法使用。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:116
 msgid "The level value {r} is already in use."
-msgstr "水準值{r}已經被使用。"
+msgstr "水準值 {r} 已經被使用。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:128
 msgid "The level value cannot be blank."
@@ -2342,12 +2342,12 @@ msgstr "本機"
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} columns"
-msgstr "本工作階段僅容許{}個資料欄位"
+msgstr "本工作階段僅容許 {} 個欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
 msgid "This session is limited to {} rows"
-msgstr "本工作階段僅容許{}個資料列"
+msgstr "本工作階段僅容許 {} 個資料列"
 
 #: jamovi/client/main/notification.js:39
 msgid "This session will end any moment now"
@@ -2355,7 +2355,7 @@ msgstr "本工作階段即將結束"
 
 #: jamovi/client/main/notification.js:35
 msgid "This session will end in around {} minutes"
-msgstr "本工作階段將在{}分鐘內結束"
+msgstr "本工作階段將在 {} 分鐘內結束"
 
 #: jamovi/client/main/notification.js:37
 msgid "This session will end in around 1 minute"
