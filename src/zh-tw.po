@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-01 07:09+0000\n"
+"PO-Revision-Date: 2026-03-01 08:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -355,7 +355,7 @@ msgstr "瀏覽"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
-msgstr "項目符號清單"
+msgstr "項目符號"
 
 #: jamovi/client/main/main.js:643
 #: jamovi/client/main/notifications.js:36
@@ -468,7 +468,7 @@ msgstr "已計算"
 
 #: jamovi/client/main/tableview.js:282
 msgid "Computed variable"
-msgstr "已計算的變項"
+msgstr "計算變項"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:104
 #: jamovi/client/main/contextmenu/contextmenus.js:62
@@ -477,7 +477,7 @@ msgstr "已計算的變項"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "已計算的變項"
+msgstr[0] "計算變項"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -1196,11 +1196,11 @@ msgstr "未啟用"
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
 msgid "Indent -1"
-msgstr "縮排 -1"
+msgstr "減少縮排"
 
 #: jamovi/client/main/ribbon/annotationtab.js:147
 msgid "Indent +1"
-msgstr "縮排 +1"
+msgstr "增加縮排"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:101
 #: jamovi/client/main/contextmenu/contextmenus.js:105
@@ -1225,11 +1225,11 @@ msgstr "插入多少列？"
 
 #: jamovi/client/main/ribbon/datatab.js:39
 msgid "Insert new computed variable"
-msgstr "插入新計算的變項"
+msgstr "插入新計算變項"
 
 #: jamovi/client/main/ribbon/datatab.js:40
 msgid "Insert new transformed variable"
-msgstr "插入新的已轉換變項"
+msgstr "插入新轉換變項"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:23
 #: jamovi/client/main/contextmenu/contextmenus.js:45
@@ -1306,7 +1306,7 @@ msgstr "Jamovi目前已有正體中文版！(非常感謝{蔡幸祖、陳正昌}
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Jamovi目前已有正體中文版！(非常感謝@{蔡幸祖(gregtsai)})"
+msgstr "Jamovi目前已有正體中文版！(非常感謝@{蔡幸祖(gregtsai)、陳正昌})"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1469,7 +1469,7 @@ msgstr "新增欄位 {0}"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:27
 msgid "New computed variable"
-msgstr "新計算的變項"
+msgstr "新計算變項"
 
 #: jamovi/client/main/vareditor/newvarwidget.js:22
 msgid "New data variable"
@@ -1618,7 +1618,7 @@ msgstr "運算子"
 
 #: jamovi/client/main/ribbon/annotationtab.js:143
 msgid "Ordered List"
-msgstr "編號清單"
+msgstr "編號"
 
 #: jamovi/client/main/editors/transformeditor.js:227
 #: jamovi/client/main/vareditor/datavarwidget.js:275
@@ -2414,7 +2414,7 @@ msgstr "已轉換"
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] "已轉換的變項"
+msgstr[0] "轉換變項"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
@@ -2546,7 +2546,7 @@ msgstr "使用"
 
 #: jamovi/client/main/editors/transformeditor.js:260
 msgid "used by"
-msgstr "已被使用，由"
+msgstr "被使用"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "using transform"
