@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-02 10:09+0000\n"
+"PO-Revision-Date: 2026-03-02 11:09+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -37,9 +37,8 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Ovo je posebnost Safarija i iPada)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
-msgstr "{} Opcije:"
+msgstr "{} opcije:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -420,9 +419,8 @@ msgid "Close"
 msgstr "Zatvori"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
-msgstr "Zatvori izbornik datoteke"
+msgstr "Zatvori izbornik datoteka"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -457,7 +455,6 @@ msgid "Column is not editable"
 msgstr "Stupac se ne može urediti"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Zarez"
 
@@ -552,7 +549,6 @@ msgstr "Kopiraj"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
 msgstr "Kopiraj Latex"
 
@@ -662,9 +658,8 @@ msgid "decimal places"
 msgstr "broj decimala"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
-msgstr "Decimalni simbol"
+msgstr "Decimalni znak"
 
 #: jamovi/client/main/ribbon/appmenu.js:93
 msgid "Default"
@@ -764,7 +759,6 @@ msgid "Don't Save"
 msgstr "Nemoj spremiti"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "Točka"
 
@@ -1011,9 +1005,8 @@ msgid "Filters may not reference output variables"
 msgstr "Filtri ne smiju referencirati na izlazne varijable"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
-msgstr "Pronađite modul u jamovi biblioteci"
+msgstr "Pronađi modul u jamovi biblioteci"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1182,9 +1175,8 @@ msgid "Image"
 msgstr "Slika"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Slika promijenjena u {width} x {height}"
+msgstr "Veličina slike je promijenjena u {width} x {height}"
 
 #: jamovi/client/main/backstage.js:1277
 #: jamovi/client/main/backstage.js:278
@@ -1415,7 +1407,6 @@ msgid "Manage installed"
 msgstr "Upravljaj instaliranim"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
 msgstr "Maks.: {count}"
 
@@ -1429,9 +1420,8 @@ msgid "Minimal"
 msgstr "Minimalno"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
-msgstr "Nedostajući ili nekompatibilni modul"
+msgstr "Nedostajući ili nekompatibilan modul"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1697,18 +1687,16 @@ msgid "Pin level"
 msgstr "Prikvači razinu"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Molimo <em>instalirajte ili ažurirajte</em> ovaj modul iz jamovi biblioteke."
+msgstr "<em>Instaliraj ili aktualiziraj</em> ovaj modul iz jamovi biblioteke."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Koristi ctrl-v za lijepljenje u proračunsku tablicu."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "Grafikon"
+msgstr "Dijagram"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1723,9 +1711,8 @@ msgid "PNG Image {ext}"
 msgstr "PNG slika {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr "PowerPoint Slide {ext}"
+msgstr "PowerPoint slajd {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1740,7 +1727,6 @@ msgid "Previous variable"
 msgstr "Prethodna varijabla"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
 msgstr "Spremi projekt kao"
 
@@ -1854,7 +1840,10 @@ msgstr "Vraća Box Cox transformaciju varijable."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "Opisuje je li varijabla predstavlja odstupanje prema interkvartilnom rasponu (IQR): Ako je vrijednost unutar kutije box dijagrama vraća se 0, apsolutne vrijednosti veće od 1,5 su izvan kutije."
+msgstr ""
+"Opisuje je li varijabla predstavlja odstupanje prema interkvartilnom rasponu "
+"(IQR): Ako vrijednost unutar kutije kutijastog dijagrama vraća 0, apsolutne "
+"vrijednosti veće od 1,5 su izvan kutije."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -2357,9 +2346,9 @@ msgid "This is a data variable."
 msgstr "Ovo je podatkovna varijabla."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Ovaj modul je ili <em>nedostaje ili nije kompatibilan</em> s ovom verzijom jamovia."
+msgstr ""
+"Ovaj modul <em>nedostaje ili nije kompatibilan</em> s ovom verzijom jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2548,7 +2537,6 @@ msgid "Unrecognised file format"
 msgstr "Neprepoznat datotečni format"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Bez naslova"
 
