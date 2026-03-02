@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-02-26 11:09+0000\n"
-"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
+"PO-Revision-Date: 2026-03-02 09:09+0000\n"
+"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -347,6 +347,7 @@ msgid "Blues"
 msgstr "Azules"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
+#, fuzzy
 msgid "Bold"
 msgstr "Negrita"
 
@@ -1295,8 +1296,9 @@ msgid "Issue with formula"
 msgstr "Problema con la fórmula"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
+#, fuzzy
 msgid "Italic"
-msgstr "Itálica"
+msgstr "Cursiva"
 
 #: jamovi/client/main/backstage.js:1005
 #: jamovi/client/main/backstage.js:1016
