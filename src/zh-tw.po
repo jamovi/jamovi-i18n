@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-01 11:09+0000\n"
+"PO-Revision-Date: 2026-03-02 04:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -447,7 +447,7 @@ msgstr "資料集之中無 '{}' 欄位"
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
 msgid_plural "{n} columns deleted"
-msgstr[0] "刪除欄"
+msgstr[0] "已刪除{n}欄"
 
 #: jamovi/client/main/tableview.js:1163
 msgid "Column is not editable"
@@ -477,7 +477,7 @@ msgstr "計算變項"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "計算變項"
+msgstr[0] "計算{n}個變項"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -673,7 +673,7 @@ msgstr "刪除"
 #: jamovi/client/main/viewcontroller.js:273
 msgid "Delete column '{columnName}'?"
 msgid_plural "Delete {n} columns?"
-msgstr[0] "確定刪除欄嗎？"
+msgstr[0] "確定刪除{n}欄嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:120
 #: jamovi/client/main/contextmenu/contextmenus.js:135
@@ -688,7 +688,7 @@ msgstr "刪除列"
 #: jamovi/client/main/viewcontroller.js:322
 msgid "Delete row {index}?"
 msgid_plural "Delete {n} rows?"
-msgstr[0] "確定刪除列嗎？"
+msgstr[0] "確定刪除{n}列嗎？"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:28
 msgid "Delete Rows"
@@ -1570,12 +1570,12 @@ msgstr "在此資料集中至少一個分析已被停用\n"
 #: jamovi/client/main/viewcontroller.js:678
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] "已添加列。"
+msgstr[0] "已添加{n}列。"
 
 #: jamovi/client/main/viewcontroller.js:641
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] "已新增列。"
+msgstr[0] "已新增{n}列。"
 
 #: jamovi/client/main/backstage.js:463
 msgid "Online data set"
@@ -1964,7 +1964,7 @@ msgstr "將每個值無條件捨去至整數"
 #: jamovi/client/main/viewcontroller.js:345
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] "已刪除列。"
+msgstr[0] "已刪除{n}列。"
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
