@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-02 04:09+0000\n"
+"PO-Revision-Date: 2026-03-02 15:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -182,7 +182,7 @@ msgstr "新增變項"
 
 #: jamovi/client/resultsview/element.js:134
 msgid "Add Note"
-msgstr "新增註解"
+msgstr "新增備註"
 
 #: jamovi/client/main/editors/transformeditor.js:123
 msgid "Add recode condition"
@@ -2414,7 +2414,7 @@ msgstr "已轉換"
 #: jamovi/client/main/vareditor/editorwidget.js:242
 msgid "Transformed Variable"
 msgid_plural "Multiple Transformed Variables ({n})"
-msgstr[0] "轉換變項"
+msgstr[0] "轉換變項 ({n})"
 
 #: jamovi/client/main/utils/headeralert.js:24
 msgid "Try again"
