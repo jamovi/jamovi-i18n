@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-02 15:09+0000\n"
+"PO-Revision-Date: 2026-03-02 16:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -170,11 +170,11 @@ msgstr "新增篩選條件"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:46
 msgid "Add new level"
-msgstr "新增新的階層"
+msgstr "新增水準"
 
 #: jamovi/client/main/ribbon/datatab.js:70
 msgid "Add new rows"
-msgstr "添加新列"
+msgstr "增加新列"
 
 #: jamovi/client/main/ribbon/datatab.js:43
 msgid "Add new variable"
