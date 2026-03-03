@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-02 16:09+0000\n"
+"PO-Revision-Date: 2026-03-03 16:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -477,7 +477,7 @@ msgstr "計算變項"
 #: jamovi/client/main/vareditor/editorwidget.js:240
 msgid "Computed Variable"
 msgid_plural "Multiple Computed Variables ({n})"
-msgstr[0] "計算{n}個變項"
+msgstr[0] "計算變項"
 
 #: jamovi/client/main/main.js:767
 msgid "Connection failed"
@@ -1066,7 +1066,7 @@ msgstr "綠色"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Greys"
-msgstr "灰色"
+msgstr "灰階"
 
 #: jamovi/client/resultsview/array.js:73
 #: jamovi/client/resultsview/group.js:73
@@ -1715,7 +1715,7 @@ msgstr "專案另存新檔"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr "質性"
+msgstr "分類色盤"
 
 #: jamovi/client/main/backstage.js:982
 msgid "R data files {ext}"
@@ -2069,11 +2069,11 @@ msgstr "已選擇"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr "逐個"
+msgstr "連續色盤"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
-msgstr "第1組"
+msgstr "集合1"
 
 #: jamovi/client/main/ribbon/datatab.js:29
 msgid "Setup"
