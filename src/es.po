@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-03-02 09:09+0000\n"
-"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
+"PO-Revision-Date: 2026-03-03 15:09+0000\n"
+"Last-Translator: Francisco Serrador <fserrador@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -347,7 +347,6 @@ msgid "Blues"
 msgstr "Azules"
 
 #: jamovi/client/main/ribbon/annotationtab.js:121
-#, fuzzy
 msgid "Bold"
 msgstr "Negrita"
 
@@ -1296,7 +1295,6 @@ msgid "Issue with formula"
 msgstr "Problema con la fórmula"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
-#, fuzzy
 msgid "Italic"
 msgstr "Cursiva"
 
