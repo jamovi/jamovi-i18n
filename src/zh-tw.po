@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-04 02:11+0000\n"
+"PO-Revision-Date: 2026-03-04 03:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -2627,7 +2627,7 @@ msgstr "當"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "當資料變項( variable)包含缺漏值時，使用(value)值，否則使用(else)值。"
+msgstr "當資料變項 ( variable) 包含缺漏值時，使用 (value) 值，否則使用 (else) 值。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
