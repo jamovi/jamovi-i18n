@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-04 03:09+0000\n"
+"PO-Revision-Date: 2026-03-11 12:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1715,7 +1715,7 @@ msgstr "專案另存新檔"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
-msgstr "分類色盤"
+msgstr "多色系色盤"
 
 #: jamovi/client/main/backstage.js:982
 msgid "R data files {ext}"
@@ -2069,7 +2069,7 @@ msgstr "已選擇"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "sequential"
-msgstr "連續色盤"
+msgstr "單色系色盤"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Set1"
