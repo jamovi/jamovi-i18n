@@ -1,14 +1,17 @@
 #
 msgid ""
-msgstr "PO-Revision-Date: 2025-12-22 17:00+0000\n"
+msgstr ""
+"PO-Revision-Date: 2026-03-18 15:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
-"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/he/>\n"
+"Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/he/>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.15.1\n"
+"Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
+"n % 10 == 0) ? 2 : 3));\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -34,7 +37,6 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(זאת בעיה בספארי ובאייפדים)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
 msgstr "{} אפשרויות:"
 
@@ -419,9 +421,8 @@ msgid "Close"
 msgstr "סגירה"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
-msgstr "סגירת תפריט קובץ"
+msgstr "סגירת תפריט הקובץ"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -457,7 +458,6 @@ msgid "Column is not editable"
 msgstr "לא ניתן לערוך את העמודה"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "פסיק"
 
@@ -553,9 +553,8 @@ msgstr "העתקה"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "העתקת Latex"
+msgstr "העתקת ה־LaTeX"
 
 #: jamovi/client/main/tableview.js:1470
 #: jamovi/server/jamovi/server/instance.py
@@ -664,7 +663,6 @@ msgid "decimal places"
 msgstr "ספרות אחרי הנקודה"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
 msgstr "סימן עשרוני"
 
@@ -770,7 +768,6 @@ msgid "Don't Save"
 msgstr "לא לשמור"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "נקודה"
 
@@ -1019,7 +1016,6 @@ msgid "Filters may not reference output variables"
 msgstr "מסננים לא יכולים להפנות למשתני פלט"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
 msgstr "מציאת מודול בספריית jamovi"
 
@@ -1190,9 +1186,8 @@ msgid "Image"
 msgstr "תמונה"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "תמונה מוקטנת ל{width} על {height}"
+msgstr "גודל התמונה שונה ל־{width} על {height}"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:241
 #: jamovi/client/main/ribbon/appmenu.js:128
@@ -1423,9 +1418,8 @@ msgid "Manage installed"
 msgstr "ניהול המותקנים"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
-msgstr "מקס: {count}"
+msgstr "מקסימום: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:244
 #: jamovi/client/main/vareditor/datavarwidget.js:283
@@ -1437,9 +1431,8 @@ msgid "Minimal"
 msgstr "מינימלי"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
-msgstr "מודול חסר או לא תואם"
+msgstr "המודול חסר או אינו תואם"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:258
 msgid "Missing values"
@@ -1709,18 +1702,16 @@ msgid "Pin level"
 msgstr "הצמדת הרמה"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "אנא <em>התקנת או עדכון</em> של מודול זה מספריית jamovi."
+msgstr "נא <em>להתקין או לעדכן</em> מודול זה מספריית jamovi."
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "אנא השתמשו בקיצור ctrl-v כדי להדביק לתוך גיליון הנתונים."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "גרף"
+msgstr "תרשים"
 
 #: jamovi/client/main/ribbon/appmenu.js:110
 msgid "Plot theme"
@@ -1735,7 +1726,6 @@ msgid "PNG Image {ext}"
 msgstr "תמונת PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
 msgstr "שקף PowerPoint {ext}"
 
@@ -1752,9 +1742,8 @@ msgid "Previous variable"
 msgstr "המשתנה הקודם"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
-msgstr "שמירת פרויקט בשם"
+msgstr "שמירת הפרויקט בשם"
 
 #: jamovi/client/main/ribbon/appmenu.js:119
 msgid "qualitative"
@@ -2374,9 +2363,8 @@ msgid "This is a data variable."
 msgstr "זהו משתנה נתונים."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "מודול זה הוא <em>חסר או לא תואם</em> עם גרסה זו של jamovi."
+msgstr "מודול זה <em>חסר או שאינו תואם</em> לגרסה זו של jamovi."
 
 #: jamovi/client/main/backstage.ts:320
 #: jamovi/client/main/backstage.ts:454
@@ -2567,7 +2555,6 @@ msgid "Unrecognised file format"
 msgstr "סוג הקובץ אינו מוכר"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "ללא כותרת"
 
