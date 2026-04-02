@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-11 12:09+0000\n"
+"PO-Revision-Date: 2026-04-03 00:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -729,7 +729,9 @@ msgstr "桌面"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "判斷是否有任何項目(item)出現在in1, in2, in3, .... 值得注意的是大多前述參數是非強制須指定的 -- 可以僅使用<b>CONTAINS(needle, haystack)</b>即可。"
+msgstr ""
+"判定任一項目是否出現在 in1、in2、in3、…… 中。請注意，多數這些參數為選用；也可"
+"以僅使用 <b>CONTAINS(needle, haystack)</b>。"
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -2213,7 +2215,7 @@ msgstr "內容已複製到剪貼簿"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "內容已準備完畢，可用下方按鈕複製，或使用鍵盤的 <em>{k}+C</em>按鍵組合"
+msgstr "內容已準備完成，可使用下方按鈕複製，或按下鍵盤上的 <em>{k}+C</em>"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
@@ -2329,7 +2331,7 @@ msgstr "此為資料變項。"
 
 #: jamovi/client/analysisui/main.ts:330
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "此模組可能<em>遺失或不相容</em>於此 jamovi 版本。"
+msgstr "本模組在此版本的 jamovi 中可能<em>遺失或不相容</em>。"
 
 #: jamovi/client/main/backstage.js:1138
 #: jamovi/client/main/backstage.js:1273
