@@ -1,14 +1,16 @@
 #
 msgid ""
-msgstr "PO-Revision-Date: 2025-12-29 20:00+0000\n"
+msgstr ""
+"PO-Revision-Date: 2026-04-03 16:09+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
-"Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ca/>\n"
+"Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/ca/>\n"
 "Language: ca\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.15.1\n"
+"X-Generator: Weblate 5.17-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -34,9 +36,8 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Això es una especificitat per a Safari i iPads)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
-msgstr "Opcions de {}:"
+msgstr "{} Opcions:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -417,9 +418,8 @@ msgid "Close"
 msgstr "Tancar"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
-msgstr "Tanca el menú d'arxiu"
+msgstr "Tancar menú d'arxiu"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -453,7 +453,6 @@ msgid "Column is not editable"
 msgstr "La columna no es pot editar"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Coma"
 
@@ -547,9 +546,8 @@ msgstr "Copiar"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "Copia Latex"
+msgstr "Copiar LaTex"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -656,7 +654,6 @@ msgid "decimal places"
 msgstr "xifres decimals"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
 msgstr "Símbol decimal"
 
@@ -755,7 +752,6 @@ msgid "Don't Save"
 msgstr "No Guardar"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "Punt"
 
@@ -1002,9 +998,8 @@ msgid "Filters may not reference output variables"
 msgstr "Els filtres no poden fer referència a variables de sortida"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
-msgstr "Cerca el mòdul a la biblioteca de jamovi"
+msgstr "Cercar el mòdul a la biblioteca de jamovi"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1173,7 +1168,6 @@ msgid "Image"
 msgstr "Imatge"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
 msgstr "Imatge redimensionada a {width} per {height}"
 
@@ -1405,9 +1399,8 @@ msgid "Manage installed"
 msgstr "Administrar Instal·lats"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
-msgstr "Màxim: {count}"
+msgstr "Màx: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1419,9 +1412,8 @@ msgid "Minimal"
 msgstr "Mínim"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
-msgstr "Mòdul desaparegut o incompatible"
+msgstr "Mòdul absent o incompatible"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1684,18 +1676,18 @@ msgid "Pin level"
 msgstr "Fixar el nivell"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Si us plau, <em>instal·la o actualitza</em> aquest mòdul des de la biblioteca de jamovi."
+msgstr ""
+"Si us plau, <em>instal·li o actualitzi</em> aquest mòdul des de la "
+"biblioteca de jamovi."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Si us plau, utilitzeu CTRL-V per enganxar a la fulla."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "Gràfic"
+msgstr "Punts"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1710,9 +1702,8 @@ msgid "PNG Image {ext}"
 msgstr "Imatge PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
-msgstr "Diapositiva de PowerPoint {ext}"
+msgstr "Pantalla de PowerPoint {ext}"
 
 #: jamovi/client/main/ribbon.js:132
 msgid "Preferences"
@@ -1727,9 +1718,8 @@ msgid "Previous variable"
 msgstr "Variable anterior"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
-msgstr "Desa el projecte com a"
+msgstr "Desar projecte com a"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "qualitative"
@@ -2343,9 +2333,9 @@ msgid "This is a data variable."
 msgstr "Aquesta és una variable de dades."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Aquest mòdul és <em>desaparegut o incompatible</em> amb aquesta versió de jamovi."
+msgstr ""
+"Aquest mòdul és <em>absent o incompatible</em> amb aquesta versió de jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2533,7 +2523,6 @@ msgid "Unrecognised file format"
 msgstr "Format d'arxiu no reconegut"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Sense títol"
 
