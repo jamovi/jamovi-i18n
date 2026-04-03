@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-03 00:09+0000\n"
+"PO-Revision-Date: 2026-04-03 05:12+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1304,11 +1304,11 @@ msgstr "jamovi檔案{ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Jamovi目前已有正體中文版！(非常感謝{蔡幸祖、陳正昌})"
+msgstr "Jamovi 目前已有正體中文版！(非常感謝{蔡幸祖、陳正昌})"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Jamovi目前已有正體中文版！(非常感謝@{蔡幸祖(gregtsai)、陳正昌})"
+msgstr "Jamovi 目前已有正體中文版！(非常感謝@{蔡幸祖(gregtsai)、陳正昌})"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
