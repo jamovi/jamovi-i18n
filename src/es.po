@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-04-03 18:09+0000\n"
+"PO-Revision-Date: 2026-04-03 22:09+0000\n"
 "Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -665,7 +665,7 @@ msgstr "Predeterminado"
 
 #: jamovi/client/main/ribbon/appmenu.js:109
 msgid "Default missings"
-msgstr "Valores perdidos"
+msgstr "Valores perdidos por defecto"
 
 #: jamovi/client/main/ribbon/datatab.js:51
 #: jamovi/client/main/ribbon/datatab.js:62
@@ -735,7 +735,10 @@ msgstr "Escritorio"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "Determina si alguno de los elementos aparece en in1, in2, in3, .... Tenga en cuenta que la mayoría de estos argumentos son opcionales; es posible simplemente usar <b> CONTAINS(aguja, pajar) </b>."
+msgstr ""
+"Determina si alguno de los elementos aparece en in1, in2, in3, .... Hay que "
+"tener en cuenta que la mayoría de estos argumentos son opcionales; es "
+"posible simplemente usar <b> CONTAINS(aguja, pajar) </b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -2224,7 +2227,9 @@ msgstr "El contenido se ha copiado al portapapeles"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "El contenido se ha preparado y se puede copiar con el botón de abajo o presionando <em> {k} + C </em> en su teclado"
+msgstr ""
+"El contenido ha sido preparado y se puede copiar con el botón de abajo, o "
+"presionando <em> {k} + C </em> en el teclado"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
