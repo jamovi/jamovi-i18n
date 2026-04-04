@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2026-03-30 07:09+0000\n"
-"Last-Translator: Shun Wang <shuonwang@gmail.com>\n"
+"PO-Revision-Date: 2026-04-04 03:09+0000\n"
+"Last-Translator: konno_he <h3114931694@gmail.com>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
@@ -1688,7 +1688,7 @@ msgstr "请使用 ctrl-v 粘贴到电子表格中。"
 
 #: jamovi/client/resultsview/main.ts:221
 msgid "Plot"
-msgstr "绘图"
+msgstr "图"
 
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
