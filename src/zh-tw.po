@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-03 05:12+0000\n"
+"PO-Revision-Date: 2026-04-04 13:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -33,7 +33,7 @@ msgstr "(目前的)"
 
 #: jamovi/client/main/utils/headeralert.js:33
 msgid "(This is a quirk of Safari and iPads)"
-msgstr "(此為Safari和iPad的異常狀況)"
+msgstr "(此為 Safari 和 iPad 的異常狀況)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
 msgid "{} Options:"
@@ -1802,7 +1802,7 @@ msgstr "移除巢狀篩選條件"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
-msgstr "需要更新版本的jamovi"
+msgstr "需要更新版本的 jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 msgid "Restart required"
