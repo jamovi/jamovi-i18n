@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-04 13:09+0000\n"
+"PO-Revision-Date: 2026-04-05 10:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -1296,11 +1296,11 @@ msgstr "斜體"
 #: jamovi/client/main/backstage.js:1007
 #: jamovi/client/main/backstage.js:1018
 msgid "jamovi file {ext}"
-msgstr "jamovi檔案{ext}"
+msgstr "jamovi檔{ext}"
 
 #: jamovi/client/main/backstage.js:976
 msgid "jamovi files {ext}"
-msgstr "jamovi檔案{ext}"
+msgstr "jamovi檔{ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
@@ -2144,7 +2144,7 @@ msgstr "SPSS檔 {ext}"
 #: jamovi/client/main/backstage.js:1035
 #: jamovi/client/main/backstage.js:1058
 msgid "SPSS sav {ext}"
-msgstr "SPSS sav檔案 {ext}"
+msgstr "SPSS sav檔 {ext}"
 
 #: jamovi/client/main/backstage.js:1039
 #: jamovi/client/main/backstage.js:1062
