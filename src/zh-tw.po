@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-05 11:47+0000\n"
+"PO-Revision-Date: 2026-04-12 01:09+0000\n"
 "Last-Translator: 陳正昌 <chencc99@gmail.com>\n"
 "Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hant/>\n"
@@ -516,7 +516,7 @@ msgstr "將數值轉換為整數。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "Converts text to a number (if possible)."
-msgstr "將文字轉換為數值（如果可轉換）。"
+msgstr "將文字轉換為數值 (如果可轉換)。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 msgid "Converts the value to text."
@@ -1826,7 +1826,7 @@ msgstr "傳回變項的Box Cox轉換值。"
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
-"根據 IQR 判斷變項是否為離群值：若值在盒形圖的盒子內則回傳 0，絕對值大於 1.5 "
+"根據 IQR 判斷變項是否為離群值：若值在盒狀圖的盒子內則回傳 0，絕對值大於 1.5 "
 "則表示在鬚線之外。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
