@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-15 16:09+0000\n"
+"PO-Revision-Date: 2026-04-15 18:09+0000\n"
 "Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -791,7 +791,7 @@ msgstr "Izvlači uzorke iz normalne (Gaussove) distribucije."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:160
 msgid "Draws samples from a uniform distribution."
-msgstr "Izvlači uzorke iz normalne raspodjele."
+msgstr "Izvlači uzorke iz normalne distribucije."
 
 #: jamovi/client/resultsview/group.js:215
 msgid "Duplicate"
