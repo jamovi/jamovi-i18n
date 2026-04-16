@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-04-03 22:09+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
+"PO-Revision-Date: 2026-04-16 19:10+0000\n"
+"Last-Translator: Juan Jaime Fuentes Uriarte <juanjaime.fuentes@upve.edu.mx>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -12,12 +12,13 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
+#, fuzzy
 msgid "'{}' is in error"
-msgstr "'{}' no es válido"
+msgstr "'{}' hay un error"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
