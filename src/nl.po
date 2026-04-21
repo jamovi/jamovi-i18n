@@ -1,14 +1,16 @@
 #
 msgid ""
-msgstr "PO-Revision-Date: 2026-02-15 14:10+0000\n"
-"Last-Translator: Jasin Khazhikhanov <khazhikhanovjasin@gmail.com>\n"
-"Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nl/>\n"
+msgstr ""
+"PO-Revision-Date: 2026-04-21 20:09+0000\n"
+"Last-Translator: Marielle Winarto <mwinarto@gmail.com>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
+"nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.16-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1603,18 +1605,16 @@ msgstr "Eén of meer analyses in deze dataset zijn uitgeschakeld\n"
 "                    van de dataset vertrouwt."
 
 #: jamovi/client/main/viewcontroller.js:678
-#, fuzzy
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Eén rij toegevoegd."
+msgstr[1] "{n} rijen toegevoegd."
 
 #: jamovi/client/main/viewcontroller.js:641
-#, fuzzy
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Eén rij ingevoegd."
+msgstr[1] "{n} rijen ingevoegd."
 
 #: jamovi/client/main/backstage.js:557
 msgid "Online data set"
@@ -2018,11 +2018,10 @@ msgid "Rounds each value to the integer below"
 msgstr "Rondt elke waarde naar beneden af tot een geheel getal"
 
 #: jamovi/client/main/viewcontroller.js:345
-#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Rij {index} is verwijderd."
+msgstr[1] "{n} rijen verwijderd."
 
 #: jamovi/client/main/tableview.js:99
 msgid "Row count"
