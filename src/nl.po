@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-21 20:09+0000\n"
+"PO-Revision-Date: 2026-04-21 21:09+0000\n"
 "Last-Translator: Marielle Winarto <mwinarto@gmail.com>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
@@ -19,8 +19,9 @@ msgstr "'{}' is ongeldig"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}' is geen argument voor {}()\n"
-"(Gebruik twee gelijktekens '==' om op gelijkwaardigheid wilt controleren)"
+msgstr ""
+"'{}' is geen argument voor {}()\n"
+"(Als je gelijkheid wil testen, gebruik dan 2 isgelijktekens '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
 msgid "(auto)"
@@ -61,7 +62,7 @@ msgstr "{lijst}, {volgendItem}"
 
 #: jamovi/client/main/store/pagemodules.js:312
 msgid "{m} was uninstalled successfully"
-msgstr "{m} geïnstalleerd"
+msgstr "{m} is succesvol gedeïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:369
 msgid "{module} was installed successfully"
