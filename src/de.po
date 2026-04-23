@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-18 11:09+0000\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"PO-Revision-Date: 2026-04-23 12:09+0000\n"
+"Last-Translator: FabiRich <fabian.richters@online.de>\n"
 "Language-Team: German <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/de/>\n"
 "Language: de\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1-dev\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -36,7 +36,6 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Dies ist eine Eigenart von Safari und iPads)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
 msgstr "{} Optionen:"
 
@@ -419,7 +418,6 @@ msgid "Close"
 msgstr "Schließen"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
 msgstr "Dateimenü schließen"
 
@@ -548,7 +546,6 @@ msgstr "Kopieren"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
 msgstr "Latex kopieren"
 
@@ -1001,7 +998,6 @@ msgid "Filters may not reference output variables"
 msgstr "Filter dürfen nicht auf Ausgabevariablen verweisen"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
 msgstr "Modul in jamovi-Bibliothek finden"
 
@@ -1172,7 +1168,6 @@ msgid "Image"
 msgstr "Bild"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
 msgstr "Bild auf {width} x {height} verkleinert"
 
@@ -1405,7 +1400,6 @@ msgid "Manage installed"
 msgstr "Installierte verwalten"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
 msgstr "Max: {count}"
 
@@ -1419,7 +1413,6 @@ msgid "Minimal"
 msgstr "Minimal"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
 msgstr "Fehlendes oder inkompatibles Modul"
 
@@ -1683,18 +1676,18 @@ msgid "Pin level"
 msgstr "Variablenstufe fixieren"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Bitte <em>installieren oder aktualisieren</em> Sie dieses Modul aus der jamovi-Bibliothek."
+msgstr ""
+"Bitte <em>installieren oder aktualisieren</em> Sie dieses Modul aus der "
+"jamovi-Bibliothek."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Bitte verwenden Sie Strg-V zum Einfügen in die Tabelle."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "Grafik"
+msgstr "Diagramm"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1709,7 +1702,6 @@ msgid "PNG Image {ext}"
 msgstr "PNG-Bild {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
 msgstr "PowerPoint-Folie {ext}"
 
@@ -1726,7 +1718,6 @@ msgid "Previous variable"
 msgstr "Vorherige Variable"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
 msgstr "Projekt speichern unter"
 
@@ -2342,9 +2333,10 @@ msgid "This is a data variable."
 msgstr "Dies ist eine Datenvariable."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Dieses Modul fehlt oder ist <em>nicht kompatibel</em> mit dieser Version von jamovi."
+msgstr ""
+"Dieses Modul fehlt oder ist <em>nicht kompatibel</em> mit dieser Version von "
+"jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2532,7 +2524,6 @@ msgid "Unrecognised file format"
 msgstr "Unbekanntes Dateiformat"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Ohne Titel"
 
