@@ -2,14 +2,14 @@
 
 'use strict';
 
-const CLA = require('command-line-args');
-const path = require('path');
-const glob = require('glob');
-const fs = require('fs-extra');
-const po2json = require('po2json');
-const gettextParser = require("gettext-parser");
-const { GettextExtractor, JsExtractors } = require('gettext-extractor');
-const utils = require('./utils');
+import CLA from 'command-line-args';
+import path from 'path';
+import { glob, globSync } from 'glob';
+import fs from 'fs-extra';
+import po2json from 'po2json';
+import gettextParser from "gettext-parser";
+import { GettextExtractor, JsExtractors } from 'gettext-extractor';
+import utils from './utils.js';
 
 const ARGS = [
     { name: 'build', type: String },
@@ -45,7 +45,7 @@ if (args.build) {
 
     if (utils.exists(sourceDir) === false) {
         console.log('\nNo translations can be found.');
-        return;
+        process.exit(1);
     }
 
     let sourcefiles = fs.readdirSync(sourceDir);
@@ -105,12 +105,12 @@ else if (args.update) {
 
     if ( ! args.source) {
         console.log(usage);
-        return;
+        process.exit(1);
     }
 
     if ( ! args.pysource) {
         console.log(usage);
-        return;
+        process.exit(1);
     }
 
     if (utils.exists(sourceDir) === false)
@@ -153,7 +153,7 @@ else if (args.update) {
     let re = /[^a-zA-Z._]\_\('([^'\\]*(\\.[^'\\]*)*)'|[^a-zA-Z._]\_\("([^"\\]*(\\.[^"\\]*)*)"/g;
     let pyGlobPattern = args.pysource; //"jamovi/server/jamovi/+(common|server)/**/*.py"
     console.log(pyGlobPattern)
-    for (let pyFileName of glob.sync(pyGlobPattern)) {
+    for (let pyFileName of globSync(pyGlobPattern)) {
         let content = fs.readFileSync(pyFileName, 'UTF-8');
         for (let match of content.matchAll(re)) {
             let pieces = match.slice(1);
@@ -269,18 +269,18 @@ else if (args.update) {
 else if (args.create) {
     if ( ! args.code) {
         console.log(usage);
-        return;
+        process.exit(1);
     }
 
     if (utils.exists(path.join(sourceDir, `catalog.pot`)) === false) {
         console.log(`\nThe catalog.pot file needed to create a new translation file does not exist.\n\n To create a new catalog.pot use:\n\n   j18n --update --source glob --pysoure pyglob [--home path]\n`);
-        return;
+        process.exit(1);
     }
 
     let code = args.code.toLowerCase();
     if (utils.exists(path.join(sourceDir, `${code}.po`))) {
         console.log(`\nTranslation file ${code}.po already exists.`);
-        return;
+        process.exit(1);
     }
     let input = fs.readFileSync(path.join(sourceDir, `catalog.pot`));
     let pot = gettextParser.po.parse(input);

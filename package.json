@@ -1,6 +1,7 @@
 {
   "name": "jamovi-i18n",
   "version": "0.0.1",
+  "type": "module",
   "description": "The jamovi i18n compiler",
   "main": "index.js",
   "bin": {
