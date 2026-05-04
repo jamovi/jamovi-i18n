@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-18 15:09+0000\n"
+"PO-Revision-Date: 2026-05-04 10:09+0000\n"
 "Last-Translator: Kfir Pshititsky <Kfir4321@gmail.com>\n"
 "Language-Team: Hebrew <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/he/>\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=4; plural=(n == 1) ? 0 : ((n == 2) ? 1 : ((n > 10 && "
 "n % 10 == 0) ? 2 : 3));\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 5.17.1\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -2055,7 +2055,7 @@ msgstr "שמירת הפרויקט"
 
 #: jamovi/client/main/instance.ts:419
 msgid "Saved to '{filename}'"
-msgstr "נשמר ב־”filename“"
+msgstr "נשמר ב־”{filename}“"
 
 #: jamovi/client/main/instance.ts:383
 msgid "Saving"
