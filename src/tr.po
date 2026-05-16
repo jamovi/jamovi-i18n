@@ -1,7 +1,7 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-11 16:11+0000\n"
+"PO-Revision-Date: 2026-05-16 19:11+0000\n"
 "Last-Translator: Kehribar <103407696+dpentx@users.noreply.github.com>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/tr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.5-dev\n"
+"X-Generator: Weblate 2026.6.dev0\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -997,9 +997,8 @@ msgid "Filters may not reference output variables"
 msgstr "Filtreler çıktı değişkenlerine referans vermeyebilir"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
-msgstr "jamovi kütüphanesinde modülü bulun"
+msgstr "jamovi kütüphanesinden modülü bulun"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
@@ -1305,7 +1304,9 @@ msgstr "jamovi dosyaları {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi artık { Türkçe } dilinde mevcuttur! (Çok teşekkürler { Dr. Hamza YALÇİN })"
+msgstr ""
+"jamovi artık { Türkçe } dilinde mevcuttur! (Çok teşekkürler { Dr. Hamza "
+"YALÇİN, Kehribar })"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
