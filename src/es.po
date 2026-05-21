@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-05-21 07:45+0000\n"
+"PO-Revision-Date: 2026-05-21 09:11+0000\n"
 "Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -1695,7 +1695,7 @@ msgstr "Por favor, use ctrl-v para pegar en la hoja."
 
 #: jamovi/client/resultsview/main.ts:221
 msgid "Plot"
-msgstr "Trama"
+msgstr "Gráfico"
 
 #: jamovi/client/main/ribbon/appmenu.js:91
 msgid "Plot theme"
