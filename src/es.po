@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-05-22 20:11+0000\n"
-"Last-Translator: José Ángel Iranzo Sanz <joseani@unizar.es>\n"
+"PO-Revision-Date: 2026-06-04 17:01+0000\n"
+"Last-Translator: Miguel L <miguellb@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -119,7 +119,7 @@ msgstr "{vars} eliminadas de {list}."
 
 #: jamovi/client/main/ribbon/appmenu.js:255
 msgid "A change of language requires jamovi to be restarted"
-msgstr "Para cambiar de idioma se requiere que jamovi sea reiniciado"
+msgstr "Para cambiar de idioma se requiere reiniciar jamovi"
 
 #: jamovi/server/jamovi/server/formatio/omv.py
 msgid "A newer version of jamovi is required"
@@ -1316,7 +1316,9 @@ msgstr "Ahora jamovi ya está disponible en español / castellano! (Agradecimien
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Ahora jamovi ya está disponible en español / castellano ! (Agradecimientos a todo el equipo de traductores de jamovi)"
+msgstr ""
+"¡Ahora jamovi ya está disponible en español / castellano ! (Agradecimientos "
+"a todo el equipo de traductores de jamovi)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
