@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-06-04 17:01+0000\n"
+"PO-Revision-Date: 2026-06-05 04:25+0000\n"
 "Last-Translator: Miguel L <miguellb@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -1312,7 +1312,9 @@ msgstr "Archivo jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Ahora jamovi ya está disponible en español / castellano! (Agradecimientos a F. J. Miguel de la UAB)"
+msgstr ""
+"¡Ahora jamovi ya está disponible en español / castellano! (Agradecimientos a "
+"F. J. Miguel de la UAB)"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
