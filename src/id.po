@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-19 21:11+0000\n"
-"Last-Translator: Arif Budiman <arifpedia@gmail.com>\n"
+"PO-Revision-Date: 2026-06-05 04:26+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Indonesian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/id/>\n"
 "Language: id\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.6\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -19,8 +19,10 @@ msgstr "'{}' mengalami error"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}' bukan perintah untuk {}()\n"
-"(jika kamu ingin melakukan tes equalitas, gunakan dua simbol sama-dengan '==')"
+msgstr ""
+"'{}' bukan perintah untuk {}()\n"
+"(jika kamu ingin melakukan tes equalitas, gunakan dua simbol sama-dengan "
+"'==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -128,7 +130,9 @@ msgstr "Aksen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "Akses ditolak. Kemungkinan kamu tidak memiliki izin untuk mengakses sumber ini."
+msgstr ""
+"Akses ditolak. Kemungkinan kamu tidak memiliki izin untuk mengakses sumber "
+"ini."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -225,7 +229,8 @@ msgstr "Analisa"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
-msgstr "Analisis yang mengeksekusi kode arbitrer tidak diizinkan dalam sesi ini."
+msgstr ""
+"Analisis yang mengeksekusi kode arbitrer tidak diizinkan dalam sesi ini."
 
 #: jamovi/client/resultsview/main.js:113
 msgid "Analysis"
@@ -503,11 +508,15 @@ msgstr "Kenyamanan singkatan untuk ABS(Z( variabel ))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:72
 msgid "Convenience short-hand for MAX(ABSIQR( variable 1, variable 2, … ))"
-msgstr "Penggunaan singkat untuk mencari nilai maksimum dari (ABSIQR( variabel 1, variabel 2, ...))"
+msgstr ""
+"Penggunaan singkat untuk mencari nilai maksimum dari (ABSIQR( variabel 1, "
+"variabel 2, ...))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:74
 msgid "Convenience short-hand for MAX(ABSZ( variable 1, variable 2, … ))"
-msgstr "Penggunaan singkat untuk mencari nilai maksimum dari (ABSZ( variabel 1, variabel 2, ...))"
+msgstr ""
+"Penggunaan singkat untuk mencari nilai maksimum dari (ABSZ( variabel 1, "
+"variabel 2, ...))"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:146
 msgid "Converts a number to an integer."
@@ -589,7 +598,9 @@ msgstr "Buat Transformasi Baru..."
 #: jamovi/client/main/backstage.js:1054
 #: jamovi/client/main/backstage.js:978
 msgid "CSV (Comma delimited) {ext}"
-msgstr "format penyimpanan data yang menggunakan koma sebagai pemisah antar-nilai {ext}"
+msgstr ""
+"format penyimpanan data yang menggunakan koma sebagai pemisah antar-nilai "
+"{ext}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:13
 #: jamovi/client/main/contextmenu/contextmenus.js:88
@@ -728,7 +739,10 @@ msgstr "Desktop"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "Menentukan jika salah satu item muncul di in1, in2, in3, .... Perhatikan bahwa sebagian besar argumen ini opsional -- anda dapat menggunakan <b>CONTAINS(needle, haystack)</b>."
+msgstr ""
+"Menentukan jika salah satu item muncul di in1, in2, in3, .... Perhatikan "
+"bahwa sebagian besar argumen ini opsional -- anda dapat menggunakan <b>"
+"CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -764,7 +778,9 @@ msgstr "Unduhan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "Mengambil sampel sebanyak n dari variabel. Contoh: SAMPLE(var, 20), contoh: SAMPLE(1, 20), contoh: SAMPLE('training', 20, 'test')"
+msgstr ""
+"Mengambil sampel sebanyak n dari variabel. Contoh: SAMPLE(var, 20), contoh: "
+"SAMPLE(1, 20), contoh: SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -987,7 +1003,9 @@ msgstr "Memfilter variabel menggunakan ekspresi filter."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Pengaturan mungkin tidak boleh merujuk pada columns menggunakan 'V' atau kolom functions"
+msgstr ""
+"Pengaturan mungkin tidak boleh merujuk pada columns menggunakan 'V' atau "
+"kolom functions"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1024,7 +1042,9 @@ msgstr "Rumus mengandung simpul ilegal"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "Formula salah ditentukan (Jika kamu ingin menguji persamaan, gunakan dua tanda sama dengan '==')"
+msgstr ""
+"Formula salah ditentukan (Jika kamu ingin menguji persamaan, gunakan dua "
+"tanda sama dengan '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1301,11 +1321,17 @@ msgstr "file jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi sekarang tersedia dalam { insert translation language }! (Terima kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
+msgstr ""
+"jamovi sekarang tersedia dalam { insert translation language }! (Terima "
+"kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim "
+"terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi sekarang tersedia dalam { insert translation language }! (Terima kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
+msgstr ""
+"jamovi sekarang tersedia dalam { insert translation language }! (Terima "
+"kasih banyak untuk { masukkan nama Anda di sini (atau masukkan \"tim "
+"terjemahan jamovi\" yang lebih umum, jika Anda tidak ingin kredit) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1561,9 +1587,11 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "Satu atau lebih analisis dalam kumpulan data ini telah dinonaktifkan\n"
+msgstr ""
+"Satu atau lebih analisis dalam kumpulan data ini telah dinonaktifkan\n"
 "                    karena memungkinkan eksekusi kode sembarangan. Anda\n"
-"                    sebaiknya hanya mengaktifkannya if Anda mempercayai data ini\n"
+"                    sebaiknya hanya mengaktifkannya if Anda mempercayai data "
+"ini\n"
 "                    sumber."
 
 #: jamovi/client/main/viewcontroller.js:678
@@ -1929,11 +1957,15 @@ msgstr "Kembali adalah jumlah dari sekelompok angka."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:112
 msgid "Returns the variance of a set of numbers."
-msgstr "Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-ratanya."
+msgstr ""
+"Variansi adalah ukuran seberapa jauh sekelompok angka dari nilai rata-"
+"ratanya."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:114
 msgid "Returns the variance of a variable."
-msgstr "Variansi adalah pengukuran seberapa bervariasinya data dari nilai rata-rata suatu variabel."
+msgstr ""
+"Variansi adalah pengukuran seberapa bervariasinya data dari nilai rata-rata "
+"suatu variabel."
 
 #: jamovi/client/main/main.ts:286
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
