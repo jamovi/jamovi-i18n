@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-03 16:09+0000\n"
-"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
+"PO-Revision-Date: 2026-06-05 04:26+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Catalan <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ca/>\n"
 "Language: ca\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -20,7 +20,8 @@ msgstr "'{}' conté error/es"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}' no és un argument per a {} ()\n"
+msgstr ""
+"'{}' no és un argument per a {} ()\n"
 "(Si es vol comprovar igualtat, fer ús de dos signes d'igual '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -129,7 +130,9 @@ msgstr "Èmfasis"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "Accés denegat. És possible que no tinga els permisos adients per a accedir a aquest recurs."
+msgstr ""
+"Accés denegat. És possible que no tinga els permisos adients per a accedir a "
+"aquest recurs."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -732,7 +735,10 @@ msgstr "Escriptori"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "Determina si cap dels elements apareix en in1, in2, in3, .... Compte que la major part d'aquests arguments son opcionals; es possible simplement utilitzar <b> CONTAINS(agulla, paller) </b>."
+msgstr ""
+"Determina si cap dels elements apareix en in1, in2, in3, .... Compte que la "
+"major part d'aquests arguments son opcionals; es possible simplement "
+"utilitzar <b> CONTAINS(agulla, paller) </b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -768,7 +774,9 @@ msgstr "Descarregues"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "Pren una mostra de n de la variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE(‘training’, 20, ‘test’)"
+msgstr ""
+"Pren una mostra de n de la variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20)"
+", i.e. SAMPLE(‘training’, 20, ‘test’)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -991,7 +999,8 @@ msgstr "Filtra una variable fent ús de la expressió de filtre."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Els filtres no poden ser columnes que utilitzin 'V' o funcions de columna"
+msgstr ""
+"Els filtres no poden ser columnes que utilitzin 'V' o funcions de columna"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1028,7 +1037,9 @@ msgstr "La formula conté un node il·legal"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "La formula està mal especificada (si es vol comprovar igualtat, cal utilitzar dos signes d'igual '==')"
+msgstr ""
+"La formula està mal especificada (si es vol comprovar igualtat, cal "
+"utilitzar dos signes d'igual '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1161,7 +1172,9 @@ msgstr "si"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "Si la expressió resulta verirat, s'utilitza el valor, i en cas contrari l'altre."
+msgstr ""
+"Si la expressió resulta verirat, s'utilitza el valor, i en cas contrari "
+"l'altre."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1305,11 +1318,14 @@ msgstr "Fitxers jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi ara ja disponible en català! (Agraïments a F. J. Miguel de la UAB)"
+msgstr ""
+"jamovi ara ja disponible en català! (Agraïments a F. J. Miguel de la UAB)"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi ara ja disponible en català! (Agraïments a tot l'equip de traductors de jamovi)"
+msgstr ""
+"jamovi ara ja disponible en català! (Agraïments a tot l'equip de traductors "
+"de jamovi)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1565,9 +1581,11 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "S'han inhabilitat un o mes anàlisis d'aquestes dades\n"
+msgstr ""
+"S'han inhabilitat un o mes anàlisis d'aquestes dades\n"
 "                    perquè permeten la execució de codi arbitrari.\n"
-"                    Només ha d'habilitar-los si confia en la font d'aquestes \n"
+"                    Només ha d'habilitar-los si confia en la font d'aquestes "
+"\n"
 "                    dades."
 
 #: jamovi/client/main/viewcontroller.js:678
@@ -1651,7 +1669,9 @@ msgstr "Paràgraf"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
 msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "Analitza una data, i la converteix en el nombre de dies des del 1 de Gener de 1970."
+msgstr ""
+"Analitza una data, i la converteix en el nombre de dies des del 1 de Gener "
+"de 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1831,7 +1851,10 @@ msgstr "Retorna una transformació Box Cox de la variable."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "Retorna si la variable es un valor atípic segons el R.I.Q.: Si el valor es troba dins de la caixa d'un gràfic de caaixa retorna 0, els valors absoluts mes grans que 1,5 es troben fora dels bigotis."
+msgstr ""
+"Retorna si la variable es un valor atípic segons el R.I.Q.: Si el valor es "
+"troba dins de la caixa d'un gràfic de caaixa retorna 0, els valors absoluts "
+"mes grans que 1,5 es troben fora dels bigotis."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1940,16 +1963,20 @@ msgstr "Retorna la variància d'una variable."
 
 #: jamovi/client/main/main.ts:286
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "Retorna a l'anàlisi seleccionat anteriorment i obre el panel d'opcions, amb el focus definit pel panel d'opcions."
+msgstr ""
+"Retorna a l'anàlisi seleccionat anteriorment i obre el panel d'opcions, amb "
+"el focus definit pel panel d'opcions."
 
 #: jamovi/client/main/main.ts:302
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "Retorna a l'anàlisi prèviament seleccionat i destaca els resultats mostrats."
+msgstr ""
+"Retorna a l'anàlisi prèviament seleccionat i destaca els resultats mostrats."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 msgid "Returns to the previously selected analysis and shifts focus to the results output."
-msgstr "Retorna a l'anàlisi prèviament seleccionat i destaca els seus resultats."
+msgstr ""
+"Retorna a l'anàlisi prèviament seleccionat i destaca els seus resultats."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2136,7 +2163,9 @@ msgstr "Importació especial"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "Divideix el text en porcions en base a un separador. <i>piece</i> especifica la part desitjada segons l'índex."
+msgstr ""
+"Divideix el text en porcions en base a un separador. <i>piece</i> especifica "
+"la part desitjada segons l'índex."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2202,7 +2231,9 @@ msgstr "Taula"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "Pren un nombre que representa els dies transcorreguts des del 1 de Gener de 1970 i genera una data amb format."
+msgstr ""
+"Pren un nombre que representa els dies transcorreguts des del 1 de Gener de "
+"1970 i genera una data amb format."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2220,7 +2251,9 @@ msgstr "El contingut s'ha copiat al portapapers"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "El contingut està preparat i es pot copiar amb el botó de baix o prement <em> {k} + C </em> al teclat"
+msgstr ""
+"El contingut està preparat i es pot copiar amb el botó de baix o prement "
+"<em> {k} + C </em> al teclat"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -2228,7 +2261,10 @@ msgstr "El valor actual de la variable a la que s'aplica aquesta transformació.
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "Les dades estan ponderades per la variable {}; però, aquesta anàlisi no admet ponderaciones no enteres. Les ponderacions s'arrodoneixen al enter més proper."
+msgstr ""
+"Les dades estan ponderades per la variable {}; però, aquesta anàlisi no "
+"admet ponderaciones no enteres. Les ponderacions s'arrodoneixen al enter més "
+"proper."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2237,7 +2273,9 @@ msgstr "Les dades estan ponderades per la variable {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "Les dades estan ponderades; però, aquesta anàlisi no admet ponderacions. S'han utilitzat les dades no ponderades."
+msgstr ""
+"Les dades estan ponderades; però, aquesta anàlisi no admet ponderacions. "
+"S'han utilitzat les dades no ponderades."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2309,11 +2347,15 @@ msgstr "El valor dels valors proporcionats a l'índex."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has exceeded the current time limits and has been terminated."
-msgstr "Aquesta anàlisi ha superat els límits de temps actuals i ha estat finalitzada."
+msgstr ""
+"Aquesta anàlisi ha superat els límits de temps actuals i ha estat "
+"finalitzada."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Aquesta anàlisi ha estat finalitzada, probablemente perquè ha assolit un límit en els recursos."
+msgstr ""
+"Aquesta anàlisi ha estat finalitzada, probablemente perquè ha assolit un "
+"límit en els recursos."
 
 #: jamovi/client/main/main.ts:912
 msgid "This data set could not be opened"
@@ -2632,7 +2674,9 @@ msgstr "quan"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "Quan la variable conté un valor perdut, utilitzar aquest valor, contrariament l'altre."
+msgstr ""
+"Quan la variable conté un valor perdut, utilitzar aquest valor, "
+"contrariament l'altre."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2648,11 +2692,15 @@ msgstr "No pots insertar files mentre les files filtrades estan ocultes"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "No pots modificar columnes que afecten als filtres quan les files filtrades estan ocultes"
+msgstr ""
+"No pots modificar columnes que afecten als filtres quan les files filtrades "
+"estan ocultes"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
-msgstr "No pots modificar transformacions que afecten als filtres quan les files filtrades estan ocultes"
+msgstr ""
+"No pots modificar transformacions que afecten als filtres quan les files "
+"filtrades estan ocultes"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"
