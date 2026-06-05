@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-02-26 16:09+0000\n"
-"Last-Translator: clearstripe <sakurasan000510@gmail.com>\n"
+"PO-Revision-Date: 2026-06-05 04:28+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ko/>\n"
 "Language: ko\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 5.16.1-dev\n"
+"X-Generator: Weblate 2026.6\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -19,7 +19,8 @@ msgstr "'{}'가 오류입니다"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "‘{}’ 은(는) {}()에 대한 인수가 아닙니다.\n"
+msgstr ""
+"‘{}’ 은(는) {}()에 대한 인수가 아닙니다.\n"
 "(동등성을 테스트하려면 두 개의 등호 ‘==‘를 사용하십시오)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -140,7 +141,9 @@ msgstr "애리"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "접근이 불가능합니다. 이 리소스에 액세스할 수 있는 적절한 권한이 없을 수 있습니다."
+msgstr ""
+"접근이 불가능합니다. 이 리소스에 액세스할 수 있는 적절한 권한이 없을 수 "
+"있습니다."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -745,7 +748,9 @@ msgstr "데스크탑"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 사항입니다. 간단히 <b>CONTAINS(needle, haystack)</b>를 사용할 수 있습니다."
+msgstr ""
+"항목이 in1, in2, in3, ….에 나타나는지 여부를 결정합니다. 대부분은 선택 "
+"사항입니다. 간단히 <b>CONTAINS(needle, haystack)</b>를 사용할 수 있습니다."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -781,7 +786,9 @@ msgstr "다운로드"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "변수에서 n의 샘플을 뽑아냅니다. 예를 들어 SAMPLE(var, 20), 또는 SAMPLE(1, 20), 또는 SAMPLE(‘training’, 20, ‘test’)"
+msgstr ""
+"변수에서 n의 샘플을 뽑아냅니다. 예를 들어 SAMPLE(var, 20), 또는 SAMPLE(1, 20)"
+", 또는 SAMPLE(‘training’, 20, ‘test’)"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 msgid "Draws samples from a Beta distribution."
@@ -1041,7 +1048,9 @@ msgstr "수식에 잘못된 노드가 있습니다"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 사용하세요)"
+msgstr ""
+"수식이 잘못 지정되었습니다(동등성을 테스트하려면 두 개의 등호 ‘==‘를 "
+"사용하세요)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1174,7 +1183,9 @@ msgstr "만약"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:120
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "표현식이 참으로 확인되면 확인된 값을 사용하고 그렇지 않으면 다른 값을 사용합니다."
+msgstr ""
+"표현식이 참으로 확인되면 확인된 값을 사용하고 그렇지 않으면 다른 값을 "
+"사용합니다."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1322,7 +1333,9 @@ msgstr "jamovi는 이제 { 한국어 }를 제공합니다! ({Junghee Lee}님 감
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi는 이제 { 한국어 }를 제공합니다! (@{MarongHappy (Junghee Lee)}님 감사합니다)"
+msgstr ""
+"jamovi는 이제 { 한국어 }를 제공합니다! (@{MarongHappy (Junghee Lee)}님 "
+"감사합니다)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1578,7 +1591,8 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "이 데이터 세트에서 하나 이상의 분석이 임의 코드의\n"
+msgstr ""
+"이 데이터 세트에서 하나 이상의 분석이 임의 코드의\n"
 "                    실행을 허용하기 때문에 비활성화되었습니다. \n"
 "                    이 데이터 세트의 소스를 신뢰하는 경우에만\n"
 "                    활성화해야 합니다."
@@ -1839,7 +1853,9 @@ msgstr "변수에 대한 Box-Cox 변환을 반환합니다."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "IQR값을 바탕으로 아웃라이어 여부를 결정합니다: 상자그림 0 이내의 값을 반환하며, 절대값이 1.5 이상인 값들은 수염에서 벗어나 있습니다."
+msgstr ""
+"IQR값을 바탕으로 아웃라이어 여부를 결정합니다: 상자그림 0 이내의 값을 "
+"반환하며, 절대값이 1.5 이상인 값들은 수염에서 벗어나 있습니다."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -2147,7 +2163,9 @@ msgstr "특수 파일 불러오기"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>piece</i>은 인덱스별로 원하는 조각을 지정합니다."
+msgstr ""
+"구분 기호에 따라 텍스트를 조각으로 나눕니다. <i>piece</i>은 인덱스별로 "
+"원하는 조각을 지정합니다."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2233,7 +2251,9 @@ msgstr "콘텐츠가 클립보드에 복사되었습니다"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보드에서 <em>{k}+C</em>를 눌러 복사할 수 있습니다"
+msgstr ""
+"콘텐츠가 준비되었으며 아래 버튼을 사용하거나 키보드에서 <em>{k}+C</em>를 "
+"눌러 복사할 수 있습니다"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "The current value of the variable to which this transform is applied."
@@ -2241,7 +2261,9 @@ msgstr "이 변환이 적용되는 변수의 현재 값입니다."
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 지원하지 않습니다. 가중치는 가장 가까운 정수로 반올림되었습니다."
+msgstr ""
+"데이터는 변수 {}에 의해 가중치가 부여되지만 이 분석은 정수가 아닌 가중치를 "
+"지원하지 않습니다. 가중치는 가장 가까운 정수로 반올림되었습니다."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2250,7 +2272,9 @@ msgstr "데이터는 변수 {}에 의해 가중치가 부여됩니다."
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 분석에서는 비가중 데이터를 사용했습니다."
+msgstr ""
+"데이터에는 가중치가 적용되지만 이 분석은 가중치를 지원하지 않습니다. 이 "
+"분석에서는 비가중 데이터를 사용했습니다."
 
 #: jamovi/client/main/instance.js:489
 msgid "The file '{filename}' already exists. Overwrite this file?"
