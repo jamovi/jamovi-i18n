@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-04-15 18:09+0000\n"
-"Last-Translator: Milo Ivir <mail@milotype.de>\n"
+"PO-Revision-Date: 2026-06-05 04:26+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
 "Language: hr\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 5.17.1-dev\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -21,7 +21,8 @@ msgstr "'{}' je u grešci"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}'nije argument za {}()\n"
+msgstr ""
+"'{}'nije argument za {}()\n"
 "(Ako želiš testirati jednakost, koristi dva znaka jednakosti '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -130,7 +131,8 @@ msgstr "Isticanje"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "Pristup je odbijen. Možda nemaš odgovarajuće dozvole za pristup ovom resursu."
+msgstr ""
+"Pristup je odbijen. Možda nemaš odgovarajuće dozvole za pristup ovom resursu."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -739,7 +741,10 @@ msgstr "Radna površina"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "Određuje pojavljuje li se bilo koji od objekata u in1, in2, in3, … Većina ovih argumenata su opcionalni -- moguće je samo koristiti <b>CONTAINS(needle, haystack)</b>."
+msgstr ""
+"Određuje pojavljuje li se bilo koji od objekata u in1, in2, in3, … Većina "
+"ovih argumenata su opcionalni -- moguće je samo koristiti <b>CONTAINS"
+"(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -775,7 +780,9 @@ msgstr "Preuzimanja"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "Vadi uzorak n iz varijable. Npr. SAMPLE(var, 20), tj. SAMPLE(1, 20), tj. SAMPLE('training', 20, 'test')"
+msgstr ""
+"Vadi uzorak n iz varijable. Npr. SAMPLE(var, 20), tj. SAMPLE(1, 20), tj. "
+"SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -998,7 +1005,9 @@ msgstr "Filtrira varijeblu koristeći izraz filtra."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtri ne smiju referencirati na stupce koji koriste „V” ili stupčane funkcije"
+msgstr ""
+"Filtri ne smiju referencirati na stupce koji koriste „V” ili stupčane "
+"funkcije"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1035,7 +1044,9 @@ msgstr "Formula sadrži nedopušten član"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "Formula je pogrešno navedena (Ako želiš testirati jednakost, koristi dva znaka jednakosti '==')"
+msgstr ""
+"Formula je pogrešno navedena (Ako želiš testirati jednakost, koristi dva "
+"znaka jednakosti '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1313,11 +1324,15 @@ msgstr "jamovi datoteke {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi je sada dostupan na hrvatskom! (Puno hvala hrvatskom jamovi timu za prevođenje)"
+msgstr ""
+"jamovi je sada dostupan na hrvatskom! (Puno hvala hrvatskom jamovi timu za "
+"prevođenje)"
 
 #: jamovi/client/main/misc/announcements.js:2
 msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi je sada dostupan na hrvatskom! (Puno hvala hrvatskom jamovi timu za prevođenje)"
+msgstr ""
+"jamovi je sada dostupan na hrvatskom! (Puno hvala hrvatskom jamovi timu za "
+"prevođenje)"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 msgid "jamovi library"
@@ -1573,7 +1588,8 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "Jedna ili više analiza u ovom skupu podataka su deaktivirane\n"
+msgstr ""
+"Jedna ili više analiza u ovom skupu podataka su deaktivirane\n"
 "                     jer dopuštaju izvršavanje proizvoljnog koda.\n"
 "                     Aktiviraj ih samo ako vjeruješ izvoru za ovaj skup \n"
 "                    podataka."
@@ -1952,16 +1968,20 @@ msgstr "Vraća varijancu varijable."
 
 #: jamovi/client/main/main.ts:286
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "Vraća se na prethodno odabranu analizu i otvara ploču s opcijama s fokusom postavljenim na ploči s opcijama."
+msgstr ""
+"Vraća se na prethodno odabranu analizu i otvara ploču s opcijama s fokusom "
+"postavljenim na ploči s opcijama."
 
 #: jamovi/client/main/main.ts:302
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "Vraća se na prethodno odabranu analizu i prebacuje fokus na ispis rezultata."
+msgstr ""
+"Vraća se na prethodno odabranu analizu i prebacuje fokus na ispis rezultata."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 msgid "Returns to the previously selected analysis and shifts focus to the results output."
-msgstr "Vraća se na prethodno odabranu analizu i prebacuje fokus na ispis rezultata."
+msgstr ""
+"Vraća se na prethodno odabranu analizu i prebacuje fokus na ispis rezultata."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2149,7 +2169,9 @@ msgstr "Poseban uvoz"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "Rastavlja tekst na temelju separatora. <i>piece</i> specificira željeni dio prema indeksu."
+msgstr ""
+"Rastavlja tekst na temelju separatora. <i>piece</i> specificira željeni dio "
+"prema indeksu."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2215,7 +2237,9 @@ msgstr "Tablica"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "Uzima broj koji predstavlja broj dana od 1. siječnja 1970. i izrađuje formatirani datum."
+msgstr ""
+"Uzima broj koji predstavlja broj dana od 1. siječnja 1970. i izrađuje "
+"formatirani datum."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2233,15 +2257,20 @@ msgstr "Sadržaj je kopiran u međuspremnik"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "Sadržaj je pripremljen i može se kopirati pomoću gumba ispod ili pritiskom na <em>{k}+C</em> na tipkovnici"
+msgstr ""
+"Sadržaj je pripremljen i može se kopirati pomoću gumba ispod ili pritiskom "
+"na <em>{k}+C</em> na tipkovnici"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr "Trenutačna vrijednost varijable na koju se primjenjuje ova transformacija."
+msgstr ""
+"Trenutačna vrijednost varijable na koju se primjenjuje ova transformacija."
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "Podaci su ponderirani varijablom {}, međutim ova analiza ne podržava necjelobrojne pondere. Ponderi su zaokružen na najbliži cijeli broj."
+msgstr ""
+"Podaci su ponderirani varijablom {}, međutim ova analiza ne podržava "
+"necjelobrojne pondere. Ponderi su zaokružen na najbliži cijeli broj."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2250,7 +2279,9 @@ msgstr "Podaci su ponderirani varijablom {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "Podaci su ponderirani, međutim ova analiza ne podržava pondere. Ova je analiza koristila neponderirane podatke."
+msgstr ""
+"Podaci su ponderirani, međutim ova analiza ne podržava pondere. Ova je "
+"analiza koristila neponderirane podatke."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2326,7 +2357,8 @@ msgstr "Ova je analiza prekoračila vremensko ograničenje te je prekinuta."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Ova je analiza prekinuta, vjerojatno zbog dostizanja ograničenja resursa."
+msgstr ""
+"Ova je analiza prekinuta, vjerojatno zbog dostizanja ograničenja resursa."
 
 #: jamovi/client/main/main.ts:912
 msgid "This data set could not be opened"
@@ -2451,7 +2483,9 @@ msgstr "Nije moguće pristupiti biblioteci"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr "Nije moguće pristupiti internetu (vjerojatno zbog preusmjeravanja na stranicu prijave)"
+msgstr ""
+"Nije moguće pristupiti internetu (vjerojatno zbog preusmjeravanja na "
+"stranicu prijave)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2646,7 +2680,9 @@ msgstr "kada"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "Kada varijabla sadrži nedostajuću vrijednost, koristi vrijednost, inače ostalo."
+msgstr ""
+"Kada varijabla sadrži nedostajuću vrijednost, koristi vrijednost, inače "
+"ostalo."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2662,11 +2698,15 @@ msgstr "Ne možeš umetati retke dok su filtrirani redci skriveni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "Ne možeš promijeniti stupce koji utječu na filtre kada su filtrirani redci skriveni"
+msgstr ""
+"Ne možeš promijeniti stupce koji utječu na filtre kada su filtrirani redci "
+"skriveni"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
-msgstr "Ne možeš promijeniti transformacije koje utječu za filtre kada su redci skriveni"
+msgstr ""
+"Ne možeš promijeniti transformacije koje utječu za filtre kada su redci "
+"skriveni"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"
