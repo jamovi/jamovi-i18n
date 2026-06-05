@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2026-04-04 03:09+0000\n"
-"Last-Translator: konno_he <h3114931694@gmail.com>\n"
+"PO-Revision-Date: 2026-06-05 04:25+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
 "projects/jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh-cn\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -22,7 +22,8 @@ msgstr "'{}' 有错误"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}' 不是 {}() 的参数\n"
+msgstr ""
+"'{}' 不是 {}() 的参数\n"
 "（如果您想要判断是否相等，请使用双等符号'=='）"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -735,7 +736,9 @@ msgstr "桌面"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选的——可以简单地使用 <b>CONTAINS(needle, haystack)</b>。"
+msgstr ""
+"确定是否有任何项目出现在 in1, in2, in3, .... 请注意，这些参数中的大多数是可选"
+"的——可以简单地使用 <b>CONTAINS(needle, haystack)</b>。"
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
@@ -771,7 +774,9 @@ msgstr "下载"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "从变量中抽取 n 个样本。例 SAMPLE(var, 20)，例 SAMPLE(1, 20)，例 SAMPLE('training', 20, 'test')"
+msgstr ""
+"从变量中抽取 n 个样本。例 SAMPLE(var, 20)，例 SAMPLE(1, 20)，例 SAMPLE"
+"('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -1568,7 +1573,8 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "此数据集中的一项或多项分析已被禁用\n"
+msgstr ""
+"此数据集中的一项或多项分析已被禁用\n"
 "                    因为它们允许执行任意代码。\n"
 "                    只有在您信任此数据集来源的情况下，才应启用\n"
 "                    它们。"
@@ -1832,7 +1838,9 @@ msgstr "返回变量的 Box Cox 变换。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的箱内，则返回 0，绝对值大于 1.5 的在箱须之外。"
+msgstr ""
+"根据 IQR 返回变量是否为异常值：如果值在 Boxplot 的箱内，则返回 0，绝对值大于 "
+"1.5 的在箱须之外。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
