@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-03-09 08:09+0000\n"
-"Last-Translator: SHIBATA Seiji <contact@sbtseiji.net>\n"
+"PO-Revision-Date: 2026-06-05 04:26+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ja/>\n"
 "Language: ja\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.17-dev\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -20,7 +20,9 @@ msgstr "‘{}’にエラーがあります"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "「{}」は {}() の引数ではありません\\n（値が等しいことを確かめたいのであれば、「=」ではなく「==」としてください））"
+msgstr ""
+"「{}」は {}() の引数ではありません\\n（値が等しいことを確かめたいのであれば、"
+"「=」ではなく「==」としてください））"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -771,7 +773,9 @@ msgstr "ダウンロード"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "変数の中から標本サイズ（n）で指定された個数の値を無作為抽出します（例：SAMPLE(var, 20), SAMPLE(‘training’, 20, ‘test’)）。"
+msgstr ""
+"変数の中から標本サイズ（n）で指定された個数の値を無作為抽出します（例：SAMPLE"
+"(var, 20), SAMPLE(‘training’, 20, ‘test’)）。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -1031,7 +1035,9 @@ msgstr "式に不正なノードが含まれています"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "式の指定に誤りがあります（値が等しいことを確かめたいのであれば、「=」でなく「==」としてください）"
+msgstr ""
+"式の指定に誤りがあります（値が等しいことを確かめたいのであれば、「=」でなく"
+"「==」としてください）"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1164,7 +1170,9 @@ msgstr "もし"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "条件式（expression）が「真」の場合は「真の場合（value）」、そうでない場合は「偽の場合（else）」の値を返します。"
+msgstr ""
+"条件式（expression）が「真」の場合は「真の場合（value）」、そうでない場合は「"
+"偽の場合（else）」の値を返します。"
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1568,7 +1576,8 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "このデータセットで１つ以上の分析が無効化されています。\n"
+msgstr ""
+"このデータセットで１つ以上の分析が無効化されています。\n"
 "                    任意のコードが実行可能な状態になっているためです。\n"
 "                    それらを有効にするのは、このデータの入手先が信頼できる\n"
 "                    場合だけにしてください。"
@@ -1834,7 +1843,10 @@ msgstr "変数のボックスコックス変換値を返します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "四分位範囲（IQR）に基づいて変数値が外れ値かどうかを判断します。値が箱ひげ図の箱の中にあるときは0が返されます。絶対値が1.5を超える場合には、その値がひげの外にあることを意味します。"
+msgstr ""
+"四分位範囲（IQR）に基づいて変数値が外れ値かどうかを判断します。値が箱ひげ図の"
+"箱の中にあるときは0が返されます。絶対値が1.5を超える場合には、その値がひげの"
+"外にあることを意味します。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1943,7 +1955,9 @@ msgstr "変数値の分散（不偏分散）を返します。"
 
 #: jamovi/client/main/main.ts:286
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "前回選択した分析に戻り、オプションパネルを開いて、フォーカスをオプションパネルに設定します。"
+msgstr ""
+"前回選択した分析に戻り、オプションパネルを開いて、フォーカスを"
+"オプションパネルに設定します。"
 
 #: jamovi/client/main/main.ts:302
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
@@ -2206,7 +2220,9 @@ msgstr "表"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "1970年1月1日からの経過日数を表す数値を受け取り、フォーマットされた日付を生成します。"
+msgstr ""
+"1970年1月1日からの経過日数を表す数値を受け取り、フォーマットされた日付を生成"
+"します。"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2234,7 +2250,9 @@ msgstr "この変換が適用される変数値です。"
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "データは{}変数で重みづけされていますが、この分析は非整数の重みをサポートしていません。重みは最も近い整数に丸められました。"
+msgstr ""
+"データは{}変数で重みづけされていますが、この分析は非整数の重みをサポートして"
+"いません。重みは最も近い整数に丸められました。"
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2243,7 +2261,9 @@ msgstr "データは{}変数で重みづけされています。"
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "データは重みづけされていますが、この分析は重みづけをサポートしていません。分析では重みづけなしのデータを使用しました。"
+msgstr ""
+"データは重みづけされていますが、この分析は重みづけをサポートしていません。分"
+"析では重みづけなしのデータを使用しました。"
 
 #: jamovi/client/main/instance.js:418
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2637,7 +2657,9 @@ msgstr "もし"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "変数に欠損値が含まれている場合は「真の場合（value）」、そうでない場合は「偽の場合（else）」の値を返します。"
+msgstr ""
+"変数に欠損値が含まれている場合は「真の場合（value）」、そうでない場合は「偽の"
+"場合（else）」の値を返します。"
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
