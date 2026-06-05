@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-05-16 19:11+0000\n"
-"Last-Translator: Kehribar <103407696+dpentx@users.noreply.github.com>\n"
+"PO-Revision-Date: 2026-06-05 04:27+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
 "Language-Team: Turkish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/tr/>\n"
 "Language: tr\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6.dev0\n"
+"X-Generator: Weblate 2026.6\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -19,8 +19,10 @@ msgstr "'{}' hatalı"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "‘{}’, {}() ait bir argüman değil\n"
-"(Eğer eşit olup olmadıklarını test etmek istiyorsanız, iki eşittir işareti ‘==‘ kullanın)"
+msgstr ""
+"‘{}’, {}() ait bir argüman değil\n"
+"(Eğer eşit olup olmadıklarını test etmek istiyorsanız, iki eşittir işareti "
+"‘==‘ kullanın)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 msgid "(auto)"
@@ -128,7 +130,8 @@ msgstr "Vurgu"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
+msgstr ""
+"Erişim reddedildi. Bu kaynağa erişim için yeterli yetkileriniz olmayabilir."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -731,7 +734,10 @@ msgstr "Masaüstü"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "Öğelerden herhangi birinin in1, in2, in3, ...'de görünüp görünmediğini belirler. Bu argümanların çoğunun isteğe bağlı olduğunu unutmayın -- basitçe <b>CONTAINS(needle, haystack)</b> kullanmak mümkündür."
+msgstr ""
+"Öğelerden herhangi birinin in1, in2, in3, ...'de görünüp görünmediğini "
+"belirler. Bu argümanların çoğunun isteğe bağlı olduğunu unutmayın -- basitçe "
+"<b>CONTAINS(needle, haystack)</b> kullanmak mümkündür."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -767,7 +773,9 @@ msgstr "İndirilenler"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "Değişkenden n büyüklüğünde bir örneklem seçer. Ör: SAMPLE(var, 20), Ör: SAMPLE(1, 20), Ör: SAMPLE('training', 20, 'test')"
+msgstr ""
+"Değişkenden n büyüklüğünde bir örneklem seçer. Ör: SAMPLE(var, 20), Ör: "
+"SAMPLE(1, 20), Ör: SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -990,7 +998,8 @@ msgstr "Filtre ifadesini kullanarak bir değişkeni filtreler."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
+msgstr ""
+"Filtreler, 'V' veya sütun işlevlerini kullanan sütunlarla ilişkilendirilemez"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1027,7 +1036,9 @@ msgstr "Formül geçersiz düğüm içeriyor"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "Formül yanlış belirtilmiş (Eşitliği test etmek istiyorsanız, iki eşittir işareti '==' kullanın)"
+msgstr ""
+"Formül yanlış belirtilmiş (Eşitliği test etmek istiyorsanız, iki eşittir "
+"işareti '==' kullanın)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1160,7 +1171,9 @@ msgstr "Eğer"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:116
 msgid "If the expression resolves true, use the value, otherwise the else."
-msgstr "İfade doğru olarak çözülürse, değeri kullanın, aksi takdirde diğerini kullanın."
+msgstr ""
+"İfade doğru olarak çözülürse, değeri kullanın, aksi takdirde diğerini "
+"kullanın."
 
 #: jamovi/client/resultsview/image.js:54
 msgid "Image"
@@ -1566,9 +1579,11 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "Bu veri kümesindeki bir veya daha fazla analiz devre dışı bırakıldı\n"
+msgstr ""
+"Bu veri kümesindeki bir veya daha fazla analiz devre dışı bırakıldı\n"
 "                    çünkü keyfi kodun yürütülmesine izin verirler. Sizin\n"
-"                    bunları yalnızca bu veri kümesine güveniyorsanız etkinleştirmelisiniz\n"
+"                    bunları yalnızca bu veri kümesine güveniyorsanız "
+"etkinleştirmelisiniz\n"
 "                    kaynağı."
 
 #: jamovi/client/main/viewcontroller.js:678
@@ -1652,7 +1667,9 @@ msgstr "Paragraf"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
 msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "Bir tarihi ayrıştırır ve 1 Ocak 1970'ten bu yana geçen gün sayısına dönüştürür."
+msgstr ""
+"Bir tarihi ayrıştırır ve 1 Ocak 1970'ten bu yana geçen gün sayısına "
+"dönüştürür."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1831,7 +1848,10 @@ msgstr "Değişkenin Box Cox dönüşümünü döndürür."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "IQR'ye göre değişkenin bir aykırı değer olup olmadığını döndürür: Değer bir Boxplot kutusunun içindeyse 0 döndürülür, 1,5'ten büyük mutlak değerler bıyıkların dışındadır."
+msgstr ""
+"IQR'ye göre değişkenin bir aykırı değer olup olmadığını döndürür: Değer bir "
+"Boxplot kutusunun içindeyse 0 döndürülür, 1,5'ten büyük mutlak değerler "
+"bıyıkların dışındadır."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -1940,7 +1960,9 @@ msgstr "Bir değişkenin varyansını döndürür."
 
 #: jamovi/client/main/main.ts:286
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "Önceden seçilen analize geri döner ve seçenekler panelini açar, odak seçenekler panelinde ayarlanır."
+msgstr ""
+"Önceden seçilen analize geri döner ve seçenekler panelini açar, odak "
+"seçenekler panelinde ayarlanır."
 
 #: jamovi/client/main/main.ts:302
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
@@ -2136,7 +2158,9 @@ msgstr "Özel İçeri Aktarım"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "Metni bir ayırıcıya göre parçalara böler. <i>piece</i> istenen parçayı dizine göre belirtir."
+msgstr ""
+"Metni bir ayırıcıya göre parçalara böler. <i>piece</i> istenen parçayı "
+"dizine göre belirtir."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2202,7 +2226,9 @@ msgstr "Tablo"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "1Ocak 1970'ten bu yana geçen gün sayısını temsil eden bir sayı alır ve biçimlendirilmiş bir tarih üretir."
+msgstr ""
+"1Ocak 1970'ten bu yana geçen gün sayısını temsil eden bir sayı alır ve "
+"biçimlendirilmiş bir tarih üretir."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2220,7 +2246,9 @@ msgstr "İçerik panoya kopyalandı"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "İçerik hazırlandı ve aşağıdaki düğmeyle veya klavyenizdeki <em>{k}+C</em> tuşlarına basılarak kopyalanabilir"
+msgstr ""
+"İçerik hazırlandı ve aşağıdaki düğmeyle veya klavyenizdeki <em>{k}+C</em> "
+"tuşlarına basılarak kopyalanabilir"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
@@ -2228,7 +2256,10 @@ msgstr "Bu dönüşümün uygulandığı değişkenin geçerli değeri."
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "Veriler {} değişkenine göre ağırlıklandırılır, ancak bu analiz tam sayı olmayan ağırlıkları desteklemez. Ağırlıklar en yakın tam sayıya yuvarlanmıştır."
+msgstr ""
+"Veriler {} değişkenine göre ağırlıklandırılır, ancak bu analiz tam sayı "
+"olmayan ağırlıkları desteklemez. Ağırlıklar en yakın tam sayıya "
+"yuvarlanmıştır."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2237,7 +2268,9 @@ msgstr "Veriler {} değişkeniyle ağırlıklandırılır."
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "Veriler ağırlıklandırılmıştır, ancak bu analiz ağırlıkları desteklememektedir. Bu analizde veriler ağırlıklandırılmadan kullanılmıştır."
+msgstr ""
+"Veriler ağırlıklandırılmıştır, ancak bu analiz ağırlıkları "
+"desteklememektedir. Bu analizde veriler ağırlıklandırılmadan kullanılmıştır."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2313,7 +2346,8 @@ msgstr "Bu analiz mevcut zaman limitini aştı ve sonlandırıldı."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
+msgstr ""
+"Bu analiz, muhtemelen bir kaynak sınırına ulaşılması nedeniyle sonlandırıldı."
 
 #: jamovi/client/main/main.ts:912
 msgid "This data set could not be opened"
@@ -2631,7 +2665,9 @@ msgstr "ne zaman"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "Değişken eksik bir değer içerdiğinde, değeri kullanın, aksi takdirde else'i kullanın."
+msgstr ""
+"Değişken eksik bir değer içerdiğinde, değeri kullanın, aksi takdirde else'i "
+"kullanın."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2647,11 +2683,15 @@ msgstr "Filtrelenen satırlar gizliyken satır ekleyemezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "Filtrelenen satırlar gizliyken, filtreleri etkileyen sütunları değiştiremezsiniz"
+msgstr ""
+"Filtrelenen satırlar gizliyken, filtreleri etkileyen sütunları "
+"değiştiremezsiniz"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
-msgstr "Filtrelenen satırlar gizliyken, filtreleri etkileyen dönüşümleri değiştiremezsiniz"
+msgstr ""
+"Filtrelenen satırlar gizliyken, filtreleri etkileyen dönüşümleri "
+"değiştiremezsiniz"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 msgid "You do not have appropriate permissions (403)"
