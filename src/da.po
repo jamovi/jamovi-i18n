@@ -1,14 +1,16 @@
 #
 msgid ""
-msgstr "PO-Revision-Date: 2025-06-07 08:01+0000\n"
-"Last-Translator: Tim sørensen <lang2fte@gmail.com>\n"
-"Language-Team: Danish <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/da/>\n"
+msgstr ""
+"PO-Revision-Date: 2026-06-05 04:27+0000\n"
+"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"Language-Team: Danish <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/da/>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 5.12-dev\n"
+"X-Generator: Weblate 2026.6\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -18,7 +20,8 @@ msgstr "'{}' har en fejl"
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "»{}« er ikke et argument for {}()\n"
+msgstr ""
+"»{}« er ikke et argument for {}()\n"
 "(Hvis du vil teste lighed, skal du bruge to lighedstegn '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -131,7 +134,9 @@ msgstr "Fremhævet"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Access is denied. You may not have the appropriate permissions to access this resource."
-msgstr "Ingen adgang. Du har muligvis ikke de nødvendige rettigheder til at få adgang til denne ressource."
+msgstr ""
+"Ingen adgang. Du har muligvis ikke de nødvendige rettigheder til at få "
+"adgang til denne ressource."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -746,7 +751,10 @@ msgstr "Skrivebord"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:124
 msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "Bestemmer, om nogen af elementerne vises i in1, in2, in3, .... Bemærk, at de fleste af disse argumenter er valgfrie - det er muligt blot at bruge <b>CONTAINS(needle, haystack)</b>."
+msgstr ""
+"Bestemmer, om nogen af elementerne vises i in1, in2, in3, .... Bemærk, at de "
+"fleste af disse argumenter er valgfrie - det er muligt blot at bruge <b>"
+"CONTAINS(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -783,7 +791,9 @@ msgstr "Downloads"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:148
 msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "Trækker en stikprøve på n fra variablen. f.eks. SAMPLE(var, 20), f.eks. SAMPLE(1, 20), f.eks. SAMPLE('training', 20, 'test')"
+msgstr ""
+"Trækker en stikprøve på n fra variablen. f.eks. SAMPLE(var, 20), f.eks. "
+"SAMPLE(1, 20), f.eks. SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:154
 msgid "Draws samples from a Beta distribution."
@@ -1011,7 +1021,8 @@ msgstr "Filtrerer en variabel ved hjælp af filterudtrykket."
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Filtre kan ikke henvise til kolonner, der bruger »V«- eller kolonnefunktioner"
+msgstr ""
+"Filtre kan ikke henvise til kolonner, der bruger »V«- eller kolonnefunktioner"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
@@ -1052,7 +1063,9 @@ msgstr "Formel indeholder ugyldig node"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "Formlen er forkert specificeret (hvis du vil teste lighed, skal du bruge to lighedstegn '==')"
+msgstr ""
+"Formlen er forkert specificeret (hvis du vil teste lighed, skal du bruge to "
+"lighedstegn '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 msgid "Frequencies"
@@ -1604,7 +1617,8 @@ msgid "One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "En eller flere analyser i dette datasæt er deaktiveret\n"
+msgstr ""
+"En eller flere analyser i dette datasæt er deaktiveret\n"
 "                    fordi de tillader udførelse af vilkårlig kode. Du\n"
 "                    bør kun aktivere dem, hvis du har tillid til dette\n"
 "                    datasættets kilde."
@@ -1885,7 +1899,10 @@ msgstr "Beregner Box-Cox-transformationen af variablen."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "Returnerer om variablen er en outlier (i henhold til IQR): Returneres 0 hvis værdien er inden for boksen i et boksplot; hvis de absolutte værdier er større end 1,5, er de uden for whiskerne."
+msgstr ""
+"Returnerer om variablen er en outlier (i henhold til IQR): Returneres 0 hvis "
+"værdien er inden for boksen i et boksplot; hvis de absolutte værdier er "
+"større end 1,5, er de uden for whiskerne."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
@@ -2200,7 +2217,9 @@ msgstr "Specialimport"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "Opdeler tekst baseret på en afgrænser. <i>piece</i> angiver det ønskede stykke efter indeks."
+msgstr ""
+"Opdeler tekst baseret på en afgrænser. <i>piece</i> angiver det ønskede "
+"stykke efter indeks."
 
 #: jamovi/client/main/tableview.js:62
 msgid "Spreadsheet"
@@ -2285,15 +2304,20 @@ msgstr "Indholdet er blevet kopieret til udklipsholderen"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "Indholdet er forberedt og kan kopieres ved hjælp af knappen nedenfor eller ved at trykke på <em>{k}+C</em> på tastaturet"
+msgstr ""
+"Indholdet er forberedt og kan kopieres ved hjælp af knappen nedenfor eller "
+"ved at trykke på <em>{k}+C</em> på tastaturet"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr "Den aktuelle værdi af den variabel, som denne transformation anvendes på."
+msgstr ""
+"Den aktuelle værdi af den variabel, som denne transformation anvendes på."
 
 #: jamovi/client/main/strings.ts:6
 msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "Dataene er vægtet med variablen {}, men denne analyse understøtter ikke ikke-heltallige vægte. Vægtene blev afrundet til nærmeste heltal."
+msgstr ""
+"Dataene er vægtet med variablen {}, men denne analyse understøtter ikke ikke-"
+"heltallige vægte. Vægtene blev afrundet til nærmeste heltal."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2302,7 +2326,9 @@ msgstr "Dataene er vægtet med variablen {}."
 
 #: jamovi/client/main/strings.ts:5
 msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "Dataene er vægtede, men denne analyse understøtter ikke brugen af vægte. Dataene bruges uvægtet i denne analyse."
+msgstr ""
+"Dataene er vægtede, men denne analyse understøtter ikke brugen af vægte. "
+"Dataene bruges uvægtet i denne analyse."
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
@@ -2344,7 +2370,8 @@ msgstr "Biblioteket er deaktiveret"
 
 #: jamovi/server/jamovi/server/scheduler.py
 msgid "The module for this analysis is not installed, or is unavailable"
-msgstr "Modulet til denne analyse er ikke installeret eller er ikke tilgængeligt"
+msgstr ""
+"Modulet til denne analyse er ikke installeret eller er ikke tilgængeligt"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 #, fuzzy
@@ -2385,7 +2412,9 @@ msgstr "Analysen har overskredet de nuværende tidsgrænser og er afsluttet."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Analysen er blevet afbrudt, formentlig fordi den stødte på en ressourcebegrænsning."
+msgstr ""
+"Analysen er blevet afbrudt, formentlig fordi den stødte på en "
+"ressourcebegrænsning."
 
 #: jamovi/client/main/main.ts:912
 #, fuzzy
@@ -2513,7 +2542,9 @@ msgstr "Kan ikke få adgang til biblioteket"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "Unable to access the internet (likely due to a captive portal)"
-msgstr "Kan ikke få adgang til internettet (sandsynligvis fordi internetadgang kræver et login)"
+msgstr ""
+"Kan ikke få adgang til internettet (sandsynligvis fordi internetadgang "
+"kræver et login)"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to browse {}"
@@ -2718,7 +2749,9 @@ msgstr "når"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:118
 msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "Når variablen indeholder en manglende værdi, skal du bruge den første værdi, ellers den anden."
+msgstr ""
+"Når variablen indeholder en manglende værdi, skal du bruge den første værdi, "
+"ellers den anden."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 msgid "Why is this additional step necessary?"
@@ -2734,11 +2767,15 @@ msgstr "Du kan ikke indsætte rækker, mens filtrerede rækker er skjulte"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "Du kan ikke ændre kolonner, der påvirker filtre, når filtrerede rækker er skjulte"
+msgstr ""
+"Du kan ikke ændre kolonner, der påvirker filtre, når filtrerede rækker er "
+"skjulte"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
-msgstr "Du kan ikke ændre transformationer, der påvirker filtre, når filtrerede rækker er skjulte"
+msgstr ""
+"Du kan ikke ændre transformationer, der påvirker filtre, når filtrerede "
+"rækker er skjulte"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 #, fuzzy
