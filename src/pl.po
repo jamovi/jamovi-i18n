@@ -2,7 +2,7 @@
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-06-27 05:35+0000\n"
-"Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
+"Last-Translator: Lucjusz Kowalski <observator666@protonmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/pl/>\n"
 "Language: pl\n"
@@ -420,7 +420,6 @@ msgid "Close"
 msgstr "Zamknij"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
 msgstr "Zamknij menu pliku"
 
@@ -457,7 +456,6 @@ msgid "Column is not editable"
 msgstr "Kolumna nie jest edytowalna"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Przecinek"
 
@@ -552,7 +550,6 @@ msgstr "Kopiuj"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
 msgstr "Kopiuj Latex"
 
@@ -662,7 +659,6 @@ msgid "decimal places"
 msgstr "Miejsca dziesiętne"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
 msgstr "Symbol dziesiętny"
 
@@ -767,7 +763,6 @@ msgid "Don't Save"
 msgstr "Nie zapisuj"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "Kropka"
 
@@ -1018,7 +1013,6 @@ msgid "Filters may not reference output variables"
 msgstr "Filtry nie mogą odwoływać się do zmiennych wyjściowych"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
 msgstr "Znajdż moduł w bibliotece jamovi"
 
@@ -1193,9 +1187,8 @@ msgid "Image"
 msgstr "Obraz"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Obrazek zmieniony na {width} na {height}"
+msgstr "Rozmiar obrazka zmieniony na {width} na {height}"
 
 #: jamovi/client/main/backstage.js:1277
 #: jamovi/client/main/backstage.js:278
@@ -1443,7 +1436,6 @@ msgid "Minimal"
 msgstr "Minimalizm"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
 msgstr "Brakujący lub niezgodny moduł"
 
@@ -1712,16 +1704,15 @@ msgid "Pin level"
 msgstr "Przypnij poziom"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Proszę <em>zainstaluj lub zaktualizuj</em> ten moduł z biblioteki jamovi."
+msgstr ""
+"Proszę <em>zainstaluj lub zaktualizuj</em> ten moduł z biblioteki jamovi."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Użyj klawiszy ctrl-v, aby wkleić dane do arkusza."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
 msgstr "Wykres"
 
@@ -1738,7 +1729,6 @@ msgid "PNG Image {ext}"
 msgstr "Obraz PNG {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
 msgstr "Slajd PowerPoint {ext}"
 
