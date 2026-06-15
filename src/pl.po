@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:28+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"PO-Revision-Date: 2026-06-27 05:35+0000\n"
+"Last-Translator: Tomasz Misiuro <tomaszmisiuro@gmail.com>\n"
 "Language-Team: Polish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/pl/>\n"
 "Language: pl\n"
@@ -11,7 +11,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
 "|| n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.7.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -38,7 +38,6 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Jest to dziwactwo Safari i iPadów)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
 msgstr "{} Opcje:"
 
@@ -1431,9 +1430,8 @@ msgid "Manage installed"
 msgstr "Zarządzaj zainstalowanymi"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
-msgstr "Maks: {count}"
+msgstr "Maks.: {count}"
 
 #: jamovi/client/main/editors/transformeditor.js:223
 #: jamovi/client/main/vareditor/datavarwidget.js:271
@@ -1757,7 +1755,6 @@ msgid "Previous variable"
 msgstr "Poprzednia zmienna"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
 msgstr "Zapisz projekt jako"
 
@@ -2394,9 +2391,9 @@ msgid "This is a data variable."
 msgstr "To jest zmienna z danymi."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Ten moduł jest albo <em>nieobecny lub niezgodny</em> z tą wersją jamovi."
+msgstr ""
+"Ten moduł jest <em>niedostępny lub jest niezgodny</em> z tą wersją jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2587,7 +2584,6 @@ msgid "Unrecognised file format"
 msgstr "Nieznany formatu pliku"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Bez tytułu"
 
