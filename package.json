@@ -4,6 +4,9 @@
   "type": "module",
   "description": "The jamovi i18n compiler",
   "main": "index.js",
+  "scripts": {
+    "test": "node --test"
+  },
   "bin": {
     "ji8n": "index.js"
   },
