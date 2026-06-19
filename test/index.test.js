@@ -147,6 +147,28 @@ test('create rejects non-Weblate language codes', () => {
 
     assert.notEqual(result.status, 0);
     assert.match(result.stdout, /Invalid language code 'catalog'/);
+
+    result = runCli(['--create', sourceDir, '--code', 'en419']);
+
+    assert.notEqual(result.status, 0);
+    assert.match(result.stdout, /Invalid language code 'en419'/);
+
+    result = runCli(['--create', sourceDir, '--code', 'zh_Hans419']);
+
+    assert.notEqual(result.status, 0);
+    assert.match(result.stdout, /Invalid language code 'zh_Hans419'/);
+});
+
+test('create accepts Weblate numeric region codes', () => {
+    const sourceDir = mkdirTemp();
+    writeCatalog(path.join(sourceDir, 'catalog.pot'));
+
+    const result = runCli(['--create', sourceDir, '--code', 'es_419']);
+
+    assert.equal(result.status, 0, result.stderr || result.stdout);
+    const poPath = path.join(sourceDir, 'es_419.po');
+    assert.equal(fs.existsSync(poPath), true);
+    assert.match(fs.readFileSync(poPath, 'utf8'), /Language: es_419\\n/);
 });
 
 test('create rejects duplicate language files', () => {

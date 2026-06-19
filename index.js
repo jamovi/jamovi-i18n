@@ -28,7 +28,7 @@ const ARGS = [
 const args = CLA(ARGS);
 
 const isValidWeblateLanguageCode = function(code) {
-    const weblateRegex = /^[a-z]{2,3}(?:_[A-Z][a-z]{3})?(?:_[A-Z]{2}|\d{3})?(?:_(?:[A-Za-z0-9]{5,8}|\d{4}))*$/;
+    const weblateRegex = /^[a-z]{2,3}(?:_[A-Z][a-z]{3})?(?:_(?:[A-Z]{2}|\d{3}))?(?:_(?:[a-z0-9]{5,8}|\d{4}))*$/;
 
     return typeof code === 'string' && weblateRegex.test(code);
 }
