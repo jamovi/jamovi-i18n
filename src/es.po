@@ -3,7 +3,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-06-29 18:01+0000\n"
+"PO-Revision-Date: 2026-07-02 09:01+0000\n"
 "Last-Translator: Miguel L <miguellb@unizar.es>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
@@ -1663,7 +1663,7 @@ msgstr[1] "Múltiples Variables Resultado ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:68
 msgid "p-value format"
-msgstr "Formato de valor p"
+msgstr "Formato de p-valor"
 
 #: jamovi/client/main/ribbon/annotationtab.js:135
 msgid "Paragraph"
@@ -1854,9 +1854,9 @@ msgstr "Devuelve una transformación de Box Cox de la variable."
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
 msgstr ""
-"Devuelve si la variable es un valor atípico según el R.I.Q.: si el valor "
-"está dentro del cuadro de un gráfico de cajas se devuelve 0, los valores "
-"absolutos mayores que 1.5 están fuera de las antenas."
+"Valor según el valor atípico respecto al RIQ: si el valor está dentro del "
+"cuadro de un gráfico de cajas se devuelve 0, los valores absolutos mayores "
+"que 1.5 están fuera de los bigotes."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 msgid "Returns the absolute value of a number."
