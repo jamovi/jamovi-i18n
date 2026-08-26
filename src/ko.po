@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:28+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"PO-Revision-Date: 2026-10-14 03:35+0000\n"
+"Last-Translator: Sungbae Hong <sbhong@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Korean <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/ko/>\n"
 "Language: ko\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -36,14 +36,12 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(이것은 Safari와 iPad의 특징입니다)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
-msgstr "{} Options:"
+msgstr "{} 선택사항:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
-#, fuzzy
 msgid "{0} directory contents"
-msgstr "{0} 작공 소성 었는"
+msgstr "{0} 디렉토리 내용"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -52,9 +50,8 @@ msgstr "{columnType} 이 열들은 편집할 수 없습니다."
 #: jamovi/client/analysisui/formatdef.js:116
 #: jamovi/client/analysisui/formatdef.js:271
 #: jamovi/client/analysisui/gridtargetcontrol.js:596
-#, fuzzy
 msgid "{list} and {lastItem}"
-msgstr "{list} and {lastItem}"
+msgstr "{목록} 그리고 {최종항목}"
 
 #: jamovi/client/analysisui/formatdef.js:112
 #: jamovi/client/analysisui/formatdef.js:267
