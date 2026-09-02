@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:25+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"PO-Revision-Date: 2026-09-02 13:51+0000\n"
+"Last-Translator: Watchman89 <rplatte@hotmail.nl>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.9.dev0\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -1743,9 +1743,8 @@ msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Gebruik Ctrl + V om te plakken."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "Plot"
+msgstr "Grafiek"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Plot theme"
