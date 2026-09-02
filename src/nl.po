@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-09-02 13:51+0000\n"
-"Last-Translator: Watchman89 <rplatte@hotmail.nl>\n"
+"PO-Revision-Date: 2026-10-14 03:35+0000\n"
+"Last-Translator: Watchman89 <watchman89@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
 "nl/>\n"
 "Language: nl\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.9.dev0\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
@@ -36,7 +36,6 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Dit is een eigenaardigheid van Safari en iPads)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
 msgstr "{} Opties:"
 
@@ -424,7 +423,6 @@ msgid "Close"
 msgstr "Sluiten"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
 msgstr "Bestandmenu sluiten"
 
@@ -460,7 +458,6 @@ msgid "Column is not editable"
 msgstr "Kan kolom niet bewerken"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Komma"
 
@@ -554,7 +551,6 @@ msgstr "Kopiëren"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
 msgstr "Latex kopiëren"
 
@@ -663,9 +659,8 @@ msgid "decimal places"
 msgstr "decimalen"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
-msgstr "Decimale symbool"
+msgstr "Decimaalsymbool"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Default"
@@ -716,9 +711,8 @@ msgid "Delete selected variables"
 msgstr "Geselecteerde variabelen verwijderen"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
-#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr "Transformatie verwijderen - {transformName}"
+msgstr "Transformatie verwijderen  - {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -767,7 +761,6 @@ msgid "Don't Save"
 msgstr "Niet opslaan"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "Punt"
 
@@ -809,9 +802,8 @@ msgid "Duplicate"
 msgstr "Dupliceren"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
-#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr "Duplicaat transformatie  - {transformName}"
+msgstr "Dupliceer transformatie  - {transformName}"
 
 #: jamovi/client/main/main.js:189
 #: jamovi/client/main/ribbon/annotationtab.js:106
@@ -825,12 +817,10 @@ msgid "Edit"
 msgstr "Bewerken"
 
 #: jamovi/client/main/tableview.js:104
-#, fuzzy
 msgid "Edit filters"
 msgstr "Filters bewerken"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
-#, fuzzy
 msgid "Edit transform - {transformName}"
 msgstr "Bewerk transformatie - {transformName}"
 
@@ -957,9 +947,8 @@ msgid "File is corrupt (manifest is corrupt)"
 msgstr "Bestand is beschadigd (manifest is beschadigd)"
 
 #: jamovi/client/main/ribbon.js:174
-#, fuzzy
 msgid "File menu"
-msgstr "Bestandmenu"
+msgstr "Bestandsmenu"
 
 #: jamovi/client/main/backstage.ts:1184
 msgid "File menu items"
@@ -970,7 +959,6 @@ msgid "File Saved"
 msgstr "Bestand opgeslagen"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
-#, fuzzy
 msgid "File type"
 msgstr "Bestandstype"
 
@@ -1021,22 +1009,18 @@ msgid "Filters may not reference output variables"
 msgstr "Filters kunnen niet verwijzen naar uitvoersvariabelen"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
 msgstr "Module zoeken in jamovi-bibliotheek"
 
 #: jamovi/client/main/main.ts:243
-#, fuzzy
 msgid "Focus on spreadsheet"
 msgstr "Focus op spreadsheet"
 
 #: jamovi/client/main/main.ts:262
-#, fuzzy
 msgid "Focus on the variable setup"
-msgstr "Focus op variabele-instelling"
+msgstr "Focus op de variabele-instelling"
 
 #: jamovi/client/main/main.ts:248
-#, fuzzy
 msgid "Focus on variable list"
 msgstr "Focus op variabelelijst"
 
@@ -1133,7 +1117,6 @@ msgid "Hide"
 msgstr "Verbergen"
 
 #: jamovi/client/main/main.ts:238
-#, fuzzy
 msgid "Hide analysis options"
 msgstr "Analyse-opties verbergen"
 
@@ -1146,18 +1129,16 @@ msgid "Hide library"
 msgstr "Bibliotheek verwijderen"
 
 #: jamovi/client/main/store/pagemodules.js:271
-#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr "Module {moduleName} verbergen uit de Analyse-ribbon"
+msgstr "Module {moduleName} verbergen uit het Analyse-lint"
 
 #: jamovi/client/analysisui/main.js:224
 msgid "Hide options"
 msgstr "Opties verwijderen"
 
 #: jamovi/client/main/variableeditor.js:52
-#, fuzzy
 msgid "Hide variable setup"
-msgstr "Variabele instellingen verbergen"
+msgstr "Variabele-instellingen verbergen"
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "Highlight Color"
@@ -1202,9 +1183,8 @@ msgid "Image"
 msgstr "Afbeelding"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Afbeelding ingesteld op {width} bij {height}"
+msgstr "Afbeelding vergroot/verkleind naar {width} bij {height}"
 
 #: jamovi/client/main/backstage.js:334
 #: jamovi/client/main/ribbon/appmenu.js:115
@@ -1262,12 +1242,10 @@ msgid "Insert how many rows?"
 msgstr "Hoeveel rijen invoegen?"
 
 #: jamovi/client/main/ribbon/datatab.js:39
-#, fuzzy
 msgid "Insert new computed variable"
 msgstr "Nieuwe berekende variabele invoegen"
 
 #: jamovi/client/main/ribbon/datatab.js:40
-#, fuzzy
 msgid "Insert new transformed variable"
 msgstr "Nieuwe getransformeerde variabele invoegen"
 
@@ -1281,7 +1259,6 @@ msgid "Install"
 msgstr "Installeren"
 
 #: jamovi/client/main/store/pagemodules.js:240
-#, fuzzy
 msgid "Install module {moduleName} version {version}"
 msgstr "Installeer module {moduleName} versie {version}"
 
@@ -1299,9 +1276,8 @@ msgid "Installed version needs to be updated"
 msgstr "Geïnstalleerde versie moet worden bijgewerkt"
 
 #: jamovi/client/main/store/pagemodules.js:364
-#, fuzzy
 msgid "Installing {module}"
-msgstr "Installeer {module}"
+msgstr "{module} wordt geïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1426,7 +1402,6 @@ msgid "Levels"
 msgstr "Niveaus"
 
 #: jamovi/client/main/store/pagemodules.js:98
-#, fuzzy
 msgid "Library error"
 msgstr "Bibliotheekfout"
 
@@ -1443,7 +1418,6 @@ msgid "Manage installed"
 msgstr "Geïnstalleerde modules beheren"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
 msgstr "Max: {count}"
 
@@ -1457,7 +1431,6 @@ msgid "Minimal"
 msgstr "Minimaal"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
 msgstr "Ontbrekende of incompatibele module"
 
@@ -1470,9 +1443,8 @@ msgid "Missing Values"
 msgstr "Ontbrekende waarden"
 
 #: jamovi/client/main/store/pagemodules.js:244
-#, fuzzy
 msgid "Module {moduleName} is installed"
-msgstr "Module {moduleName} is geänstalleerd"
+msgstr "Module {moduleName} is geïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:286
 msgid "Module installed"
@@ -1495,14 +1467,12 @@ msgid "More info ..."
 msgstr "Meer informatie..."
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:316
-#, fuzzy
 msgid "Move back directory"
-msgstr "Terug naar map"
+msgstr "Terugverplaatsmap"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:446
-#, fuzzy
 msgid "Move back from directory {0}"
-msgstr "Terugkeren naar directory {0}"
+msgstr "Verplaats terug vanuit map {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
 #: jamovi/client/main/variablesview.js:320
@@ -1517,7 +1487,6 @@ msgstr "Nieuw"
 #: jamovi/client/main/tableview.js:2479
 #: jamovi/client/main/tableview.js:603
 #: jamovi/client/main/tableview.js:660
-#, fuzzy
 msgid "New column {0}"
 msgstr "Nieuwe kolom {0}"
 
@@ -1645,12 +1614,10 @@ msgid "Open"
 msgstr "Openen"
 
 #: jamovi/client/main/main.ts:266
-#, fuzzy
 msgid "Open application menu"
 msgstr "Toepassingsmenu openen"
 
 #: jamovi/client/main/main.ts:234
-#, fuzzy
 msgid "Open data file"
 msgstr "Gegevensbestand openen"
 
@@ -1659,12 +1626,10 @@ msgid "Open Document (LibreOffice) {ext}"
 msgstr "Open document (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
-#, fuzzy
 msgid "Open the jamovi module library"
 msgstr "Jamovi-modulebibliotheek openen"
 
 #: jamovi/client/main/main.ts:253
-#, fuzzy
 msgid "Open the main menu"
 msgstr "Open het hoofdmenu"
 
@@ -1707,9 +1672,9 @@ msgid "Paragraph"
 msgstr "Paragraaf"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-#, fuzzy
 msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "Parsen van een datum en omzetten naar het aantal dagen sinds 1 januari 1970."
+msgstr ""
+"Parseert een datum en zet het om naar het aantal dagen sinds 1 januari 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1734,9 +1699,10 @@ msgid "Pin level"
 msgstr "Niveau vastmaken"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Installeer of werk deze module alstublieft bij vanuit de jamovi-bibliotheek."
+msgstr ""
+"<em>Installeer of update</em> deze module alstublieft vanuit de jamovi-"
+"bibliotheek."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
@@ -1759,7 +1725,6 @@ msgid "PNG Image {ext}"
 msgstr "PNG-afbeelding {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
 msgstr "PowerPoint-dia {ext}"
 
@@ -1768,7 +1733,6 @@ msgid "Preferences"
 msgstr "Voorkeuren"
 
 #: jamovi/client/resultsview/annotation.js:79
-#, fuzzy
 msgid "Press enter to edit"
 msgstr "Druk op enter om te bewerken"
 
@@ -1777,9 +1741,8 @@ msgid "Previous variable"
 msgstr "Vorige variabele"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
-msgstr "Project opslaan als"
+msgstr "Project Opslaan Als"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "qualitative"
@@ -1843,12 +1806,10 @@ msgid "Remove"
 msgstr "Verwijderen"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
-#, fuzzy
 msgid "Remove {1} from {0}"
 msgstr "Verwijder {1} uit {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
-#, fuzzy
 msgid "Remove {1} items from {0}"
 msgstr "Verwijder {1} items uit {0}"
 
@@ -1857,19 +1818,16 @@ msgid "Remove filter"
 msgstr "Filter verwijderen"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
-#, fuzzy
 msgid "Remove items from {0}"
 msgstr "Items verwijderen uit {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
-#, fuzzy
 msgid "Remove module {moduleName}"
 msgstr "Module {moduleName} verwijderen"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
-#, fuzzy
 msgid "Remove nested filter"
-msgstr "Genestelde filter verwijderen"
+msgstr "Filter wissen"
 
 #: jamovi/client/main/store/pagemodules.js:213
 msgid "Requires a newer version of jamovi"
@@ -2007,20 +1965,23 @@ msgid "Returns the variance of a variable."
 msgstr "Berekent de variantie van een variabele."
 
 #: jamovi/client/main/main.ts:286
-#, fuzzy
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "Keert terug naar de eerder geselecteerde analyse en opent het optiepaneel, met de focus ingesteld op het optiepaneel."
+msgstr ""
+"Keert terug naar de eerder geselecteerde analyse en opent het optiepaneel, "
+"met de focus ingesteld via het optiepaneel."
 
 #: jamovi/client/main/main.ts:302
-#, fuzzy
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "Keert terug naar de eerder geselecteerde analyse en verschuift de focus naar de resultaatuitvoer."
+msgstr ""
+"Keert terug naar de eerder geselecteerde analyse en verschuift de focus naar "
+"de resultaat in de uitvoer."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-#, fuzzy
 msgid "Returns to the previously selected analysis and shifts focus to the results output."
-msgstr "Keert terug naar de eerder geselecteerde analyse en verschuift de focus naar de resultaatuitvoer."
+msgstr ""
+"Keert terug naar de eerder geselecteerde analyse en verschuift de focus naar "
+"de resultaatuitvoer."
 
 #: jamovi/client/main/ribbon/annotationtab.js:131
 msgid "Right Align"
@@ -2092,7 +2053,6 @@ msgid "Save failed"
 msgstr "Opslaan mislukt"
 
 #: jamovi/client/main/main.ts:233
-#, fuzzy
 msgid "Save project"
 msgstr "Project opslaan"
 
@@ -2114,7 +2074,6 @@ msgid "Search"
 msgstr "Zoeken"
 
 #: jamovi/client/main/store/pagemodules.js:42
-#, fuzzy
 msgid "Search available modules"
 msgstr "Beschikbare modules zoeken"
 
@@ -2123,17 +2082,14 @@ msgid "Search files"
 msgstr "Bestanden zoeken"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
-#, fuzzy
 msgid "Search for file in directory {0}"
 msgstr "Zoek naar bestand in directory {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
-#, fuzzy
 msgid "Search installed modules"
 msgstr "Geänstalleerde modules zoeken"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
-#, fuzzy
 msgid "Search list items"
 msgstr "Zoek lijstitems"
 
@@ -2186,7 +2142,6 @@ msgid "Show in main menu"
 msgstr "In hoofdmenu weergeven"
 
 #: jamovi/client/main/store/pagemodules.js:265
-#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
 msgstr "Toon module {moduleName} in het Analyses-lint"
 
@@ -2280,9 +2235,10 @@ msgid "Table"
 msgstr "Tabel"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-#, fuzzy
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "Neemt een getal dat het aantal dagen sinds 1 januari 1970 vertegenwoordigt en produceert een opgemaakte datum."
+msgstr ""
+"Neemt een getal dat het aantal dagen sinds 1 januari 1970 vertegenwoordigt "
+"en produceert een opgemaakte datum."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
@@ -2340,12 +2296,10 @@ msgid "The index of value in the provided values."
 msgstr "De index van de waarde in de gegeven waarden."
 
 #: jamovi/client/resultsview/table.js:754
-#, fuzzy
 msgid "The interaction of {0} and {1}"
 msgstr "De interactie van {0} en {1}"
 
 #: jamovi/client/analysisui/formatdef.js:272
-#, fuzzy
 msgid "The interaction of {list}"
 msgstr "De interactie van {list}"
 
@@ -2370,29 +2324,24 @@ msgid "The module for this analysis is not installed, or is unavailable"
 msgstr "De module voor deze analyse is niet geïnstalleerd of niet beschikbaar"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server could not be reached"
-msgstr "De externe server kan niet worden bereikt"
+msgstr "De externe server kon niet worden bereikt"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server rejected the request"
 msgstr "De externe server heeft het verzoek afgewezen"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server reported an error"
 msgstr "De externe server heeft een fout gerapporteerd"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr "De externe server heeft een onverwacht antwoord verzonden"
+msgstr "De externe server heeft een onverwacht antwoord gestuurd"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr "De resource bestaat niet of is verplaatst (404)"
+msgstr "De bron bestaat niet of is verplaatst (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:288
 msgid "The selected transform is in error and should be edited."
@@ -2414,9 +2363,8 @@ msgstr ""
 "grondstoflimiet."
 
 #: jamovi/client/main/main.ts:912
-#, fuzzy
 msgid "This data set could not be opened"
-msgstr "Deze gegevensset kan niet worden geopend"
+msgstr "Deze gegevensset kon niet worden geopend"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2432,9 +2380,10 @@ msgid "This is a data variable."
 msgstr "Dit is een gegevensvariabele."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Deze module ontbreekt of is <em>niet compatibel</em> met deze versie van jamovi."
+msgstr ""
+"Deze module <em>ontbreekt of is niet compatibel</em> met deze versie van "
+"jamovi."
 
 #: jamovi/client/main/backstage.js:1255
 #: jamovi/client/main/backstage.js:1398
@@ -2471,19 +2420,16 @@ msgid "This transform is in error and should be edited."
 msgstr "Deze transformatie is ongeldig en dient te worden aangepast."
 
 #: jamovi/client/main/tableview.js:105
-#, fuzzy
 msgid "Toggle filters visibility"
-msgstr "Filterzichtbaarheid omkeren"
+msgstr "Filterzichtbaarheid in-/uitschakelen"
 
 #: jamovi/client/main/ribbon.js:199
-#, fuzzy
 msgid "Toggle screen state"
-msgstr "Schermstatus omkeren"
+msgstr "Schermstatus in-/uitschakelen"
 
 #: jamovi/client/main/main.ts:256
-#, fuzzy
 msgid "Toggle variable setup"
-msgstr "Variabele instellingen omkeren"
+msgstr "Variabele instellingen in-/uitschakelen"
 
 #: jamovi/client/main/viewcontroller.js:374
 msgid "Too much data, use import instead"
@@ -2556,7 +2502,6 @@ msgid "Unable to import {}"
 msgstr "Kan {} niet importeren"
 
 #: jamovi/client/main/store/pagemodules.js:376
-#, fuzzy
 msgid "Unable to install {module}"
 msgstr "Kan {module} niet installeren"
 
@@ -2629,7 +2574,6 @@ msgid "Unrecognised file format"
 msgstr "Bestandsindeling niet herkend"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Naamloos"
 
@@ -2639,7 +2583,6 @@ msgid "Update"
 msgstr "Bijwerken"
 
 #: jamovi/client/main/store/pagemodules.js:253
-#, fuzzy
 msgid "Update module {moduleName} to version {version}"
 msgstr "Module {moduleName} bijwerken naar versie {version}"
 
@@ -2671,24 +2614,20 @@ msgid "Value is too large for column '{}' of type integer"
 msgstr "Waarde te groot voor geheel getal in kolom '{}'"
 
 #: jamovi/client/analysisui/formatdef.js:107
-#, fuzzy
 msgid "Variable {0}"
 msgstr "Variabele {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
-#, fuzzy
 msgid "Variable Description"
 msgstr "Variabelebeschrijving"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
-#, fuzzy
 msgid "Variable Name"
 msgstr "Variabelenaam"
 
 #: jamovi/client/main/ribbon/datatab.js:38
-#, fuzzy
 msgid "Variable setup"
-msgstr "Variabele instellingen"
+msgstr "Variabele-instellingen"
 
 #: jamovi/client/main/editors/transformeditor.js:63
 msgid "Variable suffix"
@@ -2707,17 +2646,14 @@ msgid "Variables"
 msgstr "Variabelen"
 
 #: jamovi/client/analysisui/formatdef.js:117
-#, fuzzy
 msgid "Variables {list}"
 msgstr "Variabelen {list}"
 
 #: jamovi/client/main/variablesview.js:41
-#, fuzzy
 msgid "Variables List View"
 msgstr "Variabelelijstweergave"
 
 #: jamovi/client/main/variablesview.js:111
-#, fuzzy
 msgid "Variables View"
 msgstr "Variabelenweergave"
 
@@ -2778,9 +2714,8 @@ msgstr ""
 "verborgen gefilterde rijen zijn"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "You do not have appropriate permissions (403)"
-msgstr "U heeft geen geschikte machtigingen (403)"
+msgstr "U heeft de juiste machtigingen niet (403)"
 
 #: jamovi/client/main/main.js:149
 msgid "Your connection has been lost. Please refresh the page to continue."
