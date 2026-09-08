@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:28+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"PO-Revision-Date: 2026-10-14 03:35+0000\n"
+"Last-Translator: Jonatan Nyberg <nickwick@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Swedish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/sv/>\n"
 "Language: sv\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -37,9 +37,8 @@ msgid "(This is a quirk of Safari and iPads)"
 msgstr "(Detta är ett problem i Safari och på iPads)"
 
 #: jamovi/client/main/contextmenu/contextmenus.ts:189
-#, fuzzy
 msgid "{} Options:"
-msgstr "{} Alternativ:"
+msgstr "Alternativ för {}:"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:448
 msgid "{0} directory contents"
@@ -425,9 +424,8 @@ msgid "Close"
 msgstr "Stäng"
 
 #: jamovi/client/main/backstage.ts:1305
-#, fuzzy
 msgid "Close file menu"
-msgstr "Stäng filmeny"
+msgstr "Stäng filmenyn"
 
 #: jamovi/client/main/main.ts:311
 msgid "Close jamovi window"
@@ -461,7 +459,6 @@ msgid "Column is not editable"
 msgstr "Kolumnen kan inte redigeras"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Comma"
 msgstr "Komma"
 
@@ -555,9 +552,8 @@ msgstr "Kopiera"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
-#, fuzzy
 msgid "Copy Latex"
-msgstr "Kopiera Latex"
+msgstr "Kopiera LaTeX"
 
 #: jamovi/client/main/tableview.js:1218
 #: jamovi/server/jamovi/server/instance.py
@@ -651,7 +647,6 @@ msgstr[0] "Datavariabel"
 msgstr[1] "Datavariabler ({n})"
 
 #: jamovi/client/main/ribbon/datatab.js:41
-#, fuzzy
 msgid "Data weights"
 msgstr "Datavikter"
 
@@ -665,7 +660,6 @@ msgid "decimal places"
 msgstr "Decimaler"
 
 #: jamovi/client/main/ribbon/appmenu.ts:133
-#, fuzzy
 msgid "Decimal symbol"
 msgstr "Decimaltecken"
 
@@ -717,9 +711,8 @@ msgid "Delete selected variables"
 msgstr "Ta bort valda variabler"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:30
-#, fuzzy
 msgid "Delete transform  - {transformName}"
-msgstr "Ta bort omvandling - {transformName}"
+msgstr "Ta bort transformering – {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:74
 msgid "Delete Variable"
@@ -768,7 +761,6 @@ msgid "Don't Save"
 msgstr "Spara inte"
 
 #: jamovi/client/main/ribbon/appmenu.ts:134
-#, fuzzy
 msgid "Dot"
 msgstr "Punkt"
 
@@ -810,9 +802,8 @@ msgid "Duplicate"
 msgstr "Duplicera"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:29
-#, fuzzy
 msgid "Duplicate transform  - {transformName}"
-msgstr "Duplicera transformering  - {transformName}"
+msgstr "Duplicera transformering – {transformName}"
 
 #: jamovi/client/main/main.js:176
 #: jamovi/client/main/ribbon/annotationtab.js:114
@@ -830,9 +821,8 @@ msgid "Edit filters"
 msgstr "Redigera filter"
 
 #: jamovi/client/main/vareditor/transformlistitem.js:28
-#, fuzzy
 msgid "Edit transform - {transformName}"
-msgstr "Redigera omvandling - {transformName}"
+msgstr "Redigera transformering – {transformName}"
 
 #: jamovi/client/main/contextmenu/contextmenus.js:124
 #: jamovi/client/main/contextmenu/contextmenus.js:139
@@ -1021,23 +1011,20 @@ msgid "Filters may not reference output variables"
 msgstr "Filter kan inte hänvisa till utfallsvariabler"
 
 #: jamovi/client/analysisui/main.ts:333
-#, fuzzy
 msgid "Find module in jamovi library"
-msgstr "Hitta modul i jamovi-biblioteket"
+msgstr "Sök efter en modul i jamovi-biblioteket"
 
 #: jamovi/client/main/main.ts:243
 msgid "Focus on spreadsheet"
 msgstr "Fokusera på kalkylblad"
 
 #: jamovi/client/main/main.ts:262
-#, fuzzy
 msgid "Focus on the variable setup"
-msgstr "Fokusera på variabelinställningar"
+msgstr "Flytta fokus till variabelinställningarna"
 
 #: jamovi/client/main/main.ts:248
-#, fuzzy
 msgid "Focus on variable list"
-msgstr "Fokusera på variabellista"
+msgstr "Flytta fokus till variabellistan"
 
 #: jamovi/client/main/ribbon/annotationtab.js:119
 msgid "Font"
@@ -1144,18 +1131,16 @@ msgid "Hide library"
 msgstr "Göm bibliotek"
 
 #: jamovi/client/main/store/pagemodules.js:271
-#, fuzzy
 msgid "Hide module {moduleName} from the Analyses ribbon"
-msgstr "Dölj modul {moduleName} från Analysremsan"
+msgstr "Dölj modulen {moduleName} i menyfliksområdet Analyser"
 
 #: jamovi/client/analysisui/main.js:223
 msgid "Hide options"
 msgstr "Göm alternativ"
 
 #: jamovi/client/main/variableeditor.js:52
-#, fuzzy
 msgid "Hide variable setup"
-msgstr "Dölj variabelinställningar"
+msgstr "Dölj variabelinställningarna"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "Highlight Color"
@@ -1198,9 +1183,8 @@ msgid "Image"
 msgstr "Bild"
 
 #: jamovi/client/resultsview/image.ts:233
-#, fuzzy
 msgid "Image resized to {width} by {height}"
-msgstr "Bild ändrad till {width} av {height}"
+msgstr "Bildstorleken har ändrats till {width} × {height}"
 
 #: jamovi/client/main/backstage.js:278
 #: jamovi/client/main/ribbon/appmenu.js:108
@@ -1430,7 +1414,6 @@ msgid "Manage installed"
 msgstr "Administrera installerade"
 
 #: jamovi/client/analysisui/variableslistbox.ts:119
-#, fuzzy
 msgid "Max: {count}"
 msgstr "Max: {count}"
 
@@ -1444,9 +1427,8 @@ msgid "Minimal"
 msgstr "Minimal"
 
 #: jamovi/client/main/optionspanel.ts:175
-#, fuzzy
 msgid "Missing or incompatible module"
-msgstr "Saknad eller oförenlig modul"
+msgstr "Modulen saknas eller är inkompatibel"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:244
 msgid "Missing values"
@@ -1607,18 +1589,16 @@ msgstr ""
 "                    källa."
 
 #: jamovi/client/main/viewcontroller.js:678
-#, fuzzy
 msgid "One row appended."
 msgid_plural "{n} rows appended."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En rad har lagts till i slutet."
+msgstr[1] "{n} rader har lagts till i slutet."
 
 #: jamovi/client/main/viewcontroller.js:641
-#, fuzzy
 msgid "One row inserted."
 msgid_plural "{n} rows inserted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "En rad har infogats."
+msgstr[1] "{n} rader har infogats."
 
 #: jamovi/client/main/backstage.js:461
 msgid "Online data set"
@@ -1630,12 +1610,10 @@ msgid "Open"
 msgstr "Öppna"
 
 #: jamovi/client/main/main.ts:266
-#, fuzzy
 msgid "Open application menu"
-msgstr "Öppna applikationsmeny"
+msgstr "Öppna programmenyn"
 
 #: jamovi/client/main/main.ts:234
-#, fuzzy
 msgid "Open data file"
 msgstr "Öppna datafil"
 
@@ -1644,12 +1622,10 @@ msgid "Open Document (LibreOffice) {ext}"
 msgstr "Open Document (LibreOffice) {ext}"
 
 #: jamovi/client/main/main.ts:270
-#, fuzzy
 msgid "Open the jamovi module library"
-msgstr "Öppna jamovi-modulbiblioteket"
+msgstr "Öppna jamovis modulbibliotek"
 
 #: jamovi/client/main/main.ts:253
-#, fuzzy
 msgid "Open the main menu"
 msgstr "Öppna huvudmenyn"
 
@@ -1692,9 +1668,10 @@ msgid "Paragraph"
 msgstr "Avsnitt"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
-#, fuzzy
 msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "Tolkar ett datum och konverterar det till antalet dagar sedan den 1 januari 1970."
+msgstr ""
+"Tolkar ett datum och konverterar det till antalet dagar sedan den 1 januari "
+"1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1719,18 +1696,17 @@ msgid "Pin level"
 msgstr "Fixera nivå"
 
 #: jamovi/client/analysisui/main.ts:331
-#, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Vänligen <em>installera eller uppdatera</em> denna modul från jamovi-biblioteket."
+msgstr ""
+"<em>Installera eller uppdatera</em> den här modulen via jamovi-biblioteket."
 
 #: jamovi/client/main/viewcontroller.js:355
 msgid "Please use ctrl-v to paste into the spreadsheet."
 msgstr "Använd Ctrl+V för att klistra in i kalkylbladet."
 
 #: jamovi/client/resultsview/main.ts:221
-#, fuzzy
 msgid "Plot"
-msgstr "Plot"
+msgstr "Diagram"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 msgid "Plot theme"
@@ -1745,7 +1721,6 @@ msgid "PNG Image {ext}"
 msgstr "PNG-bild {ext}"
 
 #: jamovi/client/main/resultspanel.ts:954
-#, fuzzy
 msgid "PowerPoint Slide {ext}"
 msgstr "PowerPoint-bild {ext}"
 
@@ -1754,16 +1729,14 @@ msgid "Preferences"
 msgstr "Inställningar"
 
 #: jamovi/client/resultsview/annotation.js:79
-#, fuzzy
 msgid "Press enter to edit"
-msgstr "Tryck enter för att redigera"
+msgstr "Tryck på Retur för att redigera"
 
 #: jamovi/client/main/variableeditor.js:51
 msgid "Previous variable"
 msgstr "Föregående variabel"
 
 #: jamovi/client/main/main.ts:274
-#, fuzzy
 msgid "Project Save As"
 msgstr "Spara projekt som"
 
@@ -1829,12 +1802,10 @@ msgid "Remove"
 msgstr "Ta bort"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:620
-#, fuzzy
 msgid "Remove {1} from {0}"
 msgstr "Ta bort {1} från {0}"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:623
-#, fuzzy
 msgid "Remove {1} items from {0}"
 msgstr "Ta bort {1} objekt från {0}"
 
@@ -1843,19 +1814,16 @@ msgid "Remove filter"
 msgstr "Ta bort filtret"
 
 #: jamovi/client/analysisui/gridtargetcontrol.js:617
-#, fuzzy
 msgid "Remove items from {0}"
 msgstr "Ta bort objekt från {0}"
 
 #: jamovi/client/main/store/pagemodules.js:234
-#, fuzzy
 msgid "Remove module {moduleName}"
-msgstr "Ta bort modul {moduleName}"
+msgstr "Ta bort modulen {moduleName}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:403
-#, fuzzy
 msgid "Remove nested filter"
-msgstr "Ta bort kapslad filter"
+msgstr "Ta bort nästlat filter"
 
 #: jamovi/client/main/store/pagemodules.js:130
 msgid "Requires a newer version of jamovi"
@@ -1994,20 +1962,21 @@ msgid "Returns the variance of a variable."
 msgstr "Beräkna variansen för en variabel."
 
 #: jamovi/client/main/main.ts:286
-#, fuzzy
 msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "Återgår till den tidigare valda analysen och öppnar alternativpanelen med fokus i alternativpanelen."
+msgstr ""
+"Återgår till den tidigare valda analysen och öppnar alternativpanelen med "
+"fokus i alternativpanelen."
 
 #: jamovi/client/main/main.ts:302
-#, fuzzy
 msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "Återgår till den tidigare valda analysen och flyttar fokus till resultaten."
+msgstr ""
+"Återgår till den tidigare valda analysen och flyttar fokus till resultaten."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
-#, fuzzy
 msgid "Returns to the previously selected analysis and shifts focus to the results output."
-msgstr "Återgår till den tidigare valda analysen och flyttar fokus till resultaten."
+msgstr ""
+"Återgår till den tidigare valda analysen och flyttar fokus till resultaten."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
@@ -2026,11 +1995,10 @@ msgid "Rounds each value to the integer below"
 msgstr "Avrundar varje värde till heltalet nedan"
 
 #: jamovi/client/main/viewcontroller.js:345
-#, fuzzy
 msgid "row {index} deleted."
 msgid_plural "{n} rows deleted."
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Rad {index} har tagits bort."
+msgstr[1] "{n} rader har tagits bort."
 
 #: jamovi/client/main/tableview.js:79
 msgid "Row count"
@@ -2080,7 +2048,6 @@ msgid "Save failed"
 msgstr "Spara misslyckades"
 
 #: jamovi/client/main/main.ts:233
-#, fuzzy
 msgid "Save project"
 msgstr "Spara projekt"
 
@@ -2102,28 +2069,24 @@ msgid "Search"
 msgstr "Sök"
 
 #: jamovi/client/main/store/pagemodules.js:42
-#, fuzzy
 msgid "Search available modules"
-msgstr "Sök tillgängliga moduler"
+msgstr "Sök bland tillgängliga moduler"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:261
 msgid "Search files"
 msgstr "Sök efter filer"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:433
-#, fuzzy
 msgid "Search for file in directory {0}"
-msgstr "Sök efter fil i katalog {0}"
+msgstr "Sök efter en fil i katalogen {0}"
 
 #: jamovi/client/main/store/pagemodules.js:42
-#, fuzzy
 msgid "Search installed modules"
-msgstr "Sök installerade moduler"
+msgstr "Sök bland installerade moduler"
 
 #: jamovi/client/analysisui/layoutsupplierview.js:172
-#, fuzzy
 msgid "Search list items"
-msgstr "Sök lista objekt"
+msgstr "Sök bland listobjekt"
 
 #: jamovi/client/main/variablesview.js:48
 msgid "Search variables"
@@ -2174,9 +2137,8 @@ msgid "Show in main menu"
 msgstr "Visa i huvudmenyn"
 
 #: jamovi/client/main/store/pagemodules.js:265
-#, fuzzy
 msgid "Show module {moduleName} in the Analyses ribbon"
-msgstr "Visa modul {moduleName} i Analysremsan"
+msgstr "Visa modulen {moduleName} i menyfliksområdet Analyser"
 
 #: jamovi/client/main/store.js:93
 msgid "Side-loading modules is not available."
@@ -2268,9 +2230,10 @@ msgid "Table"
 msgstr "Tabell"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
-#, fuzzy
 msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "Tar ett nummer som representerar antalet dagar sedan den 1 januari 1970 och producerar ett formaterat datum."
+msgstr ""
+"Tar ett tal som anger antalet dagar sedan den 1 januari 1970 och omvandlar "
+"det till ett formaterat datum."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
@@ -2327,14 +2290,12 @@ msgid "The index of value in the provided values."
 msgstr "Index / position för ett värde inom de angivna värdena."
 
 #: jamovi/client/resultsview/table.js:754
-#, fuzzy
 msgid "The interaction of {0} and {1}"
-msgstr "Interaktionen av {0} och {1}"
+msgstr "Interaktionen mellan {0} och {1}"
 
 #: jamovi/client/analysisui/formatdef.js:272
-#, fuzzy
 msgid "The interaction of {list}"
-msgstr "Interaktionen av {list}"
+msgstr "Interaktionen mellan {list}"
 
 #: jamovi/client/main/store.js:80
 msgid "The jamovi library is not available to your session."
@@ -2357,29 +2318,24 @@ msgid "The module for this analysis is not installed, or is unavailable"
 msgstr "Modulen för denna analys är inte installerad eller är inte tillgänglig"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server could not be reached"
-msgstr "Den fjärrserver kunde inte nås"
+msgstr "Det gick inte att nå fjärrservern"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server rejected the request"
-msgstr "Den fjärrserver avslog begäran"
+msgstr "Fjärrservern avvisade begäran"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server reported an error"
-msgstr "Den fjärrserver rapporterade ett fel"
+msgstr "Fjärrservern rapporterade ett fel"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The remote server sent an unexpected response"
-msgstr "Den fjärrserver skickade ett oväntat svar"
+msgstr "Fjärrservern skickade ett oväntat svar"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "The resource doesn't exist, or has moved (404)"
-msgstr "Resursen finns inte, eller har flyttats (404)"
+msgstr "Resursen finns inte eller har flyttats (404)"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:284
 msgid "The selected transform is in error and should be edited."
@@ -2401,9 +2357,8 @@ msgstr ""
 "resursbegränsningar."
 
 #: jamovi/client/main/main.ts:912
-#, fuzzy
 msgid "This data set could not be opened"
-msgstr "Detta datamängd kunde inte öppnas"
+msgstr "Det gick inte att öppna den här datamängden"
 
 #: jamovi/server/jamovi/server/server.py
 msgid "This data set is no longer available"
@@ -2419,9 +2374,10 @@ msgid "This is a data variable."
 msgstr "Detta är en datavariabel."
 
 #: jamovi/client/analysisui/main.ts:330
-#, fuzzy
 msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
-msgstr "Denna modul är antingen <em>saknad eller oförenlig</em> med denna version av jamovi."
+msgstr ""
+"Den här modulen <em>saknas eller är inkompatibel</em> med den här versionen "
+"av jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2458,19 +2414,16 @@ msgid "This transform is in error and should be edited."
 msgstr "Denna transformering innehåller fel och bör redigeras."
 
 #: jamovi/client/main/tableview.js:105
-#, fuzzy
 msgid "Toggle filters visibility"
-msgstr "Växla filter synlighet"
+msgstr "Visa/dölj filter"
 
 #: jamovi/client/main/ribbon.js:199
-#, fuzzy
 msgid "Toggle screen state"
-msgstr "Växla skärmstatus"
+msgstr "Växla skärmläge"
 
 #: jamovi/client/main/main.ts:256
-#, fuzzy
 msgid "Toggle variable setup"
-msgstr "Växla variabelinställningar"
+msgstr "Visa/dölj variabelinställningarna"
 
 #: jamovi/client/main/viewcontroller.js:357
 msgid "Too much data, use import instead"
@@ -2543,9 +2496,8 @@ msgid "Unable to import {}"
 msgstr "Det går inte att importera {}"
 
 #: jamovi/client/main/store/pagemodules.js:376
-#, fuzzy
 msgid "Unable to install {module}"
-msgstr "Kan inte installera {module}"
+msgstr "Det går inte att installera {module}"
 
 #: jamovi/client/main/store/pagemodules.js:199
 #: jamovi/client/main/store/pagesideload.js:54
@@ -2615,7 +2567,6 @@ msgid "Unrecognised file format"
 msgstr "Okänt filformat"
 
 #: jamovi/server/jamovi/server/formatio/blank.py
-#, fuzzy
 msgid "Untitled"
 msgstr "Namnlös"
 
@@ -2625,9 +2576,8 @@ msgid "Update"
 msgstr "Uppdatera"
 
 #: jamovi/client/main/store/pagemodules.js:253
-#, fuzzy
 msgid "Update module {moduleName} to version {version}"
-msgstr "Uppdatera modul {moduleName} till version {version}"
+msgstr "Uppdatera modulen {moduleName} till version {version}"
 
 #: jamovi/client/main/instance.js:199
 #: jamovi/client/main/instance.js:238
@@ -2656,22 +2606,18 @@ msgid "Value is too large for column '{}' of type integer"
 msgstr "Värdet är för stort för kolumnen ”{}” av typen heltal"
 
 #: jamovi/client/analysisui/formatdef.js:107
-#, fuzzy
 msgid "Variable {0}"
 msgstr "Variabel {0}"
 
 #: jamovi/client/main/vareditor/editorwidget.js:67
-#, fuzzy
 msgid "Variable Description"
 msgstr "Variabelbeskrivning"
 
 #: jamovi/client/main/vareditor/editorwidget.js:53
-#, fuzzy
 msgid "Variable Name"
 msgstr "Variabelnamn"
 
 #: jamovi/client/main/ribbon/datatab.js:38
-#, fuzzy
 msgid "Variable setup"
 msgstr "Variabelinställningar"
 
@@ -2692,17 +2638,14 @@ msgid "Variables"
 msgstr "Variabler"
 
 #: jamovi/client/analysisui/formatdef.js:117
-#, fuzzy
 msgid "Variables {list}"
 msgstr "Variabler {list}"
 
 #: jamovi/client/main/variablesview.js:41
-#, fuzzy
 msgid "Variables List View"
 msgstr "Variabellista"
 
 #: jamovi/client/main/variablesview.js:111
-#, fuzzy
 msgid "Variables View"
 msgstr "Variabelvy"
 
@@ -2760,7 +2703,6 @@ msgstr ""
 "är gömda"
 
 #: jamovi/server/jamovi/server/syncs/http.py
-#, fuzzy
 msgid "You do not have appropriate permissions (403)"
 msgstr "Du har inte tillräckliga behörigheter (403)"
 
