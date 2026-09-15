@@ -3,8 +3,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: Jamovi\n"
 "POT-Creation-Date: \n"
-"PO-Revision-Date: 2026-07-02 09:01+0000\n"
-"Last-Translator: Miguel L <miguellb@unizar.es>\n"
+"PO-Revision-Date: 2026-09-15 14:51+0000\n"
+"Last-Translator: \"Francisco J. Miguel Quesada\" <fxmiguel@gmail.com>\n"
 "Language-Team: Spanish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/es/>\n"
 "Language: es\n"
@@ -12,7 +12,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.7.dev0\n"
+"X-Generator: Weblate 2026.10.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -741,7 +741,7 @@ msgid "Determines if any of the items appear in in1, in2, in3, .... Note that mo
 msgstr ""
 "Determina si alguno de los elementos aparece en in1, in2, in3, .... Hay que "
 "tener en cuenta que la mayoría de estos argumentos son opcionales; es "
-"posible simplemente usar <b> CONTAINS(aguja, pajar) </b>."
+"posible simplemente usar <b>CONTAINS(aguja, pajar) </b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:153
 msgid "Developer mode"
