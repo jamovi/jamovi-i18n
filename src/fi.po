@@ -1,8 +1,8 @@
 #
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:25+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
+"PO-Revision-Date: 2026-10-20 23:20+0000\n"
+"Last-Translator: Arto Luoma <arto@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/fi/>\n"
 "Language: fi\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 
 #: jamovi/server/jamovi/server/column.py
 #, fuzzy
@@ -325,7 +325,6 @@ msgid "Annotation for table {name}"
 msgstr "Huomautus taulukolle {name}"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
-#, fuzzy
 msgid "ANOVA"
 msgstr "ANOVA"
 
