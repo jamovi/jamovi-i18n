@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-14 03:35+0000\n"
+"PO-Revision-Date: 2026-10-30 22:51+0000\n"
 "Last-Translator: Watchman89 <watchman89@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Dutch "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/nl/>\n"
+"Language-Team: Dutch <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
+"nl/>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -45,7 +45,7 @@ msgstr "Inhoud van de map {0}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:947
 msgid "{analysisCount} analyses"
-msgstr ""
+msgstr "{analysisCount} analyses"
 
 #: jamovi/client/main/tableview.js:1403
 msgid "{columnType} columns may not be edited."
@@ -73,7 +73,7 @@ msgstr "{module} is succesvol geïnstalleerd"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1471
 msgid "{module} was uninstalled successfully"
-msgstr ""
+msgstr "{module} is succesvol gedeïnstalleerd"
 
 #: jamovi/client/main/ribbon/appmenu.js:70
 #: jamovi/client/main/ribbon/appmenu.js:77
@@ -97,7 +97,7 @@ msgstr "{name}-variabele"
 #: jamovi/client/main/auxiliary/modules/index.ts:1254
 #: jamovi/client/main/auxiliary/modules/index.ts:1288
 msgid "{percent}%"
-msgstr ""
+msgstr "{percent}%"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
@@ -105,7 +105,7 @@ msgstr "{r} is geen geheel getal"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1505
 msgid "{title} ({analysisCount} analyses, {hiddenState})"
-msgstr ""
+msgstr "{title} ({analysisCount} analyses, {hiddenState})"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
@@ -114,7 +114,7 @@ msgstr "{title} Eerste Annotatie"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:875
 msgid "{title} module"
-msgstr ""
+msgstr "{title} module"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
@@ -146,7 +146,7 @@ msgstr "Een nieuwere versie van jamovi is vereist"
 
 #: jamovi/client/main/main.ts:224
 msgid "About {}"
-msgstr ""
+msgstr "Over {}"
 
 #: jamovi/client/main/ribbon/appmenu.js:107
 msgid "Accent"
@@ -255,7 +255,7 @@ msgstr "Analyses"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1092
 msgid "Analyses ({count})"
-msgstr ""
+msgstr "Analyses ({count})"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
@@ -388,7 +388,7 @@ msgstr "Bladeren"
 
 #: jamovi/client/analysisui/fileselector.ts:70
 msgid "Browse…"
-msgstr ""
+msgstr "Bladeren…"
 
 #: jamovi/client/main/ribbon/annotationtab.js:136
 msgid "Bullet List"
@@ -401,12 +401,12 @@ msgstr "Annuleren"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:635
 msgid "Cancel all"
-msgstr ""
+msgstr "Alles annuleren"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Cancelling"
-msgstr ""
+msgstr "Annuleren"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
@@ -479,7 +479,7 @@ msgstr "Sluit voorkeuren"
 
 #: jamovi/client/main/main.ts:232
 msgid "Close Window"
-msgstr ""
+msgstr "Sluit Venster"
 
 #: jamovi/client/main/ribbon/annotationtab.js:148
 msgid "Code-Block"
@@ -491,7 +491,7 @@ msgstr "Kleurenpalet"
 
 #: jamovi/client/analysisui/formatdef.ts:458
 msgid "Colour {hex}"
-msgstr ""
+msgstr "Kleur {hex}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -602,7 +602,7 @@ msgstr "Kopiëren"
 
 #: jamovi/client/resultsview/element.ts:312
 msgid "Copy as Image"
-msgstr ""
+msgstr "Kopieer als Afbeelding"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
@@ -1023,7 +1023,7 @@ msgstr "Bestand opgeslagen"
 #: jamovi/client/main/instance.ts:574
 #: jamovi/client/main/instance.ts:622
 msgid "File size exceeds session limits"
-msgstr ""
+msgstr "Bestand is groter dan sessielimieten"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
@@ -1139,7 +1139,7 @@ msgstr "Functies"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:1219
 msgid "Go to {0}"
-msgstr ""
+msgstr "Ga naar {0}"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -1177,7 +1177,7 @@ msgstr "Hulp"
 
 #: jamovi/client/analysisui/colorpicker.ts:61
 msgid "Hex code"
-msgstr ""
+msgstr "Hex-code"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
@@ -1185,7 +1185,7 @@ msgstr "Hallo"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "hidden"
-msgstr ""
+msgstr "verborgen"
 
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "Hidden"
@@ -1207,7 +1207,7 @@ msgstr "Filterkolommen verbergen"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 msgid "Hide full description"
-msgstr ""
+msgstr "Verberg volledige beschrijving"
 
 #: jamovi/client/main/store.js:29
 msgid "Hide library"
@@ -1363,11 +1363,11 @@ msgstr "Geïnstalleerde versie moet worden bijgewerkt"
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Installing"
-msgstr ""
+msgstr "Installeren"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:621
 msgid "Installing {count} modules"
-msgstr ""
+msgstr "{count} modules worden geïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
@@ -1375,7 +1375,7 @@ msgstr "{module} wordt geïnstalleerd"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:620
 msgid "Installing 1 module"
-msgstr ""
+msgstr "1 module wordt geïnstalleerd"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1560,19 +1560,19 @@ msgstr "Module geïnstalleerd"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module is not signed"
-msgstr ""
+msgstr "module is niet ondertekend"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:45
 msgid "Module Library"
-msgstr ""
+msgstr "Modulebibliotheek"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is invalid"
-msgstr ""
+msgstr "handtekening van de module is niet geldig"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is malformed"
-msgstr ""
+msgstr "handtekening van de module is misvormd"
 
 #: jamovi/client/main/store/pagemodules.js:311
 msgid "Module uninstalled"
@@ -1601,7 +1601,7 @@ msgstr "Naam"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1042
 msgid "Needs update"
-msgstr ""
+msgstr "Update nodig"
 
 #: jamovi/client/main/backstage.js:1298
 #: jamovi/client/main/backstage.js:1378
@@ -1632,7 +1632,7 @@ msgstr "Volgende variabele"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:282
 msgid "No additional modules available right now."
-msgstr ""
+msgstr "Momenteel geen extra modules beschikbaar."
 
 #: jamovi/client/main/ribbon/annotationtab.js:122
 msgid "No Color"
@@ -1645,7 +1645,7 @@ msgstr "Er is geen informatie beschikbaar over deze functie"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:268
 msgid "No installed modules found."
-msgstr ""
+msgstr "Geen geïnstalleerde modules gevonden."
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
@@ -1678,7 +1678,7 @@ msgstr "Geen"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "not a valid module file"
-msgstr ""
+msgstr "geen geldig modulebestand"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
@@ -1763,7 +1763,7 @@ msgstr "Open het hoofdmenu"
 #: jamovi/client/main/backstage.ts:240
 #: jamovi/client/main/resultspanel.ts:1223
 msgid "OpenDocument Text {ext}"
-msgstr ""
+msgstr "OpenDocument Tekst {ext}"
 
 #: jamovi/client/main/backstage.js:1847
 #: jamovi/client/main/instance.js:307
@@ -1883,7 +1883,7 @@ msgstr "kwalitatief"
 
 #: jamovi/client/main/main.ts:226
 msgid "Quit {}"
-msgstr ""
+msgstr "Afsluiten {}"
 
 #: jamovi/client/main/backstage.js:1096
 msgid "R data files {ext}"
@@ -1952,7 +1952,7 @@ msgstr "Verwijder {1} items uit {0}"
 
 #: jamovi/client/analysisui/fileselector.ts:164
 msgid "Remove {name}"
-msgstr ""
+msgstr "Verwijder {name}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1976,7 +1976,7 @@ msgstr "Vereist een nieuwere versie van jamovi"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1040
 msgid "Requires newer jamovi"
-msgstr ""
+msgstr "Verweist nieuwere jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:267
 msgid "Restart required"
@@ -2257,7 +2257,7 @@ msgstr "Alles selecteren"
 
 #: jamovi/client/main/main.ts:241
 msgid "Select All"
-msgstr ""
+msgstr "Alles Selecteren"
 
 #: jamovi/client/main/vareditor/editorwidget.js:82
 #: jamovi/client/main/variablesview.js:63
@@ -2298,7 +2298,7 @@ msgstr "Formulebewerker weergeven"
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:734
 msgid "Show full description"
-msgstr ""
+msgstr "Toon volledige beschrijving"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:221
 msgid "Show in main menu"
@@ -2323,7 +2323,7 @@ msgstr "significante cijfers"
 
 #: jamovi/client/main/instance.ts:479
 msgid "Sorry"
-msgstr ""
+msgstr "Sorry"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 msgid "Source variable"
@@ -2422,7 +2422,7 @@ msgstr "Tekstkleur"
 
 #: jamovi/client/main/instance.ts:362
 msgid "The connection to the session has been lost"
-msgstr ""
+msgstr "De verbinding met de sessie is verbroken"
 
 #: jamovi/client/main/resultspanel.js:688
 #: jamovi/client/main/resultspanel.js:790
@@ -2529,13 +2529,15 @@ msgstr "De geselecteerde transformatie is ongeldig en dient te worden aangepast.
 
 #: jamovi/client/main/instance.ts:51
 msgid "The server took too long to respond. Please try again."
-msgstr ""
+msgstr "Het duurde te lang voor de server reageerde. Probeer het opnieuw."
 
 #: jamovi/client/main/instance.ts:52
 msgid ""
 "The upload took too long to complete. Please try again with a faster "
 "connection, or a smaller file."
 msgstr ""
+"Het voltooien van de upload duurde te lang. Probeer het opnieuw met een "
+"snellere verbinding of een kleiner bestand."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
@@ -2566,7 +2568,7 @@ msgstr "Dit apparaat"
 
 #: jamovi/client/analysisui/fileselector.ts:172
 msgid "This file needs to be re-selected"
-msgstr ""
+msgstr "Dit bestand moet opnieuw worden geselecteerd"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
@@ -2595,7 +2597,7 @@ msgstr "Deze sessie is gelimiteerd tot {} kolommen"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session is limited to {} MB of files"
-msgstr ""
+msgstr "Deze sessie is beperkt tot {} MB aan bestanden"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2694,7 +2696,7 @@ msgstr "Kan {} niet doorbladeren"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1454
 msgid "Unable to cancel install"
-msgstr ""
+msgstr "Niet in staat om installatie te annuleren"
 
 #: jamovi/client/main/main.js:859
 msgid "Unable to connect to the server"
@@ -2702,11 +2704,11 @@ msgstr "Kan niet verbinden met de server"
 
 #: jamovi/client/main/resultspanel.ts:1317
 msgid "Unable to copy"
-msgstr ""
+msgstr "Niet in staat om te kopiëren"
 
 #: jamovi/client/main/main.ts:639
 msgid "Unable to export"
-msgstr ""
+msgstr "Niet in staat om te exporteren"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
@@ -2765,7 +2767,7 @@ msgstr "Niet beschikbaar"
 
 #: jamovi/client/main/resultspanel.ts:1318
 msgid "Unavailable under Safari and iPads"
-msgstr ""
+msgstr "Niet beschikbaar onder Safari en iPads"
 
 #: jamovi/client/main/ribbon/annotationtab.js:115
 msgid "Underline"
@@ -2786,7 +2788,7 @@ msgstr "Onverwachte fout"
 
 #: jamovi/client/main/backstage.ts:985
 msgid "Unexpected response"
-msgstr ""
+msgstr "Onverwachte reactie"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
@@ -2803,7 +2805,7 @@ msgstr "Bijwerken"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:589
 msgid "Update all ({count})"
-msgstr ""
+msgstr "Alles bijwerken ({count})"
 
 #: jamovi/client/main/store/pagemodules.js:253
 msgid "Update module {moduleName} to version {version}"
@@ -2886,7 +2888,7 @@ msgstr "Versie {v}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "visible"
-msgstr ""
+msgstr "zichtbaar"
 
 #: jamovi/client/main/ribbon/appmenu.js:84
 msgid "Visible"
@@ -2925,7 +2927,7 @@ msgstr "Waarom is deze extra stap noodzakelijk?"
 #: jamovi/client/main/backstage.ts:239
 #: jamovi/client/main/resultspanel.ts:1222
 msgid "Word Document {ext}"
-msgstr ""
+msgstr "Word Document {ext}"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
@@ -2959,7 +2961,7 @@ msgstr "Uw verbinding is verbroken. Vernieuw de pagina om door te gaan."
 
 #: jamovi/client/main/instance.ts:485
 msgid "Your session has ended. Please refresh the page to continue."
-msgstr ""
+msgstr "Uw sessie is afgelopen. Ververs de pagina om door te gaan."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
