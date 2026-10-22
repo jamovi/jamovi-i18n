@@ -1,10 +1,9 @@
-#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-06-05 04:25+0000\n"
 "Last-Translator: Jonathon Love <jon@thon.cc>\n"
-"Language-Team: Persian <https://hosted.weblate.org/projects/jamovi/jamovi-"
-"i18n/fa/>\n"
+"Language-Team: Persian "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/fa/>\n"
 "Language: fa\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -18,9 +17,11 @@ msgstr "خطا دارد'{}'"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #, fuzzy
-msgid "'{}' is not an argument for {}()\n"
+msgid ""
+"'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
-msgstr "'{}' یک آرگومان برای {}() نیست\n"
+msgstr ""
+"'{}' یک آرگومان برای {}() نیست\n"
 "(اگر می‌خواهید تساوی را آزمایش کنید، از دو علامت تساوی '==' استفاده کنید)"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:34
@@ -44,6 +45,10 @@ msgstr "گزینه‌های {}:"
 #, fuzzy
 msgid "{0} directory contents"
 msgstr "محتویات پوشه {0}"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:947
+msgid "{analysisCount} analyses"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1427
 #, fuzzy
@@ -70,6 +75,10 @@ msgstr "{m} با موفقیت حذف شد"
 msgid "{module} was installed successfully"
 msgstr "{module} با موفقیت نصب شد"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1471
+msgid "{module} was uninstalled successfully"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:76
 #: jamovi/client/main/ribbon/appmenu.js:84
 #, fuzzy
@@ -91,15 +100,28 @@ msgstr "{n} sf"
 msgid "{name} variable"
 msgstr "متغیر {name}"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1254
+#: jamovi/client/main/auxiliary/modules/index.ts:1288
+msgid "{percent}%"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:107
 msgid "{r} is not an integer"
 msgstr "{r} عدد صحیح نیست"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1505
+msgid "{title} ({analysisCount} analyses, {hiddenState})"
+msgstr ""
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 #, fuzzy
 msgid "{title} Initial Annotation"
 msgstr "آنتیشن اولیه {title}"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:875
+msgid "{title} module"
+msgstr ""
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 #, fuzzy
@@ -136,6 +158,10 @@ msgstr "Изменение языка требует перезапуска jamo
 msgid "A newer version of jamovi is required"
 msgstr "نسخه جدیدتری از jamovi مورد نیاز است"
 
+#: jamovi/client/main/main.ts:224
+msgid "About {}"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:119
 #, fuzzy
 msgid "Accent"
@@ -143,7 +169,9 @@ msgstr "آکцент"
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
-msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
 msgstr "دسترسی رد شد. احتمالا اجازهٔ دسترسی به این منبع را ندارید."
 
 #: jamovi/client/main/vareditor/filterwidget.js:379
@@ -245,6 +273,10 @@ msgstr "خطایی غیرمنتظره رخ داد"
 #: jamovi/client/main/ribbon/analysetab.js:97
 msgid "Analyses"
 msgstr "تحلیل‌ها"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1092
+msgid "Analyses ({count})"
+msgstr ""
 
 #: jamovi/server/jamovi/server/engine.py
 #, fuzzy
@@ -387,6 +419,10 @@ msgstr "پررنگ"
 msgid "Browse"
 msgstr "جستجو"
 
+#: jamovi/client/analysisui/fileselector.ts:70
+msgid "Browse…"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:153
 #, fuzzy
 msgid "Bullet List"
@@ -396,6 +432,15 @@ msgstr "لیست گلوله"
 #: jamovi/client/main/notifications.js:33
 msgid "Cancel"
 msgstr "لغو"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:635
+msgid "Cancel all"
+msgstr ""
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1241
+#: jamovi/client/main/auxiliary/modules/index.ts:1276
+msgid "Cancelling"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -482,6 +527,10 @@ msgstr "بستن پنجره jamovi"
 msgid "Close preferences"
 msgstr "بستن ترجیحات"
 
+#: jamovi/client/main/main.ts:232
+msgid "Close Window"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:170
 #, fuzzy
 msgid "Code-Block"
@@ -491,6 +540,10 @@ msgstr "بلوک کد"
 #, fuzzy
 msgid "Color palette"
 msgstr "Палитра цветов"
+
+#: jamovi/client/analysisui/formatdef.ts:458
+msgid "Colour {hex}"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -616,6 +669,10 @@ msgstr "کپی شده"
 #, fuzzy
 msgid "Copy"
 msgstr "کپی"
+
+#: jamovi/client/resultsview/element.ts:312
+msgid "Copy as Image"
+msgstr ""
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
@@ -843,8 +900,14 @@ msgstr "میزکار"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:132
 #, fuzzy
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
-msgstr "تعیین می کند که آیا هر یک از آیتم ها در in1، in2، in3 و ... ظاهر می شوند یا خیر. توجه داشته باشید که اکثر این آرگومان ها اختیاری هستند - می توان صرفا از <b>CONTAINS(needle, haystack)</b> استفاده کرد."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<b>CONTAINS(needle, haystack)</b>."
+msgstr ""
+"تعیین می کند که آیا هر یک از آیتم ها در in1، in2، in3 و ... ظاهر می شوند یا "
+"خیر. توجه داشته باشید که اکثر این آرگومان ها اختیاری هستند - می توان صرفا از "
+"<b>CONTAINS(needle, haystack)</b> استفاده کرد."
 
 #: jamovi/client/main/ribbon/appmenu.js:181
 #, fuzzy
@@ -887,8 +950,12 @@ msgstr "دانلودها"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:156
 #, fuzzy
-msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
-msgstr "نمونه‌ای از n را از متغیر می‌گیرد. یعنی SAMPLE(var, 20)، یعنی SAMPLE(1, 20)، یعنی SAMPLE('training', 20, 'test')"
+msgid ""
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE('training', 20, 'test')"
+msgstr ""
+"نمونه‌ای از n را از متغیر می‌گیرد. یعنی SAMPLE(var, 20)، یعنی SAMPLE(1, 20)، "
+"یعنی SAMPLE('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:162
 #, fuzzy
@@ -1107,6 +1174,13 @@ msgstr "آیتم‌های منو فایل"
 msgid "File Saved"
 msgstr "فایل ذخیره شد"
 
+#: jamovi/client/main/instance.ts:373
+#: jamovi/client/main/instance.ts:429
+#: jamovi/client/main/instance.ts:574
+#: jamovi/client/main/instance.ts:622
+msgid "File size exceeds session limits"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 #, fuzzy
 msgid "File type"
@@ -1206,8 +1280,12 @@ msgstr "فرمول حاوی گره غیرقانونی است"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 #, fuzzy
-msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "فرمول اشتباه مشخص شده است (اگر می‌خواهید تساوی را آزمایش کنید، از دو علامت تساوی '==' استفاده کنید)"
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two equals "
+"signs '==')"
+msgstr ""
+"فرمول اشتباه مشخص شده است (اگر می‌خواهید تساوی را آزمایش کنید، از دو علامت "
+"تساوی '==' استفاده کنید)"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 #, fuzzy
@@ -1238,6 +1316,10 @@ msgstr "تابع {}() {} آرگومان {} می‌گیرد"
 #: jamovi/client/main/vareditor/formulatoolbar.js:188
 msgid "Functions"
 msgstr "تابع‌ها"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:1219
+msgid "Go to {0}"
+msgstr ""
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 #, fuzzy
@@ -1278,9 +1360,17 @@ msgstr "سرفصل"
 msgid "Help"
 msgstr "کمک"
 
+#: jamovi/client/analysisui/colorpicker.ts:61
+msgid "Hex code"
+msgstr ""
+
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
 msgstr "درود"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1504
+msgid "hidden"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 #, fuzzy
@@ -1303,6 +1393,10 @@ msgstr "گزینه های分析 را مخفی کنید"
 #, fuzzy
 msgid "Hide filter columns"
 msgstr "پنهان کردن ستون های فیلتر"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:138
+msgid "Hide full description"
+msgstr ""
 
 #: jamovi/client/main/store.js:29
 #, fuzzy
@@ -1481,10 +1575,23 @@ msgstr "ماژول‌های نصب شده"
 msgid "Installed version needs to be updated"
 msgstr "نسخه نصب شده نیاز به به روز رسانی دارد"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1241
+#: jamovi/client/main/auxiliary/modules/index.ts:1276
+msgid "Installing"
+msgstr ""
+
+#: jamovi/client/main/auxiliary/modules/index.ts:621
+msgid "Installing {count} modules"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:364
 #, fuzzy
 msgid "Installing {module}"
 msgstr "Установка {module}"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:620
+msgid "Installing 1 module"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 #, fuzzy
@@ -1532,13 +1639,25 @@ msgstr "پرونده‌های جمووی {ext}"
 
 #: jamovi/client/main/misc/announcements.js:4
 #, fuzzy
-msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi اکنون در { insert translation language } در دسترس است! (با تشکر از { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
+msgstr ""
+"jamovi اکنون در { insert translation language } در دسترس است! (با تشکر از { "
+"insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
 
 #: jamovi/client/main/misc/announcements.js:3
 #, fuzzy
-msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "jamovi اکنون در { insert translation language } در دسترس است! (تشکر فراوان از @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
+msgstr ""
+"jamovi اکنون در { insert translation language } در دسترس است! (تشکر فراوان "
+"از @{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:117
 msgid "jamovi library"
@@ -1685,6 +1804,22 @@ msgstr "ماژول نصب شده"
 msgid "Module installed successfully"
 msgstr "ماژول با موفقیت نصب شد"
 
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "module is not signed"
+msgstr ""
+
+#: jamovi/client/main/auxiliary/modules/index.ts:45
+msgid "Module Library"
+msgstr ""
+
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "module signature is invalid"
+msgstr ""
+
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "module signature is malformed"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:311
 #, fuzzy
 msgid "Module uninstalled"
@@ -1713,6 +1848,10 @@ msgstr "برگشت از دایرکتوری {0}"
 #: jamovi/client/main/variablesview.js:340
 msgid "Name"
 msgstr "نام"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1042
+msgid "Needs update"
+msgstr ""
 
 #: jamovi/client/main/backstage.ts:358
 #: jamovi/client/main/backstage.ts:434
@@ -1745,6 +1884,10 @@ msgstr "متغیر تبدیل شده جدید"
 msgid "Next variable"
 msgstr "متغیر بعدی"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:282
+msgid "No additional modules available right now."
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:133
 #, fuzzy
 msgid "No Color"
@@ -1755,6 +1898,10 @@ msgstr "بدون رنگ"
 #, fuzzy
 msgid "No information about this function is available"
 msgstr "هیچ اطلاعاتی در مورد این تابع در دسترس نیست"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:268
+msgid "No installed modules found."
+msgstr ""
 
 #: jamovi/server/jamovi/server/downloader.py
 #, fuzzy
@@ -1789,6 +1936,10 @@ msgstr "اسمی"
 msgid "None"
 msgstr "هیچ"
 
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "not a valid module file"
+msgstr ""
+
 #: jamovi/client/main/editors/operatordropdown.js:43
 #, fuzzy
 msgid "Not equal to"
@@ -1815,30 +1966,23 @@ msgstr "فرمت عدد"
 msgid "Offsets the values up or down."
 msgstr "ارزش‌ها را بالا یا پایین منتقل می‌کند."
 
-#: jamovi/client/main/editorpanel.js:19
-#: jamovi/client/main/variableeditor.js:64
-#, fuzzy
-msgid "Ok"
-msgstr "تایید"
-
 #: jamovi/client/main/infobox.js:283
 #: jamovi/client/main/infobox.js:34
 #, fuzzy
 msgid "OK"
 msgstr "تایید"
 
-#: jamovi/client/main/backstage.ts:367
-#: jamovi/client/main/backstage.ts:402
-msgid "One Drive"
-msgstr "OneDrive"
-
 #: jamovi/client/main/main.js:456
 #, fuzzy
-msgid "One or more analyses in this data set have been disabled\n"
+msgid ""
+"One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "یک یا چند تحلیل در این مجموعه داده به دلیل اجازه اجرای کد دلخواه غیرفعال شده‌اند. شما فقط باید آنها را فعال کنید اگر منبع این مجموعه داده را اعتماد کنید."
+msgstr ""
+"یک یا چند تحلیل در این مجموعه داده به دلیل اجازه اجرای کد دلخواه غیرفعال "
+"شده‌اند. شما فقط باید آنها را فعال کنید اگر منبع این مجموعه داده را اعتماد "
+"کنید."
 
 #: jamovi/client/main/viewcontroller.js:678
 #, fuzzy
@@ -1890,6 +2034,12 @@ msgstr "باز کردن کتابخانه ماژول‌های jamovi"
 msgid "Open the main menu"
 msgstr "باز کردن منوی اصلی"
 
+#: jamovi/client/main/backstage.ts:214
+#: jamovi/client/main/backstage.ts:240
+#: jamovi/client/main/resultspanel.ts:1223
+msgid "OpenDocument Text {ext}"
+msgstr ""
+
 #: jamovi/client/main/backstage.ts:903
 #: jamovi/client/main/instance.ts:336
 #: jamovi/client/main/main.js:772
@@ -1935,7 +2085,9 @@ msgstr "پاراگراف"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
 #, fuzzy
-msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
+msgid ""
+"Parses a date, and converts it to the number of days since the 1st of "
+"January, 1970."
 msgstr "Анализирует дату и преобразует ее в количество дней с 1 января 1970 года."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
@@ -2020,6 +2172,10 @@ msgstr "ذخیره پروژه به عنوان"
 msgid "qualitative"
 msgstr "کیفی"
 
+#: jamovi/client/main/main.ts:226
+msgid "Quit {}"
+msgstr ""
+
 #: jamovi/client/main/backstage.ts:121
 #, fuzzy
 msgid "R data files {ext}"
@@ -2098,6 +2254,10 @@ msgstr " {1} را از {0} حذف کنید"
 msgid "Remove {1} items from {0}"
 msgstr "حذف {1} آیتم از {0}"
 
+#: jamovi/client/analysisui/fileselector.ts:164
+msgid "Remove {name}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:501
 #, fuzzy
 msgid "Remove filter"
@@ -2123,6 +2283,10 @@ msgstr "حذف فیلتر تو در تو"
 msgid "Requires a newer version of jamovi"
 msgstr "نیاز به نسخه جدیدتری از jamovi دارد"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1040
+msgid "Requires newer jamovi"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:283
 #, fuzzy
 msgid "Restart required"
@@ -2147,8 +2311,14 @@ msgstr "تبدیل باکس کاکس متغیر را برمی‌گرداند."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 #, fuzzy
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "برمی‌گرداند که آیا متغیر یک خروج از مقیاس است یا خیر، طبق IQR: اگر مقدار در داخل جعبه یک نمودار جعبه 0 باشد، مقادیر مطلق بزرگتر از 1.5 در خارج از موها قرار دارند."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the "
+"value is within the box of a Boxplot 0 is returned, absolute values larger "
+"than 1.5 are outside the whiskers."
+msgstr ""
+"برمی‌گرداند که آیا متغیر یک خروج از مقیاس است یا خیر، طبق IQR: اگر مقدار در "
+"داخل جعبه یک نمودار جعبه 0 باشد، مقادیر مطلق بزرگتر از 1.5 در خارج از موها "
+"قرار دارند."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 #, fuzzy
@@ -2283,18 +2453,28 @@ msgstr "واریانس یک متغیر را برمی گرداند."
 
 #: jamovi/client/main/main.ts:286
 #, fuzzy
-msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "به تحلیل قبلی منتقل می شود و پنل گزینه ها را باز می کند و焦点 را در پنل گزینه ها قرار می دهد."
+msgid ""
+"Returns to the previously selected analysis and opens the options panel, "
+"with focus set in the options panel."
+msgstr ""
+"به تحلیل قبلی منتقل می شود و پنل گزینه ها را باز می کند و焦点 را در پنل گزینه "
+"ها قرار می دهد."
 
 #: jamovi/client/main/main.ts:302
 #, fuzzy
-msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "Возвращается к предыдущему выбранному анализу и переключает фокус на результаты вывода."
+msgid ""
+"Returns to the previously selected analysis and shifts focus into the "
+"results output."
+msgstr ""
+"Возвращается к предыдущему выбранному анализу и переключает фокус на "
+"результаты вывода."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 #, fuzzy
-msgid "Returns to the previously selected analysis and shifts focus to the results output."
+msgid ""
+"Returns to the previously selected analysis and shifts focus to the results "
+"output."
 msgstr "به تجزیه و تحلیل قبلی برمی‌گردد و تمرکز را روی خروجی نتایج می‌فرستد."
 
 #: jamovi/client/main/ribbon/annotationtab.js:146
@@ -2445,6 +2625,10 @@ msgstr "جستجوی متغیرها"
 msgid "Select all"
 msgstr "انتخاب همه"
 
+#: jamovi/client/main/main.ts:241
+msgid "Select All"
+msgstr ""
+
 #: jamovi/client/main/vareditor/editorwidget.js:82
 #: jamovi/client/main/variablesview.js:63
 #, fuzzy
@@ -2489,6 +2673,11 @@ msgstr "ستون‌های فیلتر را نشان دهید"
 msgid "Show formula editor"
 msgstr "نمایش ویرایشگر فرمول"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:138
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:734
+msgid "Show full description"
+msgstr ""
+
 #: jamovi/client/main/ribbon/ribbonmenu.js:224
 #, fuzzy
 msgid "Show in main menu"
@@ -2515,6 +2704,10 @@ msgstr "Параллельная загрузка"
 msgid "significant figures"
 msgstr "اعداد معنی دار"
 
+#: jamovi/client/main/instance.ts:479
+msgid "Sorry"
+msgstr ""
+
 #: jamovi/client/main/vareditor/recodedvarwidget.js:30
 #, fuzzy
 msgid "Source variable"
@@ -2527,8 +2720,12 @@ msgstr "واردات ویژه"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 #, fuzzy
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "متن را بر اساس یک جداکننده به قطعات تقسیم می‌کند. <i>piece</i> قطعه مورد نظر را با شاخص مشخص می‌کند."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
+msgstr ""
+"متن را بر اساس یک جداکننده به قطعات تقسیم می‌کند. <i>piece</i> قطعه مورد نظر "
+"را با شاخص مشخص می‌کند."
 
 #: jamovi/client/main/tableview.js:62
 #, fuzzy
@@ -2609,8 +2806,12 @@ msgstr "جدول"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 #, fuzzy
-msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "عدد را به عنوان نماینده تعداد روز از 1 ژانویه 1970 می گیرد و تاریخ فرمت شده تولید می کند."
+msgid ""
+"Takes a number representing the number of days since the 1st of January "
+"1970, and produces a formatted date."
+msgstr ""
+"عدد را به عنوان نماینده تعداد روز از 1 ژانویه 1970 می گیرد و تاریخ فرمت شده "
+"تولید می کند."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
@@ -2623,6 +2824,10 @@ msgstr "Текст"
 msgid "Text Color"
 msgstr "رنگ متن"
 
+#: jamovi/client/main/instance.ts:362
+msgid "The connection to the session has been lost"
+msgstr ""
+
 #: jamovi/client/main/resultspanel.js:691
 #: jamovi/client/main/resultspanel.js:797
 #, fuzzy
@@ -2631,8 +2836,12 @@ msgstr "محتوا به کلیپ بورد کپی شده است"
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 #, fuzzy
-msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "محتوا آماده شده است و می تواند با دکمه زیر کپی شود یا با فشردن <em>{k}+C</em> در صفحه کلید کپی شود"
+msgid ""
+"The content has been prepared, and can be copied with the button below, or "
+"by pressing <em>{k}+C</em> on your keyboard"
+msgstr ""
+"محتوا آماده شده است و می تواند با دکمه زیر کپی شود یا با فشردن "
+"<em>{k}+C</em> در صفحه کلید کپی شود"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 #, fuzzy
@@ -2641,8 +2850,12 @@ msgstr "مقدار فعلی متغیری که این تبدیل بر روی آن
 
 #: jamovi/client/main/strings.ts:6
 #, fuzzy
-msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "داده‌ها با متغیر {} وزن می‌شوند، اما این تجزیه و تحلیل از وزن‌های غیر صحیح پشتیبانی نمی‌کند. وزن‌ها به نزدیک‌ترین عدد صحیح گرد شدند."
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+"داده‌ها با متغیر {} وزن می‌شوند، اما این تجزیه و تحلیل از وزن‌های غیر صحیح "
+"پشتیبانی نمی‌کند. وزن‌ها به نزدیک‌ترین عدد صحیح گرد شدند."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2652,13 +2865,19 @@ msgstr "داده‌ها با متغیر {} وزن می‌شوند."
 
 #: jamovi/client/main/strings.ts:5
 #, fuzzy
-msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "داده ها وزندار است، اما این تحلیل از وزن ها پشتیبانی نمی کند. این تحلیل از داده های بدون وزن استفاده می کند."
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
+"داده ها وزندار است، اما این تحلیل از وزن ها پشتیبانی نمی کند. این تحلیل از "
+"داده های بدون وزن استفاده می کند."
 
 #: jamovi/client/main/instance.ts:431
 #, fuzzy
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr "پرونده '{filename}' از قبل وجود دارد. آیا می‌خواهید این پرونده را جایگزین کنید؟"
+msgstr ""
+"پرونده '{filename}' از قبل وجود دارد. آیا می‌خواهید این پرونده را جایگزین "
+"کنید؟"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 #, fuzzy
@@ -2735,6 +2954,16 @@ msgstr "منبع وجود ندارد یا منتقل شده است (404)"
 msgid "The selected transform is in error and should be edited."
 msgstr "ترنسفورم انتخاب شده در اشتباه است و باید ویرایش شود."
 
+#: jamovi/client/main/instance.ts:51
+msgid "The server took too long to respond. Please try again."
+msgstr ""
+
+#: jamovi/client/main/instance.ts:52
+msgid ""
+"The upload took too long to complete. Please try again with a faster "
+"connection, or a smaller file."
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:142
 #, fuzzy
 msgid "The value in the provided values at index."
@@ -2748,7 +2977,9 @@ msgstr "این تجزیه و تحلیل از محدودیت های زمانی ف
 #: jamovi/server/jamovi/server/engine.py
 #, fuzzy
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "این تجزیه و تحلیل به پایان رسیده است، احتمالاً به دلیل رسیدن به محدودیت منابع."
+msgstr ""
+"این تجزیه و تحلیل به پایان رسیده است، احتمالاً به دلیل رسیدن به محدودیت "
+"منابع."
 
 #: jamovi/client/main/main.ts:912
 #, fuzzy
@@ -2766,6 +2997,10 @@ msgstr "این مجموعه داده دیگر در دسترس نیست"
 msgid "This Device"
 msgstr "این دستگاه"
 
+#: jamovi/client/analysisui/fileselector.ts:172
+msgid "This file needs to be re-selected"
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:250
 #, fuzzy
 msgid "This is a data variable."
@@ -2773,7 +3008,9 @@ msgstr "این یک متغیر داده است."
 
 #: jamovi/client/analysisui/main.ts:330
 #, fuzzy
-msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
 msgstr "این ماژول یا گم شده است یا با این نسخه از jamovi سازگار نیست."
 
 #: jamovi/client/main/backstage.ts:320
@@ -2790,6 +3027,10 @@ msgstr "این رایانه"
 #, fuzzy
 msgid "This session is limited to {} columns"
 msgstr "این جلسه محدود به {} ستون است"
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session is limited to {} MB of files"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2905,10 +3146,22 @@ msgstr "دسترسی به اینترنت امکان‌پذیر نیست (احت�
 msgid "Unable to browse {}"
 msgstr "Unable to browse {}"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1454
+msgid "Unable to cancel install"
+msgstr ""
+
 #: jamovi/client/main/main.js:890
 #, fuzzy
 msgid "Unable to connect to the server"
 msgstr "Невозможно подключиться к серверу"
+
+#: jamovi/client/main/resultspanel.ts:1317
+msgid "Unable to copy"
+msgstr ""
+
+#: jamovi/client/main/main.ts:639
+msgid "Unable to export"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -2977,6 +3230,10 @@ msgstr "نمی‌توان ماژول را حذف کرد"
 msgid "Unavailable"
 msgstr "در دسترس نیست"
 
+#: jamovi/client/main/resultspanel.ts:1318
+msgid "Unavailable under Safari and iPads"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:124
 #, fuzzy
 msgid "Underline"
@@ -2997,6 +3254,10 @@ msgstr "خواهش کن و ویرایش را لغو کن"
 msgid "Unexpected error"
 msgstr "خطای غیرمنتظره"
 
+#: jamovi/client/main/backstage.ts:985
+msgid "Unexpected response"
+msgstr ""
+
 #: jamovi/server/jamovi/server/syncs/http.py
 #, fuzzy
 msgid "Unrecognised file format"
@@ -3012,6 +3273,10 @@ msgstr "بدون عنوان"
 #, fuzzy
 msgid "Update"
 msgstr "به روز رسانی"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:589
+msgid "Update all ({count})"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:253
 #, fuzzy
@@ -3106,6 +3371,10 @@ msgstr "نمایندگی متغیرها"
 msgid "Version {v}"
 msgstr "نسخهٔ {v}"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1504
+msgid "visible"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:92
 #, fuzzy
 msgid "Visible"
@@ -3131,13 +3400,23 @@ msgstr "هنگام"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
 #, fuzzy
-msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "當 متغیر حاوی مقدار از دست رفته باشد، از مقدار استفاده کنید، در غیر این صورت از else."
+msgid ""
+"When the variable contains a missing value, use the value, otherwise the "
+"else."
+msgstr ""
+"當 متغیر حاوی مقدار از دست رفته باشد، از مقدار استفاده کنید، در غیر این صورت "
+"از else."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 #, fuzzy
 msgid "Why is this additional step necessary?"
 msgstr "چرا این шаг اضافی ضروری است؟"
+
+#: jamovi/client/main/backstage.ts:213
+#: jamovi/client/main/backstage.ts:239
+#: jamovi/client/main/resultspanel.ts:1222
+msgid "Word Document {ext}"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -3152,12 +3431,18 @@ msgstr "شما نمی توانید در حالی که سطرهای فیلتر ش
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "نمیتوان ستون هایی را که بر فیلترها تأثیر می گذارد،當 فیلتر ردیف های پنهان شده اند، تغییر داد"
+msgstr ""
+"نمیتوان ستون هایی را که بر فیلترها تأثیر می گذارد،當 فیلتر ردیف های پنهان شده "
+"اند، تغییر داد"
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
-msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
-msgstr "شما نمی‌توانید تبدیل‌هایی را که بر فیلترها تأثیر می‌گذارند، تغییر دهید، وقتی سطرهای فیلتر شده پنهان هستند"
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
+msgstr ""
+"شما نمی‌توانید تبدیل‌هایی را که بر فیلترها تأثیر می‌گذارند، تغییر دهید، وقتی "
+"سطرهای فیلتر شده پنهان هستند"
 
 #: jamovi/server/jamovi/server/syncs/http.py
 #, fuzzy
@@ -3168,6 +3453,10 @@ msgstr "شما مجوز مناسب را ندارید (403)"
 #, fuzzy
 msgid "Your connection has been lost. Please refresh the page to continue."
 msgstr "اتصال شما از بین رفته است. لطفا صفحه را برای ادامه تازه کنید."
+
+#: jamovi/client/main/instance.ts:485
+msgid "Your session has ended. Please refresh the page to continue."
+msgstr ""
 
 #: jamovi/client/main/utils/headeralert.js:32
 #, fuzzy

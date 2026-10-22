@@ -1,10 +1,9 @@
-#
 msgid ""
 msgstr ""
 "PO-Revision-Date: 2026-06-05 04:27+0000\n"
 "Last-Translator: Jonathon Love <jon@thon.cc>\n"
-"Language-Team: Greek <https://hosted.weblate.org/projects/jamovi/jamovi-i18n/"
-"el/>\n"
+"Language-Team: Greek "
+"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/el/>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -17,7 +16,8 @@ msgid "'{}' is in error"
 msgstr "'{}' έχει σφάλμα"
 
 #: jamovi/server/jamovi/server/compute/checker.py
-msgid "'{}' is not an argument for {}()\n"
+msgid ""
+"'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
 "'{}' λανθασμένος ορισμός για {}()\n"
@@ -44,6 +44,10 @@ msgstr "{} Επιλογές:"
 #, fuzzy
 msgid "{0} directory contents"
 msgstr "Περιεχόμενα {0} καταλόγου"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:947
+msgid "{analysisCount} analyses"
+msgstr ""
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -72,6 +76,10 @@ msgstr "{m} απεγκαταστάθηκε με επιτυχία"
 msgid "{module} was installed successfully"
 msgstr "Το {module} εγκαταστάθηκε με επιτυχία"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1471
+msgid "{module} was uninstalled successfully"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
 #, fuzzy
@@ -94,15 +102,28 @@ msgstr "{n} sf"
 msgid "{name} variable"
 msgstr "Μεταβλητή {name}"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1254
+#: jamovi/client/main/auxiliary/modules/index.ts:1288
+msgid "{percent}%"
+msgstr ""
+
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
 msgstr "{r} δεν είναι ακέραιος"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1505
+msgid "{title} ({analysisCount} analyses, {hiddenState})"
+msgstr ""
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
 #, fuzzy
 msgid "{title} Initial Annotation"
 msgstr "{title} Αρχική Σημείωση"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:875
+msgid "{title} module"
+msgstr ""
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 #, fuzzy
@@ -137,12 +158,18 @@ msgstr "Αλλαγή της γλώσσας απαιτεί επανεκκίνησ
 msgid "A newer version of jamovi is required"
 msgstr "Απαιτείται μια νέα έκδοση jamovi"
 
+#: jamovi/client/main/main.ts:224
+msgid "About {}"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
 msgstr "Τόνος"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "Access is denied. You may not have the appropriate permissions to access this resource."
+msgid ""
+"Access is denied. You may not have the appropriate permissions to access "
+"this resource."
 msgstr ""
 "Απαγορεύτηκες η πρόσβαση. Ενδέχεται να μην έχετε τα κατάλληλα δικαιώματα για "
 "πρόσβαση σε αυτόν τον πόρο."
@@ -245,6 +272,10 @@ msgstr "Συμβάνθηκε一个 απροσδόκητο σφάλμα"
 #: jamovi/client/main/ribbon/analysetab.js:58
 msgid "Analyses"
 msgstr "Αναλύσεις"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1092
+msgid "Analyses ({count})"
+msgstr ""
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
@@ -391,6 +422,10 @@ msgstr "Έντονο"
 msgid "Browse"
 msgstr "Φυλλομέτρησε"
 
+#: jamovi/client/analysisui/fileselector.ts:70
+msgid "Browse…"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
 msgstr "Λίστα σημείων"
@@ -399,6 +434,15 @@ msgstr "Λίστα σημείων"
 #: jamovi/client/main/notifications.js:36
 msgid "Cancel"
 msgstr "Άκυρο"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:635
+msgid "Cancel all"
+msgstr ""
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1241
+#: jamovi/client/main/auxiliary/modules/index.ts:1276
+msgid "Cancelling"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -474,6 +518,10 @@ msgstr "Κλείσιμο παραθύρου jamovi"
 msgid "Close preferences"
 msgstr "Κλείσιμο προτιμήσεων"
 
+#: jamovi/client/main/main.ts:232
+msgid "Close Window"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
 msgstr "Κωδικοστοιχείο"
@@ -481,6 +529,10 @@ msgstr "Κωδικοστοιχείο"
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Color palette"
 msgstr "Χρωματική συλλογή"
+
+#: jamovi/client/analysisui/formatdef.ts:458
+msgid "Colour {hex}"
+msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -599,6 +651,10 @@ msgstr "Αντιγραφή"
 #, fuzzy
 msgid "Copy"
 msgstr "Αντίγραφο"
+
+#: jamovi/client/resultsview/element.ts:312
+msgid "Copy as Image"
+msgstr ""
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
@@ -820,7 +876,10 @@ msgid "Desktop"
 msgstr "Επιφάνεια εργασίας"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:128
-msgid "Determines if any of the items appear in in1, in2, in3, .... Note that most of these arguments are optional -- it is possible to simply use <b>CONTAINS(needle, haystack)</b>."
+msgid ""
+"Determines if any of the items appear in in1, in2, in3, .... Note that most "
+"of these arguments are optional -- it is possible to simply use "
+"<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "Καθορίζει εάν κάποιο από τα στοιχεία εμφανίζεται στα in1, in2, in3, .... "
 "Σημειώστε ότι τα περισσότερα από αυτά τα ορίσματα είναι προαιρετικά -- είναι "
@@ -866,10 +925,12 @@ msgid "Downloads"
 msgstr "Λήψεις"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:152
-msgid "Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, 20), i.e. SAMPLE('training', 20, 'test')"
+msgid ""
+"Draws a sample of n from the variable. i.e. SAMPLE(var, 20), i.e. SAMPLE(1, "
+"20), i.e. SAMPLE('training', 20, 'test')"
 msgstr ""
-"Σχεδιάζει ένα δείγμα n από τη μεταβλητή. π.χ. SAMPLE(var, 20), δηλ. SAMPLE"
-"(1, 20), δηλ. SAMPLE ('training', 20, 'test')"
+"Σχεδιάζει ένα δείγμα n από τη μεταβλητή. π.χ. SAMPLE(var, 20), δηλ. "
+"SAMPLE(1, 20), δηλ. SAMPLE ('training', 20, 'test')"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:158
 #, fuzzy
@@ -1083,6 +1144,13 @@ msgstr "Επιλογές μενού αρχείου"
 msgid "File Saved"
 msgstr "Το αρχείο αποθηκεύτηκε"
 
+#: jamovi/client/main/instance.ts:373
+#: jamovi/client/main/instance.ts:429
+#: jamovi/client/main/instance.ts:574
+#: jamovi/client/main/instance.ts:622
+msgid "File size exceeds session limits"
+msgstr ""
+
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 #, fuzzy
 msgid "File type"
@@ -1137,7 +1205,9 @@ msgstr "Φιλτράρει μια μεταβλητή χρησιμοποιώντ�
 #: jamovi/server/jamovi/server/compute/checker.py
 #, fuzzy
 msgid "Filters may not reference columns using 'V' or column functions"
-msgstr "Τα φίλτρα ενδέχεται να μην αναφέρονται σε στήλες χρησιμοποιώντας συναρτήσεις \\\"V\\\" ή στήλης"
+msgstr ""
+"Τα φίλτρα ενδέχεται να μην αναφέρονται σε στήλες χρησιμοποιώντας συναρτήσεις "
+"\\\"V\\\" ή στήλης"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #, fuzzy
@@ -1182,8 +1252,12 @@ msgstr "Ο τύπος περιέχει παράνομο κόμβο"
 
 #: jamovi/server/jamovi/server/compute/parser.py
 #, fuzzy
-msgid "Formula is mis-specified (If you're wanting to test equality, use two equals signs '==')"
-msgstr "Ο τύπος έχει καθοριστεί εσφαλμένα (Εάν θέλετε να ελέγξετε την ισότητα, χρησιμοποιήστε δύο σύμβολα ίσον '==')"
+msgid ""
+"Formula is mis-specified (If you're wanting to test equality, use two equals "
+"signs '==')"
+msgstr ""
+"Ο τύπος έχει καθοριστεί εσφαλμένα (Εάν θέλετε να ελέγξετε την ισότητα, "
+"χρησιμοποιήστε δύο σύμβολα ίσον '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:190
 #, fuzzy
@@ -1215,6 +1289,10 @@ msgstr "Η συνάρτηση {}() παίρνει το {} όρισμα{}"
 #, fuzzy
 msgid "Functions"
 msgstr "Λειτουργίες"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:1219
+msgid "Go to {0}"
+msgstr ""
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 #, fuzzy
@@ -1259,10 +1337,18 @@ msgstr "Επικεφαλίδα"
 msgid "Help"
 msgstr "Βοήθεια"
 
+#: jamovi/client/analysisui/colorpicker.ts:61
+msgid "Hex code"
+msgstr ""
+
 #: jamovi/client/main/infobox.js:31
 #, fuzzy
 msgid "Hi"
 msgstr "Γεια σου"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1504
+msgid "hidden"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 #, fuzzy
@@ -1285,6 +1371,10 @@ msgstr "Απόκρυψη επιλογών ανάλυσης"
 #, fuzzy
 msgid "Hide filter columns"
 msgstr "Απόκρυψη στηλών φίλτρου"
+
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:138
+msgid "Hide full description"
+msgstr ""
 
 #: jamovi/client/main/store.js:25
 #, fuzzy
@@ -1467,10 +1557,23 @@ msgstr "Εγκατεστημένα Μοντέλα"
 msgid "Installed version needs to be updated"
 msgstr "Η εγκατεστημένη έκδοση πρέπει να ενημερωθεί"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1241
+#: jamovi/client/main/auxiliary/modules/index.ts:1276
+msgid "Installing"
+msgstr ""
+
+#: jamovi/client/main/auxiliary/modules/index.ts:621
+msgid "Installing {count} modules"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:364
 #, fuzzy
 msgid "Installing {module}"
 msgstr "Εγκατάσταση {module}"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:620
+msgid "Installing 1 module"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:115
 #, fuzzy
@@ -1522,13 +1625,25 @@ msgstr "Αρχεία jamovi {ext}"
 
 #: jamovi/client/main/misc/announcements.js:3
 #, fuzzy
-msgid "jamovi is now available in { insert translation language }! (Many thanks to { insert your name here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Το jamovi είναι τώρα διαθέσιμο σε { εισαγωγή γλώσσας μετάφρασης }! (Πολλές ευχαριστίες για { εισάγετε το όνομά σας εδώ (ή βάλτε ένα πιο γενικό «η ομάδα μετάφρασης jamovi», αν δεν θέλετε πίστωση) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"{ insert your name here (or put a more generic \"the jamovi translation "
+"team\", if you don't want credit) })"
+msgstr ""
+"Το jamovi είναι τώρα διαθέσιμο σε { εισαγωγή γλώσσας μετάφρασης }! (Πολλές "
+"ευχαριστίες για { εισάγετε το όνομά σας εδώ (ή βάλτε ένα πιο γενικό «η ομάδα "
+"μετάφρασης jamovi», αν δεν θέλετε πίστωση) })"
 
 #: jamovi/client/main/misc/announcements.js:2
 #, fuzzy
-msgid "jamovi is now available in { insert translation language }! (Many thanks to @{ insert your twitter handle here (or put a more generic \"the jamovi translation team\", if you don't want credit) })"
-msgstr "Το jamovi είναι τώρα διαθέσιμο σε { εισαγωγή γλώσσας μετάφρασης }! (Πολλές ευχαριστίες στο { εισάγετε το twitter σας εδώ (ή βάλτε ένα πιο γενικό «η ομάδα μετάφρασης jamovi», αν δεν θέλετε πίστωση) })"
+msgid ""
+"jamovi is now available in { insert translation language }! (Many thanks to "
+"@{ insert your twitter handle here (or put a more generic \"the jamovi "
+"translation team\", if you don't want credit) })"
+msgstr ""
+"Το jamovi είναι τώρα διαθέσιμο σε { εισαγωγή γλώσσας μετάφρασης }! (Πολλές "
+"ευχαριστίες στο { εισάγετε το twitter σας εδώ (ή βάλτε ένα πιο γενικό «η "
+"ομάδα μετάφρασης jamovi», αν δεν θέλετε πίστωση) })"
 
 #: jamovi/client/main/ribbon/analysetab.js:78
 #, fuzzy
@@ -1682,6 +1797,22 @@ msgstr "Εγκατεστημένο模块"
 msgid "Module installed successfully"
 msgstr "Η μονάδα εγκαταστάθηκε επιτυχώς"
 
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "module is not signed"
+msgstr ""
+
+#: jamovi/client/main/auxiliary/modules/index.ts:45
+msgid "Module Library"
+msgstr ""
+
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "module signature is invalid"
+msgstr ""
+
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "module signature is malformed"
+msgstr ""
+
 #: jamovi/client/main/store/pagemodules.js:217
 #, fuzzy
 msgid "Module uninstalled"
@@ -1711,6 +1842,10 @@ msgstr "Μετακινήστε πίσω από τον κατάλογο {0}"
 #, fuzzy
 msgid "Name"
 msgstr "Όνομα"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1042
+msgid "Needs update"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:1178
 #: jamovi/client/main/backstage.js:1255
@@ -1745,6 +1880,10 @@ msgstr "Νέα μετασχηματισμένη μεταβλητή"
 msgid "Next variable"
 msgstr "Επόμενη μεταβλητή"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:282
+msgid "No additional modules available right now."
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:130
 #, fuzzy
 msgid "No Color"
@@ -1755,6 +1894,10 @@ msgstr "Χωρίς χρώμα"
 #, fuzzy
 msgid "No information about this function is available"
 msgstr "Δεν υπάρχουν πληροφορίες για αυτή τη συνάρτηση"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:268
+msgid "No installed modules found."
+msgstr ""
 
 #: jamovi/server/jamovi/server/downloader.py
 #, fuzzy
@@ -1789,6 +1932,10 @@ msgstr "Ονομαστικό"
 msgid "None"
 msgstr "Κανένα"
 
+#: jamovi/server/jamovi/server/utils/zipverify.py
+msgid "not a valid module file"
+msgstr ""
+
 #: jamovi/client/main/editors/operatordropdown.js:43
 #, fuzzy
 msgid "Not equal to"
@@ -1815,31 +1962,24 @@ msgstr "Μορφή αριθμού"
 msgid "Offsets the values up or down."
 msgstr "Μετατοπίζει τις τιμές προς τα πάνω ή προς τα κάτω."
 
-#: jamovi/client/main/editorpanel.js:19
-#: jamovi/client/main/variableeditor.js:64
-#, fuzzy
-msgid "Ok"
-msgstr "Εντάξει"
-
 #: jamovi/client/main/infobox.js:276
 #: jamovi/client/main/infobox.js:34
 #, fuzzy
 msgid "OK"
 msgstr "ΟΚ"
 
-#: jamovi/client/main/backstage.ts:367
-#: jamovi/client/main/backstage.ts:402
-msgid "One Drive"
-msgstr "OneDrive"
-
 #: jamovi/client/main/main.js:365
 #, fuzzy
-msgid "One or more analyses in this data set have been disabled\n"
+msgid ""
+"One or more analyses in this data set have been disabled\n"
 "                    because they allow the execution of arbitrary code. You\n"
 "                    should only enable them if you trust this data set's\n"
 "                    source."
-msgstr "Μια ή περισσότερες αναλύσεις σε αυτό το σύνολο δεδομένων έχουν απενεργοποιηθεί\n"
-"                    επειδή επιτρέπουν την εκτέλεση αυθαίρετου κώδικα. Πρέπει να τις ενεργοποιήσετε μόνο αν εμπιστεύεστε την πηγή του συνόλου δεδομένων."
+msgstr ""
+"Μια ή περισσότερες αναλύσεις σε αυτό το σύνολο δεδομένων έχουν "
+"απενεργοποιηθεί\n"
+"                    επειδή επιτρέπουν την εκτέλεση αυθαίρετου κώδικα. Πρέπει "
+"να τις ενεργοποιήσετε μόνο αν εμπιστεύεστε την πηγή του συνόλου δεδομένων."
 
 #: jamovi/client/main/viewcontroller.js:678
 #, fuzzy
@@ -1891,6 +2031,12 @@ msgstr "Άνοιγμα της βιβλιοθήκης模ουλων jamovi"
 msgid "Open the main menu"
 msgstr "Άνοιγμα του κυρίου μενού"
 
+#: jamovi/client/main/backstage.ts:214
+#: jamovi/client/main/backstage.ts:240
+#: jamovi/client/main/resultspanel.ts:1223
+msgid "OpenDocument Text {ext}"
+msgstr ""
+
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
 #: jamovi/client/main/main.js:665
@@ -1939,8 +2085,12 @@ msgstr "Παράγραφος"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:161
 #, fuzzy
-msgid "Parses a date, and converts it to the number of days since the 1st of January, 1970."
-msgstr "Ερμηνεύει μια ημερομηνία και τη μετατρέπει στο αριθμό των ημερών από την 1η Ιανουαρίου 1970."
+msgid ""
+"Parses a date, and converts it to the number of days since the 1st of "
+"January, 1970."
+msgstr ""
+"Ερμηνεύει μια ημερομηνία και τη μετατρέπει στο αριθμό των ημερών από την 1η "
+"Ιανουαρίου 1970."
 
 #: jamovi/client/main/contextmenu/contextmenus.js:15
 #: jamovi/client/main/contextmenu/contextmenus.js:90
@@ -1971,7 +2121,9 @@ msgstr "Επίπεδο ακροβατισμού"
 #: jamovi/client/analysisui/main.ts:331
 #, fuzzy
 msgid "Please <em>install or update</em> this module from the jamovi library."
-msgstr "Παρακαλούμε <em>εγκαταστήστε ή ενημερώστε</em> αυτό το模块 από τη βιβλιοθήκη jamovi."
+msgstr ""
+"Παρακαλούμε <em>εγκαταστήστε ή ενημερώστε</em> αυτό το模块 από τη βιβλιοθήκη "
+"jamovi."
 
 #: jamovi/client/main/viewcontroller.js:355
 #, fuzzy
@@ -2027,6 +2179,10 @@ msgstr "Αποθήκευση έργου ως"
 #, fuzzy
 msgid "qualitative"
 msgstr "ποιοτική"
+
+#: jamovi/client/main/main.ts:226
+msgid "Quit {}"
+msgstr ""
 
 #: jamovi/client/main/backstage.js:982
 #, fuzzy
@@ -2106,6 +2262,10 @@ msgstr "Αφαίρεση {1} από {0}"
 msgid "Remove {1} items from {0}"
 msgstr "Αφαίρεση {1} στοιχείων από {0}"
 
+#: jamovi/client/analysisui/fileselector.ts:164
+msgid "Remove {name}"
+msgstr ""
+
 #: jamovi/client/main/vareditor/filterwidget.js:502
 #, fuzzy
 msgid "Remove filter"
@@ -2130,6 +2290,10 @@ msgstr "Αφαίρεση εσοχής φίλτρου"
 #, fuzzy
 msgid "Requires a newer version of jamovi"
 msgstr "Απαιτεί μια νεότερη έκδοση του jamovi"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:1040
+msgid "Requires newer jamovi"
+msgstr ""
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 #, fuzzy
@@ -2156,8 +2320,14 @@ msgstr "Επιστρέφει μια μετασχηματισμό Box Cox της 
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:68
 #, fuzzy
-msgid "Returns a whether the variable is an outlier according to the IQR: If the value is within the box of a Boxplot 0 is returned, absolute values larger than 1.5 are outside the whiskers."
-msgstr "Επιστρέφει αν η μεταβλητή είναι μια εξαιρετική περίπτωση σύμφωνα με το IQR: Αν η τιμή βρίσκεται εντός του κουτιού ενός Boxplot, επιστρέφεται 0, απόλυτες τιμές μεγαλύτερες από 1,5 είναι εκτός των γλωσσίδων."
+msgid ""
+"Returns a whether the variable is an outlier according to the IQR: If the "
+"value is within the box of a Boxplot 0 is returned, absolute values larger "
+"than 1.5 are outside the whiskers."
+msgstr ""
+"Επιστρέφει αν η μεταβλητή είναι μια εξαιρετική περίπτωση σύμφωνα με το IQR: "
+"Αν η τιμή βρίσκεται εντός του κουτιού ενός Boxplot, επιστρέφεται 0, απόλυτες "
+"τιμές μεγαλύτερες από 1,5 είναι εκτός των γλωσσίδων."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:50
 #, fuzzy
@@ -2292,19 +2462,31 @@ msgstr "Επιστρέφει την διασπορά μιας μεταβλητή
 
 #: jamovi/client/main/main.ts:286
 #, fuzzy
-msgid "Returns to the previously selected analysis and opens the options panel, with focus set in the options panel."
-msgstr "Επιστρέφει στην προηγουμένως επιλεγμένη ανάλυση και ανοίγει το πάνελ επιλογών, με εστίαση στο πάνελ επιλογών."
+msgid ""
+"Returns to the previously selected analysis and opens the options panel, "
+"with focus set in the options panel."
+msgstr ""
+"Επιστρέφει στην προηγουμένως επιλεγμένη ανάλυση και ανοίγει το πάνελ "
+"επιλογών, με εστίαση στο πάνελ επιλογών."
 
 #: jamovi/client/main/main.ts:302
 #, fuzzy
-msgid "Returns to the previously selected analysis and shifts focus into the results output."
-msgstr "Επιστρέφει στην προηγουμένως επιλεγμένη ανάλυση και μεταφέρει την εστίαση στην έξοδο αποτελεσμάτων."
+msgid ""
+"Returns to the previously selected analysis and shifts focus into the "
+"results output."
+msgstr ""
+"Επιστρέφει στην προηγουμένως επιλεγμένη ανάλυση και μεταφέρει την εστίαση "
+"στην έξοδο αποτελεσμάτων."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 #, fuzzy
-msgid "Returns to the previously selected analysis and shifts focus to the results output."
-msgstr "Επιστρέφει στην προηγουμένως επιλεγμένη ανάλυση και μεταφέρει το焦点 στα αποτελέσματα εξόδου."
+msgid ""
+"Returns to the previously selected analysis and shifts focus to the results "
+"output."
+msgstr ""
+"Επιστρέφει στην προηγουμένως επιλεγμένη ανάλυση και μεταφέρει το焦点 στα "
+"αποτελέσματα εξόδου."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 #, fuzzy
@@ -2451,6 +2633,10 @@ msgstr "Αναζήτηση μεταβλητών"
 msgid "Select all"
 msgstr "Επιλογή όλων"
 
+#: jamovi/client/main/main.ts:241
+msgid "Select All"
+msgstr ""
+
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
 #, fuzzy
@@ -2495,6 +2681,11 @@ msgstr "Εμφάνιση στηλών φίλτρου"
 msgid "Show formula editor"
 msgstr "Εμφάνιση συντάκτη τύπου"
 
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:138
+#: jamovi/client/main/backstage/fsentrybrowserview.ts:734
+msgid "Show full description"
+msgstr ""
+
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 #, fuzzy
 msgid "Show in main menu"
@@ -2521,6 +2712,10 @@ msgstr "Παρόχθων"
 msgid "significant figures"
 msgstr "σημαντικές ψηφιακές θέσεις"
 
+#: jamovi/client/main/instance.ts:479
+msgid "Sorry"
+msgstr ""
+
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 #, fuzzy
 msgid "Source variable"
@@ -2533,8 +2728,12 @@ msgstr "Ειδική Εισαγωγή"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:130
 #, fuzzy
-msgid "Splits text into pieces based on a separator. <i>piece</i> specifies the desired piece by index."
-msgstr "Διαχωρίζει το κείμενο σε κομμάτια με βάση einen διαχωριστή. <i>piece</i> καθορίζει το επιθυμητό κομμάτι με δείκτη."
+msgid ""
+"Splits text into pieces based on a separator. <i>piece</i> specifies the "
+"desired piece by index."
+msgstr ""
+"Διαχωρίζει το κείμενο σε κομμάτια με βάση einen διαχωριστή. <i>piece</i> "
+"καθορίζει το επιθυμητό κομμάτι με δείκτη."
 
 #: jamovi/client/main/tableview.js:62
 #, fuzzy
@@ -2615,8 +2814,12 @@ msgstr "Πίνακας"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:163
 #, fuzzy
-msgid "Takes a number representing the number of days since the 1st of January 1970, and produces a formatted date."
-msgstr "Παίρνει έναν αριθμό που αντιπροσωπεύει τον αριθμό των ημερών από την 1η Ιανουαρίου 1970 και παράγει μια μορφοποιημένη ημερομηνία."
+msgid ""
+"Takes a number representing the number of days since the 1st of January "
+"1970, and produces a formatted date."
+msgstr ""
+"Παίρνει έναν αριθμό που αντιπροσωπεύει τον αριθμό των ημερών από την 1η "
+"Ιανουαρίου 1970 και παράγει μια μορφοποιημένη ημερομηνία."
 
 #: jamovi/client/main/vareditor/datavarwidget.js:32
 #: jamovi/client/main/vareditor/formulatoolbar.js:126
@@ -2629,6 +2832,10 @@ msgstr "Κείμενο"
 msgid "Text Color"
 msgstr "Χρώμα Κειμένου"
 
+#: jamovi/client/main/instance.ts:362
+msgid "The connection to the session has been lost"
+msgstr ""
+
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
 #, fuzzy
@@ -2637,8 +2844,12 @@ msgstr "Το περιεχόμενο έχει αντιγραφεί στο πρό�
 
 #: jamovi/client/main/utils/clipboardprompt.js:20
 #, fuzzy
-msgid "The content has been prepared, and can be copied with the button below, or by pressing <em>{k}+C</em> on your keyboard"
-msgstr "Το περιεχόμενο έχει προετοιμαστεί και μπορεί να αντιγραφεί με το κουμπί παρακάτω ή με το πάτημα του {k}+C στο πληκτρολόγιο"
+msgid ""
+"The content has been prepared, and can be copied with the button below, or "
+"by pressing <em>{k}+C</em> on your keyboard"
+msgstr ""
+"Το περιεχόμενο έχει προετοιμαστεί και μπορεί να αντιγραφεί με το κουμπί "
+"παρακάτω ή με το πάτημα του {k}+C στο πληκτρολόγιο"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 #, fuzzy
@@ -2647,8 +2858,13 @@ msgstr "Η τρέχουσα τιμή της μεταβλητής στην οπο
 
 #: jamovi/client/main/strings.ts:6
 #, fuzzy
-msgid "The data is weighted by the variable {}, however this analysis does not support non-integer weights. The weights were rounded to the nearest integer."
-msgstr "Τα δεδομένα ζυγίζονται από τη μεταβλητή {}, ωστόσο αυτή η ανάλυση δεν υποστηρίζει μη-ακεραίες ζυγίσεις. Οι ζυγίσεις στρογγυλοποιήθηκαν στο πλησιέστερο ακέραιο."
+msgid ""
+"The data is weighted by the variable {}, however this analysis does not "
+"support non-integer weights. The weights were rounded to the nearest integer."
+msgstr ""
+"Τα δεδομένα ζυγίζονται από τη μεταβλητή {}, ωστόσο αυτή η ανάλυση δεν "
+"υποστηρίζει μη-ακεραίες ζυγίσεις. Οι ζυγίσεις στρογγυλοποιήθηκαν στο "
+"πλησιέστερο ακέραιο."
 
 #: jamovi/client/main/strings.ts:7
 #: jamovi/server/jamovi/server/analyses/weights.py
@@ -2658,8 +2874,12 @@ msgstr "Τα δεδομένα είναι σταθμισμένα από τη με
 
 #: jamovi/client/main/strings.ts:5
 #, fuzzy
-msgid "The data is weighted, however this analysis does not support weights. This analysis used the data unweighted."
-msgstr "Τα δεδομένα είναι σταθμισμένα, ωστόσο αυτή η ανάλυση δεν υποστηρίζει σταθμούς. Αυτή η ανάλυση χρησιμοποιεί τα δεδομένα χωρίς σταθμούς."
+msgid ""
+"The data is weighted, however this analysis does not support weights. This "
+"analysis used the data unweighted."
+msgstr ""
+"Τα δεδομένα είναι σταθμισμένα, ωστόσο αυτή η ανάλυση δεν υποστηρίζει "
+"σταθμούς. Αυτή η ανάλυση χρησιμοποιεί τα δεδομένα χωρίς σταθμούς."
 
 #: jamovi/client/main/instance.js:489
 #, fuzzy
@@ -2741,6 +2961,16 @@ msgstr "Ο πόρος δεν υπάρχει ή έχει μετακινηθεί (
 msgid "The selected transform is in error and should be edited."
 msgstr "Η επιλεγμένη μετασχηματισμένη είναι σε σφάλμα και πρέπει να επεξεργαστεί."
 
+#: jamovi/client/main/instance.ts:51
+msgid "The server took too long to respond. Please try again."
+msgstr ""
+
+#: jamovi/client/main/instance.ts:52
+msgid ""
+"The upload took too long to complete. Please try again with a faster "
+"connection, or a smaller file."
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 #, fuzzy
 msgid "The value in the provided values at index."
@@ -2772,6 +3002,10 @@ msgstr "Αυτό το σύνολο δεδομένων δεν είναι πλέο
 msgid "This Device"
 msgstr "Αυτή η Συσκευή"
 
+#: jamovi/client/analysisui/fileselector.ts:172
+msgid "This file needs to be re-selected"
+msgstr ""
+
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 #, fuzzy
 msgid "This is a data variable."
@@ -2779,7 +3013,9 @@ msgstr "Αυτή είναι μια μεταβλητή δεδομένων."
 
 #: jamovi/client/analysisui/main.ts:330
 #, fuzzy
-msgid "This module is either <em>missing or incompatible</em> with this version of jamovi."
+msgid ""
+"This module is either <em>missing or incompatible</em> with this version of "
+"jamovi."
 msgstr "Αυτό το module είτε λείπει ή δεν είναι συμβατό με αυτή την έκδοση του jamovi."
 
 #: jamovi/client/main/backstage.js:1138
@@ -2796,6 +3032,10 @@ msgstr "Αυτό το υπολογιστή"
 #, fuzzy
 msgid "This session is limited to {} columns"
 msgstr "Αυτή η συνεδρία είναι περιορισμένη σε {} στήλες"
+
+#: jamovi/server/jamovi/server/instance.py
+msgid "This session is limited to {} MB of files"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2911,10 +3151,22 @@ msgstr "Αδύνατο να προσεγγιστεί το διαδίκτυο (π
 msgid "Unable to browse {}"
 msgstr "Αδύνατο να αναζητήσετε {}"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1454
+msgid "Unable to cancel install"
+msgstr ""
+
 #: jamovi/client/main/main.js:768
 #, fuzzy
 msgid "Unable to connect to the server"
 msgstr "Αδύνατο να συνδεθείτε με τον διακομιστή"
+
+#: jamovi/client/main/resultspanel.ts:1317
+msgid "Unable to copy"
+msgstr ""
+
+#: jamovi/client/main/main.ts:639
+msgid "Unable to export"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -2983,6 +3235,10 @@ msgstr "Αδύνατο να απεγκατασταθεί το μοντέλο"
 msgid "Unavailable"
 msgstr "Δεν είναι διαθέσιμο"
 
+#: jamovi/client/main/resultspanel.ts:1318
+msgid "Unavailable under Safari and iPads"
+msgstr ""
+
 #: jamovi/client/main/ribbon/annotationtab.js:123
 #, fuzzy
 msgid "Underline"
@@ -3003,6 +3259,10 @@ msgstr "Ακύρωση Επεξεργασίας"
 msgid "Unexpected error"
 msgstr "Απρόσμενη σφάλμα"
 
+#: jamovi/client/main/backstage.ts:985
+msgid "Unexpected response"
+msgstr ""
+
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
 msgid "Unrecognised file format"
@@ -3018,6 +3278,10 @@ msgstr "Χωρίς τίτλο"
 #, fuzzy
 msgid "Update"
 msgstr "Ενημέρωση"
+
+#: jamovi/client/main/auxiliary/modules/index.ts:589
+msgid "Update all ({count})"
+msgstr ""
 
 #: jamovi/client/main/store/pagemodules.js:253
 #, fuzzy
@@ -3116,6 +3380,10 @@ msgstr "Προβολή μεταβλητών"
 msgid "Version {v}"
 msgstr "Έκδοση {v}"
 
+#: jamovi/client/main/auxiliary/modules/index.ts:1504
+msgid "visible"
+msgstr ""
+
 #: jamovi/client/main/ribbon/appmenu.js:77
 #, fuzzy
 msgid "Visible"
@@ -3143,13 +3411,23 @@ msgstr "όταν"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:122
 #, fuzzy
-msgid "When the variable contains a missing value, use the value, otherwise the else."
-msgstr "Όταν η μεταβλητή περιέχει μια λείπουσα τιμή, χρησιμοποιήστε την τιμή, διαφορετικά το αλλιώς."
+msgid ""
+"When the variable contains a missing value, use the value, otherwise the "
+"else."
+msgstr ""
+"Όταν η μεταβλητή περιέχει μια λείπουσα τιμή, χρησιμοποιήστε την τιμή, "
+"διαφορετικά το αλλιώς."
 
 #: jamovi/client/main/utils/clipboardprompt.js:22
 #, fuzzy
 msgid "Why is this additional step necessary?"
 msgstr "Γιατί αυτή η πρόσθετη bước είναι απαραίτητη;"
+
+#: jamovi/client/main/backstage.ts:213
+#: jamovi/client/main/backstage.ts:239
+#: jamovi/client/main/resultspanel.ts:1222
+msgid "Word Document {ext}"
+msgstr ""
 
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
@@ -3164,10 +3442,14 @@ msgstr "Δεν μπορείτε να εισάγετε γραμμές ενώ κρ
 #: jamovi/server/jamovi/server/instance.py
 #, fuzzy
 msgid "You cannot modify columns that affect filters when filtered rows are hidden"
-msgstr "Δεν μπορείτε να τροποποιήσετε στήλες που επηρεάζουν τα φίλτρα όταν οι φιλτραρισμένες γραμμές είναι κρυφές"
+msgstr ""
+"Δεν μπορείτε να τροποποιήσετε στήλες που επηρεάζουν τα φίλτρα όταν οι "
+"φιλτραρισμένες γραμμές είναι κρυφές"
 
 #: jamovi/server/jamovi/server/instance.py
-msgid "You cannot modify transforms that affect filters when filtered rows are hidden"
+msgid ""
+"You cannot modify transforms that affect filters when filtered rows are "
+"hidden"
 msgstr ""
 "Δεν μπορείτε να τροποποιήσετε μετασχηματισμούς οι οποίοι επηρεάζουν τα "
 "κριτήρια όταν οι επιλεγμένες με κριτήρια σειρές είναι σε απόκρυψη"
@@ -3179,8 +3461,11 @@ msgstr "Δεν έχετε τις κατάλληλες άδειες (403)"
 
 #: jamovi/client/main/main.js:142
 msgid "Your connection has been lost. Please refresh the page to continue."
+msgstr "Η σύνδεσή σας έχει χαθεί. Παρακαλώ, ανανεώσετε την σελίδα για να συνεχίσετε."
+
+#: jamovi/client/main/instance.ts:485
+msgid "Your session has ended. Please refresh the page to continue."
 msgstr ""
-"Η σύνδεσή σας έχει χαθεί. Παρακαλώ, ανανεώσετε την σελίδα για να συνεχίσετε."
 
 #: jamovi/client/main/utils/headeralert.js:32
 #, fuzzy
