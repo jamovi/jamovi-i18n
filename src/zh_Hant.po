@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:27+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
-"Language-Team: Chinese (Traditional Han script) "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hant/>\n"
+"PO-Revision-Date: 2026-10-30 22:51+0000\n"
+"Last-Translator: 陳正昌 <chencc99@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Chinese (Traditional Han script) <https://hosted.weblate.org/"
+"projects/jamovi/jamovi-i18n/zh_Hant/>\n"
 "Language: zh_Hant\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -46,7 +46,7 @@ msgstr "{0} 目錄內容"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:947
 msgid "{analysisCount} analyses"
-msgstr ""
+msgstr "{analysisCount} 分析"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -74,7 +74,7 @@ msgstr "{module} 已安裝成功"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1471
 msgid "{module} was uninstalled successfully"
-msgstr ""
+msgstr "{module} 已成功解除安裝"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -98,7 +98,7 @@ msgstr "{name} 變項"
 #: jamovi/client/main/auxiliary/modules/index.ts:1254
 #: jamovi/client/main/auxiliary/modules/index.ts:1288
 msgid "{percent}%"
-msgstr ""
+msgstr "{percent}%"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -106,7 +106,7 @@ msgstr "{r} 不是整數"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1505
 msgid "{title} ({analysisCount} analyses, {hiddenState})"
-msgstr ""
+msgstr "{title} ({analysisCount} 分析，{hiddenState})"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
@@ -115,7 +115,7 @@ msgstr "{title} 初始註解"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:875
 msgid "{title} module"
-msgstr ""
+msgstr "{title} 模組"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
@@ -147,7 +147,7 @@ msgstr "需要更新版的 jamovi"
 
 #: jamovi/client/main/main.ts:224
 msgid "About {}"
-msgstr ""
+msgstr "關於 {}"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
@@ -254,7 +254,7 @@ msgstr "分析"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1092
 msgid "Analyses ({count})"
-msgstr ""
+msgstr "分析 ({count})"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
@@ -387,7 +387,7 @@ msgstr "瀏覽"
 
 #: jamovi/client/analysisui/fileselector.ts:70
 msgid "Browse…"
-msgstr ""
+msgstr "瀏覽…"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
@@ -400,12 +400,12 @@ msgstr "取消"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:635
 msgid "Cancel all"
-msgstr ""
+msgstr "全部取消"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Cancelling"
-msgstr ""
+msgstr "取消中"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
@@ -478,7 +478,7 @@ msgstr "關閉偏好設定"
 
 #: jamovi/client/main/main.ts:232
 msgid "Close Window"
-msgstr ""
+msgstr "關閉視窗"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -490,7 +490,7 @@ msgstr "調色盤"
 
 #: jamovi/client/analysisui/formatdef.ts:458
 msgid "Colour {hex}"
-msgstr ""
+msgstr "顏色 {hex}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -599,7 +599,7 @@ msgstr "複製"
 
 #: jamovi/client/resultsview/element.ts:312
 msgid "Copy as Image"
-msgstr ""
+msgstr "複製為圖片"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
@@ -1015,7 +1015,7 @@ msgstr "檔案已儲存"
 #: jamovi/client/main/instance.ts:574
 #: jamovi/client/main/instance.ts:622
 msgid "File size exceeds session limits"
-msgstr ""
+msgstr "檔案大小超過工作階段限制"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
@@ -1129,7 +1129,7 @@ msgstr "函數"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:1219
 msgid "Go to {0}"
-msgstr ""
+msgstr "前往 {0}"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -1167,7 +1167,7 @@ msgstr "說明"
 
 #: jamovi/client/analysisui/colorpicker.ts:61
 msgid "Hex code"
-msgstr ""
+msgstr "十六進位碼"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
@@ -1175,7 +1175,7 @@ msgstr "您好"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "hidden"
-msgstr ""
+msgstr "隱藏"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Hidden"
@@ -1197,7 +1197,7 @@ msgstr "隱藏篩選欄位"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 msgid "Hide full description"
-msgstr ""
+msgstr "隱藏完整說明"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
@@ -1351,11 +1351,11 @@ msgstr "已安裝的版本需要更新"
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Installing"
-msgstr ""
+msgstr "安裝中"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:621
 msgid "Installing {count} modules"
-msgstr ""
+msgstr "安裝 {count} 個模組"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
@@ -1363,7 +1363,7 @@ msgstr "正在安裝 {module}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:620
 msgid "Installing 1 module"
-msgstr ""
+msgstr "安裝 1 個模組"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1544,19 +1544,19 @@ msgstr "模組安裝成功"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module is not signed"
-msgstr ""
+msgstr "模組未簽署"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:45
 msgid "Module Library"
-msgstr ""
+msgstr "模組庫"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is invalid"
-msgstr ""
+msgstr "模組簽章無效"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is malformed"
-msgstr ""
+msgstr "模組簽章格式錯誤"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
@@ -1584,7 +1584,7 @@ msgstr "名稱"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1042
 msgid "Needs update"
-msgstr ""
+msgstr "需要更新"
 
 #: jamovi/client/main/backstage.js:1178
 #: jamovi/client/main/backstage.js:1255
@@ -1615,7 +1615,7 @@ msgstr "下一個變項"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:282
 msgid "No additional modules available right now."
-msgstr ""
+msgstr "目前沒有其他可用模組。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
@@ -1628,7 +1628,7 @@ msgstr "無此函數的相關資訊"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:268
 msgid "No installed modules found."
-msgstr ""
+msgstr "找不到已安裝的模組。"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
@@ -1661,7 +1661,7 @@ msgstr "無"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "not a valid module file"
-msgstr ""
+msgstr "不是有效的模組檔案"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
@@ -1744,7 +1744,7 @@ msgstr "開啟主選單"
 #: jamovi/client/main/backstage.ts:240
 #: jamovi/client/main/resultspanel.ts:1223
 msgid "OpenDocument Text {ext}"
-msgstr ""
+msgstr "OpenDocument 文字 {ext}"
 
 #: jamovi/client/main/backstage.js:1706
 #: jamovi/client/main/instance.js:304
@@ -1861,7 +1861,7 @@ msgstr "多色系色盤"
 
 #: jamovi/client/main/main.ts:226
 msgid "Quit {}"
-msgstr ""
+msgstr "結束 {}"
 
 #: jamovi/client/main/backstage.js:982
 msgid "R data files {ext}"
@@ -1930,7 +1930,7 @@ msgstr "從 {0} 移除 {1} 個項目"
 
 #: jamovi/client/analysisui/fileselector.ts:164
 msgid "Remove {name}"
-msgstr ""
+msgstr "移除 {name}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1954,7 +1954,7 @@ msgstr "需要更新版本的 jamovi"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1040
 msgid "Requires newer jamovi"
-msgstr ""
+msgstr "需要更新版本的 jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:261
 msgid "Restart required"
@@ -2225,7 +2225,7 @@ msgstr "全部選擇"
 
 #: jamovi/client/main/main.ts:241
 msgid "Select All"
-msgstr ""
+msgstr "全選"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
@@ -2266,7 +2266,7 @@ msgstr "顯示公式編輯器"
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:734
 msgid "Show full description"
-msgstr ""
+msgstr "顯示完整說明"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
@@ -2291,7 +2291,7 @@ msgstr "有效數字"
 
 #: jamovi/client/main/instance.ts:479
 msgid "Sorry"
-msgstr ""
+msgstr "抱歉"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
@@ -2386,7 +2386,7 @@ msgstr "文字顏色"
 
 #: jamovi/client/main/instance.ts:362
 msgid "The connection to the session has been lost"
-msgstr ""
+msgstr "與工作階段的連線已中斷"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
@@ -2486,13 +2486,13 @@ msgstr "所選取的資料轉換有誤，需要修正。"
 
 #: jamovi/client/main/instance.ts:51
 msgid "The server took too long to respond. Please try again."
-msgstr ""
+msgstr "伺服器回應逾時。請再試一次。"
 
 #: jamovi/client/main/instance.ts:52
 msgid ""
 "The upload took too long to complete. Please try again with a faster "
 "connection, or a smaller file."
-msgstr ""
+msgstr "上傳逾時。請改用更快的連線或較小的檔案再試一次。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:138
 msgid "The value in the provided values at index."
@@ -2521,7 +2521,7 @@ msgstr "此裝置"
 
 #: jamovi/client/analysisui/fileselector.ts:172
 msgid "This file needs to be re-selected"
-msgstr ""
+msgstr "需要重新選擇此檔案"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:246
 msgid "This is a data variable."
@@ -2548,7 +2548,7 @@ msgstr "本工作階段僅容許 {} 個欄位"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session is limited to {} MB of files"
-msgstr ""
+msgstr "此工作階段的檔案上限為 {} MB"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2644,7 +2644,7 @@ msgstr "無法瀏覽 {}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1454
 msgid "Unable to cancel install"
-msgstr ""
+msgstr "無法取消安裝"
 
 #: jamovi/client/main/main.js:768
 msgid "Unable to connect to the server"
@@ -2652,11 +2652,11 @@ msgstr "無法連線至伺服器"
 
 #: jamovi/client/main/resultspanel.ts:1317
 msgid "Unable to copy"
-msgstr ""
+msgstr "無法複製"
 
 #: jamovi/client/main/main.ts:639
 msgid "Unable to export"
-msgstr ""
+msgstr "無法匯出"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
@@ -2715,7 +2715,7 @@ msgstr "無法使用"
 
 #: jamovi/client/main/resultspanel.ts:1318
 msgid "Unavailable under Safari and iPads"
-msgstr ""
+msgstr "Safari 與 iPad 無法使用"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Underline"
@@ -2736,7 +2736,7 @@ msgstr "未預期的錯誤"
 
 #: jamovi/client/main/backstage.ts:985
 msgid "Unexpected response"
-msgstr ""
+msgstr "非預期的回應"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
@@ -2753,7 +2753,7 @@ msgstr "更新"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:589
 msgid "Update all ({count})"
-msgstr ""
+msgstr "全部更新 ({count})"
 
 #: jamovi/client/main/store/pagemodules.js:253
 msgid "Update module {moduleName} to version {version}"
@@ -2836,7 +2836,7 @@ msgstr "{v} 版"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "visible"
-msgstr ""
+msgstr "顯示"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
@@ -2873,7 +2873,7 @@ msgstr "為何需要該額外步驟？"
 #: jamovi/client/main/backstage.ts:239
 #: jamovi/client/main/resultspanel.ts:1222
 msgid "Word Document {ext}"
-msgstr ""
+msgstr "Word 文件 {ext}"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
@@ -2903,7 +2903,7 @@ msgstr "您的連線已中斷。請重新整理網頁再繼續使用。"
 
 #: jamovi/client/main/instance.ts:485
 msgid "Your session has ended. Please refresh the page to continue."
-msgstr ""
+msgstr "您的工作階段已結束。請重新整理頁面以繼續。"
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
