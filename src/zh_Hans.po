@@ -2,16 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: jamovi-zh-cn\n"
 "POT-Creation-Date: 2022-02-02 12:44+0800\n"
-"PO-Revision-Date: 2026-06-05 04:25+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
-"Language-Team: Chinese (Simplified Han script) "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/zh_Hans/>\n"
+"PO-Revision-Date: 2026-10-30 22:51+0000\n"
+"Last-Translator: reducedradius "
+"<137701630+flytothehighest@users.noreply.github.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://hosted.weblate.org/"
+"projects/jamovi/jamovi-i18n/zh_Hans/>\n"
 "Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -48,7 +49,7 @@ msgstr "{0} 目录内容"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:947
 msgid "{analysisCount} analyses"
-msgstr ""
+msgstr "{analysisCount} 分析"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -76,7 +77,7 @@ msgstr "{module} 已成功安装"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1471
 msgid "{module} was uninstalled successfully"
-msgstr ""
+msgstr "{module} 已成功卸载"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 #: jamovi/client/main/ribbon/appmenu.js:69
@@ -100,7 +101,7 @@ msgstr "{name} 变量"
 #: jamovi/client/main/auxiliary/modules/index.ts:1254
 #: jamovi/client/main/auxiliary/modules/index.ts:1288
 msgid "{percent}%"
-msgstr ""
+msgstr "{percent}%"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -149,7 +150,7 @@ msgstr "需要更新的 jamovi 版本"
 
 #: jamovi/client/main/main.ts:224
 msgid "About {}"
-msgstr ""
+msgstr "关于{}"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Accent"
