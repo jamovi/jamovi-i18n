@@ -1,15 +1,15 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-06-05 04:26+0000\n"
-"Last-Translator: Jonathon Love <jon@thon.cc>\n"
-"Language-Team: Japanese "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/ja/>\n"
+"PO-Revision-Date: 2026-10-30 22:51+0000\n"
+"Last-Translator: SHIBATA Seiji <sbtseiji@users.noreply.hosted.weblate.org>\n"
+"Language-Team: Japanese <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/ja/>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.6\n"
+"X-Generator: Weblate 2026.11.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -46,7 +46,7 @@ msgstr "{0} ディレクトリの内容"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:947
 msgid "{analysisCount} analyses"
-msgstr ""
+msgstr "{analysisCount} 件の分析"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
@@ -74,7 +74,7 @@ msgstr "{module}をインストールしました"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1471
 msgid "{module} was uninstalled successfully"
-msgstr ""
+msgstr "{module} は正常にアンインストールされました"
 
 #: jamovi/client/main/ribbon/appmenu.js:62
 #: jamovi/client/main/ribbon/appmenu.js:69
@@ -98,7 +98,7 @@ msgstr "{name} 変数"
 #: jamovi/client/main/auxiliary/modules/index.ts:1254
 #: jamovi/client/main/auxiliary/modules/index.ts:1288
 msgid "{percent}%"
-msgstr ""
+msgstr "{percent}%"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -106,7 +106,7 @@ msgstr "{r}は整数ではありません"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1505
 msgid "{title} ({analysisCount} analyses, {hiddenState})"
-msgstr ""
+msgstr "{title}（分析 {analysisCount} 件、{hiddenState}）"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
@@ -115,7 +115,7 @@ msgstr "{title} 初期注釈"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:875
 msgid "{title} module"
-msgstr ""
+msgstr "{title} モジュール"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
@@ -147,7 +147,7 @@ msgstr "このjamoviのバージョンは古すぎます"
 
 #: jamovi/client/main/main.ts:224
 msgid "About {}"
-msgstr ""
+msgstr "{} について"
 
 #: jamovi/client/main/ribbon/appmenu.js:99
 msgid "Accent"
@@ -254,7 +254,7 @@ msgstr "分析"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1092
 msgid "Analyses ({count})"
-msgstr ""
+msgstr "分析（{count}件）"
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "Analyses which execute arbitrary code are not permitted in this session."
@@ -386,7 +386,7 @@ msgstr "ブラウズ"
 
 #: jamovi/client/analysisui/fileselector.ts:70
 msgid "Browse…"
-msgstr ""
+msgstr "ブラウズ…"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
@@ -398,12 +398,12 @@ msgstr "キャンセル"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:635
 msgid "Cancel all"
-msgstr ""
+msgstr "すべてキャンセル"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Cancelling"
-msgstr ""
+msgstr "キャンセル中"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
@@ -476,7 +476,7 @@ msgstr "設定を閉じる"
 
 #: jamovi/client/main/main.ts:232
 msgid "Close Window"
-msgstr ""
+msgstr "ウィンドウを閉じる"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
@@ -488,7 +488,7 @@ msgstr "配色テーマ"
 
 #: jamovi/client/analysisui/formatdef.ts:458
 msgid "Colour {hex}"
-msgstr ""
+msgstr "カラー {hex}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
@@ -599,7 +599,7 @@ msgstr "コピー"
 
 #: jamovi/client/resultsview/element.ts:312
 msgid "Copy as Image"
-msgstr ""
+msgstr "画像としてコピー"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
@@ -1020,7 +1020,7 @@ msgstr "保存しました"
 #: jamovi/client/main/instance.ts:574
 #: jamovi/client/main/instance.ts:622
 msgid "File size exceeds session limits"
-msgstr ""
+msgstr "ファイルサイズがセッションの上限を超えています"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
@@ -1134,7 +1134,7 @@ msgstr "関数"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:1219
 msgid "Go to {0}"
-msgstr ""
+msgstr "{0} に移動"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -1172,7 +1172,7 @@ msgstr "ヘルプ"
 
 #: jamovi/client/analysisui/colorpicker.ts:61
 msgid "Hex code"
-msgstr ""
+msgstr "Hexコード"
 
 #: jamovi/client/main/infobox.js:34
 msgid "Hi"
@@ -1180,7 +1180,7 @@ msgstr "こんにちは"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "hidden"
-msgstr ""
+msgstr "非表示"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "Hidden"
@@ -1202,7 +1202,7 @@ msgstr "フィルタ列を非表示"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 msgid "Hide full description"
-msgstr ""
+msgstr "詳細な説明を隠す"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
@@ -1357,11 +1357,11 @@ msgstr "バージョンの更新が必要です"
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Installing"
-msgstr ""
+msgstr "インストール中"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:621
 msgid "Installing {count} modules"
-msgstr ""
+msgstr "{count} 個のモジュールをインストール中"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
@@ -1369,7 +1369,7 @@ msgstr "{module}をインストール"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:620
 msgid "Installing 1 module"
-msgstr ""
+msgstr "1個のモジュールをインストール中"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1550,19 +1550,19 @@ msgstr "モジュールをインストールしました"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module is not signed"
-msgstr ""
+msgstr "モジュールに署名がありません"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:45
 msgid "Module Library"
-msgstr ""
+msgstr "モジュールライブラリ"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is invalid"
-msgstr ""
+msgstr "モジュールの署名が無効です"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is malformed"
-msgstr ""
+msgstr "モジュールの署名形式が不正です"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
@@ -1590,7 +1590,7 @@ msgstr "名前"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1042
 msgid "Needs update"
-msgstr ""
+msgstr "要更新"
 
 #: jamovi/client/main/backstage.js:1176
 #: jamovi/client/main/backstage.js:1253
@@ -1621,7 +1621,7 @@ msgstr "次の変数"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:282
 msgid "No additional modules available right now."
-msgstr ""
+msgstr "現在、追加できるモジュールはありません。"
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
@@ -1634,7 +1634,7 @@ msgstr "この関数についての情報がありません"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:268
 msgid "No installed modules found."
-msgstr ""
+msgstr "インストール済みのモジュールはありません。"
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
@@ -1667,7 +1667,7 @@ msgstr "なし"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "not a valid module file"
-msgstr ""
+msgstr "有効なモジュールファイルではありません"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
@@ -1751,7 +1751,7 @@ msgstr "メニュー項目を開く"
 #: jamovi/client/main/backstage.ts:240
 #: jamovi/client/main/resultspanel.ts:1223
 msgid "OpenDocument Text {ext}"
-msgstr ""
+msgstr "OpenDocument テキスト {ext}"
 
 #: jamovi/client/main/backstage.js:1704
 #: jamovi/client/main/instance.js:236
@@ -1869,7 +1869,7 @@ msgstr "質的"
 
 #: jamovi/client/main/main.ts:226
 msgid "Quit {}"
-msgstr ""
+msgstr "{} を終了"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
@@ -1938,7 +1938,7 @@ msgstr "{0}から{1}項目を削除"
 
 #: jamovi/client/analysisui/fileselector.ts:164
 msgid "Remove {name}"
-msgstr ""
+msgstr "{name} を削除"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1962,7 +1962,7 @@ msgstr "jamoviのバージョンが古すぎます"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1040
 msgid "Requires newer jamovi"
-msgstr ""
+msgstr "より新しいバージョンの jamovi が必要です"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
@@ -2236,7 +2236,7 @@ msgstr "すべてを選択"
 
 #: jamovi/client/main/main.ts:241
 msgid "Select All"
-msgstr ""
+msgstr "すべてを選択"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
@@ -2276,7 +2276,7 @@ msgstr "数式エディタを表示"
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:734
 msgid "Show full description"
-msgstr ""
+msgstr "完全な説明を表示"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
@@ -2301,7 +2301,7 @@ msgstr "有効桁数"
 
 #: jamovi/client/main/instance.ts:479
 msgid "Sorry"
-msgstr ""
+msgstr "申し訳ありません"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
@@ -2396,7 +2396,7 @@ msgstr "文字色"
 
 #: jamovi/client/main/instance.ts:362
 msgid "The connection to the session has been lost"
-msgstr ""
+msgstr "セッションへの接続が失われました"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
@@ -2496,13 +2496,15 @@ msgstr "選択した変換にエラーがあります。修正してください
 
 #: jamovi/client/main/instance.ts:51
 msgid "The server took too long to respond. Please try again."
-msgstr ""
+msgstr "サーバーの応答に時間がかかりすぎています。もう一度お試しください。"
 
 #: jamovi/client/main/instance.ts:52
 msgid ""
 "The upload took too long to complete. Please try again with a faster "
 "connection, or a smaller file."
 msgstr ""
+"アップロードに時間がかかりすぎています。通信速度の速い接続を使用するか、"
+"ファイルサイズを小さくして、もう一度お試しください。"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
@@ -2531,7 +2533,7 @@ msgstr "このデバイス"
 
 #: jamovi/client/analysisui/fileselector.ts:172
 msgid "This file needs to be re-selected"
-msgstr ""
+msgstr "このファイルを選択し直す必要があります"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "This is a data variable."
@@ -2558,7 +2560,7 @@ msgstr "このセッションで使用できるのは{}列までです"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session is limited to {} MB of files"
-msgstr ""
+msgstr "このセッションでは、ファイルサイズが {} MB までに制限されています"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2655,7 +2657,7 @@ msgstr "{}をブラウズできません"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1454
 msgid "Unable to cancel install"
-msgstr ""
+msgstr "インストールをキャンセルできません"
 
 #: jamovi/client/main/main.js:745
 msgid "Unable to connect to the server"
@@ -2663,11 +2665,11 @@ msgstr "サーバに接続できません"
 
 #: jamovi/client/main/resultspanel.ts:1317
 msgid "Unable to copy"
-msgstr ""
+msgstr "コピーできません"
 
 #: jamovi/client/main/main.ts:639
 msgid "Unable to export"
-msgstr ""
+msgstr "書き出しできません"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
@@ -2725,7 +2727,7 @@ msgstr "利用不可"
 
 #: jamovi/client/main/resultspanel.ts:1318
 msgid "Unavailable under Safari and iPads"
-msgstr ""
+msgstr "SafariとiPadでは利用できません"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Underline"
@@ -2744,7 +2746,7 @@ msgstr "予期しないエラーです"
 
 #: jamovi/client/main/backstage.ts:985
 msgid "Unexpected response"
-msgstr ""
+msgstr "予期しない応答"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
@@ -2761,7 +2763,7 @@ msgstr "更新"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:589
 msgid "Update all ({count})"
-msgstr ""
+msgstr "すべて更新（{count}）"
 
 #: jamovi/client/main/store/pagemodules.js:253
 msgid "Update module {moduleName} to version {version}"
@@ -2843,7 +2845,7 @@ msgstr "バージョン {v}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "visible"
-msgstr ""
+msgstr "表示中"
 
 #: jamovi/client/main/ribbon/appmenu.js:76
 msgid "Visible"
@@ -2880,7 +2882,7 @@ msgstr "なぜ追加の手順が必要なのですか？"
 #: jamovi/client/main/backstage.ts:239
 #: jamovi/client/main/resultspanel.ts:1222
 msgid "Word Document {ext}"
-msgstr ""
+msgstr "Word 文書 {ext}"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
@@ -2910,7 +2912,7 @@ msgstr "接続が失われました。継続するにはページを更新して
 
 #: jamovi/client/main/instance.ts:485
 msgid "Your session has ended. Please refresh the page to continue."
-msgstr ""
+msgstr "セッションが終了しました。続行するにはページを再読み込みしてください。"
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
