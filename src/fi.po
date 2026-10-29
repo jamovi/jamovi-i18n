@@ -1,9 +1,9 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-20 23:20+0000\n"
+"PO-Revision-Date: 2026-10-30 22:51+0000\n"
 "Last-Translator: Arto Luoma <arto@users.noreply.hosted.weblate.org>\n"
-"Language-Team: Finnish "
-"<https://hosted.weblate.org/projects/jamovi/jamovi-i18n/fi/>\n"
+"Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/jamovi-"
+"i18n/fi/>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=utf-8\n"
@@ -1169,9 +1169,8 @@ msgid "Exported to '{filename}'"
 msgstr "Viedyt tiedostoon '{filename}'"
 
 #: jamovi/client/main/ribbon/analysetab.js:194
-#, fuzzy
 msgid "Factor"
-msgstr "Tekijä"
+msgstr "Faktori"
 
 #: jamovi/client/main/main.ts:194
 #: jamovi/client/main/ribbon.js:126
