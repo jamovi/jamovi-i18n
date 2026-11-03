@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-30 22:51+0000\n"
+"PO-Revision-Date: 2026-11-17 23:47+0000\n"
 "Last-Translator: Arto Luoma <arto@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Finnish <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/fi/>\n"
@@ -9,7 +9,7 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 
 #: jamovi/server/jamovi/server/column.py
 #, fuzzy
@@ -1334,9 +1334,8 @@ msgstr ""
 "yhtäsuuruusmerkkiä '==')"
 
 #: jamovi/client/main/ribbon/analysetab.js:193
-#, fuzzy
 msgid "Frequencies"
-msgstr "Tiheydet"
+msgstr "Frekvenssit"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/nodes.py
@@ -1390,7 +1389,6 @@ msgstr "Harmaat"
 
 #: jamovi/client/resultsview/array.js:75
 #: jamovi/client/resultsview/group.js:80
-#, fuzzy
 msgid "Group"
 msgstr "Ryhmä"
 
@@ -1421,7 +1419,7 @@ msgstr "Hei"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "hidden"
-msgstr ""
+msgstr "piilotettu"
 
 #: jamovi/client/main/ribbon/appmenu.js:92
 #, fuzzy
