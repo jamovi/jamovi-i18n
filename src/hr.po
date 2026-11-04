@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-10-23 09:51+0000\n"
+"PO-Revision-Date: 2026-11-04 12:51+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.11.dev0\n"
+"X-Generator: Weblate 2026.11.1.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -47,11 +47,11 @@ msgstr "{0} sadržaj direktorija"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:947
 msgid "{analysisCount} analyses"
-msgstr ""
+msgstr "{analysisCount} analize"
 
 #: jamovi/client/main/tableview.js:1164
 msgid "{columnType} columns may not be edited."
-msgstr "{columnType} varijable se ne mogu mijenjati."
+msgstr "{columnType} stupci se ne smiju uređivati."
 
 #: jamovi/client/analysisui/formatdef.js:116
 #: jamovi/client/analysisui/formatdef.js:271
