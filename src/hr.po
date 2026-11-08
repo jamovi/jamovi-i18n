@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-16 20:51+0000\n"
+"PO-Revision-Date: 2026-11-17 23:47+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -15,14 +15,14 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/column.py
 msgid "'{}' is in error"
-msgstr "'{}' je u grešci"
+msgstr "„{}” sadrži grešku"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid ""
 "'{}' is not an argument for {}()\n"
 "(If you're wanting to test equality, use two equal signs '==')"
 msgstr ""
-"'{}'nije argument za {}()\n"
+"„{}”nije argument za {}()\n"
 "(Ako želiš testirati jednakost, koristi dva znaka jednakosti '==')"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:33
@@ -107,7 +107,7 @@ msgstr "{r} nije cijeli broj"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1505
 msgid "{title} ({analysisCount} analyses, {hiddenState})"
-msgstr ""
+msgstr "{title} (broj analiza: {analysisCount}, {hiddenState})"
 
 #: jamovi/client/resultsview/array.js:182
 #: jamovi/client/resultsview/group.js:129
@@ -158,7 +158,8 @@ msgstr "Isticanje"
 msgid ""
 "Access is denied. You may not have the appropriate permissions to access "
 "this resource."
-msgstr "Pristup je odbijen. Možda nemaš odgovarajuće dozvole za pristup ovom resursu."
+msgstr ""
+"Pristup je odbijen. Možda nemaš odgovarajuće dozvole za pristup ovom resursu."
 
 #: jamovi/client/main/vareditor/filterwidget.js:380
 #: jamovi/client/main/vareditor/filterwidget.js:498
@@ -408,27 +409,27 @@ msgstr "Prekidanje"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
-msgstr "Ne može se dodijeliti necjelobrojna vrijednost stupcu '{}'"
+msgstr "Ne može se dodijeliti necjelobrojna vrijednost stupcu „{}”"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-numeric value to column '{}'"
-msgstr "Ne može se dodijeliti ne-numerička vrijednost stupcu '{}'"
+msgstr "Ne može se dodijeliti ne-numerička vrijednost stupcu „{}”"
 
 #: jamovi/client/main/tableview.js:1219
 msgid "Cannot assign non-numeric value to column '{columnName}'"
-msgstr "Ne može se dodijeliti ne-numerička vrijednost stupcu '{columnName}'"
+msgstr "Ne može se dodijeliti ne-numerička vrijednost stupcu „{columnName}”"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to computed column '{}'"
-msgstr "Ne može se dodijeliti izračunatom stupcu '{}'"
+msgstr "Ne može se dodijeliti izračunatom stupcu „{}”"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to filter column '{}'"
-msgstr "Ne može se dodijeliti stupcu filtra '{}'"
+msgstr "Ne može se dodijeliti stupcu filtra „{}”"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to recoded column '{}'"
-msgstr "Ne može se dodijeliti prekodiranom stupcu '{}'"
+msgstr "Ne može se dodijeliti prekodiranom stupcu „{}”"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign to these columns."
@@ -489,12 +490,12 @@ msgstr "Paleta boja"
 
 #: jamovi/client/analysisui/formatdef.ts:458
 msgid "Colour {hex}"
-msgstr ""
+msgstr "Boja {hex}"
 
 #: jamovi/server/jamovi/server/compute/checker.py
 #: jamovi/server/jamovi/server/compute/transmogrifier.py
 msgid "Column '{}' does not exist in the dataset"
-msgstr "Stupac '{}' ne postoji u skupu podataka"
+msgstr "Stupac „{}” ne postoji u skupu podataka"
 
 #: jamovi/client/main/viewcontroller.js:294
 msgid "Column {columnName} deleted"
@@ -602,7 +603,7 @@ msgstr "Kopiraj"
 
 #: jamovi/client/resultsview/element.ts:312
 msgid "Copy as Image"
-msgstr ""
+msgstr "Kopiraj kao sliku"
 
 #: jamovi/client/resultsview/element.ts:206
 #: jamovi/client/resultsview/group.ts:268
@@ -801,8 +802,8 @@ msgid ""
 "<b>CONTAINS(needle, haystack)</b>."
 msgstr ""
 "Određuje pojavljuje li se bilo koji od objekata u in1, in2, in3, … Većina "
-"ovih argumenata su opcionalni -- moguće je samo koristiti "
-"<b>CONTAINS(needle, haystack)</b>."
+"ovih argumenata su opcionalni -- moguće je samo koristiti <b>CONTAINS"
+"(needle, haystack)</b>."
 
 #: jamovi/client/main/ribbon/appmenu.js:161
 msgid "Developer mode"
@@ -979,7 +980,7 @@ msgstr "Izvezeno"
 
 #: jamovi/client/main/instance.js:393
 msgid "Exported to '{filename}'"
-msgstr "Izvezeno u '{filename}'"
+msgstr "Izvezeno u „{filename}”"
 
 #: jamovi/client/main/ribbon/analysetab.js:191
 msgid "Factor"
@@ -1026,7 +1027,7 @@ msgstr "Datoteka spremljena"
 #: jamovi/client/main/instance.ts:574
 #: jamovi/client/main/instance.ts:622
 msgid "File size exceeds session limits"
-msgstr ""
+msgstr "Veličina datoteke premašuje ograničenja sesije"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:212
 msgid "File type"
@@ -1144,7 +1145,7 @@ msgstr "Funkcije"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:1219
 msgid "Go to {0}"
-msgstr ""
+msgstr "Idi na {0}"
 
 #: jamovi/client/main/editors/operatordropdown.js:45
 msgid "Greater than"
@@ -1182,7 +1183,7 @@ msgstr "Pomoć"
 
 #: jamovi/client/analysisui/colorpicker.ts:61
 msgid "Hex code"
-msgstr ""
+msgstr "Heksadecimalni kod"
 
 #: jamovi/client/main/infobox.js:31
 msgid "Hi"
@@ -1212,7 +1213,7 @@ msgstr "Sakrij stupce filtra"
 
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 msgid "Hide full description"
-msgstr ""
+msgstr "Sakrij potpuni opis"
 
 #: jamovi/client/main/store.js:25
 msgid "Hide library"
@@ -1367,11 +1368,11 @@ msgstr "Instalirana verzija se mora aktualizirati"
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Installing"
-msgstr ""
+msgstr "Instaliranje"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:621
 msgid "Installing {count} modules"
-msgstr ""
+msgstr "Instaliraju se {count} modula"
 
 #: jamovi/client/main/store/pagemodules.js:364
 msgid "Installing {module}"
@@ -1379,7 +1380,7 @@ msgstr "Instalira se {module}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:620
 msgid "Installing 1 module"
-msgstr ""
+msgstr "Instalira se 1 modul"
 
 #: jamovi/client/main/store/pagemodules.js:115
 msgid "Installing modules is not available on your plan"
@@ -1564,19 +1565,19 @@ msgstr "Modul uspješno instaliran"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module is not signed"
-msgstr ""
+msgstr "modul nije potpisan"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:45
 msgid "Module Library"
-msgstr ""
+msgstr "Biblioteka modula"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is invalid"
-msgstr ""
+msgstr "potpis modula je neispravan"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "module signature is malformed"
-msgstr ""
+msgstr "potpis modula je oštećen"
 
 #: jamovi/client/main/store/pagemodules.js:217
 msgid "Module uninstalled"
@@ -1604,7 +1605,7 @@ msgstr "Ime"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1042
 msgid "Needs update"
-msgstr ""
+msgstr "Treba aktualizirati"
 
 #: jamovi/client/main/backstage.js:1176
 #: jamovi/client/main/backstage.js:1253
@@ -1635,7 +1636,7 @@ msgstr "Sljedeća varijabla"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:282
 msgid "No additional modules available right now."
-msgstr ""
+msgstr "Trenutačno nema dodatnih modula."
 
 #: jamovi/client/main/ribbon/annotationtab.js:130
 msgid "No Color"
@@ -1648,7 +1649,7 @@ msgstr "Nema dostupnih informacija o ovoj funkciji"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:268
 msgid "No installed modules found."
-msgstr ""
+msgstr "Nije pronađen nijedan instalirani modul."
 
 #: jamovi/server/jamovi/server/downloader.py
 msgid "No internet connection"
@@ -1681,7 +1682,7 @@ msgstr "Bez"
 
 #: jamovi/server/jamovi/server/utils/zipverify.py
 msgid "not a valid module file"
-msgstr ""
+msgstr "nije valjana datoteka modula"
 
 #: jamovi/client/main/editors/operatordropdown.js:43
 msgid "Not equal to"
@@ -1768,7 +1769,7 @@ msgstr "Otvori glavni izbornik"
 #: jamovi/client/main/backstage.ts:240
 #: jamovi/client/main/resultspanel.ts:1223
 msgid "OpenDocument Text {ext}"
-msgstr ""
+msgstr "OpenDocument tekst {ext}"
 
 #: jamovi/client/main/backstage.js:1704
 #: jamovi/client/main/instance.js:236
@@ -1887,7 +1888,7 @@ msgstr "kvalitativno"
 
 #: jamovi/client/main/main.ts:226
 msgid "Quit {}"
-msgstr ""
+msgstr "Zatvori {}"
 
 #: jamovi/client/main/backstage.js:980
 msgid "R data files {ext}"
@@ -1956,7 +1957,7 @@ msgstr "Ukloni {1} stavke iz {0}"
 
 #: jamovi/client/analysisui/fileselector.ts:164
 msgid "Remove {name}"
-msgstr ""
+msgstr "Ukloni {name}"
 
 #: jamovi/client/main/vareditor/filterwidget.js:502
 msgid "Remove filter"
@@ -1980,7 +1981,7 @@ msgstr "Zahtijeva noviju jamovi verziju"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1040
 msgid "Requires newer jamovi"
-msgstr ""
+msgstr "Zahtijeva noviju verziju jamovi"
 
 #: jamovi/client/main/ribbon/appmenu.js:254
 msgid "Restart required"
@@ -2203,7 +2204,7 @@ msgstr "Spremi kao"
 
 #: jamovi/client/main/main.js:639
 msgid "Save changes to '{title}'?"
-msgstr "Spremiti promjene u '{title}'?"
+msgstr "Spremiti promjene u „{title}”?"
 
 #: jamovi/client/main/instance.js:438
 msgid "Save failed"
@@ -2215,7 +2216,7 @@ msgstr "Spremi projekt"
 
 #: jamovi/client/main/instance.js:407
 msgid "Saved to '{filename}'"
-msgstr "Spremljeno u '{filename}'"
+msgstr "Spremljeno u „{filename}”"
 
 #: jamovi/client/main/instance.js:359
 msgid "Saving"
@@ -2260,7 +2261,7 @@ msgstr "Označi sve"
 
 #: jamovi/client/main/main.ts:241
 msgid "Select All"
-msgstr ""
+msgstr "Odaberi sve"
 
 #: jamovi/client/main/vareditor/editorwidget.js:83
 #: jamovi/client/main/variablesview.js:63
@@ -2301,7 +2302,7 @@ msgstr "Prikaži uređivač formula"
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:138
 #: jamovi/client/main/backstage/fsentrybrowserview.ts:734
 msgid "Show full description"
-msgstr ""
+msgstr "Prikaži potpuni opis"
 
 #: jamovi/client/main/ribbon/ribbonmenu.js:208
 msgid "Show in main menu"
@@ -2326,7 +2327,7 @@ msgstr "značajne znamenke"
 
 #: jamovi/client/main/instance.ts:479
 msgid "Sorry"
-msgstr ""
+msgstr "Oprosti"
 
 #: jamovi/client/main/vareditor/recodedvarwidget.js:27
 msgid "Source variable"
@@ -2425,7 +2426,7 @@ msgstr "Boja teksta"
 
 #: jamovi/client/main/instance.ts:362
 msgid "The connection to the session has been lost"
-msgstr ""
+msgstr "Veza sa sesijom je izgubljena"
 
 #: jamovi/client/main/resultspanel.js:682
 #: jamovi/client/main/resultspanel.js:784
@@ -2442,7 +2443,8 @@ msgstr ""
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:238
 msgid "The current value of the variable to which this transform is applied."
-msgstr "Trenutačna vrijednost varijable na koju se primjenjuje ova transformacija."
+msgstr ""
+"Trenutačna vrijednost varijable na koju se primjenjuje ova transformacija."
 
 #: jamovi/client/main/strings.ts:6
 msgid ""
@@ -2467,7 +2469,7 @@ msgstr ""
 
 #: jamovi/client/main/instance.js:421
 msgid "The file '{filename}' already exists. Overwrite this file?"
-msgstr "Datoteka '{filename}' već postoji. Zamijeniti postojeću datoteku?"
+msgstr "Datoteka „{filename}” već postoji. Zamijeniti postojeću datoteku?"
 
 #: jamovi/server/jamovi/server/compute/messages.py
 msgid "The formula is mis-specified"
@@ -2531,13 +2533,15 @@ msgstr "Odabrana transformacija je pogrešna i treba je urediti."
 
 #: jamovi/client/main/instance.ts:51
 msgid "The server took too long to respond. Please try again."
-msgstr ""
+msgstr "Server je predugo čekao s odgovorom. Pokušaj ponovo."
 
 #: jamovi/client/main/instance.ts:52
 msgid ""
 "The upload took too long to complete. Please try again with a faster "
 "connection, or a smaller file."
 msgstr ""
+"Učitavanje je trajalo predugo. Pokušaj ponovo s bržom vezom ili manjom "
+"datotekom."
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:134
 msgid "The value in the provided values at index."
@@ -2549,7 +2553,8 @@ msgstr "Ova je analiza prekoračila vremensko ograničenje te je prekinuta."
 
 #: jamovi/server/jamovi/server/engine.py
 msgid "This analysis has terminated, likely due to hitting a resource limit."
-msgstr "Ova je analiza prekinuta, vjerojatno zbog dostizanja ograničenja resursa."
+msgstr ""
+"Ova je analiza prekinuta, vjerojatno zbog dostizanja ograničenja resursa."
 
 #: jamovi/client/main/main.ts:912
 msgid "This data set could not be opened"
@@ -2566,7 +2571,7 @@ msgstr "Ovaj uređaj"
 
 #: jamovi/client/analysisui/fileselector.ts:172
 msgid "This file needs to be re-selected"
-msgstr ""
+msgstr "Ova se datoteka treba ponovo odabrati"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:242
 msgid "This is a data variable."
@@ -2576,7 +2581,8 @@ msgstr "Ovo je podatkovna varijabla."
 msgid ""
 "This module is either <em>missing or incompatible</em> with this version of "
 "jamovi."
-msgstr "Ovaj modul <em>nedostaje ili nije kompatibilan</em> s ovom verzijom jamovi."
+msgstr ""
+"Ovaj modul <em>nedostaje ili nije kompatibilan</em> s ovom verzijom jamovi."
 
 #: jamovi/client/main/backstage.js:1136
 #: jamovi/client/main/backstage.js:1271
@@ -2593,7 +2599,7 @@ msgstr "Ova je sesija ograničena na {} stupaca"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "This session is limited to {} MB of files"
-msgstr ""
+msgstr "Ova je sesija ograničena je na {} MB datoteka"
 
 #: jamovi/server/jamovi/server/instance.py
 #: jamovi/server/jamovi/server/instancemodel.py
@@ -2693,7 +2699,7 @@ msgstr "Nije moguće pretražiti mapu {}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1454
 msgid "Unable to cancel install"
-msgstr ""
+msgstr "Nije moguće prekinuti instalaciju"
 
 #: jamovi/client/main/main.js:753
 msgid "Unable to connect to the server"
@@ -2701,11 +2707,11 @@ msgstr "Nije moguće pristupiti serveru"
 
 #: jamovi/client/main/resultspanel.ts:1317
 msgid "Unable to copy"
-msgstr ""
+msgstr "Nije moguće kopirati"
 
 #: jamovi/client/main/main.ts:639
 msgid "Unable to export"
-msgstr ""
+msgstr "Nije moguće izvesti"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unable to import {}"
@@ -2764,7 +2770,7 @@ msgstr "Nedostupno"
 
 #: jamovi/client/main/resultspanel.ts:1318
 msgid "Unavailable under Safari and iPads"
-msgstr ""
+msgstr "Nije dostupno pod Safarijem i iPadima"
 
 #: jamovi/client/main/ribbon/annotationtab.js:123
 msgid "Underline"
@@ -2784,7 +2790,7 @@ msgstr "Neočekivana pogreška"
 
 #: jamovi/client/main/backstage.ts:985
 msgid "Unexpected response"
-msgstr ""
+msgstr "Neočekivani odgovor"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Unrecognised file format"
@@ -2801,7 +2807,7 @@ msgstr "Aktualiziraj"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:589
 msgid "Update all ({count})"
-msgstr ""
+msgstr "Aktualiziraj sve ({count})"
 
 #: jamovi/client/main/store/pagemodules.js:253
 msgid "Update module {moduleName} to version {version}"
@@ -2831,7 +2837,7 @@ msgstr "Transformacije"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Value is too large for column '{}' of type integer"
-msgstr "Vrijednost je prevelika za stupac '{}' vrste cijelih brojeva"
+msgstr "Vrijednost je prevelika za stupac „{}” vrste cijelih brojeva"
 
 #: jamovi/client/analysisui/formatdef.js:107
 msgid "Variable {0}"
@@ -2883,7 +2889,7 @@ msgstr "Verzija {v}"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "visible"
-msgstr ""
+msgstr "vidljivo"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Visible"
@@ -2922,7 +2928,7 @@ msgstr "Zašto je potreban ovaj dodatni korak?"
 #: jamovi/client/main/backstage.ts:239
 #: jamovi/client/main/resultspanel.ts:1222
 msgid "Word Document {ext}"
-msgstr ""
+msgstr "Word dokument {ext}"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "You cannot delete rows while filtered rows are hidden"
@@ -2956,7 +2962,7 @@ msgstr "Tvoja veza je izgubljena. Osvježi stranicu za nastavljanje."
 
 #: jamovi/client/main/instance.ts:485
 msgid "Your session has ended. Please refresh the page to continue."
-msgstr ""
+msgstr "Tvoja je sesija završila. Za nastavljanje osvježi stranicu."
 
 #: jamovi/client/main/utils/headeralert.js:32
 msgid "Your web browser prevented jamovi from opening a new tab"
