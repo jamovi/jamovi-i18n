@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-08 12:51+0000\n"
+"PO-Revision-Date: 2026-11-08 13:51+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -548,7 +548,7 @@ msgstr "Veza je izgubljena"
 #: jamovi/client/main/vareditor/datavarwidget.js:276
 #: jamovi/client/main/vareditor/measurelist.js:57
 msgid "Continuous"
-msgstr "Neprekidno"
+msgstr "Kontinuirano"
 
 #: jamovi/client/main/vareditor/formulatoolbar.js:62
 msgid "Convenience short-hand for ABS(IQR( variable ))"
