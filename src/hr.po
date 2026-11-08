@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-04 12:51+0000\n"
+"PO-Revision-Date: 2026-11-08 11:29+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.11.1.dev0\n"
+"X-Generator: Weblate 2026.11.2.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -75,7 +75,7 @@ msgstr "{module} je uspješno instaliran"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1471
 msgid "{module} was uninstalled successfully"
-msgstr ""
+msgstr "{module} je uspješno deinstaliran"
 
 #: jamovi/client/main/ribbon/appmenu.js:63
 #: jamovi/client/main/ribbon/appmenu.js:70
@@ -99,7 +99,7 @@ msgstr "{name} varijabla"
 #: jamovi/client/main/auxiliary/modules/index.ts:1254
 #: jamovi/client/main/auxiliary/modules/index.ts:1288
 msgid "{percent}%"
-msgstr ""
+msgstr "{percent} %"
 
 #: jamovi/client/main/vareditor/datavarwidget.js:100
 msgid "{r} is not an integer"
@@ -116,7 +116,7 @@ msgstr "{title} Početno pojašnjenje"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:875
 msgid "{title} module"
-msgstr ""
+msgstr "{title} modul"
 
 #: jamovi/client/analysisui/variableslistbox.js:174
 msgid "{var} not permitted. Incorrect measure or data type."
@@ -148,7 +148,7 @@ msgstr "Potrebna je novija jamovi verzija"
 
 #: jamovi/client/main/main.ts:224
 msgid "About {}"
-msgstr ""
+msgstr "Informacije o {}"
 
 #: jamovi/client/main/ribbon/appmenu.js:100
 msgid "Accent"
@@ -387,7 +387,7 @@ msgstr "Pretraži"
 
 #: jamovi/client/analysisui/fileselector.ts:70
 msgid "Browse…"
-msgstr ""
+msgstr "Pregledaj …"
 
 #: jamovi/client/main/ribbon/annotationtab.js:144
 msgid "Bullet List"
@@ -399,12 +399,12 @@ msgstr "Odustani"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:635
 msgid "Cancel all"
-msgstr ""
+msgstr "Prekini sve"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1241
 #: jamovi/client/main/auxiliary/modules/index.ts:1276
 msgid "Cancelling"
-msgstr ""
+msgstr "Prekidanje"
 
 #: jamovi/server/jamovi/server/instance.py
 msgid "Cannot assign non-integer value to column '{}'"
@@ -477,7 +477,7 @@ msgstr "Zatvori postavke"
 
 #: jamovi/client/main/main.ts:232
 msgid "Close Window"
-msgstr ""
+msgstr "Zatvori prozor"
 
 #: jamovi/client/main/ribbon/annotationtab.js:156
 msgid "Code-Block"
