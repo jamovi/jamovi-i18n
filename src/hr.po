@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-08 11:29+0000\n"
+"PO-Revision-Date: 2026-11-08 12:51+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -1190,7 +1190,7 @@ msgstr "Pozdrav"
 
 #: jamovi/client/main/auxiliary/modules/index.ts:1504
 msgid "hidden"
-msgstr ""
+msgstr "skriveno"
 
 #: jamovi/client/main/ribbon/appmenu.js:77
 msgid "Hidden"
@@ -1666,7 +1666,7 @@ msgstr "Nijedna varijabla ne odgovara upitu."
 #: jamovi/client/main/vareditor/datavarwidget.js:274
 #: jamovi/client/main/vareditor/measurelist.js:49
 msgid "Nominal"
-msgstr "Nominalna"
+msgstr "Nominalni"
 
 #: jamovi/client/main/dataset.js:1328
 #: jamovi/client/main/dataset.js:1330
@@ -1788,7 +1788,7 @@ msgstr "Poredan popis"
 #: jamovi/client/main/vareditor/datavarwidget.js:275
 #: jamovi/client/main/vareditor/measurelist.js:53
 msgid "Ordinal"
-msgstr "Ordinalna"
+msgstr "Ordinalni"
 
 #: jamovi/client/main/dataset.js:1325
 msgid "Output"
