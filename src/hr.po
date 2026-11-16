@@ -1,6 +1,6 @@
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2026-11-08 13:51+0000\n"
+"PO-Revision-Date: 2026-11-16 20:51+0000\n"
 "Last-Translator: Milo Ivir <milotype@users.noreply.hosted.weblate.org>\n"
 "Language-Team: Croatian <https://hosted.weblate.org/projects/jamovi/jamovi-"
 "i18n/hr/>\n"
@@ -10,7 +10,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
 "n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
-"X-Generator: Weblate 2026.11.2.dev0\n"
+"X-Generator: Weblate 2026.12.dev0\n"
 "X-Status: production\n"
 
 #: jamovi/server/jamovi/server/column.py
@@ -1078,7 +1078,7 @@ msgstr ""
 
 #: jamovi/server/jamovi/server/compute/checker.py
 msgid "Filters may not reference output variables"
-msgstr "Filtri ne smiju referencirati na izlazne varijable"
+msgstr "Filtri ne smiju referencirati na varijable rezultata"
 
 #: jamovi/client/analysisui/main.ts:333
 msgid "Find module in jamovi library"
@@ -1798,8 +1798,8 @@ msgstr "Rezultat"
 msgid "Output Variable"
 msgid_plural "Multiple Output Variables ({n})"
 msgstr[0] "Varijabla rezultata"
-msgstr[1] "Varijable rezultata ({n})"
-msgstr[2] "Varijable rezultata ({n})"
+msgstr[1] "Višebrojne varijable rezultata ({n})"
+msgstr[2] "Višebrojne varijable rezultata ({n})"
 
 #: jamovi/client/main/ribbon/appmenu.js:69
 msgid "p-value format"
@@ -2128,14 +2128,16 @@ msgstr ""
 msgid ""
 "Returns to the previously selected analysis and shifts focus into the "
 "results output."
-msgstr "Vraća se na prethodno odabranu analizu i prebacuje fokus na ispis rezultata."
+msgstr ""
+"Vraća se na prethodno odabranu analizu i premješta fokus na ispis rezultata."
 
 #: jamovi/client/main/main.ts:291
 #: jamovi/client/main/main.ts:307
 msgid ""
 "Returns to the previously selected analysis and shifts focus to the results "
 "output."
-msgstr "Vraća se na prethodno odabranu analizu i prebacuje fokus na ispis rezultata."
+msgstr ""
+"Vraća se na prethodno odabranu analizu i premješta fokus na ispis rezultata."
 
 #: jamovi/client/main/ribbon/annotationtab.js:139
 msgid "Right Align"
